@@ -1,0 +1,307 @@
+{
+  "D": {
+    "ID": 493,
+    "SIC": "D",
+    "Category": "ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY",
+    "D.35": {
+      "ID": 494,
+      "SIC": "D.35",
+      "Category": "Electricity, gas, steam and air conditioning supply",
+      "D.35.1": {
+        "ID": 495,
+        "SIC": "D.35.1",
+        "Category": "Electric power generation, transmission and distribution",
+        "D.35.1.1": {
+          "ID": 496,
+          "SIC": "D.35.1.1",
+          "Category": "Production of electricity",
+          "D.35.1.1.0.1": {
+            "ID": 11137,
+            "SIC": "D.35.1.1.0.1",
+            "Category": "Electricity generating station"
+          },
+          "D.35.1.1.0.2": {
+            "ID": 11138,
+            "SIC": "D.35.1.1.0.2",
+            "Category": "Electricity generation"
+          },
+          "D.35.1.1.0.3": {
+            "ID": 11139,
+            "SIC": "D.35.1.1.0.3",
+            "Category": "Electricity generation by gas turbine"
+          },
+          "D.35.1.1.0.4": {
+            "ID": 11140,
+            "SIC": "D.35.1.1.0.4",
+            "Category": "Electricity power producing station"
+          },
+          "D.35.1.1.0.5": {
+            "ID": 11141,
+            "SIC": "D.35.1.1.0.5",
+            "Category": "Electricity production"
+          },
+          "D.35.1.1.0.6": {
+            "ID": 11142,
+            "SIC": "D.35.1.1.0.6",
+            "Category": "Electricity production from diesel and renewables generation facilities"
+          },
+          "D.35.1.1.0.7": {
+            "ID": 11143,
+            "SIC": "D.35.1.1.0.7",
+            "Category": "Electricity production from hydroelectric generation facilities"
+          },
+          "D.35.1.1.0.8": {
+            "ID": 11144,
+            "SIC": "D.35.1.1.0.8",
+            "Category": "Electricity production from thermal generation facilities"
+          },
+          "D.35.1.1.0.9": {
+            "ID": 11145,
+            "SIC": "D.35.1.1.0.9",
+            "Category": "Hydro electric power station"
+          },
+          "D.35.1.1.0.10": {
+            "ID": 11146,
+            "SIC": "D.35.1.1.0.10",
+            "Category": "Nuclear power station"
+          },
+          "D.35.1.1.0.11": {
+            "ID": 11147,
+            "SIC": "D.35.1.1.0.11",
+            "Category": "Wind farms"
+          }
+        },
+        "D.35.1.2": {
+          "ID": 497,
+          "SIC": "D.35.1.2",
+          "Category": "Transmission of electricity",
+          "D.35.1.2.0.1": {
+            "ID": 11148,
+            "SIC": "D.35.1.2.0.1",
+            "Category": "Electricity transmission system operation (power station to substation)"
+          }
+        },
+        "D.35.1.3": {
+          "ID": 498,
+          "SIC": "D.35.1.3",
+          "Category": "Distribution of electricity",
+          "D.35.1.3.0.1": {
+            "ID": 11149,
+            "SIC": "D.35.1.3.0.1",
+            "Category": "Electricity distribution operations by lines, poles, meters, and wiring"
+          },
+          "D.35.1.3.0.2": {
+            "ID": 11150,
+            "SIC": "D.35.1.3.0.2",
+            "Category": "Electricity distribution system operation (carrying electricity to end users)"
+          },
+          "D.35.1.3.0.3": {
+            "ID": 11151,
+            "SIC": "D.35.1.3.0.3",
+            "Category": "Repair and maintenance of electricity meters"
+          }
+        },
+        "D.35.1.4": {
+          "ID": 499,
+          "SIC": "D.35.1.4",
+          "Category": "Trade of electricity",
+          "D.35.1.4.0.1": {
+            "ID": 11152,
+            "SIC": "D.35.1.4.0.1",
+            "Category": "Charging stations for mobile phones and laptops"
+          },
+          "D.35.1.4.0.2": {
+            "ID": 11153,
+            "SIC": "D.35.1.4.0.2",
+            "Category": "Charging stations for mobile phones and laptops (sale of electricity)"
+          },
+          "D.35.1.4.0.3": {
+            "ID": 11154,
+            "SIC": "D.35.1.4.0.3",
+            "Category": "Electricity power agents"
+          },
+          "D.35.1.4.0.4": {
+            "ID": 11155,
+            "SIC": "D.35.1.4.0.4",
+            "Category": "Electricity power brokers"
+          },
+          "D.35.1.4.0.5": {
+            "ID": 11156,
+            "SIC": "D.35.1.4.0.5",
+            "Category": "Electricity sales agents"
+          },
+          "D.35.1.4.0.6": {
+            "ID": 11157,
+            "SIC": "D.35.1.4.0.6",
+            "Category": "Electricity sales to the user"
+          },
+          "D.35.1.4.0.7": {
+            "ID": 11158,
+            "SIC": "D.35.1.4.0.7",
+            "Category": "Operation of electricity and transmission capacity exchanges for electric power"
+          }
+        }
+      },
+      "D.35.2": {
+        "ID": 500,
+        "SIC": "D.35.2",
+        "Category": "Manufacture of gas; distribution of gaseous fuels through mains",
+        "D.35.2.1": {
+          "ID": 501,
+          "SIC": "D.35.2.1",
+          "Category": "Manufacture of gas",
+          "D.35.2.1.0.1": {
+            "ID": 11159,
+            "SIC": "D.35.2.1.0.1",
+            "Category": "Gas production for the purpose of gas supply"
+          },
+          "D.35.2.1.0.2": {
+            "ID": 11160,
+            "SIC": "D.35.2.1.0.2",
+            "Category": "Gas works"
+          },
+          "D.35.2.1.0.3": {
+            "ID": 11161,
+            "SIC": "D.35.2.1.0.3",
+            "Category": "Gasification of lignite"
+          },
+          "D.35.2.1.0.4": {
+            "ID": 11162,
+            "SIC": "D.35.2.1.0.4",
+            "Category": "Gasification of lignite"
+          }
+        },
+        "D.35.2.2": {
+          "ID": 502,
+          "SIC": "D.35.2.2",
+          "Category": "Distribution of gaseous fuels through mains",
+          "D.35.2.2.0.1": {
+            "ID": 11163,
+            "SIC": "D.35.2.2.0.1",
+            "Category": "Distribution and supply of gaseous fuels of all kinds through a system of mains"
+          },
+          "D.35.2.2.0.2": {
+            "ID": 11164,
+            "SIC": "D.35.2.2.0.2",
+            "Category": "Natural gas booster/compression station"
+          },
+          "D.35.2.2.0.3": {
+            "ID": 11165,
+            "SIC": "D.35.2.2.0.3",
+            "Category": "Natural gas distribution"
+          },
+          "D.35.2.2.0.4": {
+            "ID": 11166,
+            "SIC": "D.35.2.2.0.4",
+            "Category": "Natural gas storage"
+          },
+          "D.35.2.2.0.5": {
+            "ID": 11167,
+            "SIC": "D.35.2.2.0.5",
+            "Category": "Repair and maintenance of gas meters"
+          },
+          "D.35.2.2.0.6": {
+            "ID": 11168,
+            "SIC": "D.35.2.2.0.6",
+            "Category": "Repair and maintenance of gas meters (non-electronic)"
+          },
+          "D.35.2.2.0.7": {
+            "ID": 11169,
+            "SIC": "D.35.2.2.0.7",
+            "Category": "Town gas distribution"
+          }
+        },
+        "D.35.2.3": {
+          "ID": 503,
+          "SIC": "D.35.2.3",
+          "Category": "Trade of gas through mains",
+          "D.35.2.3.0.1": {
+            "ID": 11170,
+            "SIC": "D.35.2.3.0.1",
+            "Category": "Commodity and transport capacity exchanges for gaseous fuels"
+          },
+          "D.35.2.3.0.2": {
+            "ID": 11171,
+            "SIC": "D.35.2.3.0.2",
+            "Category": "Gas agents (mains gas)"
+          },
+          "D.35.2.3.0.3": {
+            "ID": 11172,
+            "SIC": "D.35.2.3.0.3",
+            "Category": "Gas brokers (mains gas)"
+          },
+          "D.35.2.3.0.4": {
+            "ID": 11173,
+            "SIC": "D.35.2.3.0.4",
+            "Category": "Sale of gas to the user through mains"
+          }
+        }
+      },
+      "D.35.3": {
+        "ID": 504,
+        "SIC": "D.35.3",
+        "Category": "Steam and air conditioning supply",
+        "D.35.3.0": {
+          "ID": 505,
+          "SIC": "D.35.3.0",
+          "Category": "Steam and air conditioning supply",
+          "D.35.3.0.0.1": {
+            "ID": 11174,
+            "SIC": "D.35.3.0.0.1",
+            "Category": "Chilled water for cooling purposes production and distribution"
+          },
+          "D.35.3.0.0.2": {
+            "ID": 11175,
+            "SIC": "D.35.3.0.0.2",
+            "Category": "Community heating plant"
+          },
+          "D.35.3.0.0.3": {
+            "ID": 11176,
+            "SIC": "D.35.3.0.0.3",
+            "Category": "Compressed air production and distribution"
+          },
+          "D.35.3.0.0.4": {
+            "ID": 11177,
+            "SIC": "D.35.3.0.0.4",
+            "Category": "Hot water production and distribution"
+          },
+          "D.35.3.0.0.5": {
+            "ID": 11178,
+            "SIC": "D.35.3.0.0.5",
+            "Category": "Hydraulic power production and distribution"
+          },
+          "D.35.3.0.0.6": {
+            "ID": 11179,
+            "SIC": "D.35.3.0.0.6",
+            "Category": "Ice (for human consumption)"
+          },
+          "D.35.3.0.0.7": {
+            "ID": 11180,
+            "SIC": "D.35.3.0.0.7",
+            "Category": "Ice (not for human consumption)"
+          },
+          "D.35.3.0.0.8": {
+            "ID": 11181,
+            "SIC": "D.35.3.0.0.8",
+            "Category": "Production and distribution of cooled air"
+          },
+          "D.35.3.0.0.9": {
+            "ID": 11182,
+            "SIC": "D.35.3.0.0.9",
+            "Category": "Production of ice for cooling purposes (manufacture)"
+          },
+          "D.35.3.0.0.10": {
+            "ID": 11183,
+            "SIC": "D.35.3.0.0.10",
+            "Category": "Production of ice for food (manufacture)"
+          },
+          "D.35.3.0.0.11": {
+            "ID": 11184,
+            "SIC": "D.35.3.0.0.11",
+            "Category": "Steam production, collection and distribution"
+          }
+        }
+      }
+    }
+  }
+}

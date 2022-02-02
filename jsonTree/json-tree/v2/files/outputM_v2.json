@@ -1,0 +1,2392 @@
+{
+  "M": {
+    "ID": 914,
+    "SIC": "M",
+    "Category": "PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",
+    "M.69": {
+      "ID": 915,
+      "SIC": "M.69",
+      "Category": "Legal and accounting activities",
+      "M.69.1": {
+        "ID": 916,
+        "SIC": "M.69.1",
+        "Category": "Legal activities",
+        "M.69.1.0": {
+          "ID": 917,
+          "SIC": "M.69.1.0",
+          "Category": "Legal activities",
+          "M.69.1.0.1": {
+            "ID": 918,
+            "SIC": "M.69.1.0.1",
+            "Category": "Barristers at law",
+            "M.69.1.0.1.1": {
+              "ID": 14449,
+              "SIC": "M.69.1.0.1.1",
+              "Category": "Advocate of the Scottish bar"
+            },
+            "M.69.1.0.1.2": {
+              "ID": 14450,
+              "SIC": "M.69.1.0.1.2",
+              "Category": "Barrister"
+            },
+            "M.69.1.0.1.3": {
+              "ID": 14451,
+              "SIC": "M.69.1.0.1.3",
+              "Category": "Queen's counsel"
+            }
+          },
+          "M.69.1.0.2": {
+            "ID": 919,
+            "SIC": "M.69.1.0.2",
+            "Category": "Solicitors",
+            "M.69.1.0.2.1": {
+              "ID": 14452,
+              "SIC": "M.69.1.0.2.1",
+              "Category": "Attorney"
+            },
+            "M.69.1.0.2.2": {
+              "ID": 14453,
+              "SIC": "M.69.1.0.2.2",
+              "Category": "Lawyer"
+            },
+            "M.69.1.0.2.3": {
+              "ID": 14454,
+              "SIC": "M.69.1.0.2.3",
+              "Category": "Solicitor (own account)"
+            }
+          },
+          "M.69.1.0.9": {
+            "ID": 920,
+            "SIC": "M.69.1.0.9",
+            "Category": "Activities of patent and copyright agents; other legal activities (other than those of barristers and solicitors) n.e.c.",
+            "M.69.1.0.9.1": {
+              "ID": 14455,
+              "SIC": "M.69.1.0.9.1",
+              "Category": "Arbitrators legal activities"
+            },
+            "M.69.1.0.9.2": {
+              "ID": 14456,
+              "SIC": "M.69.1.0.9.2",
+              "Category": "Bailiffs activities"
+            },
+            "M.69.1.0.9.3": {
+              "ID": 14457,
+              "SIC": "M.69.1.0.9.3",
+              "Category": "Copyrights preparation"
+            },
+            "M.69.1.0.9.4": {
+              "ID": 14458,
+              "SIC": "M.69.1.0.9.4",
+              "Category": "Deeds preparation"
+            },
+            "M.69.1.0.9.5": {
+              "ID": 14459,
+              "SIC": "M.69.1.0.9.5",
+              "Category": "Law agent"
+            },
+            "M.69.1.0.9.6": {
+              "ID": 14460,
+              "SIC": "M.69.1.0.9.6",
+              "Category": "Law writing"
+            },
+            "M.69.1.0.9.7": {
+              "ID": 14461,
+              "SIC": "M.69.1.0.9.7",
+              "Category": "Legal activities n.e.c."
+            },
+            "M.69.1.0.9.8": {
+              "ID": 14462,
+              "SIC": "M.69.1.0.9.8",
+              "Category": "Legal documentation and certification activities"
+            },
+            "M.69.1.0.9.9": {
+              "ID": 14463,
+              "SIC": "M.69.1.0.9.9",
+              "Category": "Legal examiner activities"
+            },
+            "M.69.1.0.9.10": {
+              "ID": 14464,
+              "SIC": "M.69.1.0.9.10",
+              "Category": "Legal services in connection with the disposal of assets by auction"
+            },
+            "M.69.1.0.9.11": {
+              "ID": 14465,
+              "SIC": "M.69.1.0.9.11",
+              "Category": "Notary activities"
+            },
+            "M.69.1.0.9.12": {
+              "ID": 14466,
+              "SIC": "M.69.1.0.9.12",
+              "Category": "Notary public"
+            },
+            "M.69.1.0.9.13": {
+              "ID": 14467,
+              "SIC": "M.69.1.0.9.13",
+              "Category": "Parliamentary agent"
+            },
+            "M.69.1.0.9.14": {
+              "ID": 14468,
+              "SIC": "M.69.1.0.9.14",
+              "Category": "Patent agent"
+            },
+            "M.69.1.0.9.15": {
+              "ID": 14469,
+              "SIC": "M.69.1.0.9.15",
+              "Category": "Patents preparation"
+            },
+            "M.69.1.0.9.16": {
+              "ID": 14470,
+              "SIC": "M.69.1.0.9.16",
+              "Category": "Process server"
+            },
+            "M.69.1.0.9.17": {
+              "ID": 14471,
+              "SIC": "M.69.1.0.9.17",
+              "Category": "Referees legal activities"
+            },
+            "M.69.1.0.9.18": {
+              "ID": 14472,
+              "SIC": "M.69.1.0.9.18",
+              "Category": "Scrivenery"
+            },
+            "M.69.1.0.9.19": {
+              "ID": 14473,
+              "SIC": "M.69.1.0.9.19",
+              "Category": "Sheriff's officer"
+            },
+            "M.69.1.0.9.20": {
+              "ID": 14474,
+              "SIC": "M.69.1.0.9.20",
+              "Category": "Software copyright consultancy activities"
+            },
+            "M.69.1.0.9.21": {
+              "ID": 14475,
+              "SIC": "M.69.1.0.9.21",
+              "Category": "Trade mark agent"
+            },
+            "M.69.1.0.9.22": {
+              "ID": 14476,
+              "SIC": "M.69.1.0.9.22",
+              "Category": "Trusts preparation"
+            }
+          }
+        }
+      },
+      "M.69.2": {
+        "ID": 921,
+        "SIC": "M.69.2",
+        "Category": "Accounting, bookkeeping and auditing activities; tax consultancy",
+        "M.69.2.0": {
+          "ID": 922,
+          "SIC": "M.69.2.0",
+          "Category": "Accounting, bookkeeping and auditing activities; tax consultancy",
+          "M.69.2.0.1": {
+            "ID": 923,
+            "SIC": "M.69.2.0.1",
+            "Category": "Accounting, and auditing activities",
+            "M.69.2.0.1.1": {
+              "ID": 14477,
+              "SIC": "M.69.2.0.1.1",
+              "Category": "Accountancy services"
+            },
+            "M.69.2.0.1.2": {
+              "ID": 14478,
+              "SIC": "M.69.2.0.1.2",
+              "Category": "Accounting activities"
+            },
+            "M.69.2.0.1.3": {
+              "ID": 14479,
+              "SIC": "M.69.2.0.1.3",
+              "Category": "Attestations, valuations and preparation of pro forma statements"
+            },
+            "M.69.2.0.1.4": {
+              "ID": 14480,
+              "SIC": "M.69.2.0.1.4",
+              "Category": "Auditing activities"
+            },
+            "M.69.2.0.1.5": {
+              "ID": 14481,
+              "SIC": "M.69.2.0.1.5",
+              "Category": "Compilation of financial statements"
+            },
+            "M.69.2.0.1.6": {
+              "ID": 14482,
+              "SIC": "M.69.2.0.1.6",
+              "Category": "Cost accountant"
+            },
+            "M.69.2.0.1.7": {
+              "ID": 14483,
+              "SIC": "M.69.2.0.1.7",
+              "Category": "Cost draughtsman (legal)"
+            },
+            "M.69.2.0.1.8": {
+              "ID": 14484,
+              "SIC": "M.69.2.0.1.8",
+              "Category": "Official Receiver"
+            }
+          },
+          "M.69.2.0.2": {
+            "ID": 924,
+            "SIC": "M.69.2.0.2",
+            "Category": "Bookkeeping activities",
+            "M.69.2.0.2.1": {
+              "ID": 14485,
+              "SIC": "M.69.2.0.2.1",
+              "Category": "Book-keeping activities"
+            },
+            "M.69.2.0.2.2": {
+              "ID": 14486,
+              "SIC": "M.69.2.0.2.2",
+              "Category": "Company secretary"
+            },
+            "M.69.2.0.2.3": {
+              "ID": 14487,
+              "SIC": "M.69.2.0.2.3",
+              "Category": "Payroll bureau"
+            }
+          },
+          "M.69.2.0.3": {
+            "ID": 925,
+            "SIC": "M.69.2.0.3",
+            "Category": "Tax consultancy",
+            "M.69.2.0.3.1": {
+              "ID": 14488,
+              "SIC": "M.69.2.0.3.1",
+              "Category": "Duty and tax tariff calculation service activities"
+            },
+            "M.69.2.0.3.2": {
+              "ID": 14489,
+              "SIC": "M.69.2.0.3.2",
+              "Category": "Tax consultancy"
+            }
+          }
+        }
+      }
+    },
+    "M.70": {
+      "ID": 926,
+      "SIC": "M.70",
+      "Category": "Activities of head offices; management consultancy activities",
+      "M.70.1": {
+        "ID": 927,
+        "SIC": "M.70.1",
+        "Category": "Activities of head offices",
+        "M.70.1.0": {
+          "ID": 928,
+          "SIC": "M.70.1.0",
+          "Category": "Activities of head offices",
+          "M.70.1.0.0.1": {
+            "ID": 14490,
+            "SIC": "M.70.1.0.0.1",
+            "Category": "Head office of catering company"
+          },
+          "M.70.1.0.0.2": {
+            "ID": 14491,
+            "SIC": "M.70.1.0.0.2",
+            "Category": "Head office of construction company"
+          },
+          "M.70.1.0.0.3": {
+            "ID": 14492,
+            "SIC": "M.70.1.0.0.3",
+            "Category": "Head office of motor trades company"
+          },
+          "M.70.1.0.0.4": {
+            "ID": 14493,
+            "SIC": "M.70.1.0.0.4",
+            "Category": "Head office of other non-financial company"
+          },
+          "M.70.1.0.0.5": {
+            "ID": 14494,
+            "SIC": "M.70.1.0.0.5",
+            "Category": "Head office of production company"
+          },
+          "M.70.1.0.0.6": {
+            "ID": 14495,
+            "SIC": "M.70.1.0.0.6",
+            "Category": "Head office of retail company"
+          },
+          "M.70.1.0.0.7": {
+            "ID": 14496,
+            "SIC": "M.70.1.0.0.7",
+            "Category": "Head office of service trades company"
+          },
+          "M.70.1.0.0.8": {
+            "ID": 14497,
+            "SIC": "M.70.1.0.0.8",
+            "Category": "Head office of transport company"
+          },
+          "M.70.1.0.0.9": {
+            "ID": 14498,
+            "SIC": "M.70.1.0.0.9",
+            "Category": "Head office of wholesale company"
+          }
+        }
+      },
+      "M.70.2": {
+        "ID": 929,
+        "SIC": "M.70.2",
+        "Category": "Management consultancy activities",
+        "M.70.2.1": {
+          "ID": 930,
+          "SIC": "M.70.2.1",
+          "Category": "Public relations and communication activities",
+          "M.70.2.1.0.1": {
+            "ID": 14499,
+            "SIC": "M.70.2.1.0.1",
+            "Category": "Lobbying activities"
+          },
+          "M.70.2.1.0.2": {
+            "ID": 14500,
+            "SIC": "M.70.2.1.0.2",
+            "Category": "Public relations and communication"
+          },
+          "M.70.2.1.0.3": {
+            "ID": 14501,
+            "SIC": "M.70.2.1.0.3",
+            "Category": "Public relations consultant (not advertising agency)"
+          }
+        },
+        "M.70.2.2": {
+          "ID": 931,
+          "SIC": "M.70.2.2",
+          "Category": "Business and other management consultancy activities",
+          "M.70.2.2.1": {
+            "ID": 932,
+            "SIC": "M.70.2.2.1",
+            "Category": "Financial management",
+            "M.70.2.2.1.1": {
+              "ID": 14502,
+              "SIC": "M.70.2.2.1.1",
+              "Category": "Accounting systems design"
+            },
+            "M.70.2.2.1.2": {
+              "ID": 14503,
+              "SIC": "M.70.2.2.1.2",
+              "Category": "Analysis of capital investment proposals consultancy services"
+            },
+            "M.70.2.2.1.3": {
+              "ID": 14504,
+              "SIC": "M.70.2.2.1.3",
+              "Category": "Budgetary control procedures design"
+            },
+            "M.70.2.2.1.4": {
+              "ID": 14505,
+              "SIC": "M.70.2.2.1.4",
+              "Category": "Business valuation services prior to mergers and/or acquisitions"
+            },
+            "M.70.2.2.1.5": {
+              "ID": 14506,
+              "SIC": "M.70.2.2.1.5",
+              "Category": "Capital structure consultancy services"
+            },
+            "M.70.2.2.1.6": {
+              "ID": 14507,
+              "SIC": "M.70.2.2.1.6",
+              "Category": "Chartered secretary (firm acting as)"
+            },
+            "M.70.2.2.1.7": {
+              "ID": 14508,
+              "SIC": "M.70.2.2.1.7",
+              "Category": "Cost accounting programmes design"
+            },
+            "M.70.2.2.1.8": {
+              "ID": 14509,
+              "SIC": "M.70.2.2.1.8",
+              "Category": "Financial management consultancy services (except corporate tax)"
+            },
+            "M.70.2.2.1.9": {
+              "ID": 14510,
+              "SIC": "M.70.2.2.1.9",
+              "Category": "Insolvency management"
+            },
+            "M.70.2.2.1.10": {
+              "ID": 14511,
+              "SIC": "M.70.2.2.1.10",
+              "Category": "Public procurement consultancy"
+            },
+            "M.70.2.2.1.11": {
+              "ID": 14512,
+              "SIC": "M.70.2.2.1.11",
+              "Category": "Working capital and liquidity management consultancy services"
+            }
+          },
+          "M.70.2.2.9": {
+            "ID": 933,
+            "SIC": "M.70.2.2.9",
+            "Category": "Management consultancy activities (other than financial management)",
+            "M.70.2.2.9.1": {
+              "ID": 14513,
+              "SIC": "M.70.2.2.9.1",
+              "Category": "Advisory, conciliation and arbitration service"
+            },
+            "M.70.2.2.9.2": {
+              "ID": 14514,
+              "SIC": "M.70.2.2.9.2",
+              "Category": "Advisory, guidance and operational assistance services concerning business policy and strategy"
+            },
+            "M.70.2.2.9.3": {
+              "ID": 14515,
+              "SIC": "M.70.2.2.9.3",
+              "Category": "Arbitrators between management and labour"
+            },
+            "M.70.2.2.9.4": {
+              "ID": 14516,
+              "SIC": "M.70.2.2.9.4",
+              "Category": "Business consultancy activities"
+            },
+            "M.70.2.2.9.5": {
+              "ID": 14517,
+              "SIC": "M.70.2.2.9.5",
+              "Category": "Business consultant"
+            },
+            "M.70.2.2.9.6": {
+              "ID": 14518,
+              "SIC": "M.70.2.2.9.6",
+              "Category": "Business systems consultant"
+            },
+            "M.70.2.2.9.7": {
+              "ID": 14519,
+              "SIC": "M.70.2.2.9.7",
+              "Category": "Business turnaround consultancy services"
+            },
+            "M.70.2.2.9.8": {
+              "ID": 14520,
+              "SIC": "M.70.2.2.9.8",
+              "Category": "Company formation registration agent"
+            },
+            "M.70.2.2.9.9": {
+              "ID": 14521,
+              "SIC": "M.70.2.2.9.9",
+              "Category": "Economist"
+            },
+            "M.70.2.2.9.10": {
+              "ID": 14522,
+              "SIC": "M.70.2.2.9.10",
+              "Category": "Fish stock management consultancy services"
+            },
+            "M.70.2.2.9.11": {
+              "ID": 14523,
+              "SIC": "M.70.2.2.9.11",
+              "Category": "Guidance for business and professionals"
+            },
+            "M.70.2.2.9.12": {
+              "ID": 14524,
+              "SIC": "M.70.2.2.9.12",
+              "Category": "Human resources management consultancy services"
+            },
+            "M.70.2.2.9.13": {
+              "ID": 14525,
+              "SIC": "M.70.2.2.9.13",
+              "Category": "Industrial development consultancy services"
+            },
+            "M.70.2.2.9.14": {
+              "ID": 14526,
+              "SIC": "M.70.2.2.9.14",
+              "Category": "Management audits consultancy services"
+            },
+            "M.70.2.2.9.15": {
+              "ID": 14527,
+              "SIC": "M.70.2.2.9.15",
+              "Category": "Management consultancy activities"
+            },
+            "M.70.2.2.9.16": {
+              "ID": 14528,
+              "SIC": "M.70.2.2.9.16",
+              "Category": "Marketing management consultancy activities"
+            },
+            "M.70.2.2.9.17": {
+              "ID": 14529,
+              "SIC": "M.70.2.2.9.17",
+              "Category": "Overall planning, structuring and control of organisation consultancy services"
+            },
+            "M.70.2.2.9.18": {
+              "ID": 14530,
+              "SIC": "M.70.2.2.9.18",
+              "Category": "Policy formulation consultancy services"
+            },
+            "M.70.2.2.9.19": {
+              "ID": 14531,
+              "SIC": "M.70.2.2.9.19",
+              "Category": "Production management consultancy services (other than for construction)"
+            },
+            "M.70.2.2.9.20": {
+              "ID": 14532,
+              "SIC": "M.70.2.2.9.20",
+              "Category": "Profit improvement programmes consultancy services"
+            },
+            "M.70.2.2.9.21": {
+              "ID": 14533,
+              "SIC": "M.70.2.2.9.21",
+              "Category": "Strategic business plan consultancy services"
+            },
+            "M.70.2.2.9.22": {
+              "ID": 14534,
+              "SIC": "M.70.2.2.9.22",
+              "Category": "Tourism development consultancy services"
+            }
+          }
+        }
+      }
+    },
+    "M.71": {
+      "ID": 934,
+      "SIC": "M.71",
+      "Category": "Architectural and engineering activities; technical testing and analysis",
+      "M.71.1": {
+        "ID": 935,
+        "SIC": "M.71.1",
+        "Category": "Architectural and engineering activities and related technical consultancy",
+        "M.71.1.1": {
+          "ID": 936,
+          "SIC": "M.71.1.1",
+          "Category": "Architectural activities",
+          "M.71.1.1.1": {
+            "ID": 937,
+            "SIC": "M.71.1.1.1",
+            "Category": "Architectural activities",
+            "M.71.1.1.1.1": {
+              "ID": 14535,
+              "SIC": "M.71.1.1.1.1",
+              "Category": "Advisory and pre-design architectural activities"
+            },
+            "M.71.1.1.1.2": {
+              "ID": 14536,
+              "SIC": "M.71.1.1.1.2",
+              "Category": "Architectural activities and related technical consultancy"
+            },
+            "M.71.1.1.1.3": {
+              "ID": 14537,
+              "SIC": "M.71.1.1.1.3",
+              "Category": "Architectural draughtsman"
+            },
+            "M.71.1.1.1.4": {
+              "ID": 14538,
+              "SIC": "M.71.1.1.1.4",
+              "Category": "Building design and drafting"
+            },
+            "M.71.1.1.1.5": {
+              "ID": 14539,
+              "SIC": "M.71.1.1.1.5",
+              "Category": "Construction supervision"
+            },
+            "M.71.1.1.1.6": {
+              "ID": 14540,
+              "SIC": "M.71.1.1.1.6",
+              "Category": "Making of architectural maquettes"
+            }
+          },
+          "M.71.1.1.2": {
+            "ID": 938,
+            "SIC": "M.71.1.1.2",
+            "Category": "Urban planning and landscape architectural activities",
+            "M.71.1.1.2.1": {
+              "ID": 14541,
+              "SIC": "M.71.1.1.2.1",
+              "Category": "Landscape architecture"
+            },
+            "M.71.1.1.2.2": {
+              "ID": 14542,
+              "SIC": "M.71.1.1.2.2",
+              "Category": "Town and city planning"
+            },
+            "M.71.1.1.2.3": {
+              "ID": 14543,
+              "SIC": "M.71.1.1.2.3",
+              "Category": "Urban planning activities"
+            }
+          }
+        },
+        "M.71.1.2": {
+          "ID": 939,
+          "SIC": "M.71.1.2",
+          "Category": "Engineering activities and related technical consultancy",
+          "M.71.1.2.1": {
+            "ID": 940,
+            "SIC": "M.71.1.2.1",
+            "Category": "Engineering design activities for industrial process and production",
+            "M.71.1.2.1.1": {
+              "ID": 14544,
+              "SIC": "M.71.1.2.1.1",
+              "Category": "Automotive production design"
+            },
+            "M.71.1.2.1.2": {
+              "ID": 14545,
+              "SIC": "M.71.1.2.1.2",
+              "Category": "Consultant design engineer"
+            },
+            "M.71.1.2.1.3": {
+              "ID": 14546,
+              "SIC": "M.71.1.2.1.3",
+              "Category": "Consultant engineer (other than civil or structural)"
+            },
+            "M.71.1.2.1.4": {
+              "ID": 14547,
+              "SIC": "M.71.1.2.1.4",
+              "Category": "Design consultant for industrial process and production"
+            },
+            "M.71.1.2.1.5": {
+              "ID": 14548,
+              "SIC": "M.71.1.2.1.5",
+              "Category": "Design office for industrial process and production"
+            },
+            "M.71.1.2.1.6": {
+              "ID": 14549,
+              "SIC": "M.71.1.2.1.6",
+              "Category": "Draughtsman for industrial process and production"
+            },
+            "M.71.1.2.1.7": {
+              "ID": 14550,
+              "SIC": "M.71.1.2.1.7",
+              "Category": "Electrical power systems instrumentation design activities"
+            },
+            "M.71.1.2.1.8": {
+              "ID": 14551,
+              "SIC": "M.71.1.2.1.8",
+              "Category": "Electronic design consultant"
+            },
+            "M.71.1.2.1.9": {
+              "ID": 14552,
+              "SIC": "M.71.1.2.1.9",
+              "Category": "Engineering design services for industrial process and production"
+            },
+            "M.71.1.2.1.10": {
+              "ID": 14553,
+              "SIC": "M.71.1.2.1.10",
+              "Category": "Engineers' draughtsman"
+            },
+            "M.71.1.2.1.11": {
+              "ID": 14554,
+              "SIC": "M.71.1.2.1.11",
+              "Category": "Equipment layout and other plant design services"
+            },
+            "M.71.1.2.1.12": {
+              "ID": 14555,
+              "SIC": "M.71.1.2.1.12",
+              "Category": "Industrial consultants"
+            },
+            "M.71.1.2.1.13": {
+              "ID": 14556,
+              "SIC": "M.71.1.2.1.13",
+              "Category": "Industrial design consultants"
+            },
+            "M.71.1.2.1.14": {
+              "ID": 14557,
+              "SIC": "M.71.1.2.1.14",
+              "Category": "Industrial design service"
+            },
+            "M.71.1.2.1.15": {
+              "ID": 14558,
+              "SIC": "M.71.1.2.1.15",
+              "Category": "Machinery and industrial plant design"
+            },
+            "M.71.1.2.1.16": {
+              "ID": 14559,
+              "SIC": "M.71.1.2.1.16",
+              "Category": "Motor vehicle design"
+            },
+            "M.71.1.2.1.17": {
+              "ID": 14560,
+              "SIC": "M.71.1.2.1.17",
+              "Category": "Naval architect"
+            }
+          },
+          "M.71.1.2.2": {
+            "ID": 941,
+            "SIC": "M.71.1.2.2",
+            "Category": "Engineering related scientific and technical consulting activities",
+            "M.71.1.2.2.1": {
+              "ID": 14561,
+              "SIC": "M.71.1.2.2.1",
+              "Category": "Aerial photography for cartographic and spatial activity purposes"
+            },
+            "M.71.1.2.2.2": {
+              "ID": 14562,
+              "SIC": "M.71.1.2.2.2",
+              "Category": "Aerial survey"
+            },
+            "M.71.1.2.2.3": {
+              "ID": 14563,
+              "SIC": "M.71.1.2.2.3",
+              "Category": "Borehole surveying"
+            },
+            "M.71.1.2.2.4": {
+              "ID": 14564,
+              "SIC": "M.71.1.2.2.4",
+              "Category": "Boundary surveying activities"
+            },
+            "M.71.1.2.2.5": {
+              "ID": 14565,
+              "SIC": "M.71.1.2.2.5",
+              "Category": "Cartographic and spatial information activities"
+            },
+            "M.71.1.2.2.6": {
+              "ID": 14566,
+              "SIC": "M.71.1.2.2.6",
+              "Category": "Chartered land surveyor"
+            },
+            "M.71.1.2.2.7": {
+              "ID": 14567,
+              "SIC": "M.71.1.2.2.7",
+              "Category": "Crude oil exploration"
+            },
+            "M.71.1.2.2.8": {
+              "ID": 14568,
+              "SIC": "M.71.1.2.2.8",
+              "Category": "Data collection via drones"
+            },
+            "M.71.1.2.2.9": {
+              "ID": 14569,
+              "SIC": "M.71.1.2.2.9",
+              "Category": "Digital mapping activities"
+            },
+            "M.71.1.2.2.10": {
+              "ID": 14570,
+              "SIC": "M.71.1.2.2.10",
+              "Category": "Dimensional survey activities"
+            },
+            "M.71.1.2.2.11": {
+              "ID": 14571,
+              "SIC": "M.71.1.2.2.11",
+              "Category": "Exploration for gas or oil"
+            },
+            "M.71.1.2.2.12": {
+              "ID": 14572,
+              "SIC": "M.71.1.2.2.12",
+              "Category": "Fire and explosion protection and control consultancy activities"
+            },
+            "M.71.1.2.2.13": {
+              "ID": 14573,
+              "SIC": "M.71.1.2.2.13",
+              "Category": "Geodetic surveying activities"
+            },
+            "M.71.1.2.2.14": {
+              "ID": 14574,
+              "SIC": "M.71.1.2.2.14",
+              "Category": "Geological and prospecting activities"
+            },
+            "M.71.1.2.2.15": {
+              "ID": 14575,
+              "SIC": "M.71.1.2.2.15",
+              "Category": "Geological surveying for petroleum or natural gas (not geological consultancy)"
+            },
+            "M.71.1.2.2.16": {
+              "ID": 14576,
+              "SIC": "M.71.1.2.2.16",
+              "Category": "Geologist (consultant)"
+            },
+            "M.71.1.2.2.17": {
+              "ID": 14577,
+              "SIC": "M.71.1.2.2.17",
+              "Category": "Geophysical consultancy activities (engineering related)"
+            },
+            "M.71.1.2.2.18": {
+              "ID": 14578,
+              "SIC": "M.71.1.2.2.18",
+              "Category": "Geophysical, geologic and seismic surveying"
+            },
+            "M.71.1.2.2.19": {
+              "ID": 14579,
+              "SIC": "M.71.1.2.2.19",
+              "Category": "Health and safety and other hazard protection and control consultancy activities"
+            },
+            "M.71.1.2.2.20": {
+              "ID": 14580,
+              "SIC": "M.71.1.2.2.20",
+              "Category": "Hydrographic surveying activities"
+            },
+            "M.71.1.2.2.21": {
+              "ID": 14581,
+              "SIC": "M.71.1.2.2.21",
+              "Category": "Hydrologic surveying activities"
+            },
+            "M.71.1.2.2.22": {
+              "ID": 14582,
+              "SIC": "M.71.1.2.2.22",
+              "Category": "Land surveying activities"
+            },
+            "M.71.1.2.2.23": {
+              "ID": 14583,
+              "SIC": "M.71.1.2.2.23",
+              "Category": "Land surveyor (not valuer)"
+            },
+            "M.71.1.2.2.24": {
+              "ID": 14584,
+              "SIC": "M.71.1.2.2.24",
+              "Category": "Magnetometric (subsurface ) surveying activities"
+            },
+            "M.71.1.2.2.25": {
+              "ID": 14585,
+              "SIC": "M.71.1.2.2.25",
+              "Category": "Micropalaeontogical analysis activities"
+            },
+            "M.71.1.2.2.26": {
+              "ID": 14586,
+              "SIC": "M.71.1.2.2.26",
+              "Category": "Mineral surveyor"
+            },
+            "M.71.1.2.2.27": {
+              "ID": 14587,
+              "SIC": "M.71.1.2.2.27",
+              "Category": "Natural gas exploration"
+            },
+            "M.71.1.2.2.28": {
+              "ID": 14588,
+              "SIC": "M.71.1.2.2.28",
+              "Category": "Navigation map revising"
+            },
+            "M.71.1.2.2.29": {
+              "ID": 14589,
+              "SIC": "M.71.1.2.2.29",
+              "Category": "Petroleum exploration"
+            },
+            "M.71.1.2.2.30": {
+              "ID": 14590,
+              "SIC": "M.71.1.2.2.30",
+              "Category": "Petroleum geologist"
+            },
+            "M.71.1.2.2.31": {
+              "ID": 14591,
+              "SIC": "M.71.1.2.2.31",
+              "Category": "Petrophysical interpretation activities"
+            },
+            "M.71.1.2.2.32": {
+              "ID": 14592,
+              "SIC": "M.71.1.2.2.32",
+              "Category": "Seismic surveying for petroleum"
+            },
+            "M.71.1.2.2.33": {
+              "ID": 14593,
+              "SIC": "M.71.1.2.2.33",
+              "Category": "Sewage treatment consultancy activities"
+            },
+            "M.71.1.2.2.34": {
+              "ID": 14594,
+              "SIC": "M.71.1.2.2.34",
+              "Category": "Sub-surface surveying activities"
+            },
+            "M.71.1.2.2.35": {
+              "ID": 14595,
+              "SIC": "M.71.1.2.2.35",
+              "Category": "Surveying activities (industrial and engineering)"
+            },
+            "M.71.1.2.2.36": {
+              "ID": 14596,
+              "SIC": "M.71.1.2.2.36",
+              "Category": "Surveyor (other than valuer)"
+            },
+            "M.71.1.2.2.37": {
+              "ID": 14597,
+              "SIC": "M.71.1.2.2.37",
+              "Category": "Telecommunications consultancy activities"
+            },
+            "M.71.1.2.2.38": {
+              "ID": 14598,
+              "SIC": "M.71.1.2.2.38",
+              "Category": "Water divining and other scientific prospecting activities"
+            }
+          },
+          "M.71.1.2.9": {
+            "ID": 942,
+            "SIC": "M.71.1.2.9",
+            "Category": "Other engineering activities (not including engineering design for industrial process and production or engineering related scientific and technical consulting activities)",
+            "M.71.1.2.9.1": {
+              "ID": 14599,
+              "SIC": "M.71.1.2.9.1",
+              "Category": "Acoustical engineering design"
+            },
+            "M.71.1.2.9.2": {
+              "ID": 14600,
+              "SIC": "M.71.1.2.9.2",
+              "Category": "Architectural engineering activities"
+            },
+            "M.71.1.2.9.3": {
+              "ID": 14601,
+              "SIC": "M.71.1.2.9.3",
+              "Category": "Building structure design for ancillary services"
+            },
+            "M.71.1.2.9.4": {
+              "ID": 14602,
+              "SIC": "M.71.1.2.9.4",
+              "Category": "Chartered building surveyors"
+            },
+            "M.71.1.2.9.5": {
+              "ID": 14603,
+              "SIC": "M.71.1.2.9.5",
+              "Category": "Chemical engineering design projects"
+            },
+            "M.71.1.2.9.6": {
+              "ID": 14604,
+              "SIC": "M.71.1.2.9.6",
+              "Category": "Consultant civil or structural engineer"
+            },
+            "M.71.1.2.9.7": {
+              "ID": 14605,
+              "SIC": "M.71.1.2.9.7",
+              "Category": "Consultant engineer (civil or structural)"
+            },
+            "M.71.1.2.9.8": {
+              "ID": 14606,
+              "SIC": "M.71.1.2.9.8",
+              "Category": "Corrosion engineering activities"
+            },
+            "M.71.1.2.9.9": {
+              "ID": 14607,
+              "SIC": "M.71.1.2.9.9",
+              "Category": "Design consultant for civil and structural engineering"
+            },
+            "M.71.1.2.9.10": {
+              "ID": 14608,
+              "SIC": "M.71.1.2.9.10",
+              "Category": "Design office for civil and structural engineering"
+            },
+            "M.71.1.2.9.11": {
+              "ID": 14609,
+              "SIC": "M.71.1.2.9.11",
+              "Category": "Electrical and electronic engineering design projects"
+            },
+            "M.71.1.2.9.12": {
+              "ID": 14610,
+              "SIC": "M.71.1.2.9.12",
+              "Category": "Engineering contractor responsible for complete process plant"
+            },
+            "M.71.1.2.9.13": {
+              "ID": 14611,
+              "SIC": "M.71.1.2.9.13",
+              "Category": "Engineering design activities for the construction of civil engineering works"
+            },
+            "M.71.1.2.9.14": {
+              "ID": 14612,
+              "SIC": "M.71.1.2.9.14",
+              "Category": "Environmental engineering consultancy activities"
+            },
+            "M.71.1.2.9.15": {
+              "ID": 14613,
+              "SIC": "M.71.1.2.9.15",
+              "Category": "Geotechnical engineering consultancy activities"
+            },
+            "M.71.1.2.9.16": {
+              "ID": 14614,
+              "SIC": "M.71.1.2.9.16",
+              "Category": "Heating systems for buildings design activities"
+            },
+            "M.71.1.2.9.17": {
+              "ID": 14615,
+              "SIC": "M.71.1.2.9.17",
+              "Category": "Hydraulic engineering design projects"
+            },
+            "M.71.1.2.9.18": {
+              "ID": 14616,
+              "SIC": "M.71.1.2.9.18",
+              "Category": "Integrated engineering activities for turnkey projects"
+            },
+            "M.71.1.2.9.19": {
+              "ID": 14617,
+              "SIC": "M.71.1.2.9.19",
+              "Category": "Jacket substructure design and other foundation design services"
+            },
+            "M.71.1.2.9.20": {
+              "ID": 14618,
+              "SIC": "M.71.1.2.9.20",
+              "Category": "Mechanical and electrical installation for buildings design activities"
+            },
+            "M.71.1.2.9.21": {
+              "ID": 14619,
+              "SIC": "M.71.1.2.9.21",
+              "Category": "Mechanical, industrial and systems engineering design projects"
+            },
+            "M.71.1.2.9.22": {
+              "ID": 14620,
+              "SIC": "M.71.1.2.9.22",
+              "Category": "Mining engineering design projects"
+            },
+            "M.71.1.2.9.23": {
+              "ID": 14621,
+              "SIC": "M.71.1.2.9.23",
+              "Category": "Pipeline design activities"
+            },
+            "M.71.1.2.9.24": {
+              "ID": 14622,
+              "SIC": "M.71.1.2.9.24",
+              "Category": "Process engineering contractor"
+            },
+            "M.71.1.2.9.25": {
+              "ID": 14623,
+              "SIC": "M.71.1.2.9.25",
+              "Category": "Project management"
+            },
+            "M.71.1.2.9.26": {
+              "ID": 14624,
+              "SIC": "M.71.1.2.9.26",
+              "Category": "Traffic engineering design projects"
+            },
+            "M.71.1.2.9.27": {
+              "ID": 14625,
+              "SIC": "M.71.1.2.9.27",
+              "Category": "Water management projects design"
+            }
+          }
+        }
+      },
+      "M.71.2": {
+        "ID": 943,
+        "SIC": "M.71.2",
+        "Category": "Technical testing and analysis",
+        "M.71.2.0": {
+          "ID": 944,
+          "SIC": "M.71.2.0",
+          "Category": "Technical testing and analysis",
+          "M.71.2.0.0.1": {
+            "ID": 14626,
+            "SIC": "M.71.2.0.0.1",
+            "Category": "Acoustics and vibration testing"
+          },
+          "M.71.2.0.0.2": {
+            "ID": 14627,
+            "SIC": "M.71.2.0.0.2",
+            "Category": "Agricultural grain electrophoresis"
+          },
+          "M.71.2.0.0.3": {
+            "ID": 14628,
+            "SIC": "M.71.2.0.0.3",
+            "Category": "Air measuring related to cleanness"
+          },
+          "M.71.2.0.0.4": {
+            "ID": 14629,
+            "SIC": "M.71.2.0.0.4",
+            "Category": "Aircraft certification"
+          },
+          "M.71.2.0.0.5": {
+            "ID": 14630,
+            "SIC": "M.71.2.0.0.5",
+            "Category": "Analytical chemist"
+          },
+          "M.71.2.0.0.6": {
+            "ID": 14631,
+            "SIC": "M.71.2.0.0.6",
+            "Category": "Animal genetic testing"
+          },
+          "M.71.2.0.0.7": {
+            "ID": 14632,
+            "SIC": "M.71.2.0.0.7",
+            "Category": "Archaeobotanical analysis"
+          },
+          "M.71.2.0.0.8": {
+            "ID": 14633,
+            "SIC": "M.71.2.0.0.8",
+            "Category": "Assay office"
+          },
+          "M.71.2.0.0.9": {
+            "ID": 14634,
+            "SIC": "M.71.2.0.0.9",
+            "Category": "Bacteriologist (non medical)"
+          },
+          "M.71.2.0.0.10": {
+            "ID": 14635,
+            "SIC": "M.71.2.0.0.10",
+            "Category": "Composition and purity testing and analysis"
+          },
+          "M.71.2.0.0.11": {
+            "ID": 14636,
+            "SIC": "M.71.2.0.0.11",
+            "Category": "Electrophoresis"
+          },
+          "M.71.2.0.0.12": {
+            "ID": 14637,
+            "SIC": "M.71.2.0.0.12",
+            "Category": "Food hygiene testing activities"
+          },
+          "M.71.2.0.0.13": {
+            "ID": 14638,
+            "SIC": "M.71.2.0.0.13",
+            "Category": "Integrated mechanical and electrical system testing and analysis"
+          },
+          "M.71.2.0.0.14": {
+            "ID": 14639,
+            "SIC": "M.71.2.0.0.14",
+            "Category": "Leak testing and flow monitoring activities"
+          },
+          "M.71.2.0.0.15": {
+            "ID": 14640,
+            "SIC": "M.71.2.0.0.15",
+            "Category": "Lloyd's Register of Shipping"
+          },
+          "M.71.2.0.0.16": {
+            "ID": 14641,
+            "SIC": "M.71.2.0.0.16",
+            "Category": "Marine cargo surveyor"
+          },
+          "M.71.2.0.0.17": {
+            "ID": 14642,
+            "SIC": "M.71.2.0.0.17",
+            "Category": "Marine insurance survey activities"
+          },
+          "M.71.2.0.0.18": {
+            "ID": 14643,
+            "SIC": "M.71.2.0.0.18",
+            "Category": "Marine surveyor"
+          },
+          "M.71.2.0.0.19": {
+            "ID": 14644,
+            "SIC": "M.71.2.0.0.19",
+            "Category": "Metallurgist (private practice)"
+          },
+          "M.71.2.0.0.20": {
+            "ID": 14645,
+            "SIC": "M.71.2.0.0.20",
+            "Category": "MOT testing station"
+          },
+          "M.71.2.0.0.21": {
+            "ID": 14646,
+            "SIC": "M.71.2.0.0.21",
+            "Category": "Motor vehicles certification"
+          },
+          "M.71.2.0.0.22": {
+            "ID": 14647,
+            "SIC": "M.71.2.0.0.22",
+            "Category": "Nuclear plant certification"
+          },
+          "M.71.2.0.0.23": {
+            "ID": 14648,
+            "SIC": "M.71.2.0.0.23",
+            "Category": "Oilfield pipe inspection"
+          },
+          "M.71.2.0.0.24": {
+            "ID": 14649,
+            "SIC": "M.71.2.0.0.24",
+            "Category": "Performance testing of complete machinery"
+          },
+          "M.71.2.0.0.25": {
+            "ID": 14650,
+            "SIC": "M.71.2.0.0.25",
+            "Category": "Physicist"
+          },
+          "M.71.2.0.0.26": {
+            "ID": 14651,
+            "SIC": "M.71.2.0.0.26",
+            "Category": "Pipeline and ancillary equipment testing activities"
+          },
+          "M.71.2.0.0.27": {
+            "ID": 14652,
+            "SIC": "M.71.2.0.0.27",
+            "Category": "Police laboratories"
+          },
+          "M.71.2.0.0.28": {
+            "ID": 14653,
+            "SIC": "M.71.2.0.0.28",
+            "Category": "Pollution measuring"
+          },
+          "M.71.2.0.0.29": {
+            "ID": 14654,
+            "SIC": "M.71.2.0.0.29",
+            "Category": "Pressurised containers certification"
+          },
+          "M.71.2.0.0.30": {
+            "ID": 14655,
+            "SIC": "M.71.2.0.0.30",
+            "Category": "Product origin and quality assessment"
+          },
+          "M.71.2.0.0.31": {
+            "ID": 14656,
+            "SIC": "M.71.2.0.0.31",
+            "Category": "Public analyst"
+          },
+          "M.71.2.0.0.32": {
+            "ID": 14657,
+            "SIC": "M.71.2.0.0.32",
+            "Category": "Quality control"
+          },
+          "M.71.2.0.0.33": {
+            "ID": 14658,
+            "SIC": "M.71.2.0.0.33",
+            "Category": "Radioactivity measuring"
+          },
+          "M.71.2.0.0.34": {
+            "ID": 14659,
+            "SIC": "M.71.2.0.0.34",
+            "Category": "Radiographic testing of welds and joints"
+          },
+          "M.71.2.0.0.35": {
+            "ID": 14660,
+            "SIC": "M.71.2.0.0.35",
+            "Category": "Road-safety testing of motor vehicles"
+          },
+          "M.71.2.0.0.36": {
+            "ID": 14661,
+            "SIC": "M.71.2.0.0.36",
+            "Category": "Ship surveyor"
+          },
+          "M.71.2.0.0.37": {
+            "ID": 14662,
+            "SIC": "M.71.2.0.0.37",
+            "Category": "Ships certification"
+          },
+          "M.71.2.0.0.38": {
+            "ID": 14663,
+            "SIC": "M.71.2.0.0.38",
+            "Category": "Strength and failure testing"
+          },
+          "M.71.2.0.0.39": {
+            "ID": 14664,
+            "SIC": "M.71.2.0.0.39",
+            "Category": "Sworn timber measurer"
+          },
+          "M.71.2.0.0.40": {
+            "ID": 14665,
+            "SIC": "M.71.2.0.0.40",
+            "Category": "Sworn weigher"
+          },
+          "M.71.2.0.0.41": {
+            "ID": 14666,
+            "SIC": "M.71.2.0.0.41",
+            "Category": "Technical and non-destructive testing services"
+          },
+          "M.71.2.0.0.42": {
+            "ID": 14667,
+            "SIC": "M.71.2.0.0.42",
+            "Category": "Technical automobile inspection activities"
+          },
+          "M.71.2.0.0.43": {
+            "ID": 14668,
+            "SIC": "M.71.2.0.0.43",
+            "Category": "Technical inspection services of buildings"
+          },
+          "M.71.2.0.0.44": {
+            "ID": 14669,
+            "SIC": "M.71.2.0.0.44",
+            "Category": "Technical testing of bridges and other engineering structures"
+          },
+          "M.71.2.0.0.45": {
+            "ID": 14670,
+            "SIC": "M.71.2.0.0.45",
+            "Category": "Technical testing of lifting and handling equipment"
+          },
+          "M.71.2.0.0.46": {
+            "ID": 14671,
+            "SIC": "M.71.2.0.0.46",
+            "Category": "Testing and measuring of environmental indicators"
+          },
+          "M.71.2.0.0.47": {
+            "ID": 14672,
+            "SIC": "M.71.2.0.0.47",
+            "Category": "Testing of calculations for building elements"
+          },
+          "M.71.2.0.0.48": {
+            "ID": 14673,
+            "SIC": "M.71.2.0.0.48",
+            "Category": "Testing of composition and purity of minerals"
+          },
+          "M.71.2.0.0.49": {
+            "ID": 14674,
+            "SIC": "M.71.2.0.0.49",
+            "Category": "Testing of physical characteristics and performance of materials"
+          },
+          "M.71.2.0.0.50": {
+            "ID": 14675,
+            "SIC": "M.71.2.0.0.50",
+            "Category": "Testing or analysing laboratory"
+          },
+          "M.71.2.0.0.51": {
+            "ID": 14676,
+            "SIC": "M.71.2.0.0.51",
+            "Category": "Timber measurer"
+          },
+          "M.71.2.0.0.52": {
+            "ID": 14677,
+            "SIC": "M.71.2.0.0.52",
+            "Category": "Water measuring related to cleanness"
+          }
+        }
+      }
+    },
+    "M.72": {
+      "ID": 945,
+      "SIC": "M.72",
+      "Category": "Scientific research and development",
+      "M.72.1": {
+        "ID": 946,
+        "SIC": "M.72.1",
+        "Category": "Research and experimental development on natural sciences and engineering",
+        "M.72.1.1": {
+          "ID": 947,
+          "SIC": "M.72.1.1",
+          "Category": "Research and experimental development on biotechnology",
+          "M.72.1.1.0.1": {
+            "ID": 14678,
+            "SIC": "M.72.1.1.0.1",
+            "Category": "Biology research and experimental development"
+          },
+          "M.72.1.1.0.2": {
+            "ID": 14679,
+            "SIC": "M.72.1.1.0.2",
+            "Category": "Biotechnology research and experimental development"
+          },
+          "M.72.1.1.0.3": {
+            "ID": 14680,
+            "SIC": "M.72.1.1.0.3",
+            "Category": "Research and experimental development on bioinformatics"
+          },
+          "M.72.1.1.0.4": {
+            "ID": 14681,
+            "SIC": "M.72.1.1.0.4",
+            "Category": "Research and experimental development on cell and tissue culture and engineering"
+          },
+          "M.72.1.1.0.5": {
+            "ID": 14682,
+            "SIC": "M.72.1.1.0.5",
+            "Category": "Research and experimental development on DNA/RNA"
+          },
+          "M.72.1.1.0.6": {
+            "ID": 14683,
+            "SIC": "M.72.1.1.0.6",
+            "Category": "Research and experimental development on gene and RNA vectors"
+          },
+          "M.72.1.1.0.7": {
+            "ID": 14684,
+            "SIC": "M.72.1.1.0.7",
+            "Category": "Research and experimental development on nanobiotechnology"
+          },
+          "M.72.1.1.0.8": {
+            "ID": 14685,
+            "SIC": "M.72.1.1.0.8",
+            "Category": "Research and experimental development on process biotechnology techniques"
+          },
+          "M.72.1.1.0.9": {
+            "ID": 14686,
+            "SIC": "M.72.1.1.0.9",
+            "Category": "Research and experimental development on proteins and other molecules"
+          }
+        },
+        "M.72.1.9": {
+          "ID": 948,
+          "SIC": "M.72.1.9",
+          "Category": "Other research and experimental development on natural sciences and engineering",
+          "M.72.1.9.0.1": {
+            "ID": 14687,
+            "SIC": "M.72.1.9.0.1",
+            "Category": "Agricultural research (other than biotechnological)"
+          },
+          "M.72.1.9.0.2": {
+            "ID": 14688,
+            "SIC": "M.72.1.9.0.2",
+            "Category": "Astronomy research and experimental development"
+          },
+          "M.72.1.9.0.3": {
+            "ID": 14689,
+            "SIC": "M.72.1.9.0.3",
+            "Category": "Atomic energy research and experimental development"
+          },
+          "M.72.1.9.0.4": {
+            "ID": 14690,
+            "SIC": "M.72.1.9.0.4",
+            "Category": "Building research and experimental development"
+          },
+          "M.72.1.9.0.5": {
+            "ID": 14691,
+            "SIC": "M.72.1.9.0.5",
+            "Category": "Cancer research and experimental development (other than biotechnological)"
+          },
+          "M.72.1.9.0.6": {
+            "ID": 14692,
+            "SIC": "M.72.1.9.0.6",
+            "Category": "Chemistry research and experimental development"
+          },
+          "M.72.1.9.0.7": {
+            "ID": 14693,
+            "SIC": "M.72.1.9.0.7",
+            "Category": "Civil engineering research and experimental development"
+          },
+          "M.72.1.9.0.8": {
+            "ID": 14694,
+            "SIC": "M.72.1.9.0.8",
+            "Category": "Computer hardware research and experimental development"
+          },
+          "M.72.1.9.0.9": {
+            "ID": 14695,
+            "SIC": "M.72.1.9.0.9",
+            "Category": "Earth sciences research and experimental development (other than biotechnological)"
+          },
+          "M.72.1.9.0.10": {
+            "ID": 14696,
+            "SIC": "M.72.1.9.0.10",
+            "Category": "Engineering research and experimental development"
+          },
+          "M.72.1.9.0.11": {
+            "ID": 14697,
+            "SIC": "M.72.1.9.0.11",
+            "Category": "Environmental pollution research and experimental development"
+          },
+          "M.72.1.9.0.12": {
+            "ID": 14698,
+            "SIC": "M.72.1.9.0.12",
+            "Category": "Explorer"
+          },
+          "M.72.1.9.0.13": {
+            "ID": 14699,
+            "SIC": "M.72.1.9.0.13",
+            "Category": "Government research establishment (other than biotechnological)"
+          },
+          "M.72.1.9.0.14": {
+            "ID": 14700,
+            "SIC": "M.72.1.9.0.14",
+            "Category": "Hydraulic research station"
+          },
+          "M.72.1.9.0.15": {
+            "ID": 14701,
+            "SIC": "M.72.1.9.0.15",
+            "Category": "Life sciences research and experimental development (other than biotechnological)"
+          },
+          "M.72.1.9.0.16": {
+            "ID": 14702,
+            "SIC": "M.72.1.9.0.16",
+            "Category": "Mathematical research and experimental development"
+          },
+          "M.72.1.9.0.17": {
+            "ID": 14703,
+            "SIC": "M.72.1.9.0.17",
+            "Category": "Medical research establishment not attached to hospital (other than biotechnological)"
+          },
+          "M.72.1.9.0.18": {
+            "ID": 14704,
+            "SIC": "M.72.1.9.0.18",
+            "Category": "Medical sciences research and experimental development (other than biotechnological)"
+          },
+          "M.72.1.9.0.19": {
+            "ID": 14705,
+            "SIC": "M.72.1.9.0.19",
+            "Category": "Mining research establishment"
+          },
+          "M.72.1.9.0.20": {
+            "ID": 14706,
+            "SIC": "M.72.1.9.0.20",
+            "Category": "Ministry of Defence research and development (other than biotechnological)"
+          },
+          "M.72.1.9.0.21": {
+            "ID": 14707,
+            "SIC": "M.72.1.9.0.21",
+            "Category": "Multi-disciplinary research and development (not biotechnological or social sciences and humanities)"
+          },
+          "M.72.1.9.0.22": {
+            "ID": 14708,
+            "SIC": "M.72.1.9.0.22",
+            "Category": "National physical laboratory"
+          },
+          "M.72.1.9.0.23": {
+            "ID": 14709,
+            "SIC": "M.72.1.9.0.23",
+            "Category": "Natural environment research council"
+          },
+          "M.72.1.9.0.24": {
+            "ID": 14710,
+            "SIC": "M.72.1.9.0.24",
+            "Category": "Natural sciences research and experimental development (other than biotechnological)"
+          },
+          "M.72.1.9.0.25": {
+            "ID": 14711,
+            "SIC": "M.72.1.9.0.25",
+            "Category": "Palaeontologist (consultant)"
+          },
+          "M.72.1.9.0.26": {
+            "ID": 14712,
+            "SIC": "M.72.1.9.0.26",
+            "Category": "Physical sciences research and experimental development"
+          },
+          "M.72.1.9.0.27": {
+            "ID": 14713,
+            "SIC": "M.72.1.9.0.27",
+            "Category": "Physics research and experimental development"
+          },
+          "M.72.1.9.0.28": {
+            "ID": 14714,
+            "SIC": "M.72.1.9.0.28",
+            "Category": "Research and development consultants (other than biotechnological)"
+          },
+          "M.72.1.9.0.29": {
+            "ID": 14715,
+            "SIC": "M.72.1.9.0.29",
+            "Category": "Research association (other than biotechnological)"
+          },
+          "M.72.1.9.0.30": {
+            "ID": 14716,
+            "SIC": "M.72.1.9.0.30",
+            "Category": "Research chemist (private practice)"
+          },
+          "M.72.1.9.0.31": {
+            "ID": 14717,
+            "SIC": "M.72.1.9.0.31",
+            "Category": "Research institution (other than biotechnological)"
+          },
+          "M.72.1.9.0.32": {
+            "ID": 14718,
+            "SIC": "M.72.1.9.0.32",
+            "Category": "Research laboratory (other than biotechnological)"
+          },
+          "M.72.1.9.0.33": {
+            "ID": 14719,
+            "SIC": "M.72.1.9.0.33",
+            "Category": "Royal Observatory"
+          },
+          "M.72.1.9.0.34": {
+            "ID": 14720,
+            "SIC": "M.72.1.9.0.34",
+            "Category": "Science research council"
+          }
+        }
+      },
+      "M.72.2": {
+        "ID": 949,
+        "SIC": "M.72.2",
+        "Category": "Research and experimental development on social sciences and humanities",
+        "M.72.2.0": {
+          "ID": 950,
+          "SIC": "M.72.2.0",
+          "Category": "Research and experimental development on social sciences and humanities",
+          "M.72.2.0.0.1": {
+            "ID": 14721,
+            "SIC": "M.72.2.0.0.1",
+            "Category": "Economic and Social Research Council"
+          },
+          "M.72.2.0.0.2": {
+            "ID": 14722,
+            "SIC": "M.72.2.0.0.2",
+            "Category": "Economics, research and experimental development"
+          },
+          "M.72.2.0.0.3": {
+            "ID": 14723,
+            "SIC": "M.72.2.0.0.3",
+            "Category": "Educational research and experimental development"
+          },
+          "M.72.2.0.0.4": {
+            "ID": 14724,
+            "SIC": "M.72.2.0.0.4",
+            "Category": "Humanities research and experimental development"
+          },
+          "M.72.2.0.0.5": {
+            "ID": 14725,
+            "SIC": "M.72.2.0.0.5",
+            "Category": "Languages research and experimental development"
+          },
+          "M.72.2.0.0.6": {
+            "ID": 14726,
+            "SIC": "M.72.2.0.0.6",
+            "Category": "Law research and experimental development"
+          },
+          "M.72.2.0.0.7": {
+            "ID": 14727,
+            "SIC": "M.72.2.0.0.7",
+            "Category": "Legal sciences research and experimental development"
+          },
+          "M.72.2.0.0.8": {
+            "ID": 14728,
+            "SIC": "M.72.2.0.0.8",
+            "Category": "Linguistics research and experimental development"
+          },
+          "M.72.2.0.0.9": {
+            "ID": 14729,
+            "SIC": "M.72.2.0.0.9",
+            "Category": "Multi-disciplinary research and development predominantly on social sciences and humanities"
+          },
+          "M.72.2.0.0.10": {
+            "ID": 14730,
+            "SIC": "M.72.2.0.0.10",
+            "Category": "National foundation for educational research"
+          },
+          "M.72.2.0.0.11": {
+            "ID": 14731,
+            "SIC": "M.72.2.0.0.11",
+            "Category": "Policy institutes (think tanks)"
+          },
+          "M.72.2.0.0.12": {
+            "ID": 14732,
+            "SIC": "M.72.2.0.0.12",
+            "Category": "Psychology research and experimental development"
+          },
+          "M.72.2.0.0.13": {
+            "ID": 14733,
+            "SIC": "M.72.2.0.0.13",
+            "Category": "Social Science Research Council"
+          },
+          "M.72.2.0.0.14": {
+            "ID": 14734,
+            "SIC": "M.72.2.0.0.14",
+            "Category": "Social sciences research and experimental development"
+          },
+          "M.72.2.0.0.15": {
+            "ID": 14735,
+            "SIC": "M.72.2.0.0.15",
+            "Category": "Sociology research and experimental development"
+          }
+        }
+      }
+    },
+    "M.73": {
+      "ID": 951,
+      "SIC": "M.73",
+      "Category": "Advertising and market research",
+      "M.73.1": {
+        "ID": 952,
+        "SIC": "M.73.1",
+        "Category": "Advertising",
+        "M.73.1.1": {
+          "ID": 953,
+          "SIC": "M.73.1.1",
+          "Category": "Advertising agencies",
+          "M.73.1.1.0.1": {
+            "ID": 14736,
+            "SIC": "M.73.1.1.0.1",
+            "Category": "Advertising agencies"
+          },
+          "M.73.1.1.0.2": {
+            "ID": 14737,
+            "SIC": "M.73.1.1.0.2",
+            "Category": "Advertising campaign creation and realisation"
+          },
+          "M.73.1.1.0.3": {
+            "ID": 14738,
+            "SIC": "M.73.1.1.0.3",
+            "Category": "Advertising consultants"
+          },
+          "M.73.1.1.0.4": {
+            "ID": 14739,
+            "SIC": "M.73.1.1.0.4",
+            "Category": "Advertising contractor"
+          },
+          "M.73.1.1.0.5": {
+            "ID": 14740,
+            "SIC": "M.73.1.1.0.5",
+            "Category": "Advertising material or samples delivery or distribution"
+          },
+          "M.73.1.1.0.6": {
+            "ID": 14741,
+            "SIC": "M.73.1.1.0.6",
+            "Category": "Aerial and outdoor advertising services"
+          },
+          "M.73.1.1.0.7": {
+            "ID": 14742,
+            "SIC": "M.73.1.1.0.7",
+            "Category": "Bill posting agency"
+          },
+          "M.73.1.1.0.8": {
+            "ID": 14743,
+            "SIC": "M.73.1.1.0.8",
+            "Category": "Bus carding"
+          },
+          "M.73.1.1.0.9": {
+            "ID": 14744,
+            "SIC": "M.73.1.1.0.9",
+            "Category": "Copywriter"
+          },
+          "M.73.1.1.0.10": {
+            "ID": 14745,
+            "SIC": "M.73.1.1.0.10",
+            "Category": "Creating and placing advertising"
+          },
+          "M.73.1.1.0.11": {
+            "ID": 14746,
+            "SIC": "M.73.1.1.0.11",
+            "Category": "Creation of stands and other display structures and sites"
+          },
+          "M.73.1.1.0.12": {
+            "ID": 14747,
+            "SIC": "M.73.1.1.0.12",
+            "Category": "Marketing campaigns"
+          },
+          "M.73.1.1.0.13": {
+            "ID": 14748,
+            "SIC": "M.73.1.1.0.13",
+            "Category": "Poster advertising"
+          },
+          "M.73.1.1.0.14": {
+            "ID": 14749,
+            "SIC": "M.73.1.1.0.14",
+            "Category": "Showroom design"
+          },
+          "M.73.1.1.0.15": {
+            "ID": 14750,
+            "SIC": "M.73.1.1.0.15",
+            "Category": "Signwriting"
+          },
+          "M.73.1.1.0.16": {
+            "ID": 14751,
+            "SIC": "M.73.1.1.0.16",
+            "Category": "Window dressing"
+          }
+        },
+        "M.73.1.2": {
+          "ID": 954,
+          "SIC": "M.73.1.2",
+          "Category": "Media representation",
+          "M.73.1.2.0.1": {
+            "ID": 14752,
+            "SIC": "M.73.1.2.0.1",
+            "Category": "Advertising space or time (sales or leasing thereof)"
+          },
+          "M.73.1.2.0.2": {
+            "ID": 14753,
+            "SIC": "M.73.1.2.0.2",
+            "Category": "Advertising space sale, on a fee or contract basis"
+          },
+          "M.73.1.2.0.3": {
+            "ID": 14754,
+            "SIC": "M.73.1.2.0.3",
+            "Category": "Media representation"
+          }
+        }
+      },
+      "M.73.2": {
+        "ID": 955,
+        "SIC": "M.73.2",
+        "Category": "Market research and public opinion polling",
+        "M.73.2.0": {
+          "ID": 956,
+          "SIC": "M.73.2.0",
+          "Category": "Market research and public opinion polling",
+          "M.73.2.0.0.1": {
+            "ID": 14755,
+            "SIC": "M.73.2.0.0.1",
+            "Category": "Covert assessment of service levels for market research"
+          },
+          "M.73.2.0.0.2": {
+            "ID": 14756,
+            "SIC": "M.73.2.0.0.2",
+            "Category": "Export consultant"
+          },
+          "M.73.2.0.0.3": {
+            "ID": 14757,
+            "SIC": "M.73.2.0.0.3",
+            "Category": "Market research agency"
+          },
+          "M.73.2.0.0.4": {
+            "ID": 14758,
+            "SIC": "M.73.2.0.0.4",
+            "Category": "Market research consultant"
+          },
+          "M.73.2.0.0.5": {
+            "ID": 14759,
+            "SIC": "M.73.2.0.0.5",
+            "Category": "Market research organisation"
+          },
+          "M.73.2.0.0.6": {
+            "ID": 14760,
+            "SIC": "M.73.2.0.0.6",
+            "Category": "Market, social and economic research services"
+          },
+          "M.73.2.0.0.7": {
+            "ID": 14761,
+            "SIC": "M.73.2.0.0.7",
+            "Category": "Public opinion polling"
+          },
+          "M.73.2.0.0.8": {
+            "ID": 14762,
+            "SIC": "M.73.2.0.0.8",
+            "Category": "Survey analysis and other social and economic intelligence services"
+          },
+          "M.73.2.0.0.9": {
+            "ID": 14763,
+            "SIC": "M.73.2.0.0.9",
+            "Category": "Survey design services"
+          },
+          "M.73.2.0.0.10": {
+            "ID": 14764,
+            "SIC": "M.73.2.0.0.10",
+            "Category": "Website usability testing"
+          }
+        }
+      }
+    },
+    "M.74": {
+      "ID": 957,
+      "SIC": "M.74",
+      "Category": "Other professional, scientific and technical activities",
+      "M.74.1": {
+        "ID": 958,
+        "SIC": "M.74.1",
+        "Category": "Specialised design activities",
+        "M.74.1.0": {
+          "ID": 959,
+          "SIC": "M.74.1.0",
+          "Category": "Specialised design activities",
+          "M.74.1.0.0.1": {
+            "ID": 14765,
+            "SIC": "M.74.1.0.0.1",
+            "Category": "Boot and shoe designing"
+          },
+          "M.74.1.0.0.2": {
+            "ID": 14766,
+            "SIC": "M.74.1.0.0.2",
+            "Category": "Calico printers' designing"
+          },
+          "M.74.1.0.0.3": {
+            "ID": 14767,
+            "SIC": "M.74.1.0.0.3",
+            "Category": "Clothes designer"
+          },
+          "M.74.1.0.0.4": {
+            "ID": 14768,
+            "SIC": "M.74.1.0.0.4",
+            "Category": "Costume designing"
+          },
+          "M.74.1.0.0.5": {
+            "ID": 14769,
+            "SIC": "M.74.1.0.0.5",
+            "Category": "Design of clothing patterns"
+          },
+          "M.74.1.0.0.6": {
+            "ID": 14770,
+            "SIC": "M.74.1.0.0.6",
+            "Category": "Fashion designing"
+          },
+          "M.74.1.0.0.7": {
+            "ID": 14771,
+            "SIC": "M.74.1.0.0.7",
+            "Category": "Furniture designing"
+          },
+          "M.74.1.0.0.8": {
+            "ID": 14772,
+            "SIC": "M.74.1.0.0.8",
+            "Category": "Graphic designer"
+          },
+          "M.74.1.0.0.9": {
+            "ID": 14773,
+            "SIC": "M.74.1.0.0.9",
+            "Category": "Interior decor design"
+          },
+          "M.74.1.0.0.10": {
+            "ID": 14774,
+            "SIC": "M.74.1.0.0.10",
+            "Category": "Interior decorator activities"
+          },
+          "M.74.1.0.0.11": {
+            "ID": 14775,
+            "SIC": "M.74.1.0.0.11",
+            "Category": "Interior designers"
+          },
+          "M.74.1.0.0.12": {
+            "ID": 14776,
+            "SIC": "M.74.1.0.0.12",
+            "Category": "Jewellery designing"
+          },
+          "M.74.1.0.0.13": {
+            "ID": 14777,
+            "SIC": "M.74.1.0.0.13",
+            "Category": "Lace designing"
+          },
+          "M.74.1.0.0.14": {
+            "ID": 14778,
+            "SIC": "M.74.1.0.0.14",
+            "Category": "Textile or wallpaper printing designing"
+          }
+        }
+      },
+      "M.74.2": {
+        "ID": 960,
+        "SIC": "M.74.2",
+        "Category": "Photographic activities",
+        "M.74.2.0": {
+          "ID": 961,
+          "SIC": "M.74.2.0",
+          "Category": "Photographic activities",
+          "M.74.2.0.1": {
+            "ID": 962,
+            "SIC": "M.74.2.0.1",
+            "Category": "Portrait photographic activities",
+            "M.74.2.0.1.1": {
+              "ID": 14779,
+              "SIC": "M.74.2.0.1.1",
+              "Category": "Passport photography"
+            },
+            "M.74.2.0.1.2": {
+              "ID": 14780,
+              "SIC": "M.74.2.0.1.2",
+              "Category": "Photographic studio"
+            },
+            "M.74.2.0.1.3": {
+              "ID": 14781,
+              "SIC": "M.74.2.0.1.3",
+              "Category": "Portrait photographer"
+            },
+            "M.74.2.0.1.4": {
+              "ID": 14782,
+              "SIC": "M.74.2.0.1.4",
+              "Category": "Portrait photography"
+            },
+            "M.74.2.0.1.5": {
+              "ID": 14783,
+              "SIC": "M.74.2.0.1.5",
+              "Category": "School photography"
+            },
+            "M.74.2.0.1.6": {
+              "ID": 14784,
+              "SIC": "M.74.2.0.1.6",
+              "Category": "Wedding photography"
+            }
+          },
+          "M.74.2.0.2": {
+            "ID": 963,
+            "SIC": "M.74.2.0.2",
+            "Category": "Other specialist photography (not including portrait photography)",
+            "M.74.2.0.2.1": {
+              "ID": 14785,
+              "SIC": "M.74.2.0.2.1",
+              "Category": "Aerial photography (other than for cartographic and spatial activity purposes)"
+            },
+            "M.74.2.0.2.2": {
+              "ID": 14786,
+              "SIC": "M.74.2.0.2.2",
+              "Category": "Conversion of video tapes to digital media"
+            },
+            "M.74.2.0.2.3": {
+              "ID": 14787,
+              "SIC": "M.74.2.0.2.3",
+              "Category": "Downhole photography services"
+            },
+            "M.74.2.0.2.4": {
+              "ID": 14788,
+              "SIC": "M.74.2.0.2.4",
+              "Category": "Medical and biological photography"
+            },
+            "M.74.2.0.2.5": {
+              "ID": 14789,
+              "SIC": "M.74.2.0.2.5",
+              "Category": "Micro-filming activities"
+            },
+            "M.74.2.0.2.6": {
+              "ID": 14790,
+              "SIC": "M.74.2.0.2.6",
+              "Category": "Photomicrography"
+            },
+            "M.74.2.0.2.7": {
+              "ID": 14791,
+              "SIC": "M.74.2.0.2.7",
+              "Category": "Underwater photography services"
+            },
+            "M.74.2.0.2.8": {
+              "ID": 14792,
+              "SIC": "M.74.2.0.2.8",
+              "Category": "X-ray and other speciality photography activities"
+            }
+          },
+          "M.74.2.0.3": {
+            "ID": 964,
+            "SIC": "M.74.2.0.3",
+            "Category": "Film processing",
+            "M.74.2.0.3.1": {
+              "ID": 14793,
+              "SIC": "M.74.2.0.3.1",
+              "Category": "Film copying (not motion picture)"
+            },
+            "M.74.2.0.3.2": {
+              "ID": 14794,
+              "SIC": "M.74.2.0.3.2",
+              "Category": "Film processing"
+            },
+            "M.74.2.0.3.3": {
+              "ID": 14795,
+              "SIC": "M.74.2.0.3.3",
+              "Category": "Motion picture developing"
+            },
+            "M.74.2.0.3.4": {
+              "ID": 14796,
+              "SIC": "M.74.2.0.3.4",
+              "Category": "One hour photo shop (not part of camera shop)"
+            },
+            "M.74.2.0.3.5": {
+              "ID": 14797,
+              "SIC": "M.74.2.0.3.5",
+              "Category": "Photograph colouring"
+            },
+            "M.74.2.0.3.6": {
+              "ID": 14798,
+              "SIC": "M.74.2.0.3.6",
+              "Category": "Photograph copying"
+            },
+            "M.74.2.0.3.7": {
+              "ID": 14799,
+              "SIC": "M.74.2.0.3.7",
+              "Category": "Photograph developing"
+            },
+            "M.74.2.0.3.8": {
+              "ID": 14800,
+              "SIC": "M.74.2.0.3.8",
+              "Category": "Photograph enlarging"
+            },
+            "M.74.2.0.3.9": {
+              "ID": 14801,
+              "SIC": "M.74.2.0.3.9",
+              "Category": "Photograph finishing"
+            },
+            "M.74.2.0.3.10": {
+              "ID": 14802,
+              "SIC": "M.74.2.0.3.10",
+              "Category": "Photograph mounting"
+            },
+            "M.74.2.0.3.11": {
+              "ID": 14803,
+              "SIC": "M.74.2.0.3.11",
+              "Category": "Photograph printing"
+            },
+            "M.74.2.0.3.12": {
+              "ID": 14804,
+              "SIC": "M.74.2.0.3.12",
+              "Category": "Photographic colour printing"
+            },
+            "M.74.2.0.3.13": {
+              "ID": 14805,
+              "SIC": "M.74.2.0.3.13",
+              "Category": "Restoration, copying and retouching of photographs"
+            },
+            "M.74.2.0.3.14": {
+              "ID": 14806,
+              "SIC": "M.74.2.0.3.14",
+              "Category": "Slide and negative duplicating"
+            },
+            "M.74.2.0.3.15": {
+              "ID": 14807,
+              "SIC": "M.74.2.0.3.15",
+              "Category": "Slide mounting"
+            }
+          },
+          "M.74.2.0.9": {
+            "ID": 965,
+            "SIC": "M.74.2.0.9",
+            "Category": "Other photographic activities (not including portrait and other specialist photography and film processing) n.e.c.",
+            "M.74.2.0.9.1": {
+              "ID": 14808,
+              "SIC": "M.74.2.0.9.1",
+              "Category": "Fashion photography"
+            },
+            "M.74.2.0.9.2": {
+              "ID": 14809,
+              "SIC": "M.74.2.0.9.2",
+              "Category": "Photography for commercials, publishers or tourism purposes"
+            },
+            "M.74.2.0.9.3": {
+              "ID": 14810,
+              "SIC": "M.74.2.0.9.3",
+              "Category": "Photojournalists"
+            },
+            "M.74.2.0.9.4": {
+              "ID": 14811,
+              "SIC": "M.74.2.0.9.4",
+              "Category": "Picture agency"
+            },
+            "M.74.2.0.9.5": {
+              "ID": 14812,
+              "SIC": "M.74.2.0.9.5",
+              "Category": "Press photographers"
+            },
+            "M.74.2.0.9.6": {
+              "ID": 14813,
+              "SIC": "M.74.2.0.9.6",
+              "Category": "Real estate photography"
+            },
+            "M.74.2.0.9.7": {
+              "ID": 14814,
+              "SIC": "M.74.2.0.9.7",
+              "Category": "Street photographer"
+            },
+            "M.74.2.0.9.8": {
+              "ID": 14815,
+              "SIC": "M.74.2.0.9.8",
+              "Category": "Videoing of live events such as weddings, graduations, conventions, fashion shows, etc."
+            }
+          }
+        }
+      },
+      "M.74.3": {
+        "ID": 966,
+        "SIC": "M.74.3",
+        "Category": "Translation and interpretation activities",
+        "M.74.3.0": {
+          "ID": 967,
+          "SIC": "M.74.3.0",
+          "Category": "Translation and interpretation activities",
+          "M.74.3.0.0.1": {
+            "ID": 14816,
+            "SIC": "M.74.3.0.0.1",
+            "Category": "Interpreter"
+          },
+          "M.74.3.0.0.2": {
+            "ID": 14817,
+            "SIC": "M.74.3.0.0.2",
+            "Category": "Sign language interpretation"
+          },
+          "M.74.3.0.0.3": {
+            "ID": 14818,
+            "SIC": "M.74.3.0.0.3",
+            "Category": "Transcribing services from tapes, discs, etc."
+          },
+          "M.74.3.0.0.4": {
+            "ID": 14819,
+            "SIC": "M.74.3.0.0.4",
+            "Category": "Translation activities"
+          }
+        }
+      },
+      "M.74.9": {
+        "ID": 968,
+        "SIC": "M.74.9",
+        "Category": "Other professional, scientific and technical activities n.e.c.",
+        "M.74.9.0": {
+          "ID": 969,
+          "SIC": "M.74.9.0",
+          "Category": "Other professional, scientific and technical activities n.e.c.",
+          "M.74.9.0.1": {
+            "ID": 970,
+            "SIC": "M.74.9.0.1",
+            "Category": "Environmental consulting activities",
+            "M.74.9.0.1.1": {
+              "ID": 14820,
+              "SIC": "M.74.9.0.1.1",
+              "Category": "Energy efficiency consultancy activities"
+            },
+            "M.74.9.0.1.2": {
+              "ID": 14821,
+              "SIC": "M.74.9.0.1.2",
+              "Category": "Environmental project consultancy activities"
+            },
+            "M.74.9.0.1.3": {
+              "ID": 14822,
+              "SIC": "M.74.9.0.1.3",
+              "Category": "Noise control consultancy activities"
+            }
+          },
+          "M.74.9.0.2": {
+            "ID": 971,
+            "SIC": "M.74.9.0.2",
+            "Category": "Quantity surveying activities",
+            "M.74.9.0.2.1": {
+              "ID": 14823,
+              "SIC": "M.74.9.0.2.1",
+              "Category": "Cost draughtsman (quantity surveyor)"
+            },
+            "M.74.9.0.2.2": {
+              "ID": 14824,
+              "SIC": "M.74.9.0.2.2",
+              "Category": "Quantity surveying activities"
+            }
+          },
+          "M.74.9.0.9": {
+            "ID": 972,
+            "SIC": "M.74.9.0.9",
+            "Category": "Other professional, scientific and technical activities (not including environmental consultancy or quantity surveying) n.e.c.",
+            "M.74.9.0.9.1": {
+              "ID": 14825,
+              "SIC": "M.74.9.0.9.1",
+              "Category": "Agents and agencies in entertainment"
+            },
+            "M.74.9.0.9.2": {
+              "ID": 14826,
+              "SIC": "M.74.9.0.9.2",
+              "Category": "Agents and agencies in motion picture theatrical production"
+            },
+            "M.74.9.0.9.3": {
+              "ID": 14827,
+              "SIC": "M.74.9.0.9.3",
+              "Category": "Agents and agencies in placement of artworks with publishers"
+            },
+            "M.74.9.0.9.4": {
+              "ID": 14828,
+              "SIC": "M.74.9.0.9.4",
+              "Category": "Agents and agencies in placement of books with publishers"
+            },
+            "M.74.9.0.9.5": {
+              "ID": 14829,
+              "SIC": "M.74.9.0.9.5",
+              "Category": "Agents and agencies in placement of photographs publishers"
+            },
+            "M.74.9.0.9.6": {
+              "ID": 14830,
+              "SIC": "M.74.9.0.9.6",
+              "Category": "Agents and agencies in placement of plays with publishers producers"
+            },
+            "M.74.9.0.9.7": {
+              "ID": 14831,
+              "SIC": "M.74.9.0.9.7",
+              "Category": "Agents and agencies in sports attractions"
+            },
+            "M.74.9.0.9.8": {
+              "ID": 14832,
+              "SIC": "M.74.9.0.9.8",
+              "Category": "Agricultural valuer"
+            },
+            "M.74.9.0.9.9": {
+              "ID": 14833,
+              "SIC": "M.74.9.0.9.9",
+              "Category": "Agronomy consulting"
+            },
+            "M.74.9.0.9.10": {
+              "ID": 14834,
+              "SIC": "M.74.9.0.9.10",
+              "Category": "Appraiser and valuer (not insurance or real estate)"
+            },
+            "M.74.9.0.9.11": {
+              "ID": 14835,
+              "SIC": "M.74.9.0.9.11",
+              "Category": "Band agency"
+            },
+            "M.74.9.0.9.12": {
+              "ID": 14836,
+              "SIC": "M.74.9.0.9.12",
+              "Category": "Bill auditing and freight rate information"
+            },
+            "M.74.9.0.9.13": {
+              "ID": 14837,
+              "SIC": "M.74.9.0.9.13",
+              "Category": "Business brokerage activities"
+            },
+            "M.74.9.0.9.14": {
+              "ID": 14838,
+              "SIC": "M.74.9.0.9.14",
+              "Category": "Business brokerage and appraisal activities"
+            },
+            "M.74.9.0.9.15": {
+              "ID": 14839,
+              "SIC": "M.74.9.0.9.15",
+              "Category": "Business transfer agent"
+            },
+            "M.74.9.0.9.16": {
+              "ID": 14840,
+              "SIC": "M.74.9.0.9.16",
+              "Category": "Franchisers"
+            },
+            "M.74.9.0.9.17": {
+              "ID": 14841,
+              "SIC": "M.74.9.0.9.17",
+              "Category": "Literary agency"
+            },
+            "M.74.9.0.9.18": {
+              "ID": 14842,
+              "SIC": "M.74.9.0.9.18",
+              "Category": "Marine consultant (other than environmental consultancy)"
+            },
+            "M.74.9.0.9.19": {
+              "ID": 14843,
+              "SIC": "M.74.9.0.9.19",
+              "Category": "Partnership agent"
+            },
+            "M.74.9.0.9.20": {
+              "ID": 14844,
+              "SIC": "M.74.9.0.9.20",
+              "Category": "Patent broker"
+            },
+            "M.74.9.0.9.21": {
+              "ID": 14845,
+              "SIC": "M.74.9.0.9.21",
+              "Category": "Publicans' broker"
+            },
+            "M.74.9.0.9.22": {
+              "ID": 14846,
+              "SIC": "M.74.9.0.9.22",
+              "Category": "Quality assurance consultancy activities"
+            },
+            "M.74.9.0.9.23": {
+              "ID": 14847,
+              "SIC": "M.74.9.0.9.23",
+              "Category": "Security consultancy for industrial, household and public services"
+            },
+            "M.74.9.0.9.24": {
+              "ID": 14848,
+              "SIC": "M.74.9.0.9.24",
+              "Category": "Theatrical agency"
+            },
+            "M.74.9.0.9.25": {
+              "ID": 14849,
+              "SIC": "M.74.9.0.9.25",
+              "Category": "Valuer (any trade except real estate)"
+            },
+            "M.74.9.0.9.26": {
+              "ID": 14850,
+              "SIC": "M.74.9.0.9.26",
+              "Category": "Variety agency"
+            },
+            "M.74.9.0.9.27": {
+              "ID": 14851,
+              "SIC": "M.74.9.0.9.27",
+              "Category": "Way-bills issue and procurement"
+            },
+            "M.74.9.0.9.28": {
+              "ID": 14852,
+              "SIC": "M.74.9.0.9.28",
+              "Category": "Weather forecasting activities"
+            }
+          }
+        }
+      }
+    },
+    "M.75": {
+      "ID": 973,
+      "SIC": "M.75",
+      "Category": "Veterinary activities",
+      "M.75.0": {
+        "ID": 974,
+        "SIC": "M.75.0",
+        "Category": "Veterinary activities",
+        "M.75.0.0": {
+          "ID": 975,
+          "SIC": "M.75.0.0",
+          "Category": "Veterinary activities",
+          "M.75.0.0.0.1": {
+            "ID": 14853,
+            "SIC": "M.75.0.0.0.1",
+            "Category": "Animal ambulance activities"
+          },
+          "M.75.0.0.0.2": {
+            "ID": 14854,
+            "SIC": "M.75.0.0.0.2",
+            "Category": "Animal health care and control activities for farm animals"
+          },
+          "M.75.0.0.0.3": {
+            "ID": 14855,
+            "SIC": "M.75.0.0.0.3",
+            "Category": "Animal health care and control activities for pet animals"
+          },
+          "M.75.0.0.0.4": {
+            "ID": 14856,
+            "SIC": "M.75.0.0.0.4",
+            "Category": "Animal hospital run by veterinary surgeon"
+          },
+          "M.75.0.0.0.5": {
+            "ID": 14857,
+            "SIC": "M.75.0.0.0.5",
+            "Category": "Animal hospital supervised or run by registered veterinarian"
+          },
+          "M.75.0.0.0.6": {
+            "ID": 14858,
+            "SIC": "M.75.0.0.0.6",
+            "Category": "Clinico-pathological and other diagnostic activities pertaining to animals"
+          },
+          "M.75.0.0.0.7": {
+            "ID": 14859,
+            "SIC": "M.75.0.0.0.7",
+            "Category": "People's dispensary for sick animals (not animal care units)"
+          },
+          "M.75.0.0.0.8": {
+            "ID": 14860,
+            "SIC": "M.75.0.0.0.8",
+            "Category": "Registered veterinarian"
+          },
+          "M.75.0.0.0.9": {
+            "ID": 14861,
+            "SIC": "M.75.0.0.0.9",
+            "Category": "Veterinary activities"
+          },
+          "M.75.0.0.0.10": {
+            "ID": 14862,
+            "SIC": "M.75.0.0.0.10",
+            "Category": "Veterinary assistants or other auxiliary veterinary personnel"
+          },
+          "M.75.0.0.0.11": {
+            "ID": 14863,
+            "SIC": "M.75.0.0.0.11",
+            "Category": "Veterinary laboratory"
+          },
+          "M.75.0.0.0.12": {
+            "ID": 14864,
+            "SIC": "M.75.0.0.0.12",
+            "Category": "Veterinary surgery"
+          }
+        }
+      }
+    }
+  }
+}

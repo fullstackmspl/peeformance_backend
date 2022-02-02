@@ -1,0 +1,1412 @@
+{
+  "B": {
+    "ID": 59,
+    "SIC": "B",
+    "Category": "MINING AND QUARRYING",
+    "B.05": {
+      "ID": 60,
+      "SIC": "B.05",
+      "Category": "Mining of coal and lignite",
+      "B.05.1": {
+        "ID": 61,
+        "SIC": "B.05.1",
+        "Category": "Mining of hard coal",
+        "B.05.1.0": {
+          "ID": 62,
+          "SIC": "B.05.1.0",
+          "Category": "Mining of hard coal",
+          "B.05.1.0.1": {
+            "ID": 63,
+            "SIC": "B.05.1.0.1",
+            "Category": "Mining of hard coal from deep coal mines (underground mining)",
+            "B.05.1.0.1.1": {
+              "ID": 1696,
+              "SIC": "B.05.1.0.1.1",
+              "Category": "Coal cleaning, sizing, grading and pulverising (hard, deep mined)"
+            },
+            "B.05.1.0.1.2": {
+              "ID": 1697,
+              "SIC": "B.05.1.0.1.2",
+              "Category": "Coal mine (deep or drift)"
+            },
+            "B.05.1.0.1.3": {
+              "ID": 1698,
+              "SIC": "B.05.1.0.1.3",
+              "Category": "Coal washing (deep mined)"
+            },
+            "B.05.1.0.1.4": {
+              "ID": 1699,
+              "SIC": "B.05.1.0.1.4",
+              "Category": "Deep coal mines"
+            },
+            "B.05.1.0.1.5": {
+              "ID": 1700,
+              "SIC": "B.05.1.0.1.5",
+              "Category": "Hard coal mining (underground)"
+            }
+          },
+          "B.05.1.0.2": {
+            "ID": 64,
+            "SIC": "B.05.1.0.2",
+            "Category": "Mining of hard coal from open cast coal working (surface mining)",
+            "B.05.1.0.2.1": {
+              "ID": 1701,
+              "SIC": "B.05.1.0.2.1",
+              "Category": "Coal cleaning, sizing, grading and pulverising (hard, opencast)"
+            },
+            "B.05.1.0.2.2": {
+              "ID": 1702,
+              "SIC": "B.05.1.0.2.2",
+              "Category": "Coal extraction contractor (opencast)"
+            },
+            "B.05.1.0.2.3": {
+              "ID": 1703,
+              "SIC": "B.05.1.0.2.3",
+              "Category": "Coal recovery from dumps, tips etc."
+            },
+            "B.05.1.0.2.4": {
+              "ID": 1704,
+              "SIC": "B.05.1.0.2.4",
+              "Category": "Coal recovery of from culm banks"
+            },
+            "B.05.1.0.2.5": {
+              "ID": 1705,
+              "SIC": "B.05.1.0.2.5",
+              "Category": "Coal site (opencast)"
+            },
+            "B.05.1.0.2.6": {
+              "ID": 1706,
+              "SIC": "B.05.1.0.2.6",
+              "Category": "Coal washing (opencast)"
+            },
+            "B.05.1.0.2.7": {
+              "ID": 1707,
+              "SIC": "B.05.1.0.2.7",
+              "Category": "Opencast coal disposal point"
+            },
+            "B.05.1.0.2.8": {
+              "ID": 1708,
+              "SIC": "B.05.1.0.2.8",
+              "Category": "Opencast coal site"
+            },
+            "B.05.1.0.2.9": {
+              "ID": 1709,
+              "SIC": "B.05.1.0.2.9",
+              "Category": "Opencast coal working"
+            },
+            "B.05.1.0.2.10": {
+              "ID": 1710,
+              "SIC": "B.05.1.0.2.10",
+              "Category": "Surface mining of hard coal"
+            }
+          }
+        }
+      },
+      "B.05.2": {
+        "ID": 65,
+        "SIC": "B.05.2",
+        "Category": "Mining of lignite",
+        "B.05.2.0": {
+          "ID": 66,
+          "SIC": "B.05.2.0",
+          "Category": "Mining of lignite",
+          "B.05.2.0.0.1": {
+            "ID": 1711,
+            "SIC": "B.05.2.0.0.1",
+            "Category": "Lignite (brown coal) mining including mining through liquefaction methods"
+          },
+          "B.05.2.0.0.2": {
+            "ID": 1712,
+            "SIC": "B.05.2.0.0.2",
+            "Category": "Lignite mining"
+          },
+          "B.05.2.0.0.3": {
+            "ID": 1713,
+            "SIC": "B.05.2.0.0.3",
+            "Category": "Lignite washing, dehydrating, pulverising etc. To improve quality or facilitate transport or storage"
+          }
+        }
+      }
+    },
+    "B.06": {
+      "ID": 67,
+      "SIC": "B.06",
+      "Category": "Extraction of crude petroleum and natural gas",
+      "B.06.1": {
+        "ID": 68,
+        "SIC": "B.06.1",
+        "Category": "Extraction of crude petroleum",
+        "B.06.1.0": {
+          "ID": 69,
+          "SIC": "B.06.1.0",
+          "Category": "Extraction of crude petroleum",
+          "B.06.1.0.0.1": {
+            "ID": 1714,
+            "SIC": "B.06.1.0.0.1",
+            "Category": "Bituminous or oil shale and sand extraction"
+          },
+          "B.06.1.0.0.2": {
+            "ID": 1715,
+            "SIC": "B.06.1.0.0.2",
+            "Category": "Crude oil extraction"
+          },
+          "B.06.1.0.0.3": {
+            "ID": 1716,
+            "SIC": "B.06.1.0.0.3",
+            "Category": "Crude oils obtained by decantation processes"
+          },
+          "B.06.1.0.0.4": {
+            "ID": 1717,
+            "SIC": "B.06.1.0.0.4",
+            "Category": "Crude oils obtained by dehydration processes"
+          },
+          "B.06.1.0.0.5": {
+            "ID": 1718,
+            "SIC": "B.06.1.0.0.5",
+            "Category": "Crude oils obtained by desalting processes"
+          },
+          "B.06.1.0.0.6": {
+            "ID": 1719,
+            "SIC": "B.06.1.0.0.6",
+            "Category": "Crude oils obtained by stabilisation processes"
+          },
+          "B.06.1.0.0.7": {
+            "ID": 1720,
+            "SIC": "B.06.1.0.0.7",
+            "Category": "Crude petroleum extraction"
+          },
+          "B.06.1.0.0.8": {
+            "ID": 1721,
+            "SIC": "B.06.1.0.0.8",
+            "Category": "Crude petroleum production"
+          },
+          "B.06.1.0.0.9": {
+            "ID": 1722,
+            "SIC": "B.06.1.0.0.9",
+            "Category": "Crude petroleum production from bituminous shale and sand"
+          },
+          "B.06.1.0.0.10": {
+            "ID": 1723,
+            "SIC": "B.06.1.0.0.10",
+            "Category": "Oil platform operation"
+          },
+          "B.06.1.0.0.11": {
+            "ID": 1724,
+            "SIC": "B.06.1.0.0.11",
+            "Category": "Oil production well or platform operating"
+          },
+          "B.06.1.0.0.12": {
+            "ID": 1725,
+            "SIC": "B.06.1.0.0.12",
+            "Category": "Oil shale mine"
+          },
+          "B.06.1.0.0.13": {
+            "ID": 1726,
+            "SIC": "B.06.1.0.0.13",
+            "Category": "Oil shale retorting"
+          },
+          "B.06.1.0.0.14": {
+            "ID": 1727,
+            "SIC": "B.06.1.0.0.14",
+            "Category": "Oil stabilisation plant operation"
+          }
+        }
+      },
+      "B.06.2": {
+        "ID": 70,
+        "SIC": "B.06.2",
+        "Category": "Extraction of natural gas",
+        "B.06.2.0": {
+          "ID": 71,
+          "SIC": "B.06.2.0",
+          "Category": "Extraction of natural gas",
+          "B.06.2.0.0.1": {
+            "ID": 1728,
+            "SIC": "B.06.2.0.0.1",
+            "Category": "Butane extraction from natural gas"
+          },
+          "B.06.2.0.0.2": {
+            "ID": 1729,
+            "SIC": "B.06.2.0.0.2",
+            "Category": "Condensate extraction"
+          },
+          "B.06.2.0.0.3": {
+            "ID": 1730,
+            "SIC": "B.06.2.0.0.3",
+            "Category": "Crude gaseous hydrocarbon production (natural gas)"
+          },
+          "B.06.2.0.0.4": {
+            "ID": 1731,
+            "SIC": "B.06.2.0.0.4",
+            "Category": "Ethane extraction from natural gas"
+          },
+          "B.06.2.0.0.5": {
+            "ID": 1732,
+            "SIC": "B.06.2.0.0.5",
+            "Category": "Extraction of coal mine methane"
+          },
+          "B.06.2.0.0.6": {
+            "ID": 1733,
+            "SIC": "B.06.2.0.0.6",
+            "Category": "Gas desulphurisation"
+          },
+          "B.06.2.0.0.7": {
+            "ID": 1734,
+            "SIC": "B.06.2.0.0.7",
+            "Category": "Gas extraction (natural gas)"
+          },
+          "B.06.2.0.0.8": {
+            "ID": 1735,
+            "SIC": "B.06.2.0.0.8",
+            "Category": "Hydrocarbon liquids mining, by liquefaction or pyrolysis"
+          },
+          "B.06.2.0.0.9": {
+            "ID": 1736,
+            "SIC": "B.06.2.0.0.9",
+            "Category": "Liquid hydrocarbon fractions draining and separation"
+          },
+          "B.06.2.0.0.10": {
+            "ID": 1737,
+            "SIC": "B.06.2.0.0.10",
+            "Category": "Methane extraction from natural gas"
+          },
+          "B.06.2.0.0.11": {
+            "ID": 1738,
+            "SIC": "B.06.2.0.0.11",
+            "Category": "Natural gas condensates separation"
+          },
+          "B.06.2.0.0.12": {
+            "ID": 1739,
+            "SIC": "B.06.2.0.0.12",
+            "Category": "Natural gas production well"
+          },
+          "B.06.2.0.0.13": {
+            "ID": 1740,
+            "SIC": "B.06.2.0.0.13",
+            "Category": "Propane extraction from natural gas"
+          }
+        }
+      }
+    },
+    "B.07": {
+      "ID": 72,
+      "SIC": "B.07",
+      "Category": "Mining of metal ores",
+      "B.07.1": {
+        "ID": 73,
+        "SIC": "B.07.1",
+        "Category": "Mining of iron ores",
+        "B.07.1.0": {
+          "ID": 74,
+          "SIC": "B.07.1.0",
+          "Category": "Mining of iron ores",
+          "B.07.1.0.0.1": {
+            "ID": 1741,
+            "SIC": "B.07.1.0.0.1",
+            "Category": "Haematite quarry"
+          },
+          "B.07.1.0.0.2": {
+            "ID": 1742,
+            "SIC": "B.07.1.0.0.2",
+            "Category": "Iron ore beneficiation and agglomeration"
+          },
+          "B.07.1.0.0.3": {
+            "ID": 1743,
+            "SIC": "B.07.1.0.0.3",
+            "Category": "Iron ore calcining"
+          },
+          "B.07.1.0.0.4": {
+            "ID": 1744,
+            "SIC": "B.07.1.0.0.4",
+            "Category": "Iron ore crushing"
+          },
+          "B.07.1.0.0.5": {
+            "ID": 1745,
+            "SIC": "B.07.1.0.0.5",
+            "Category": "Iron ore mine or quarry"
+          },
+          "B.07.1.0.0.6": {
+            "ID": 1746,
+            "SIC": "B.07.1.0.0.6",
+            "Category": "Iron ore preparation"
+          },
+          "B.07.1.0.0.7": {
+            "ID": 1747,
+            "SIC": "B.07.1.0.0.7",
+            "Category": "Iron ore sintering"
+          },
+          "B.07.1.0.0.8": {
+            "ID": 1748,
+            "SIC": "B.07.1.0.0.8",
+            "Category": "Iron ore washing"
+          }
+        }
+      },
+      "B.07.2": {
+        "ID": 75,
+        "SIC": "B.07.2",
+        "Category": "Mining of non-ferrous metal ores",
+        "B.07.2.1": {
+          "ID": 76,
+          "SIC": "B.07.2.1",
+          "Category": "Mining of uranium and thorium ores",
+          "B.07.2.1.0.1": {
+            "ID": 1749,
+            "SIC": "B.07.2.1.0.1",
+            "Category": "Thorium ores mining"
+          },
+          "B.07.2.1.0.2": {
+            "ID": 1750,
+            "SIC": "B.07.2.1.0.2",
+            "Category": "Uranium and thorium ore concentration"
+          },
+          "B.07.2.1.0.3": {
+            "ID": 1751,
+            "SIC": "B.07.2.1.0.3",
+            "Category": "Uranium ore mining"
+          },
+          "B.07.2.1.0.4": {
+            "ID": 1752,
+            "SIC": "B.07.2.1.0.4",
+            "Category": "Yellowcake production"
+          }
+        },
+        "B.07.2.9": {
+          "ID": 77,
+          "SIC": "B.07.2.9",
+          "Category": "Mining of other non-ferrous metal ores",
+          "B.07.2.9.0.1": {
+            "ID": 1753,
+            "SIC": "B.07.2.9.0.1",
+            "Category": "Aluminium ore (bauxite) mining or preparation"
+          },
+          "B.07.2.9.0.2": {
+            "ID": 1754,
+            "SIC": "B.07.2.9.0.2",
+            "Category": "Chrome ore mining and preparation"
+          },
+          "B.07.2.9.0.3": {
+            "ID": 1755,
+            "SIC": "B.07.2.9.0.3",
+            "Category": "Cobalt mining and preparation"
+          },
+          "B.07.2.9.0.4": {
+            "ID": 1756,
+            "SIC": "B.07.2.9.0.4",
+            "Category": "Copper mining and preparation"
+          },
+          "B.07.2.9.0.5": {
+            "ID": 1757,
+            "SIC": "B.07.2.9.0.5",
+            "Category": "Copper ore and concentrate extraction and preparation"
+          },
+          "B.07.2.9.0.6": {
+            "ID": 1758,
+            "SIC": "B.07.2.9.0.6",
+            "Category": "Gold mining and preparation"
+          },
+          "B.07.2.9.0.7": {
+            "ID": 1759,
+            "SIC": "B.07.2.9.0.7",
+            "Category": "Lead mining and preparation"
+          },
+          "B.07.2.9.0.8": {
+            "ID": 1760,
+            "SIC": "B.07.2.9.0.8",
+            "Category": "Lead ore and concentrate extraction and preparation"
+          },
+          "B.07.2.9.0.9": {
+            "ID": 1761,
+            "SIC": "B.07.2.9.0.9",
+            "Category": "Manganese mining and preparation"
+          },
+          "B.07.2.9.0.10": {
+            "ID": 1762,
+            "SIC": "B.07.2.9.0.10",
+            "Category": "Mining of non-ferrous metal ore"
+          },
+          "B.07.2.9.0.11": {
+            "ID": 1763,
+            "SIC": "B.07.2.9.0.11",
+            "Category": "Molybdenum mining and preparation"
+          },
+          "B.07.2.9.0.12": {
+            "ID": 1764,
+            "SIC": "B.07.2.9.0.12",
+            "Category": "Nickel mining and preparation"
+          },
+          "B.07.2.9.0.13": {
+            "ID": 1765,
+            "SIC": "B.07.2.9.0.13",
+            "Category": "Non-ferrous metal ore quarrying"
+          },
+          "B.07.2.9.0.14": {
+            "ID": 1766,
+            "SIC": "B.07.2.9.0.14",
+            "Category": "Non-ferrous metal ores mining and preparation"
+          },
+          "B.07.2.9.0.15": {
+            "ID": 1767,
+            "SIC": "B.07.2.9.0.15",
+            "Category": "Platinum mining and preparation"
+          },
+          "B.07.2.9.0.16": {
+            "ID": 1768,
+            "SIC": "B.07.2.9.0.16",
+            "Category": "Precious metal ores mining and preparation"
+          },
+          "B.07.2.9.0.17": {
+            "ID": 1769,
+            "SIC": "B.07.2.9.0.17",
+            "Category": "Silver mining and preparation"
+          },
+          "B.07.2.9.0.18": {
+            "ID": 1770,
+            "SIC": "B.07.2.9.0.18",
+            "Category": "Silver ore and concentrate extraction and preparation"
+          },
+          "B.07.2.9.0.19": {
+            "ID": 1771,
+            "SIC": "B.07.2.9.0.19",
+            "Category": "Tantalum mining and preparation"
+          },
+          "B.07.2.9.0.20": {
+            "ID": 1772,
+            "SIC": "B.07.2.9.0.20",
+            "Category": "Tin mining and preparation"
+          },
+          "B.07.2.9.0.21": {
+            "ID": 1773,
+            "SIC": "B.07.2.9.0.21",
+            "Category": "Tin ore and concentrate extraction and preparation"
+          },
+          "B.07.2.9.0.22": {
+            "ID": 1774,
+            "SIC": "B.07.2.9.0.22",
+            "Category": "Vanadium mining and preparation"
+          },
+          "B.07.2.9.0.23": {
+            "ID": 1775,
+            "SIC": "B.07.2.9.0.23",
+            "Category": "Zinc mining and preparation"
+          }
+        }
+      }
+    },
+    "B.08": {
+      "ID": 78,
+      "SIC": "B.08",
+      "Category": "Other mining and quarrying",
+      "B.08.1": {
+        "ID": 79,
+        "SIC": "B.08.1",
+        "Category": "Quarrying of stone, sand and clay",
+        "B.08.1.1": {
+          "ID": 80,
+          "SIC": "B.08.1.1",
+          "Category": "Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",
+          "B.08.1.1.0.1": {
+            "ID": 1776,
+            "SIC": "B.08.1.1.0.1",
+            "Category": "Alabaster mine"
+          },
+          "B.08.1.1.0.2": {
+            "ID": 1777,
+            "SIC": "B.08.1.1.0.2",
+            "Category": "Anhydrite mine or quarry"
+          },
+          "B.08.1.1.0.3": {
+            "ID": 1778,
+            "SIC": "B.08.1.1.0.3",
+            "Category": "Basalt mine"
+          },
+          "B.08.1.1.0.4": {
+            "ID": 1779,
+            "SIC": "B.08.1.1.0.4",
+            "Category": "Blackstone quarry"
+          },
+          "B.08.1.1.0.5": {
+            "ID": 1780,
+            "SIC": "B.08.1.1.0.5",
+            "Category": "Blue pennant stone quarry"
+          },
+          "B.08.1.1.0.6": {
+            "ID": 1781,
+            "SIC": "B.08.1.1.0.6",
+            "Category": "Chalk pit or quarry"
+          },
+          "B.08.1.1.0.7": {
+            "ID": 1782,
+            "SIC": "B.08.1.1.0.7",
+            "Category": "Crushing and breaking of stone"
+          },
+          "B.08.1.1.0.8": {
+            "ID": 1783,
+            "SIC": "B.08.1.1.0.8",
+            "Category": "Flagstone quarry"
+          },
+          "B.08.1.1.0.9": {
+            "ID": 1784,
+            "SIC": "B.08.1.1.0.9",
+            "Category": "Freestone mine or quarry"
+          },
+          "B.08.1.1.0.10": {
+            "ID": 1785,
+            "SIC": "B.08.1.1.0.10",
+            "Category": "Granite quarrying (rough trimming and sawing)"
+          },
+          "B.08.1.1.0.11": {
+            "ID": 1786,
+            "SIC": "B.08.1.1.0.11",
+            "Category": "Gypsum mine or quarry"
+          },
+          "B.08.1.1.0.12": {
+            "ID": 1787,
+            "SIC": "B.08.1.1.0.12",
+            "Category": "Igneous rock quarry"
+          },
+          "B.08.1.1.0.13": {
+            "ID": 1788,
+            "SIC": "B.08.1.1.0.13",
+            "Category": "Limestone including dolomite mine or quarry"
+          },
+          "B.08.1.1.0.14": {
+            "ID": 1789,
+            "SIC": "B.08.1.1.0.14",
+            "Category": "Limestone quarrying, crushing and breaking for constructional purposes"
+          },
+          "B.08.1.1.0.15": {
+            "ID": 1790,
+            "SIC": "B.08.1.1.0.15",
+            "Category": "Marble quarrying (rough trimming and sawing)"
+          },
+          "B.08.1.1.0.16": {
+            "ID": 1791,
+            "SIC": "B.08.1.1.0.16",
+            "Category": "Marl mining"
+          },
+          "B.08.1.1.0.17": {
+            "ID": 1792,
+            "SIC": "B.08.1.1.0.17",
+            "Category": "Ornamental and building stone, breaking and crushing"
+          },
+          "B.08.1.1.0.18": {
+            "ID": 1793,
+            "SIC": "B.08.1.1.0.18",
+            "Category": "Ragstone quarry"
+          },
+          "B.08.1.1.0.19": {
+            "ID": 1794,
+            "SIC": "B.08.1.1.0.19",
+            "Category": "Rough trimming and sawing of building and monumental stone"
+          },
+          "B.08.1.1.0.20": {
+            "ID": 1795,
+            "SIC": "B.08.1.1.0.20",
+            "Category": "Sandstone mine, pit or quarry"
+          },
+          "B.08.1.1.0.21": {
+            "ID": 1796,
+            "SIC": "B.08.1.1.0.21",
+            "Category": "Sett quarry"
+          },
+          "B.08.1.1.0.22": {
+            "ID": 1797,
+            "SIC": "B.08.1.1.0.22",
+            "Category": "Slate mine or quarry"
+          },
+          "B.08.1.1.0.23": {
+            "ID": 1798,
+            "SIC": "B.08.1.1.0.23",
+            "Category": "Whinstone quarry"
+          },
+          "B.08.1.1.0.24": {
+            "ID": 1799,
+            "SIC": "B.08.1.1.0.24",
+            "Category": "Whiting and prepared chalk production"
+          }
+        },
+        "B.08.1.2": {
+          "ID": 81,
+          "SIC": "B.08.1.2",
+          "Category": "Operation of gravel and sand pits; mining of clays and kaolin",
+          "B.08.1.2.0.1": {
+            "ID": 1800,
+            "SIC": "B.08.1.2.0.1",
+            "Category": "Ball clay extraction (mine or opencast working)"
+          },
+          "B.08.1.2.0.2": {
+            "ID": 1801,
+            "SIC": "B.08.1.2.0.2",
+            "Category": "China clay (ground) production"
+          },
+          "B.08.1.2.0.3": {
+            "ID": 1802,
+            "SIC": "B.08.1.2.0.3",
+            "Category": "China clay pit"
+          },
+          "B.08.1.2.0.4": {
+            "ID": 1803,
+            "SIC": "B.08.1.2.0.4",
+            "Category": "China stone mine"
+          },
+          "B.08.1.2.0.5": {
+            "ID": 1804,
+            "SIC": "B.08.1.2.0.5",
+            "Category": "Clay extraction for brick, pipe and tile production"
+          },
+          "B.08.1.2.0.6": {
+            "ID": 1805,
+            "SIC": "B.08.1.2.0.6",
+            "Category": "Clay mining"
+          },
+          "B.08.1.2.0.7": {
+            "ID": 1806,
+            "SIC": "B.08.1.2.0.7",
+            "Category": "Clay quarrying"
+          },
+          "B.08.1.2.0.8": {
+            "ID": 1807,
+            "SIC": "B.08.1.2.0.8",
+            "Category": "Coated roadstone production"
+          },
+          "B.08.1.2.0.9": {
+            "ID": 1808,
+            "SIC": "B.08.1.2.0.9",
+            "Category": "Coated tarmacadam production"
+          },
+          "B.08.1.2.0.10": {
+            "ID": 1809,
+            "SIC": "B.08.1.2.0.10",
+            "Category": "Fireclay mine or quarry"
+          },
+          "B.08.1.2.0.11": {
+            "ID": 1810,
+            "SIC": "B.08.1.2.0.11",
+            "Category": "Flint bed, pit or quarry"
+          },
+          "B.08.1.2.0.12": {
+            "ID": 1811,
+            "SIC": "B.08.1.2.0.12",
+            "Category": "Flint grit production"
+          },
+          "B.08.1.2.0.13": {
+            "ID": 1812,
+            "SIC": "B.08.1.2.0.13",
+            "Category": "Fuller's earth pit"
+          },
+          "B.08.1.2.0.14": {
+            "ID": 1813,
+            "SIC": "B.08.1.2.0.14",
+            "Category": "Gravel and sand breaking and crushing"
+          },
+          "B.08.1.2.0.15": {
+            "ID": 1814,
+            "SIC": "B.08.1.2.0.15",
+            "Category": "Gravel pit or quarry"
+          },
+          "B.08.1.2.0.16": {
+            "ID": 1815,
+            "SIC": "B.08.1.2.0.16",
+            "Category": "Kaolin mining"
+          },
+          "B.08.1.2.0.17": {
+            "ID": 1816,
+            "SIC": "B.08.1.2.0.17",
+            "Category": "Pebble dredging"
+          },
+          "B.08.1.2.0.18": {
+            "ID": 1817,
+            "SIC": "B.08.1.2.0.18",
+            "Category": "Pipeclay pit"
+          },
+          "B.08.1.2.0.19": {
+            "ID": 1818,
+            "SIC": "B.08.1.2.0.19",
+            "Category": "Potters' clay mine or quarry"
+          },
+          "B.08.1.2.0.20": {
+            "ID": 1819,
+            "SIC": "B.08.1.2.0.20",
+            "Category": "Refractory clays mining"
+          },
+          "B.08.1.2.0.21": {
+            "ID": 1820,
+            "SIC": "B.08.1.2.0.21",
+            "Category": "Road metal production (crushed and processed)"
+          },
+          "B.08.1.2.0.22": {
+            "ID": 1821,
+            "SIC": "B.08.1.2.0.22",
+            "Category": "Roadstone (coated) production"
+          },
+          "B.08.1.2.0.23": {
+            "ID": 1822,
+            "SIC": "B.08.1.2.0.23",
+            "Category": "Sand dredging"
+          },
+          "B.08.1.2.0.24": {
+            "ID": 1823,
+            "SIC": "B.08.1.2.0.24",
+            "Category": "Sand extraction and dredging for industrial use"
+          },
+          "B.08.1.2.0.25": {
+            "ID": 1824,
+            "SIC": "B.08.1.2.0.25",
+            "Category": "Sand pit"
+          },
+          "B.08.1.2.0.26": {
+            "ID": 1825,
+            "SIC": "B.08.1.2.0.26",
+            "Category": "Sand quarry"
+          },
+          "B.08.1.2.0.27": {
+            "ID": 1826,
+            "SIC": "B.08.1.2.0.27",
+            "Category": "Shingle dredging"
+          },
+          "B.08.1.2.0.28": {
+            "ID": 1827,
+            "SIC": "B.08.1.2.0.28",
+            "Category": "Stone chippings production"
+          },
+          "B.08.1.2.0.29": {
+            "ID": 1828,
+            "SIC": "B.08.1.2.0.29",
+            "Category": "Stone dust production"
+          }
+        }
+      },
+      "B.08.9": {
+        "ID": 82,
+        "SIC": "B.08.9",
+        "Category": "Mining and quarrying n.e.c.",
+        "B.08.9.1": {
+          "ID": 83,
+          "SIC": "B.08.9.1",
+          "Category": "Mining of chemical and fertiliser minerals",
+          "B.08.9.1.0.1": {
+            "ID": 1829,
+            "SIC": "B.08.9.1.0.1",
+            "Category": "Alum mine"
+          },
+          "B.08.9.1.0.2": {
+            "ID": 1830,
+            "SIC": "B.08.9.1.0.2",
+            "Category": "Barium sulphate (natural) mining"
+          },
+          "B.08.9.1.0.3": {
+            "ID": 1831,
+            "SIC": "B.08.9.1.0.3",
+            "Category": "Barytes mine"
+          },
+          "B.08.9.1.0.4": {
+            "ID": 1832,
+            "SIC": "B.08.9.1.0.4",
+            "Category": "Borates (natural) mining"
+          },
+          "B.08.9.1.0.5": {
+            "ID": 1833,
+            "SIC": "B.08.9.1.0.5",
+            "Category": "Carbonate (barytes and witherite) mining"
+          },
+          "B.08.9.1.0.6": {
+            "ID": 1834,
+            "SIC": "B.08.9.1.0.6",
+            "Category": "Celestine pit"
+          },
+          "B.08.9.1.0.7": {
+            "ID": 1835,
+            "SIC": "B.08.9.1.0.7",
+            "Category": "Chemical minerals mining"
+          },
+          "B.08.9.1.0.8": {
+            "ID": 1836,
+            "SIC": "B.08.9.1.0.8",
+            "Category": "Earth colours and fluorspar mining"
+          },
+          "B.08.9.1.0.9": {
+            "ID": 1837,
+            "SIC": "B.08.9.1.0.9",
+            "Category": "Fertiliser minerals mining"
+          },
+          "B.08.9.1.0.10": {
+            "ID": 1838,
+            "SIC": "B.08.9.1.0.10",
+            "Category": "Fluorspar mining"
+          },
+          "B.08.9.1.0.11": {
+            "ID": 1839,
+            "SIC": "B.08.9.1.0.11",
+            "Category": "Guano mining"
+          },
+          "B.08.9.1.0.12": {
+            "ID": 1840,
+            "SIC": "B.08.9.1.0.12",
+            "Category": "Iron pyrites extraction (not for iron production)"
+          },
+          "B.08.9.1.0.13": {
+            "ID": 1841,
+            "SIC": "B.08.9.1.0.13",
+            "Category": "Magnesium sulphates (natural kieserite) mining"
+          },
+          "B.08.9.1.0.14": {
+            "ID": 1842,
+            "SIC": "B.08.9.1.0.14",
+            "Category": "Native sulphur mining"
+          },
+          "B.08.9.1.0.15": {
+            "ID": 1843,
+            "SIC": "B.08.9.1.0.15",
+            "Category": "Ochre pit"
+          },
+          "B.08.9.1.0.16": {
+            "ID": 1844,
+            "SIC": "B.08.9.1.0.16",
+            "Category": "Phosphates (natural) mining"
+          },
+          "B.08.9.1.0.17": {
+            "ID": 1845,
+            "SIC": "B.08.9.1.0.17",
+            "Category": "Potash mine"
+          },
+          "B.08.9.1.0.18": {
+            "ID": 1846,
+            "SIC": "B.08.9.1.0.18",
+            "Category": "Potassium salts (natural) mining"
+          },
+          "B.08.9.1.0.19": {
+            "ID": 1847,
+            "SIC": "B.08.9.1.0.19",
+            "Category": "Pyrites and pyrrhotite extraction and preparation"
+          }
+        },
+        "B.08.9.2": {
+          "ID": 84,
+          "SIC": "B.08.9.2",
+          "Category": "Extraction of peat",
+          "B.08.9.2.0.1": {
+            "ID": 1848,
+            "SIC": "B.08.9.2.0.1",
+            "Category": "Peat agglomeration"
+          },
+          "B.08.9.2.0.2": {
+            "ID": 1849,
+            "SIC": "B.08.9.2.0.2",
+            "Category": "Peat cutting and digging"
+          },
+          "B.08.9.2.0.3": {
+            "ID": 1850,
+            "SIC": "B.08.9.2.0.3",
+            "Category": "Peat extraction"
+          },
+          "B.08.9.2.0.4": {
+            "ID": 1851,
+            "SIC": "B.08.9.2.0.4",
+            "Category": "Peat, preparation to facilitate transport or storage"
+          },
+          "B.08.9.2.0.5": {
+            "ID": 1852,
+            "SIC": "B.08.9.2.0.5",
+            "Category": "Peat, preparation to improve quality"
+          }
+        },
+        "B.08.9.3": {
+          "ID": 85,
+          "SIC": "B.08.9.3",
+          "Category": "Extraction of salt",
+          "B.08.9.3.0.1": {
+            "ID": 1853,
+            "SIC": "B.08.9.3.0.1",
+            "Category": "Brine pit"
+          },
+          "B.08.9.3.0.2": {
+            "ID": 1854,
+            "SIC": "B.08.9.3.0.2",
+            "Category": "Brine production"
+          },
+          "B.08.9.3.0.3": {
+            "ID": 1855,
+            "SIC": "B.08.9.3.0.3",
+            "Category": "Rock salt production"
+          },
+          "B.08.9.3.0.4": {
+            "ID": 1856,
+            "SIC": "B.08.9.3.0.4",
+            "Category": "Salt crushing, purification and refining by the producer"
+          },
+          "B.08.9.3.0.5": {
+            "ID": 1857,
+            "SIC": "B.08.9.3.0.5",
+            "Category": "Salt extraction"
+          },
+          "B.08.9.3.0.6": {
+            "ID": 1858,
+            "SIC": "B.08.9.3.0.6",
+            "Category": "Salt, extraction of, from underground including by dissolving and pumping"
+          },
+          "B.08.9.3.0.7": {
+            "ID": 1859,
+            "SIC": "B.08.9.3.0.7",
+            "Category": "Salt mine"
+          },
+          "B.08.9.3.0.8": {
+            "ID": 1860,
+            "SIC": "B.08.9.3.0.8",
+            "Category": "Salt production"
+          },
+          "B.08.9.3.0.9": {
+            "ID": 1861,
+            "SIC": "B.08.9.3.0.9",
+            "Category": "Salt production by evaporation of sea water or other saline waters"
+          },
+          "B.08.9.3.0.10": {
+            "ID": 1862,
+            "SIC": "B.08.9.3.0.10",
+            "Category": "Salt works"
+          },
+          "B.08.9.3.0.11": {
+            "ID": 1863,
+            "SIC": "B.08.9.3.0.11",
+            "Category": "Sea salt production"
+          },
+          "B.08.9.3.0.12": {
+            "ID": 1864,
+            "SIC": "B.08.9.3.0.12",
+            "Category": "White salt production"
+          }
+        },
+        "B.08.9.9": {
+          "ID": 86,
+          "SIC": "B.08.9.9",
+          "Category": "Other mining and quarrying n.e.c.",
+          "B.08.9.9.0.1": {
+            "ID": 1865,
+            "SIC": "B.08.9.9.0.1",
+            "Category": "Abrasive materials mining and quarrying"
+          },
+          "B.08.9.9.0.2": {
+            "ID": 1866,
+            "SIC": "B.08.9.9.0.2",
+            "Category": "Asbestos mining and quarrying"
+          },
+          "B.08.9.9.0.3": {
+            "ID": 1867,
+            "SIC": "B.08.9.9.0.3",
+            "Category": "Asphalt (natural) mining and quarrying"
+          },
+          "B.08.9.9.0.4": {
+            "ID": 1868,
+            "SIC": "B.08.9.9.0.4",
+            "Category": "Asphaltites and asphaltic rock mining and quarrying"
+          },
+          "B.08.9.9.0.5": {
+            "ID": 1869,
+            "SIC": "B.08.9.9.0.5",
+            "Category": "Bitumen mining and quarrying"
+          },
+          "B.08.9.9.0.6": {
+            "ID": 1870,
+            "SIC": "B.08.9.9.0.6",
+            "Category": "Chert quarry"
+          },
+          "B.08.9.9.0.7": {
+            "ID": 1871,
+            "SIC": "B.08.9.9.0.7",
+            "Category": "Diatomite bed"
+          },
+          "B.08.9.9.0.8": {
+            "ID": 1872,
+            "SIC": "B.08.9.9.0.8",
+            "Category": "Emery extraction"
+          },
+          "B.08.9.9.0.9": {
+            "ID": 1873,
+            "SIC": "B.08.9.9.0.9",
+            "Category": "Feldspar mining and quarrying"
+          },
+          "B.08.9.9.0.10": {
+            "ID": 1874,
+            "SIC": "B.08.9.9.0.10",
+            "Category": "Ganister extraction"
+          },
+          "B.08.9.9.0.11": {
+            "ID": 1875,
+            "SIC": "B.08.9.9.0.11",
+            "Category": "Gem stones mining and quarrying"
+          },
+          "B.08.9.9.0.12": {
+            "ID": 1876,
+            "SIC": "B.08.9.9.0.12",
+            "Category": "Graphite (natural) mining"
+          },
+          "B.08.9.9.0.13": {
+            "ID": 1877,
+            "SIC": "B.08.9.9.0.13",
+            "Category": "Jet mine"
+          },
+          "B.08.9.9.0.14": {
+            "ID": 1878,
+            "SIC": "B.08.9.9.0.14",
+            "Category": "Mica mining and quarrying"
+          },
+          "B.08.9.9.0.15": {
+            "ID": 1879,
+            "SIC": "B.08.9.9.0.15",
+            "Category": "Pumice extraction"
+          },
+          "B.08.9.9.0.16": {
+            "ID": 1880,
+            "SIC": "B.08.9.9.0.16",
+            "Category": "Quartz mining and quarrying"
+          },
+          "B.08.9.9.0.17": {
+            "ID": 1881,
+            "SIC": "B.08.9.9.0.17",
+            "Category": "Rubbing stone mine, pit or quarry"
+          },
+          "B.08.9.9.0.18": {
+            "ID": 1882,
+            "SIC": "B.08.9.9.0.18",
+            "Category": "Semi-precious stones extraction"
+          },
+          "B.08.9.9.0.19": {
+            "ID": 1883,
+            "SIC": "B.08.9.9.0.19",
+            "Category": "Silica stone extraction or quarrying"
+          },
+          "B.08.9.9.0.20": {
+            "ID": 1884,
+            "SIC": "B.08.9.9.0.20",
+            "Category": "Siliceous fossil meals mining"
+          },
+          "B.08.9.9.0.21": {
+            "ID": 1885,
+            "SIC": "B.08.9.9.0.21",
+            "Category": "Steatite (talc) mining and quarrying"
+          },
+          "B.08.9.9.0.22": {
+            "ID": 1886,
+            "SIC": "B.08.9.9.0.22",
+            "Category": "Talc mine or quarry"
+          }
+        }
+      }
+    },
+    "B.09": {
+      "ID": 87,
+      "SIC": "B.09",
+      "Category": "Mining support service activities",
+      "B.09.1": {
+        "ID": 88,
+        "SIC": "B.09.1",
+        "Category": "Support activities for petroleum and natural gas extraction",
+        "B.09.1.0": {
+          "ID": 89,
+          "SIC": "B.09.1.0",
+          "Category": "Support activities for petroleum and natural gas extraction",
+          "B.09.1.0.0.1": {
+            "ID": 1887,
+            "SIC": "B.09.1.0.0.1",
+            "Category": "Derrick erection in situ, repairing and dismantling"
+          },
+          "B.09.1.0.0.2": {
+            "ID": 1888,
+            "SIC": "B.09.1.0.0.2",
+            "Category": "Directional drilling services"
+          },
+          "B.09.1.0.0.3": {
+            "ID": 1889,
+            "SIC": "B.09.1.0.0.3",
+            "Category": "Diving services incidental to oil and gas exploration"
+          },
+          "B.09.1.0.0.4": {
+            "ID": 1890,
+            "SIC": "B.09.1.0.0.4",
+            "Category": "Downhole-fishing services"
+          },
+          "B.09.1.0.0.5": {
+            "ID": 1891,
+            "SIC": "B.09.1.0.0.5",
+            "Category": "Downhole-milling services"
+          },
+          "B.09.1.0.0.6": {
+            "ID": 1892,
+            "SIC": "B.09.1.0.0.6",
+            "Category": "Draining and pumping services incidental to oil and gas extraction, on a fee or contract basis"
+          },
+          "B.09.1.0.0.7": {
+            "ID": 1893,
+            "SIC": "B.09.1.0.0.7",
+            "Category": "Drilling contractor for offshore oil or gas well"
+          },
+          "B.09.1.0.0.8": {
+            "ID": 1894,
+            "SIC": "B.09.1.0.0.8",
+            "Category": "Drilling services to oil and gas extraction wells"
+          },
+          "B.09.1.0.0.9": {
+            "ID": 1895,
+            "SIC": "B.09.1.0.0.9",
+            "Category": "Floating drilling rig operation for petroleum or natural gas exploration or production"
+          },
+          "B.09.1.0.0.10": {
+            "ID": 1896,
+            "SIC": "B.09.1.0.0.10",
+            "Category": "Fluid-displacement services"
+          },
+          "B.09.1.0.0.11": {
+            "ID": 1897,
+            "SIC": "B.09.1.0.0.11",
+            "Category": "Fracture/stimulation services"
+          },
+          "B.09.1.0.0.12": {
+            "ID": 1898,
+            "SIC": "B.09.1.0.0.12",
+            "Category": "Gas extraction service activities"
+          },
+          "B.09.1.0.0.13": {
+            "ID": 1899,
+            "SIC": "B.09.1.0.0.13",
+            "Category": "Gravel packing services"
+          },
+          "B.09.1.0.0.14": {
+            "ID": 1900,
+            "SIC": "B.09.1.0.0.14",
+            "Category": "Horizontal drilling services"
+          },
+          "B.09.1.0.0.15": {
+            "ID": 1901,
+            "SIC": "B.09.1.0.0.15",
+            "Category": "Hot-tap operation services"
+          },
+          "B.09.1.0.0.16": {
+            "ID": 1902,
+            "SIC": "B.09.1.0.0.16",
+            "Category": "Hyperbaric welding services"
+          },
+          "B.09.1.0.0.17": {
+            "ID": 1903,
+            "SIC": "B.09.1.0.0.17",
+            "Category": "Liquefaction and regasification of natural gas for transport"
+          },
+          "B.09.1.0.0.18": {
+            "ID": 1904,
+            "SIC": "B.09.1.0.0.18",
+            "Category": "Mud logging services"
+          },
+          "B.09.1.0.0.19": {
+            "ID": 1905,
+            "SIC": "B.09.1.0.0.19",
+            "Category": "Oil and gas exploration in connection with oil and gas extraction, including traditional prospecting"
+          },
+          "B.09.1.0.0.20": {
+            "ID": 1906,
+            "SIC": "B.09.1.0.0.20",
+            "Category": "Oil and gas extraction service activities provided on a fee or contract basis"
+          },
+          "B.09.1.0.0.21": {
+            "ID": 1907,
+            "SIC": "B.09.1.0.0.21",
+            "Category": "Oil and gas field fire fighting services"
+          },
+          "B.09.1.0.0.22": {
+            "ID": 1908,
+            "SIC": "B.09.1.0.0.22",
+            "Category": "Oil and gas well casing, cementing, tubing and lining services"
+          },
+          "B.09.1.0.0.23": {
+            "ID": 1909,
+            "SIC": "B.09.1.0.0.23",
+            "Category": "Oil and gas well cementing services"
+          },
+          "B.09.1.0.0.24": {
+            "ID": 1910,
+            "SIC": "B.09.1.0.0.24",
+            "Category": "Oil and gas well coiled-tubing wellwork"
+          },
+          "B.09.1.0.0.25": {
+            "ID": 1911,
+            "SIC": "B.09.1.0.0.25",
+            "Category": "Oil and gas well conductor driving services"
+          },
+          "B.09.1.0.0.26": {
+            "ID": 1912,
+            "SIC": "B.09.1.0.0.26",
+            "Category": "Oil and gas well cutting, casing and abandonment services"
+          },
+          "B.09.1.0.0.27": {
+            "ID": 1913,
+            "SIC": "B.09.1.0.0.27",
+            "Category": "Oil and gas well pipe refurbishment services"
+          },
+          "B.09.1.0.0.28": {
+            "ID": 1914,
+            "SIC": "B.09.1.0.0.28",
+            "Category": "Oil and gas well sleeving repair services"
+          },
+          "B.09.1.0.0.29": {
+            "ID": 1915,
+            "SIC": "B.09.1.0.0.29",
+            "Category": "Oil extraction service activities"
+          },
+          "B.09.1.0.0.30": {
+            "ID": 1916,
+            "SIC": "B.09.1.0.0.30",
+            "Category": "Petroleum and natural gas mining support activities"
+          },
+          "B.09.1.0.0.31": {
+            "ID": 1917,
+            "SIC": "B.09.1.0.0.31",
+            "Category": "Petroleum test well drilling"
+          },
+          "B.09.1.0.0.32": {
+            "ID": 1918,
+            "SIC": "B.09.1.0.0.32",
+            "Category": "Petroleum well drilling"
+          },
+          "B.09.1.0.0.33": {
+            "ID": 1919,
+            "SIC": "B.09.1.0.0.33",
+            "Category": "Plugging and abandoning oil and gas wells"
+          },
+          "B.09.1.0.0.34": {
+            "ID": 1920,
+            "SIC": "B.09.1.0.0.34",
+            "Category": "Pumping of oil and gas wells"
+          },
+          "B.09.1.0.0.35": {
+            "ID": 1921,
+            "SIC": "B.09.1.0.0.35",
+            "Category": "Redrilling oil and gas wells"
+          },
+          "B.09.1.0.0.36": {
+            "ID": 1922,
+            "SIC": "B.09.1.0.0.36",
+            "Category": "Repair and dismantling services of derricks"
+          },
+          "B.09.1.0.0.37": {
+            "ID": 1923,
+            "SIC": "B.09.1.0.0.37",
+            "Category": "Sealing of oil and gas wells"
+          },
+          "B.09.1.0.0.38": {
+            "ID": 1924,
+            "SIC": "B.09.1.0.0.38",
+            "Category": "Separation terminal operation (natural gas)"
+          },
+          "B.09.1.0.0.39": {
+            "ID": 1925,
+            "SIC": "B.09.1.0.0.39",
+            "Category": "Spudding in for oil wells"
+          },
+          "B.09.1.0.0.40": {
+            "ID": 1926,
+            "SIC": "B.09.1.0.0.40",
+            "Category": "Test boring incidental to oil and gas extraction"
+          },
+          "B.09.1.0.0.41": {
+            "ID": 1927,
+            "SIC": "B.09.1.0.0.41",
+            "Category": "Turbine drilling services"
+          },
+          "B.09.1.0.0.42": {
+            "ID": 1928,
+            "SIC": "B.09.1.0.0.42",
+            "Category": "Well-perforating services"
+          }
+        }
+      },
+      "B.09.9": {
+        "ID": 90,
+        "SIC": "B.09.9",
+        "Category": "Support activities for other mining and quarrying",
+        "B.09.9.0": {
+          "ID": 91,
+          "SIC": "B.09.9.0",
+          "Category": "Support activities for other mining and quarrying",
+          "B.09.9.0.0.1": {
+            "ID": 1929,
+            "SIC": "B.09.9.0.0.1",
+            "Category": "Chemicals and fertiliser minerals mining support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.2": {
+            "ID": 1930,
+            "SIC": "B.09.9.0.0.2",
+            "Category": "Clay and kaolin mining support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.3": {
+            "ID": 1931,
+            "SIC": "B.09.9.0.0.3",
+            "Category": "Gravel and sand pit support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.4": {
+            "ID": 1932,
+            "SIC": "B.09.9.0.0.4",
+            "Category": "Hard coal mining (opencast) support services, provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.5": {
+            "ID": 1933,
+            "SIC": "B.09.9.0.0.5",
+            "Category": "Hard coal mining (underground) support services, provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.6": {
+            "ID": 1934,
+            "SIC": "B.09.9.0.0.6",
+            "Category": "Iron ore mining support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.7": {
+            "ID": 1935,
+            "SIC": "B.09.9.0.0.7",
+            "Category": "Lignite mining support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.8": {
+            "ID": 1936,
+            "SIC": "B.09.9.0.0.8",
+            "Category": "Limestone, gypsum and chalk quarrying support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.9": {
+            "ID": 1937,
+            "SIC": "B.09.9.0.0.9",
+            "Category": "Mining and quarrying of residual class 08990, support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.10": {
+            "ID": 1938,
+            "SIC": "B.09.9.0.0.10",
+            "Category": "Non-ferrous metal ore mining of class 07290, support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.11": {
+            "ID": 1939,
+            "SIC": "B.09.9.0.0.11",
+            "Category": "Ornamental and building stone quarrying support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.12": {
+            "ID": 1940,
+            "SIC": "B.09.9.0.0.12",
+            "Category": "Peat extraction support services, provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.13": {
+            "ID": 1941,
+            "SIC": "B.09.9.0.0.13",
+            "Category": "Quarry blasting"
+          },
+          "B.09.9.0.0.14": {
+            "ID": 1942,
+            "SIC": "B.09.9.0.0.14",
+            "Category": "Salt production support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.15": {
+            "ID": 1943,
+            "SIC": "B.09.9.0.0.15",
+            "Category": "Slate quarrying support services provided on a fee or contract basis"
+          },
+          "B.09.9.0.0.16": {
+            "ID": 1944,
+            "SIC": "B.09.9.0.0.16",
+            "Category": "Uranium and thorium ore mining support services provided on a fee or contract basis"
+          }
+        }
+      }
+    }
+  }
+}

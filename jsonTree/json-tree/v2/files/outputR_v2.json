@@ -1,0 +1,1802 @@
+{
+  "R": {
+    "ID": 1117,
+    "SIC": "R",
+    "Category": "ARTS, ENTERTAINMENT AND RECREATION",
+    "R.90": {
+      "ID": 1118,
+      "SIC": "R.90",
+      "Category": "Creative, arts and entertainment activities",
+      "R.90.0": {
+        "ID": 1119,
+        "SIC": "R.90.0",
+        "Category": "Creative, arts and entertainment activities",
+        "R.90.0.1": {
+          "ID": 1120,
+          "SIC": "R.90.0.1",
+          "Category": "Performing arts",
+          "R.90.0.1.0.1": {
+            "ID": 15919,
+            "SIC": "R.90.0.1.0.1",
+            "Category": "Actors"
+          },
+          "R.90.0.1.0.2": {
+            "ID": 15920,
+            "SIC": "R.90.0.1.0.2",
+            "Category": "Aerobatic display"
+          },
+          "R.90.0.1.0.3": {
+            "ID": 15921,
+            "SIC": "R.90.0.1.0.3",
+            "Category": "Animal training for circuses, etc."
+          },
+          "R.90.0.1.0.4": {
+            "ID": 15922,
+            "SIC": "R.90.0.1.0.4",
+            "Category": "Ballet company"
+          },
+          "R.90.0.1.0.5": {
+            "ID": 15923,
+            "SIC": "R.90.0.1.0.5",
+            "Category": "Band (musical)"
+          },
+          "R.90.0.1.0.6": {
+            "ID": 15924,
+            "SIC": "R.90.0.1.0.6",
+            "Category": "Circus"
+          },
+          "R.90.0.1.0.7": {
+            "ID": 15925,
+            "SIC": "R.90.0.1.0.7",
+            "Category": "Concerts production"
+          },
+          "R.90.0.1.0.8": {
+            "ID": 15926,
+            "SIC": "R.90.0.1.0.8",
+            "Category": "Conjuror"
+          },
+          "R.90.0.1.0.9": {
+            "ID": 15927,
+            "SIC": "R.90.0.1.0.9",
+            "Category": "Dance band"
+          },
+          "R.90.0.1.0.10": {
+            "ID": 15928,
+            "SIC": "R.90.0.1.0.10",
+            "Category": "Dance productions"
+          },
+          "R.90.0.1.0.11": {
+            "ID": 15929,
+            "SIC": "R.90.0.1.0.11",
+            "Category": "Impresario"
+          },
+          "R.90.0.1.0.12": {
+            "ID": 15930,
+            "SIC": "R.90.0.1.0.12",
+            "Category": "Lecturers"
+          },
+          "R.90.0.1.0.13": {
+            "ID": 15931,
+            "SIC": "R.90.0.1.0.13",
+            "Category": "Musicians"
+          },
+          "R.90.0.1.0.14": {
+            "ID": 15932,
+            "SIC": "R.90.0.1.0.14",
+            "Category": "Opera production"
+          },
+          "R.90.0.1.0.15": {
+            "ID": 15933,
+            "SIC": "R.90.0.1.0.15",
+            "Category": "Orchestras"
+          },
+          "R.90.0.1.0.16": {
+            "ID": 15934,
+            "SIC": "R.90.0.1.0.16",
+            "Category": "Photographic model (own account)"
+          },
+          "R.90.0.1.0.17": {
+            "ID": 15935,
+            "SIC": "R.90.0.1.0.17",
+            "Category": "Pop group"
+          },
+          "R.90.0.1.0.18": {
+            "ID": 15936,
+            "SIC": "R.90.0.1.0.18",
+            "Category": "Public speaker"
+          },
+          "R.90.0.1.0.19": {
+            "ID": 15937,
+            "SIC": "R.90.0.1.0.19",
+            "Category": "Repertory company"
+          },
+          "R.90.0.1.0.20": {
+            "ID": 15938,
+            "SIC": "R.90.0.1.0.20",
+            "Category": "Revue company"
+          },
+          "R.90.0.1.0.21": {
+            "ID": 15939,
+            "SIC": "R.90.0.1.0.21",
+            "Category": "Singer (own account)"
+          },
+          "R.90.0.1.0.22": {
+            "ID": 15940,
+            "SIC": "R.90.0.1.0.22",
+            "Category": "Speakers (after dinner etc.)"
+          },
+          "R.90.0.1.0.23": {
+            "ID": 15941,
+            "SIC": "R.90.0.1.0.23",
+            "Category": "Stage productions"
+          },
+          "R.90.0.1.0.24": {
+            "ID": 15942,
+            "SIC": "R.90.0.1.0.24",
+            "Category": "Street musician or singer"
+          },
+          "R.90.0.1.0.25": {
+            "ID": 15943,
+            "SIC": "R.90.0.1.0.25",
+            "Category": "Theatrical presentations (live production))"
+          },
+          "R.90.0.1.0.26": {
+            "ID": 15944,
+            "SIC": "R.90.0.1.0.26",
+            "Category": "Theatrical touring company"
+          },
+          "R.90.0.1.0.27": {
+            "ID": 15945,
+            "SIC": "R.90.0.1.0.27",
+            "Category": "Travelling show"
+          },
+          "R.90.0.1.0.28": {
+            "ID": 15946,
+            "SIC": "R.90.0.1.0.28",
+            "Category": "Variety artiste (own account)"
+          },
+          "R.90.0.1.0.29": {
+            "ID": 15947,
+            "SIC": "R.90.0.1.0.29",
+            "Category": "Ventriloquist"
+          }
+        },
+        "R.90.0.2": {
+          "ID": 1121,
+          "SIC": "R.90.0.2",
+          "Category": "Support activities to performing arts",
+          "R.90.0.2.0.1": {
+            "ID": 15948,
+            "SIC": "R.90.0.2.0.1",
+            "Category": "Cultural event organisation"
+          },
+          "R.90.0.2.0.2": {
+            "ID": 15949,
+            "SIC": "R.90.0.2.0.2",
+            "Category": "Dance festival organisation"
+          },
+          "R.90.0.2.0.3": {
+            "ID": 15950,
+            "SIC": "R.90.0.2.0.3",
+            "Category": "Direction, production and support activities to circus performances"
+          },
+          "R.90.0.2.0.4": {
+            "ID": 15951,
+            "SIC": "R.90.0.2.0.4",
+            "Category": "Directors (theatre)"
+          },
+          "R.90.0.2.0.5": {
+            "ID": 15952,
+            "SIC": "R.90.0.2.0.5",
+            "Category": "Film director"
+          },
+          "R.90.0.2.0.6": {
+            "ID": 15953,
+            "SIC": "R.90.0.2.0.6",
+            "Category": "Film festival organisation"
+          },
+          "R.90.0.2.0.7": {
+            "ID": 15954,
+            "SIC": "R.90.0.2.0.7",
+            "Category": "Music festival organisation"
+          },
+          "R.90.0.2.0.8": {
+            "ID": 15955,
+            "SIC": "R.90.0.2.0.8",
+            "Category": "Performing arts support activities"
+          },
+          "R.90.0.2.0.9": {
+            "ID": 15956,
+            "SIC": "R.90.0.2.0.9",
+            "Category": "Scene shifters and lighting engineers"
+          },
+          "R.90.0.2.0.10": {
+            "ID": 15957,
+            "SIC": "R.90.0.2.0.10",
+            "Category": "Scenography"
+          },
+          "R.90.0.2.0.11": {
+            "ID": 15958,
+            "SIC": "R.90.0.2.0.11",
+            "Category": "Scriptwriter"
+          },
+          "R.90.0.2.0.12": {
+            "ID": 15959,
+            "SIC": "R.90.0.2.0.12",
+            "Category": "Stage set designers and builders"
+          },
+          "R.90.0.2.0.13": {
+            "ID": 15960,
+            "SIC": "R.90.0.2.0.13",
+            "Category": "Support activities to performing arts e.g. stage set-up, costume and lighting design etc."
+          }
+        },
+        "R.90.0.3": {
+          "ID": 1122,
+          "SIC": "R.90.0.3",
+          "Category": "Artistic creation",
+          "R.90.0.3.0.1": {
+            "ID": 15961,
+            "SIC": "R.90.0.3.0.1",
+            "Category": "Art expert"
+          },
+          "R.90.0.3.0.2": {
+            "ID": 15962,
+            "SIC": "R.90.0.3.0.2",
+            "Category": "Artist"
+          },
+          "R.90.0.3.0.3": {
+            "ID": 15963,
+            "SIC": "R.90.0.3.0.3",
+            "Category": "Author"
+          },
+          "R.90.0.3.0.4": {
+            "ID": 15964,
+            "SIC": "R.90.0.3.0.4",
+            "Category": "Cartoonists"
+          },
+          "R.90.0.3.0.5": {
+            "ID": 15965,
+            "SIC": "R.90.0.3.0.5",
+            "Category": "Copper plate engraver (artistic)"
+          },
+          "R.90.0.3.0.6": {
+            "ID": 15966,
+            "SIC": "R.90.0.3.0.6",
+            "Category": "Decorative wall painting"
+          },
+          "R.90.0.3.0.7": {
+            "ID": 15967,
+            "SIC": "R.90.0.3.0.7",
+            "Category": "Designing (artistic)"
+          },
+          "R.90.0.3.0.8": {
+            "ID": 15968,
+            "SIC": "R.90.0.3.0.8",
+            "Category": "Engravers"
+          },
+          "R.90.0.3.0.9": {
+            "ID": 15969,
+            "SIC": "R.90.0.3.0.9",
+            "Category": "Etchers"
+          },
+          "R.90.0.3.0.10": {
+            "ID": 15970,
+            "SIC": "R.90.0.3.0.10",
+            "Category": "Fashion artist"
+          },
+          "R.90.0.3.0.11": {
+            "ID": 15971,
+            "SIC": "R.90.0.3.0.11",
+            "Category": "Fine art expert"
+          },
+          "R.90.0.3.0.12": {
+            "ID": 15972,
+            "SIC": "R.90.0.3.0.12",
+            "Category": "Freelance journalist"
+          },
+          "R.90.0.3.0.13": {
+            "ID": 15973,
+            "SIC": "R.90.0.3.0.13",
+            "Category": "Furnace tile restoration"
+          },
+          "R.90.0.3.0.14": {
+            "ID": 15974,
+            "SIC": "R.90.0.3.0.14",
+            "Category": "Heraldic painting"
+          },
+          "R.90.0.3.0.15": {
+            "ID": 15975,
+            "SIC": "R.90.0.3.0.15",
+            "Category": "Illuminating (illustrating)"
+          },
+          "R.90.0.3.0.16": {
+            "ID": 15976,
+            "SIC": "R.90.0.3.0.16",
+            "Category": "Journalists"
+          },
+          "R.90.0.3.0.17": {
+            "ID": 15977,
+            "SIC": "R.90.0.3.0.17",
+            "Category": "Librettist"
+          },
+          "R.90.0.3.0.18": {
+            "ID": 15978,
+            "SIC": "R.90.0.3.0.18",
+            "Category": "Lithographic artist (own account)"
+          },
+          "R.90.0.3.0.19": {
+            "ID": 15979,
+            "SIC": "R.90.0.3.0.19",
+            "Category": "Lyric author"
+          },
+          "R.90.0.3.0.20": {
+            "ID": 15980,
+            "SIC": "R.90.0.3.0.20",
+            "Category": "Music composer"
+          },
+          "R.90.0.3.0.21": {
+            "ID": 15981,
+            "SIC": "R.90.0.3.0.21",
+            "Category": "Music copyist and transcriber (own account)"
+          },
+          "R.90.0.3.0.22": {
+            "ID": 15982,
+            "SIC": "R.90.0.3.0.22",
+            "Category": "Painters (artistic)"
+          },
+          "R.90.0.3.0.23": {
+            "ID": 15983,
+            "SIC": "R.90.0.3.0.23",
+            "Category": "Picture restoring"
+          },
+          "R.90.0.3.0.24": {
+            "ID": 15984,
+            "SIC": "R.90.0.3.0.24",
+            "Category": "Playwright"
+          },
+          "R.90.0.3.0.25": {
+            "ID": 15985,
+            "SIC": "R.90.0.3.0.25",
+            "Category": "Poet"
+          },
+          "R.90.0.3.0.26": {
+            "ID": 15986,
+            "SIC": "R.90.0.3.0.26",
+            "Category": "Polychrome restoration (interior)"
+          },
+          "R.90.0.3.0.27": {
+            "ID": 15987,
+            "SIC": "R.90.0.3.0.27",
+            "Category": "Repair and restoration of works of art"
+          },
+          "R.90.0.3.0.28": {
+            "ID": 15988,
+            "SIC": "R.90.0.3.0.28",
+            "Category": "Scenario writer"
+          },
+          "R.90.0.3.0.29": {
+            "ID": 15989,
+            "SIC": "R.90.0.3.0.29",
+            "Category": "Scenic artist"
+          },
+          "R.90.0.3.0.30": {
+            "ID": 15990,
+            "SIC": "R.90.0.3.0.30",
+            "Category": "Sculptors"
+          },
+          "R.90.0.3.0.31": {
+            "ID": 15991,
+            "SIC": "R.90.0.3.0.31",
+            "Category": "Song writer"
+          },
+          "R.90.0.3.0.32": {
+            "ID": 15992,
+            "SIC": "R.90.0.3.0.32",
+            "Category": "Technical and training manual authors"
+          },
+          "R.90.0.3.0.33": {
+            "ID": 15993,
+            "SIC": "R.90.0.3.0.33",
+            "Category": "Text and composition writing on a fee or contract basis"
+          },
+          "R.90.0.3.0.34": {
+            "ID": 15994,
+            "SIC": "R.90.0.3.0.34",
+            "Category": "Wood engraver (artistic)"
+          }
+        },
+        "R.90.0.4": {
+          "ID": 1123,
+          "SIC": "R.90.0.4",
+          "Category": "Operation of arts facilities",
+          "R.90.0.4.0.1": {
+            "ID": 15995,
+            "SIC": "R.90.0.4.0.1",
+            "Category": "Arts facilities operation"
+          },
+          "R.90.0.4.0.2": {
+            "ID": 15996,
+            "SIC": "R.90.0.4.0.2",
+            "Category": "Concert halls operation"
+          },
+          "R.90.0.4.0.3": {
+            "ID": 15997,
+            "SIC": "R.90.0.4.0.3",
+            "Category": "Local authority concert halls and theatres"
+          },
+          "R.90.0.4.0.4": {
+            "ID": 15998,
+            "SIC": "R.90.0.4.0.4",
+            "Category": "Music hall"
+          },
+          "R.90.0.4.0.5": {
+            "ID": 15999,
+            "SIC": "R.90.0.4.0.5",
+            "Category": "Opera house"
+          },
+          "R.90.0.4.0.6": {
+            "ID": 16000,
+            "SIC": "R.90.0.4.0.6",
+            "Category": "Theatre halls operation"
+          }
+        }
+      }
+    },
+    "R.91": {
+      "ID": 1124,
+      "SIC": "R.91",
+      "Category": "Libraries, archives, museums and other cultural activities",
+      "R.91.0": {
+        "ID": 1125,
+        "SIC": "R.91.0",
+        "Category": "Libraries, archives, museums and other cultural activities",
+        "R.91.0.1": {
+          "ID": 1126,
+          "SIC": "R.91.0.1",
+          "Category": "Library and archive activities",
+          "R.91.0.1.1": {
+            "ID": 1127,
+            "SIC": "R.91.0.1.1",
+            "Category": "Library activities",
+            "R.91.0.1.1.1": {
+              "ID": 16001,
+              "SIC": "R.91.0.1.1.1",
+              "Category": "Art work lending and storage"
+            },
+            "R.91.0.1.1.2": {
+              "ID": 16002,
+              "SIC": "R.91.0.1.1.2",
+              "Category": "Book lending and storage"
+            },
+            "R.91.0.1.1.3": {
+              "ID": 16003,
+              "SIC": "R.91.0.1.1.3",
+              "Category": "British Library"
+            },
+            "R.91.0.1.1.4": {
+              "ID": 16004,
+              "SIC": "R.91.0.1.1.4",
+              "Category": "Cataloguing and preservation of collections"
+            },
+            "R.91.0.1.1.5": {
+              "ID": 16005,
+              "SIC": "R.91.0.1.1.5",
+              "Category": "Film lending and storage"
+            },
+            "R.91.0.1.1.6": {
+              "ID": 16006,
+              "SIC": "R.91.0.1.1.6",
+              "Category": "Lending and storage of books, periodicals "
+            },
+            "R.91.0.1.1.7": {
+              "ID": 16007,
+              "SIC": "R.91.0.1.1.7",
+              "Category": "Lending and storage of CDs, DVDs "
+            },
+            "R.91.0.1.1.8": {
+              "ID": 16008,
+              "SIC": "R.91.0.1.1.8",
+              "Category": "Lending and storage of maps music"
+            },
+            "R.91.0.1.1.9": {
+              "ID": 16009,
+              "SIC": "R.91.0.1.1.9",
+              "Category": "Libraries"
+            },
+            "R.91.0.1.1.10": {
+              "ID": 16010,
+              "SIC": "R.91.0.1.1.10",
+              "Category": "Library access to IT facilities including internet"
+            },
+            "R.91.0.1.1.11": {
+              "ID": 16011,
+              "SIC": "R.91.0.1.1.11",
+              "Category": "Library training courses (it, information literacy, basic skills) "
+            },
+            "R.91.0.1.1.12": {
+              "ID": 16012,
+              "SIC": "R.91.0.1.1.12",
+              "Category": "Map lending and storage"
+            },
+            "R.91.0.1.1.13": {
+              "ID": 16013,
+              "SIC": "R.91.0.1.1.13",
+              "Category": "National library of Scotland"
+            },
+            "R.91.0.1.1.14": {
+              "ID": 16014,
+              "SIC": "R.91.0.1.1.14",
+              "Category": "National library of Wales"
+            },
+            "R.91.0.1.1.15": {
+              "ID": 16015,
+              "SIC": "R.91.0.1.1.15",
+              "Category": "Periodicals lending and storage"
+            },
+            "R.91.0.1.1.16": {
+              "ID": 16016,
+              "SIC": "R.91.0.1.1.16",
+              "Category": "Reading room (library)"
+            },
+            "R.91.0.1.1.17": {
+              "ID": 16017,
+              "SIC": "R.91.0.1.1.17",
+              "Category": "Record lending and storage"
+            },
+            "R.91.0.1.1.18": {
+              "ID": 16018,
+              "SIC": "R.91.0.1.1.18",
+              "Category": "RNIB national library service"
+            },
+            "R.91.0.1.1.19": {
+              "ID": 16019,
+              "SIC": "R.91.0.1.1.19",
+              "Category": "Tapes (music and video) lending and storage"
+            }
+          },
+          "R.91.0.1.2": {
+            "ID": 1128,
+            "SIC": "R.91.0.1.2",
+            "Category": "Archive activities",
+            "R.91.0.1.2.1": {
+              "ID": 16020,
+              "SIC": "R.91.0.1.2.1",
+              "Category": "Archive activities"
+            },
+            "R.91.0.1.2.2": {
+              "ID": 16021,
+              "SIC": "R.91.0.1.2.2",
+              "Category": "Government records and archives maintenance and storage (public sector)"
+            }
+          }
+        },
+        "R.91.0.2": {
+          "ID": 1129,
+          "SIC": "R.91.0.2",
+          "Category": "Museum activities",
+          "R.91.0.2.0.1": {
+            "ID": 16022,
+            "SIC": "R.91.0.2.0.1",
+            "Category": "Art gallery (not dealer)"
+          },
+          "R.91.0.2.0.2": {
+            "ID": 16023,
+            "SIC": "R.91.0.2.0.2",
+            "Category": "Art museums"
+          },
+          "R.91.0.2.0.3": {
+            "ID": 16024,
+            "SIC": "R.91.0.2.0.3",
+            "Category": "British Museum"
+          },
+          "R.91.0.2.0.4": {
+            "ID": 16025,
+            "SIC": "R.91.0.2.0.4",
+            "Category": "Historical museums"
+          },
+          "R.91.0.2.0.5": {
+            "ID": 16026,
+            "SIC": "R.91.0.2.0.5",
+            "Category": "Imperial War Museum"
+          },
+          "R.91.0.2.0.6": {
+            "ID": 16027,
+            "SIC": "R.91.0.2.0.6",
+            "Category": "Local authority art galleries and museums"
+          },
+          "R.91.0.2.0.7": {
+            "ID": 16028,
+            "SIC": "R.91.0.2.0.7",
+            "Category": "London Museum"
+          },
+          "R.91.0.2.0.8": {
+            "ID": 16029,
+            "SIC": "R.91.0.2.0.8",
+            "Category": "Military museums"
+          },
+          "R.91.0.2.0.9": {
+            "ID": 16030,
+            "SIC": "R.91.0.2.0.9",
+            "Category": "Museums of all kinds"
+          },
+          "R.91.0.2.0.10": {
+            "ID": 16031,
+            "SIC": "R.91.0.2.0.10",
+            "Category": "Museums of furniture, costumes, ceramics, silverware "
+          },
+          "R.91.0.2.0.11": {
+            "ID": 16032,
+            "SIC": "R.91.0.2.0.11",
+            "Category": "Museums of jewellery"
+          },
+          "R.91.0.2.0.12": {
+            "ID": 16033,
+            "SIC": "R.91.0.2.0.12",
+            "Category": "National gallery"
+          },
+          "R.91.0.2.0.13": {
+            "ID": 16034,
+            "SIC": "R.91.0.2.0.13",
+            "Category": "National maritime museum"
+          },
+          "R.91.0.2.0.14": {
+            "ID": 16035,
+            "SIC": "R.91.0.2.0.14",
+            "Category": "National museum of Scotland"
+          },
+          "R.91.0.2.0.15": {
+            "ID": 16036,
+            "SIC": "R.91.0.2.0.15",
+            "Category": "National portrait gallery"
+          },
+          "R.91.0.2.0.16": {
+            "ID": 16037,
+            "SIC": "R.91.0.2.0.16",
+            "Category": "National trust garden (property)"
+          },
+          "R.91.0.2.0.17": {
+            "ID": 16038,
+            "SIC": "R.91.0.2.0.17",
+            "Category": "Natural history museum"
+          },
+          "R.91.0.2.0.18": {
+            "ID": 16039,
+            "SIC": "R.91.0.2.0.18",
+            "Category": "Open air museums"
+          },
+          "R.91.0.2.0.19": {
+            "ID": 16040,
+            "SIC": "R.91.0.2.0.19",
+            "Category": "Scottish National Gallery"
+          },
+          "R.91.0.2.0.20": {
+            "ID": 16041,
+            "SIC": "R.91.0.2.0.20",
+            "Category": "Tate Britain"
+          },
+          "R.91.0.2.0.21": {
+            "ID": 16042,
+            "SIC": "R.91.0.2.0.21",
+            "Category": "Technological museums"
+          },
+          "R.91.0.2.0.22": {
+            "ID": 16043,
+            "SIC": "R.91.0.2.0.22",
+            "Category": "Victoria and Albert Museum"
+          },
+          "R.91.0.2.0.23": {
+            "ID": 16044,
+            "SIC": "R.91.0.2.0.23",
+            "Category": "Victoria and Albert Museum of Childhood"
+          },
+          "R.91.0.2.0.24": {
+            "ID": 16045,
+            "SIC": "R.91.0.2.0.24",
+            "Category": "Wallace collection"
+          }
+        },
+        "R.91.0.3": {
+          "ID": 1130,
+          "SIC": "R.91.0.3",
+          "Category": "Operation of historical sites and buildings and similar visitor attractions",
+          "R.91.0.3.0.1": {
+            "ID": 16046,
+            "SIC": "R.91.0.3.0.1",
+            "Category": "Historical sites and buildings preservation"
+          },
+          "R.91.0.3.0.2": {
+            "ID": 16047,
+            "SIC": "R.91.0.3.0.2",
+            "Category": "Preservation society for historic houses"
+          }
+        },
+        "R.91.0.4": {
+          "ID": 1131,
+          "SIC": "R.91.0.4",
+          "Category": "Botanical and zoological gardens and nature reserve activities",
+          "R.91.0.4.0.1": {
+            "ID": 16048,
+            "SIC": "R.91.0.4.0.1",
+            "Category": "Botanical gardens"
+          },
+          "R.91.0.4.0.2": {
+            "ID": 16049,
+            "SIC": "R.91.0.4.0.2",
+            "Category": "Children's zoos"
+          },
+          "R.91.0.4.0.3": {
+            "ID": 16050,
+            "SIC": "R.91.0.4.0.3",
+            "Category": "Menagerie"
+          },
+          "R.91.0.4.0.4": {
+            "ID": 16051,
+            "SIC": "R.91.0.4.0.4",
+            "Category": "Nature reserves including wildlife preservation"
+          },
+          "R.91.0.4.0.5": {
+            "ID": 16052,
+            "SIC": "R.91.0.4.0.5",
+            "Category": "Royal Botanical Gardens Kew"
+          },
+          "R.91.0.4.0.6": {
+            "ID": 16053,
+            "SIC": "R.91.0.4.0.6",
+            "Category": "Wildlife preservation services"
+          },
+          "R.91.0.4.0.7": {
+            "ID": 16054,
+            "SIC": "R.91.0.4.0.7",
+            "Category": "Zoological gardens"
+          }
+        }
+      }
+    },
+    "R.92": {
+      "ID": 1132,
+      "SIC": "R.92",
+      "Category": "Gambling and betting activities",
+      "R.92.0": {
+        "ID": 1133,
+        "SIC": "R.92.0",
+        "Category": "Gambling and betting activities",
+        "R.92.0.0": {
+          "ID": 1134,
+          "SIC": "R.92.0.0",
+          "Category": "Gambling and betting activities",
+          "R.92.0.0.0.1": {
+            "ID": 16055,
+            "SIC": "R.92.0.0.0.1",
+            "Category": "Amusement arcade"
+          },
+          "R.92.0.0.0.2": {
+            "ID": 16056,
+            "SIC": "R.92.0.0.0.2",
+            "Category": "Betting activities"
+          },
+          "R.92.0.0.0.3": {
+            "ID": 16057,
+            "SIC": "R.92.0.0.0.3",
+            "Category": "Betting shop"
+          },
+          "R.92.0.0.0.4": {
+            "ID": 16058,
+            "SIC": "R.92.0.0.0.4",
+            "Category": "Bingo hall"
+          },
+          "R.92.0.0.0.5": {
+            "ID": 16059,
+            "SIC": "R.92.0.0.0.5",
+            "Category": "Bookmaker"
+          },
+          "R.92.0.0.0.6": {
+            "ID": 16060,
+            "SIC": "R.92.0.0.0.6",
+            "Category": "Casino"
+          },
+          "R.92.0.0.0.7": {
+            "ID": 16061,
+            "SIC": "R.92.0.0.0.7",
+            "Category": "Coin-operated gambling machine establishments"
+          },
+          "R.92.0.0.0.8": {
+            "ID": 16062,
+            "SIC": "R.92.0.0.0.8",
+            "Category": "Floating casinos"
+          },
+          "R.92.0.0.0.9": {
+            "ID": 16063,
+            "SIC": "R.92.0.0.0.9",
+            "Category": "Football pools"
+          },
+          "R.92.0.0.0.10": {
+            "ID": 16064,
+            "SIC": "R.92.0.0.0.10",
+            "Category": "Gambling activities"
+          },
+          "R.92.0.0.0.11": {
+            "ID": 16065,
+            "SIC": "R.92.0.0.0.11",
+            "Category": "Gaming club"
+          },
+          "R.92.0.0.0.12": {
+            "ID": 16066,
+            "SIC": "R.92.0.0.0.12",
+            "Category": "Horse race betting levy board"
+          },
+          "R.92.0.0.0.13": {
+            "ID": 16067,
+            "SIC": "R.92.0.0.0.13",
+            "Category": "Lottery ticket sales"
+          },
+          "R.92.0.0.0.14": {
+            "ID": 16068,
+            "SIC": "R.92.0.0.0.14",
+            "Category": "Off-track betting"
+          },
+          "R.92.0.0.0.15": {
+            "ID": 16069,
+            "SIC": "R.92.0.0.0.15",
+            "Category": "Racing pool"
+          },
+          "R.92.0.0.0.16": {
+            "ID": 16070,
+            "SIC": "R.92.0.0.0.16",
+            "Category": "Racing tipster"
+          },
+          "R.92.0.0.0.17": {
+            "ID": 16071,
+            "SIC": "R.92.0.0.0.17",
+            "Category": "The Tote"
+          },
+          "R.92.0.0.0.18": {
+            "ID": 16072,
+            "SIC": "R.92.0.0.0.18",
+            "Category": "Tic tac person"
+          },
+          "R.92.0.0.0.19": {
+            "ID": 16073,
+            "SIC": "R.92.0.0.0.19",
+            "Category": "Totalisator"
+          },
+          "R.92.0.0.0.20": {
+            "ID": 16074,
+            "SIC": "R.92.0.0.0.20",
+            "Category": "Turf accountant"
+          },
+          "R.92.0.0.0.21": {
+            "ID": 16075,
+            "SIC": "R.92.0.0.0.21",
+            "Category": "Turf commission agency"
+          },
+          "R.92.0.0.0.22": {
+            "ID": 16076,
+            "SIC": "R.92.0.0.0.22",
+            "Category": "Virtual gambling web site operation"
+          }
+        }
+      }
+    },
+    "R.93": {
+      "ID": 1135,
+      "SIC": "R.93",
+      "Category": "Sports activities and amusement and recreation activities",
+      "R.93.1": {
+        "ID": 1136,
+        "SIC": "R.93.1",
+        "Category": "Sports activities",
+        "R.93.1.1": {
+          "ID": 1137,
+          "SIC": "R.93.1.1",
+          "Category": "Operation of sports facilities",
+          "R.93.1.1.0.1": {
+            "ID": 16077,
+            "SIC": "R.93.1.1.0.1",
+            "Category": "Activity centre (sports)"
+          },
+          "R.93.1.1.0.2": {
+            "ID": 16078,
+            "SIC": "R.93.1.1.0.2",
+            "Category": "Bathing pool proprietor"
+          },
+          "R.93.1.1.0.3": {
+            "ID": 16079,
+            "SIC": "R.93.1.1.0.3",
+            "Category": "Billiard room or saloon"
+          },
+          "R.93.1.1.0.4": {
+            "ID": 16080,
+            "SIC": "R.93.1.1.0.4",
+            "Category": "Bowling alley"
+          },
+          "R.93.1.1.0.5": {
+            "ID": 16081,
+            "SIC": "R.93.1.1.0.5",
+            "Category": "Bowling lanes operation"
+          },
+          "R.93.1.1.0.6": {
+            "ID": 16082,
+            "SIC": "R.93.1.1.0.6",
+            "Category": "Boxing arena"
+          },
+          "R.93.1.1.0.7": {
+            "ID": 16083,
+            "SIC": "R.93.1.1.0.7",
+            "Category": "Car, dog and horse racetrack operation "
+          },
+          "R.93.1.1.0.8": {
+            "ID": 16084,
+            "SIC": "R.93.1.1.0.8",
+            "Category": "Field and track stadium"
+          },
+          "R.93.1.1.0.9": {
+            "ID": 16085,
+            "SIC": "R.93.1.1.0.9",
+            "Category": "Football ground"
+          },
+          "R.93.1.1.0.10": {
+            "ID": 16086,
+            "SIC": "R.93.1.1.0.10",
+            "Category": "Football stadium"
+          },
+          "R.93.1.1.0.11": {
+            "ID": 16087,
+            "SIC": "R.93.1.1.0.11",
+            "Category": "Golf courses"
+          },
+          "R.93.1.1.0.12": {
+            "ID": 16088,
+            "SIC": "R.93.1.1.0.12",
+            "Category": "Golf links"
+          },
+          "R.93.1.1.0.13": {
+            "ID": 16089,
+            "SIC": "R.93.1.1.0.13",
+            "Category": "Greyhound racing stadium"
+          },
+          "R.93.1.1.0.14": {
+            "ID": 16090,
+            "SIC": "R.93.1.1.0.14",
+            "Category": "Greyhound track"
+          },
+          "R.93.1.1.0.15": {
+            "ID": 16091,
+            "SIC": "R.93.1.1.0.15",
+            "Category": "Groundsman"
+          },
+          "R.93.1.1.0.16": {
+            "ID": 16092,
+            "SIC": "R.93.1.1.0.16",
+            "Category": "Gymnasium"
+          },
+          "R.93.1.1.0.17": {
+            "ID": 16093,
+            "SIC": "R.93.1.1.0.17",
+            "Category": "Hockey, cricket, rugby stadiums operation"
+          },
+          "R.93.1.1.0.18": {
+            "ID": 16094,
+            "SIC": "R.93.1.1.0.18",
+            "Category": "Ice skating rink"
+          },
+          "R.93.1.1.0.19": {
+            "ID": 16095,
+            "SIC": "R.93.1.1.0.19",
+            "Category": "Ice-hockey arenas operation"
+          },
+          "R.93.1.1.0.20": {
+            "ID": 16096,
+            "SIC": "R.93.1.1.0.20",
+            "Category": "Leisure centres"
+          },
+          "R.93.1.1.0.21": {
+            "ID": 16097,
+            "SIC": "R.93.1.1.0.21",
+            "Category": "Local authority football and other sports grounds"
+          },
+          "R.93.1.1.0.22": {
+            "ID": 16098,
+            "SIC": "R.93.1.1.0.22",
+            "Category": "Local authority leisure centres"
+          },
+          "R.93.1.1.0.23": {
+            "ID": 16099,
+            "SIC": "R.93.1.1.0.23",
+            "Category": "Local authority recreational facilities"
+          },
+          "R.93.1.1.0.24": {
+            "ID": 16100,
+            "SIC": "R.93.1.1.0.24",
+            "Category": "Local authority sports facilities (incl. Football and other sports grounds, swimming baths, etc.)"
+          },
+          "R.93.1.1.0.25": {
+            "ID": 16101,
+            "SIC": "R.93.1.1.0.25",
+            "Category": "Local authority swimming pool"
+          },
+          "R.93.1.1.0.26": {
+            "ID": 16102,
+            "SIC": "R.93.1.1.0.26",
+            "Category": "Managing and providing the staff for sports facilities"
+          },
+          "R.93.1.1.0.27": {
+            "ID": 16103,
+            "SIC": "R.93.1.1.0.27",
+            "Category": "Operation of squash facilities"
+          },
+          "R.93.1.1.0.28": {
+            "ID": 16104,
+            "SIC": "R.93.1.1.0.28",
+            "Category": "Racecourse operation"
+          },
+          "R.93.1.1.0.29": {
+            "ID": 16105,
+            "SIC": "R.93.1.1.0.29",
+            "Category": "Rifle butts"
+          },
+          "R.93.1.1.0.30": {
+            "ID": 16106,
+            "SIC": "R.93.1.1.0.30",
+            "Category": "Roller skating rink"
+          },
+          "R.93.1.1.0.31": {
+            "ID": 16107,
+            "SIC": "R.93.1.1.0.31",
+            "Category": "Skittle alley"
+          },
+          "R.93.1.1.0.32": {
+            "ID": 16108,
+            "SIC": "R.93.1.1.0.32",
+            "Category": "Sports arenas"
+          },
+          "R.93.1.1.0.33": {
+            "ID": 16109,
+            "SIC": "R.93.1.1.0.33",
+            "Category": "Sports facilities operation"
+          },
+          "R.93.1.1.0.34": {
+            "ID": 16110,
+            "SIC": "R.93.1.1.0.34",
+            "Category": "Stadium operation"
+          },
+          "R.93.1.1.0.35": {
+            "ID": 16111,
+            "SIC": "R.93.1.1.0.35",
+            "Category": "Staging of sports events by organizations with their own facilities"
+          },
+          "R.93.1.1.0.36": {
+            "ID": 16112,
+            "SIC": "R.93.1.1.0.36",
+            "Category": "Swimming baths"
+          },
+          "R.93.1.1.0.37": {
+            "ID": 16113,
+            "SIC": "R.93.1.1.0.37",
+            "Category": "Swimming pools"
+          },
+          "R.93.1.1.0.38": {
+            "ID": 16114,
+            "SIC": "R.93.1.1.0.38",
+            "Category": "Tennis court"
+          },
+          "R.93.1.1.0.39": {
+            "ID": 16115,
+            "SIC": "R.93.1.1.0.39",
+            "Category": "Winter sport arenas and stadiums"
+          }
+        },
+        "R.93.1.2": {
+          "ID": 1138,
+          "SIC": "R.93.1.2",
+          "Category": "Activities of sport clubs",
+          "R.93.1.2.0.1": {
+            "ID": 16116,
+            "SIC": "R.93.1.2.0.1",
+            "Category": "Athletic club"
+          },
+          "R.93.1.2.0.2": {
+            "ID": 16117,
+            "SIC": "R.93.1.2.0.2",
+            "Category": "Badminton club"
+          },
+          "R.93.1.2.0.3": {
+            "ID": 16118,
+            "SIC": "R.93.1.2.0.3",
+            "Category": "Billiards and snooker club"
+          },
+          "R.93.1.2.0.4": {
+            "ID": 16119,
+            "SIC": "R.93.1.2.0.4",
+            "Category": "Bowling clubs"
+          },
+          "R.93.1.2.0.5": {
+            "ID": 16120,
+            "SIC": "R.93.1.2.0.5",
+            "Category": "Bowls club"
+          },
+          "R.93.1.2.0.6": {
+            "ID": 16121,
+            "SIC": "R.93.1.2.0.6",
+            "Category": "Boxing clubs"
+          },
+          "R.93.1.2.0.7": {
+            "ID": 16122,
+            "SIC": "R.93.1.2.0.7",
+            "Category": "Card clubs"
+          },
+          "R.93.1.2.0.8": {
+            "ID": 16123,
+            "SIC": "R.93.1.2.0.8",
+            "Category": "Chess clubs"
+          },
+          "R.93.1.2.0.9": {
+            "ID": 16124,
+            "SIC": "R.93.1.2.0.9",
+            "Category": "Cricket club"
+          },
+          "R.93.1.2.0.10": {
+            "ID": 16125,
+            "SIC": "R.93.1.2.0.10",
+            "Category": "Croquet club"
+          },
+          "R.93.1.2.0.11": {
+            "ID": 16126,
+            "SIC": "R.93.1.2.0.11",
+            "Category": "Cycle club"
+          },
+          "R.93.1.2.0.12": {
+            "ID": 16127,
+            "SIC": "R.93.1.2.0.12",
+            "Category": "Domino clubs"
+          },
+          "R.93.1.2.0.13": {
+            "ID": 16128,
+            "SIC": "R.93.1.2.0.13",
+            "Category": "Draughts clubs"
+          },
+          "R.93.1.2.0.14": {
+            "ID": 16129,
+            "SIC": "R.93.1.2.0.14",
+            "Category": "Field and track clubs"
+          },
+          "R.93.1.2.0.15": {
+            "ID": 16130,
+            "SIC": "R.93.1.2.0.15",
+            "Category": "Flying club"
+          },
+          "R.93.1.2.0.16": {
+            "ID": 16131,
+            "SIC": "R.93.1.2.0.16",
+            "Category": "Football clubs"
+          },
+          "R.93.1.2.0.17": {
+            "ID": 16132,
+            "SIC": "R.93.1.2.0.17",
+            "Category": "Glider club"
+          },
+          "R.93.1.2.0.18": {
+            "ID": 16133,
+            "SIC": "R.93.1.2.0.18",
+            "Category": "Golf club"
+          },
+          "R.93.1.2.0.19": {
+            "ID": 16134,
+            "SIC": "R.93.1.2.0.19",
+            "Category": "Greyhound Board of Great Britain (GBGB)"
+          },
+          "R.93.1.2.0.20": {
+            "ID": 16135,
+            "SIC": "R.93.1.2.0.20",
+            "Category": "Hockey club"
+          },
+          "R.93.1.2.0.21": {
+            "ID": 16136,
+            "SIC": "R.93.1.2.0.21",
+            "Category": "Ice hockey club"
+          },
+          "R.93.1.2.0.22": {
+            "ID": 16137,
+            "SIC": "R.93.1.2.0.22",
+            "Category": "Jockey club"
+          },
+          "R.93.1.2.0.23": {
+            "ID": 16138,
+            "SIC": "R.93.1.2.0.23",
+            "Category": "Majorette activities at sports events"
+          },
+          "R.93.1.2.0.24": {
+            "ID": 16139,
+            "SIC": "R.93.1.2.0.24",
+            "Category": "Marylebone Cricket Club (MCC)"
+          },
+          "R.93.1.2.0.25": {
+            "ID": 16140,
+            "SIC": "R.93.1.2.0.25",
+            "Category": "Pony Club"
+          },
+          "R.93.1.2.0.26": {
+            "ID": 16141,
+            "SIC": "R.93.1.2.0.26",
+            "Category": "Racquet club"
+          },
+          "R.93.1.2.0.27": {
+            "ID": 16142,
+            "SIC": "R.93.1.2.0.27",
+            "Category": "Rowing club"
+          },
+          "R.93.1.2.0.28": {
+            "ID": 16143,
+            "SIC": "R.93.1.2.0.28",
+            "Category": "Shooting clubs"
+          },
+          "R.93.1.2.0.29": {
+            "ID": 16144,
+            "SIC": "R.93.1.2.0.29",
+            "Category": "Snooker club"
+          },
+          "R.93.1.2.0.30": {
+            "ID": 16145,
+            "SIC": "R.93.1.2.0.30",
+            "Category": "Sports club"
+          },
+          "R.93.1.2.0.31": {
+            "ID": 16146,
+            "SIC": "R.93.1.2.0.31",
+            "Category": "Squash club"
+          },
+          "R.93.1.2.0.32": {
+            "ID": 16147,
+            "SIC": "R.93.1.2.0.32",
+            "Category": "Swimming clubs"
+          },
+          "R.93.1.2.0.33": {
+            "ID": 16148,
+            "SIC": "R.93.1.2.0.33",
+            "Category": "Tennis club"
+          },
+          "R.93.1.2.0.34": {
+            "ID": 16149,
+            "SIC": "R.93.1.2.0.34",
+            "Category": "Trotting Club"
+          },
+          "R.93.1.2.0.35": {
+            "ID": 16150,
+            "SIC": "R.93.1.2.0.35",
+            "Category": "Winter sport clubs"
+          },
+          "R.93.1.2.0.36": {
+            "ID": 16151,
+            "SIC": "R.93.1.2.0.36",
+            "Category": "Wrestling clubs"
+          },
+          "R.93.1.2.0.37": {
+            "ID": 16152,
+            "SIC": "R.93.1.2.0.37",
+            "Category": "Yacht club"
+          }
+        },
+        "R.93.1.3": {
+          "ID": 1139,
+          "SIC": "R.93.1.3",
+          "Category": "Fitness facilities",
+          "R.93.1.3.0.1": {
+            "ID": 16153,
+            "SIC": "R.93.1.3.0.1",
+            "Category": "Body-building clubs and facilities"
+          },
+          "R.93.1.3.0.2": {
+            "ID": 16154,
+            "SIC": "R.93.1.3.0.2",
+            "Category": "Fitness centre operation"
+          },
+          "R.93.1.3.0.3": {
+            "ID": 16155,
+            "SIC": "R.93.1.3.0.3",
+            "Category": "Health clubs"
+          }
+        },
+        "R.93.1.9": {
+          "ID": 1140,
+          "SIC": "R.93.1.9",
+          "Category": "Other sports activities",
+          "R.93.1.9.1": {
+            "ID": 1141,
+            "SIC": "R.93.1.9.1",
+            "Category": "Activities of racehorse owners",
+            "R.93.1.9.1.1": {
+              "ID": 16156,
+              "SIC": "R.93.1.9.1.1",
+              "Category": "Racehorse owner"
+            },
+            "R.93.1.9.1.2": {
+              "ID": 16157,
+              "SIC": "R.93.1.9.1.2",
+              "Category": "The seeking of sponsorship, appearance money and prize money for horse racing"
+            }
+          },
+          "R.93.1.9.9": {
+            "ID": 1142,
+            "SIC": "R.93.1.9.9",
+            "Category": "Other sports activities (not including activities of racehorse owners) n.e.c.",
+            "R.93.1.9.9.1": {
+              "ID": 16158,
+              "SIC": "R.93.1.9.9.1",
+              "Category": "Advertising space sale, by racing stables"
+            },
+            "R.93.1.9.9.2": {
+              "ID": 16159,
+              "SIC": "R.93.1.9.9.2",
+              "Category": "Athletes"
+            },
+            "R.93.1.9.9.3": {
+              "ID": 16160,
+              "SIC": "R.93.1.9.9.3",
+              "Category": "Boxing"
+            },
+            "R.93.1.9.9.4": {
+              "ID": 16161,
+              "SIC": "R.93.1.9.9.4",
+              "Category": "Boxing promoter"
+            },
+            "R.93.1.9.9.5": {
+              "ID": 16162,
+              "SIC": "R.93.1.9.9.5",
+              "Category": "Coursing"
+            },
+            "R.93.1.9.9.6": {
+              "ID": 16163,
+              "SIC": "R.93.1.9.9.6",
+              "Category": "Dirt track racing"
+            },
+            "R.93.1.9.9.7": {
+              "ID": 16164,
+              "SIC": "R.93.1.9.9.7",
+              "Category": "Dog breeding (for greyhound racing)"
+            },
+            "R.93.1.9.9.8": {
+              "ID": 16165,
+              "SIC": "R.93.1.9.9.8",
+              "Category": "Dog racing"
+            },
+            "R.93.1.9.9.9": {
+              "ID": 16166,
+              "SIC": "R.93.1.9.9.9",
+              "Category": "Drag hounds"
+            },
+            "R.93.1.9.9.10": {
+              "ID": 16167,
+              "SIC": "R.93.1.9.9.10",
+              "Category": "Fishing (recreational)"
+            },
+            "R.93.1.9.9.11": {
+              "ID": 16168,
+              "SIC": "R.93.1.9.9.11",
+              "Category": "Football Association"
+            },
+            "R.93.1.9.9.12": {
+              "ID": 16169,
+              "SIC": "R.93.1.9.9.12",
+              "Category": "Greyhound training"
+            },
+            "R.93.1.9.9.13": {
+              "ID": 16170,
+              "SIC": "R.93.1.9.9.13",
+              "Category": "Horse training (racehorse)"
+            },
+            "R.93.1.9.9.14": {
+              "ID": 16171,
+              "SIC": "R.93.1.9.9.14",
+              "Category": "Hunt kennels"
+            },
+            "R.93.1.9.9.15": {
+              "ID": 16172,
+              "SIC": "R.93.1.9.9.15",
+              "Category": "Hunt stables"
+            },
+            "R.93.1.9.9.16": {
+              "ID": 16173,
+              "SIC": "R.93.1.9.9.16",
+              "Category": "Hunting for sport or recreation"
+            },
+            "R.93.1.9.9.17": {
+              "ID": 16174,
+              "SIC": "R.93.1.9.9.17",
+              "Category": "Jockey"
+            },
+            "R.93.1.9.9.18": {
+              "ID": 16175,
+              "SIC": "R.93.1.9.9.18",
+              "Category": "Judges of sport"
+            },
+            "R.93.1.9.9.19": {
+              "ID": 16176,
+              "SIC": "R.93.1.9.9.19",
+              "Category": "Kennel master"
+            },
+            "R.93.1.9.9.20": {
+              "ID": 16177,
+              "SIC": "R.93.1.9.9.20",
+              "Category": "Kennels and garages (racing)"
+            },
+            "R.93.1.9.9.21": {
+              "ID": 16178,
+              "SIC": "R.93.1.9.9.21",
+              "Category": "Mountain guides"
+            },
+            "R.93.1.9.9.22": {
+              "ID": 16179,
+              "SIC": "R.93.1.9.9.22",
+              "Category": "Operation of vertical wind tunnels"
+            },
+            "R.93.1.9.9.23": {
+              "ID": 16180,
+              "SIC": "R.93.1.9.9.23",
+              "Category": "Physical culture expert"
+            },
+            "R.93.1.9.9.24": {
+              "ID": 16181,
+              "SIC": "R.93.1.9.9.24",
+              "Category": "Promotion of sporting events"
+            },
+            "R.93.1.9.9.25": {
+              "ID": 16182,
+              "SIC": "R.93.1.9.9.25",
+              "Category": "Provision of personnel and equipment for sporting events"
+            },
+            "R.93.1.9.9.26": {
+              "ID": 16183,
+              "SIC": "R.93.1.9.9.26",
+              "Category": "Racehorse trainer"
+            },
+            "R.93.1.9.9.27": {
+              "ID": 16184,
+              "SIC": "R.93.1.9.9.27",
+              "Category": "Racing stables"
+            },
+            "R.93.1.9.9.28": {
+              "ID": 16185,
+              "SIC": "R.93.1.9.9.28",
+              "Category": "Riding stables"
+            },
+            "R.93.1.9.9.29": {
+              "ID": 16186,
+              "SIC": "R.93.1.9.9.29",
+              "Category": "Rugby League"
+            },
+            "R.93.1.9.9.30": {
+              "ID": 16187,
+              "SIC": "R.93.1.9.9.30",
+              "Category": "Rugby Union"
+            },
+            "R.93.1.9.9.31": {
+              "ID": 16188,
+              "SIC": "R.93.1.9.9.31",
+              "Category": "Speedway racing"
+            },
+            "R.93.1.9.9.32": {
+              "ID": 16189,
+              "SIC": "R.93.1.9.9.32",
+              "Category": "Sports leagues and regulating bodies"
+            },
+            "R.93.1.9.9.33": {
+              "ID": 16190,
+              "SIC": "R.93.1.9.9.33",
+              "Category": "Sports referees"
+            },
+            "R.93.1.9.9.34": {
+              "ID": 16191,
+              "SIC": "R.93.1.9.9.34",
+              "Category": "Sportsmen and sportswomen"
+            },
+            "R.93.1.9.9.35": {
+              "ID": 16192,
+              "SIC": "R.93.1.9.9.35",
+              "Category": "Timekeepers of sport"
+            },
+            "R.93.1.9.9.36": {
+              "ID": 16193,
+              "SIC": "R.93.1.9.9.36",
+              "Category": "Trainer (racehorse or greyhound)"
+            },
+            "R.93.1.9.9.37": {
+              "ID": 16194,
+              "SIC": "R.93.1.9.9.37",
+              "Category": "Training stables"
+            }
+          }
+        }
+      },
+      "R.93.2": {
+        "ID": 1143,
+        "SIC": "R.93.2",
+        "Category": "Amusement and recreation activities",
+        "R.93.2.1": {
+          "ID": 1144,
+          "SIC": "R.93.2.1",
+          "Category": "Activities of amusement parks and theme parks",
+          "R.93.2.1.0.1": {
+            "ID": 16195,
+            "SIC": "R.93.2.1.0.1",
+            "Category": "Amusement park activities"
+          },
+          "R.93.2.1.0.2": {
+            "ID": 16196,
+            "SIC": "R.93.2.1.0.2",
+            "Category": "Amusement park mechanical rides, water rides, games "
+          },
+          "R.93.2.1.0.3": {
+            "ID": 16197,
+            "SIC": "R.93.2.1.0.3",
+            "Category": "Amusement park shows, theme exhibits and picnic grounds "
+          },
+          "R.93.2.1.0.4": {
+            "ID": 16198,
+            "SIC": "R.93.2.1.0.4",
+            "Category": "Aqua/water parks"
+          },
+          "R.93.2.1.0.5": {
+            "ID": 16199,
+            "SIC": "R.93.2.1.0.5",
+            "Category": "Coconut shy"
+          },
+          "R.93.2.1.0.6": {
+            "ID": 16200,
+            "SIC": "R.93.2.1.0.6",
+            "Category": "Fairground activities"
+          },
+          "R.93.2.1.0.7": {
+            "ID": 16201,
+            "SIC": "R.93.2.1.0.7",
+            "Category": "Fortune telling (fairground)"
+          },
+          "R.93.2.1.0.8": {
+            "ID": 16202,
+            "SIC": "R.93.2.1.0.8",
+            "Category": "Fun fair"
+          },
+          "R.93.2.1.0.9": {
+            "ID": 16203,
+            "SIC": "R.93.2.1.0.9",
+            "Category": "Preserved railway operation"
+          },
+          "R.93.2.1.0.10": {
+            "ID": 16204,
+            "SIC": "R.93.2.1.0.10",
+            "Category": "Switchback (fairground)"
+          },
+          "R.93.2.1.0.11": {
+            "ID": 16205,
+            "SIC": "R.93.2.1.0.11",
+            "Category": "Theme park operation"
+          }
+        },
+        "R.93.2.9": {
+          "ID": 1145,
+          "SIC": "R.93.2.9",
+          "Category": "Other amusement and recreation activities",
+          "R.93.2.9.0.1": {
+            "ID": 16206,
+            "SIC": "R.93.2.9.0.1",
+            "Category": "Adventure playground"
+          },
+          "R.93.2.9.0.2": {
+            "ID": 16207,
+            "SIC": "R.93.2.9.0.2",
+            "Category": "Airsoft and paintball activities"
+          },
+          "R.93.2.9.0.3": {
+            "ID": 16208,
+            "SIC": "R.93.2.9.0.3",
+            "Category": "Beach facilities rental (bathhouses, lockers, chairs, etc.)"
+          },
+          "R.93.2.9.0.4": {
+            "ID": 16209,
+            "SIC": "R.93.2.9.0.4",
+            "Category": "Beach hut proprietor"
+          },
+          "R.93.2.9.0.5": {
+            "ID": 16210,
+            "SIC": "R.93.2.9.0.5",
+            "Category": "Coin-operated games arcade (other than gaming machines)"
+          },
+          "R.93.2.9.0.6": {
+            "ID": 16211,
+            "SIC": "R.93.2.9.0.6",
+            "Category": "Coin-operated rides"
+          },
+          "R.93.2.9.0.7": {
+            "ID": 16212,
+            "SIC": "R.93.2.9.0.7",
+            "Category": "Common (local authority or municipally owned)"
+          },
+          "R.93.2.9.0.8": {
+            "ID": 16213,
+            "SIC": "R.93.2.9.0.8",
+            "Category": "Dance hall"
+          },
+          "R.93.2.9.0.9": {
+            "ID": 16214,
+            "SIC": "R.93.2.9.0.9",
+            "Category": "Electronic sports club"
+          },
+          "R.93.2.9.0.10": {
+            "ID": 16215,
+            "SIC": "R.93.2.9.0.10",
+            "Category": "Entertainment activities n.e.c."
+          },
+          "R.93.2.9.0.11": {
+            "ID": 16216,
+            "SIC": "R.93.2.9.0.11",
+            "Category": "Fairs and shows of a recreational nature"
+          },
+          "R.93.2.9.0.12": {
+            "ID": 16217,
+            "SIC": "R.93.2.9.0.12",
+            "Category": "Firework displays"
+          },
+          "R.93.2.9.0.13": {
+            "ID": 16218,
+            "SIC": "R.93.2.9.0.13",
+            "Category": "Hampton Court Gardens and Park"
+          },
+          "R.93.2.9.0.14": {
+            "ID": 16219,
+            "SIC": "R.93.2.9.0.14",
+            "Category": "Hobby instructor (own account)"
+          },
+          "R.93.2.9.0.15": {
+            "ID": 16220,
+            "SIC": "R.93.2.9.0.15",
+            "Category": "Hyde Park"
+          },
+          "R.93.2.9.0.16": {
+            "ID": 16221,
+            "SIC": "R.93.2.9.0.16",
+            "Category": "Kensington Gardens"
+          },
+          "R.93.2.9.0.17": {
+            "ID": 16222,
+            "SIC": "R.93.2.9.0.17",
+            "Category": "Local authority parks and gardens"
+          },
+          "R.93.2.9.0.18": {
+            "ID": 16223,
+            "SIC": "R.93.2.9.0.18",
+            "Category": "Marionette show"
+          },
+          "R.93.2.9.0.19": {
+            "ID": 16224,
+            "SIC": "R.93.2.9.0.19",
+            "Category": "Model railway operator"
+          },
+          "R.93.2.9.0.20": {
+            "ID": 16225,
+            "SIC": "R.93.2.9.0.20",
+            "Category": "Narrow gauge railway (recreational)"
+          },
+          "R.93.2.9.0.21": {
+            "ID": 16226,
+            "SIC": "R.93.2.9.0.21",
+            "Category": "Operation of computer rooms for playing computer games"
+          },
+          "R.93.2.9.0.22": {
+            "ID": 16227,
+            "SIC": "R.93.2.9.0.22",
+            "Category": "Operation of dance floors"
+          },
+          "R.93.2.9.0.23": {
+            "ID": 16228,
+            "SIC": "R.93.2.9.0.23",
+            "Category": "Operation of recreational transport facilities e.g. marinas"
+          },
+          "R.93.2.9.0.24": {
+            "ID": 16229,
+            "SIC": "R.93.2.9.0.24",
+            "Category": "Operation of ski hills"
+          },
+          "R.93.2.9.0.25": {
+            "ID": 16230,
+            "SIC": "R.93.2.9.0.25",
+            "Category": "Organising of banquets"
+          },
+          "R.93.2.9.0.26": {
+            "ID": 16231,
+            "SIC": "R.93.2.9.0.26",
+            "Category": "Organising of weddings"
+          },
+          "R.93.2.9.0.27": {
+            "ID": 16232,
+            "SIC": "R.93.2.9.0.27",
+            "Category": "Park (local authority or municipally owned)"
+          },
+          "R.93.2.9.0.28": {
+            "ID": 16233,
+            "SIC": "R.93.2.9.0.28",
+            "Category": "Pleasure boat hiring as an integral part of recreational facilities"
+          },
+          "R.93.2.9.0.29": {
+            "ID": 16234,
+            "SIC": "R.93.2.9.0.29",
+            "Category": "Pleasure ground"
+          },
+          "R.93.2.9.0.30": {
+            "ID": 16235,
+            "SIC": "R.93.2.9.0.30",
+            "Category": "Pleasure pier"
+          },
+          "R.93.2.9.0.31": {
+            "ID": 16236,
+            "SIC": "R.93.2.9.0.31",
+            "Category": "Psychometry"
+          },
+          "R.93.2.9.0.32": {
+            "ID": 16237,
+            "SIC": "R.93.2.9.0.32",
+            "Category": "Public park"
+          },
+          "R.93.2.9.0.33": {
+            "ID": 16238,
+            "SIC": "R.93.2.9.0.33",
+            "Category": "Punch and Judy show"
+          },
+          "R.93.2.9.0.34": {
+            "ID": 16239,
+            "SIC": "R.93.2.9.0.34",
+            "Category": "Puppet shows"
+          },
+          "R.93.2.9.0.35": {
+            "ID": 16240,
+            "SIC": "R.93.2.9.0.35",
+            "Category": "Recreational activities n.e.c."
+          },
+          "R.93.2.9.0.36": {
+            "ID": 16241,
+            "SIC": "R.93.2.9.0.36",
+            "Category": "Regent's Park and Primrose Hill"
+          },
+          "R.93.2.9.0.37": {
+            "ID": 16242,
+            "SIC": "R.93.2.9.0.37",
+            "Category": "Renting of leisure and pleasure equipment as an integral part of recreational facilities"
+          },
+          "R.93.2.9.0.38": {
+            "ID": 16243,
+            "SIC": "R.93.2.9.0.38",
+            "Category": "Richmond Park"
+          },
+          "R.93.2.9.0.39": {
+            "ID": 16244,
+            "SIC": "R.93.2.9.0.39",
+            "Category": "Rodeos"
+          },
+          "R.93.2.9.0.40": {
+            "ID": 16245,
+            "SIC": "R.93.2.9.0.40",
+            "Category": "Royal Park"
+          },
+          "R.93.2.9.0.41": {
+            "ID": 16246,
+            "SIC": "R.93.2.9.0.41",
+            "Category": "Shooting galleries"
+          },
+          "R.93.2.9.0.42": {
+            "ID": 16247,
+            "SIC": "R.93.2.9.0.42",
+            "Category": "St James"
+          },
+          "R.93.2.9.0.43": {
+            "ID": 16248,
+            "SIC": "R.93.2.9.0.43",
+            "Category": "Waxworks"
+          },
+          "R.93.2.9.0.44": {
+            "ID": 16249,
+            "SIC": "R.93.2.9.0.44",
+            "Category": "Windsor Great Park"
+          }
+        }
+      }
+    }
+  }
+}

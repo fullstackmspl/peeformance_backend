@@ -1,0 +1,1847 @@
+{
+  "Q": {
+    "ID": 1090,
+    "SIC": "Q",
+    "Category": "HUMAN HEALTH AND SOCIAL WORK ACTIVITIES",
+    "Q.86": {
+      "ID": 1091,
+      "SIC": "Q.86",
+      "Category": "Human health activities",
+      "Q.86.1": {
+        "ID": 1092,
+        "SIC": "Q.86.1",
+        "Category": "Hospital activities",
+        "Q.86.1.0": {
+          "ID": 1093,
+          "SIC": "Q.86.1.0",
+          "Category": "Hospital activities",
+          "Q.86.1.0.1": {
+            "ID": 1094,
+            "SIC": "Q.86.1.0.1",
+            "Category": "Hospital activities",
+            "Q.86.1.0.1.1": {
+              "ID": 15577,
+              "SIC": "Q.86.1.0.1.1",
+              "Category": "Accident and emergency service (private sector)"
+            },
+            "Q.86.1.0.1.2": {
+              "ID": 15578,
+              "SIC": "Q.86.1.0.1.2",
+              "Category": "Accident and emergency service (public sector)"
+            },
+            "Q.86.1.0.1.3": {
+              "ID": 15579,
+              "SIC": "Q.86.1.0.1.3",
+              "Category": "Anaesthetist (public sector)"
+            },
+            "Q.86.1.0.1.4": {
+              "ID": 15580,
+              "SIC": "Q.86.1.0.1.4",
+              "Category": "Asylums (private sector)"
+            },
+            "Q.86.1.0.1.5": {
+              "ID": 15581,
+              "SIC": "Q.86.1.0.1.5",
+              "Category": "Asylums (public sector)"
+            },
+            "Q.86.1.0.1.6": {
+              "ID": 15582,
+              "SIC": "Q.86.1.0.1.6",
+              "Category": "Broadmoor Hospital"
+            },
+            "Q.86.1.0.1.7": {
+              "ID": 15583,
+              "SIC": "Q.86.1.0.1.7",
+              "Category": "Central sterile supply department (private sector)"
+            },
+            "Q.86.1.0.1.8": {
+              "ID": 15584,
+              "SIC": "Q.86.1.0.1.8",
+              "Category": "Central sterile supply department (public sector)"
+            },
+            "Q.86.1.0.1.9": {
+              "ID": 15585,
+              "SIC": "Q.86.1.0.1.9",
+              "Category": "Children's hospital (private sector)"
+            },
+            "Q.86.1.0.1.10": {
+              "ID": 15586,
+              "SIC": "Q.86.1.0.1.10",
+              "Category": "Children's hospital (public sector)"
+            },
+            "Q.86.1.0.1.11": {
+              "ID": 15587,
+              "SIC": "Q.86.1.0.1.11",
+              "Category": "Chronic sick hospital (private sector)"
+            },
+            "Q.86.1.0.1.12": {
+              "ID": 15588,
+              "SIC": "Q.86.1.0.1.12",
+              "Category": "Chronic sick hospital (public sector)"
+            },
+            "Q.86.1.0.1.13": {
+              "ID": 15589,
+              "SIC": "Q.86.1.0.1.13",
+              "Category": "Convalescent home (private sector providing medical care)"
+            },
+            "Q.86.1.0.1.14": {
+              "ID": 15590,
+              "SIC": "Q.86.1.0.1.14",
+              "Category": "Convalescent home (public sector providing medical care)"
+            },
+            "Q.86.1.0.1.15": {
+              "ID": 15591,
+              "SIC": "Q.86.1.0.1.15",
+              "Category": "Dental hospital (private sector)"
+            },
+            "Q.86.1.0.1.16": {
+              "ID": 15592,
+              "SIC": "Q.86.1.0.1.16",
+              "Category": "Dental hospital (public sector)"
+            },
+            "Q.86.1.0.1.17": {
+              "ID": 15593,
+              "SIC": "Q.86.1.0.1.17",
+              "Category": "Ear, nose and throat hospital (private sector)"
+            },
+            "Q.86.1.0.1.18": {
+              "ID": 15594,
+              "SIC": "Q.86.1.0.1.18",
+              "Category": "Ear, nose and throat hospital (public sector)"
+            },
+            "Q.86.1.0.1.19": {
+              "ID": 15595,
+              "SIC": "Q.86.1.0.1.19",
+              "Category": "Ear, nose and throat specialist (public sector)"
+            },
+            "Q.86.1.0.1.20": {
+              "ID": 15596,
+              "SIC": "Q.86.1.0.1.20",
+              "Category": "Eye hospital (private sector)"
+            },
+            "Q.86.1.0.1.21": {
+              "ID": 15597,
+              "SIC": "Q.86.1.0.1.21",
+              "Category": "Eye hospital (public sector)"
+            },
+            "Q.86.1.0.1.22": {
+              "ID": 15598,
+              "SIC": "Q.86.1.0.1.22",
+              "Category": "Eye specialist (public sector)"
+            },
+            "Q.86.1.0.1.23": {
+              "ID": 15599,
+              "SIC": "Q.86.1.0.1.23",
+              "Category": "General hospital psychiatric unit (public sector)"
+            },
+            "Q.86.1.0.1.24": {
+              "ID": 15600,
+              "SIC": "Q.86.1.0.1.24",
+              "Category": "General hospital (public sector)"
+            },
+            "Q.86.1.0.1.25": {
+              "ID": 15601,
+              "SIC": "Q.86.1.0.1.25",
+              "Category": "General medical consultant (public sector)"
+            },
+            "Q.86.1.0.1.26": {
+              "ID": 15602,
+              "SIC": "Q.86.1.0.1.26",
+              "Category": "General medicine consultant (private sector)"
+            },
+            "Q.86.1.0.1.27": {
+              "ID": 15603,
+              "SIC": "Q.86.1.0.1.27",
+              "Category": "Genito-urinary specialist (public sector)"
+            },
+            "Q.86.1.0.1.28": {
+              "ID": 15604,
+              "SIC": "Q.86.1.0.1.28",
+              "Category": "Geriatric hospital (private sector)"
+            },
+            "Q.86.1.0.1.29": {
+              "ID": 15605,
+              "SIC": "Q.86.1.0.1.29",
+              "Category": "Geriatric hospital (public sector)"
+            },
+            "Q.86.1.0.1.30": {
+              "ID": 15606,
+              "SIC": "Q.86.1.0.1.30",
+              "Category": "Geriatrician (public sector)"
+            },
+            "Q.86.1.0.1.31": {
+              "ID": 15607,
+              "SIC": "Q.86.1.0.1.31",
+              "Category": "Gynaecologist (public sector)"
+            },
+            "Q.86.1.0.1.32": {
+              "ID": 15608,
+              "SIC": "Q.86.1.0.1.32",
+              "Category": "Haematologist (public sector)"
+            },
+            "Q.86.1.0.1.33": {
+              "ID": 15609,
+              "SIC": "Q.86.1.0.1.33",
+              "Category": "Hospice (private sector)"
+            },
+            "Q.86.1.0.1.34": {
+              "ID": 15610,
+              "SIC": "Q.86.1.0.1.34",
+              "Category": "Hospice (public sector)"
+            },
+            "Q.86.1.0.1.35": {
+              "ID": 15611,
+              "SIC": "Q.86.1.0.1.35",
+              "Category": "Hospital activities (private sector)"
+            },
+            "Q.86.1.0.1.36": {
+              "ID": 15612,
+              "SIC": "Q.86.1.0.1.36",
+              "Category": "Hospital activities (public sector)"
+            },
+            "Q.86.1.0.1.37": {
+              "ID": 15613,
+              "SIC": "Q.86.1.0.1.37",
+              "Category": "Hospital trust"
+            },
+            "Q.86.1.0.1.38": {
+              "ID": 15614,
+              "SIC": "Q.86.1.0.1.38",
+              "Category": "Infectious disease hospital (public sector)"
+            },
+            "Q.86.1.0.1.39": {
+              "ID": 15615,
+              "SIC": "Q.86.1.0.1.39",
+              "Category": "Infectious disease specialist (public sector)"
+            },
+            "Q.86.1.0.1.40": {
+              "ID": 15616,
+              "SIC": "Q.86.1.0.1.40",
+              "Category": "Infirmary (private sector)"
+            },
+            "Q.86.1.0.1.41": {
+              "ID": 15617,
+              "SIC": "Q.86.1.0.1.41",
+              "Category": "Infirmary (public sector)"
+            },
+            "Q.86.1.0.1.42": {
+              "ID": 15618,
+              "SIC": "Q.86.1.0.1.42",
+              "Category": "Isolation hospital (public sector)"
+            },
+            "Q.86.1.0.1.43": {
+              "ID": 15619,
+              "SIC": "Q.86.1.0.1.43",
+              "Category": "Leprosaria (public sector)"
+            },
+            "Q.86.1.0.1.44": {
+              "ID": 15620,
+              "SIC": "Q.86.1.0.1.44",
+              "Category": "Maternity hospital (private sector)"
+            },
+            "Q.86.1.0.1.45": {
+              "ID": 15621,
+              "SIC": "Q.86.1.0.1.45",
+              "Category": "Maternity hospital (public sector)"
+            },
+            "Q.86.1.0.1.46": {
+              "ID": 15622,
+              "SIC": "Q.86.1.0.1.46",
+              "Category": "Medical consultant (public sector)"
+            },
+            "Q.86.1.0.1.47": {
+              "ID": 15623,
+              "SIC": "Q.86.1.0.1.47",
+              "Category": "Mental health specialist (public sector)"
+            },
+            "Q.86.1.0.1.48": {
+              "ID": 15624,
+              "SIC": "Q.86.1.0.1.48",
+              "Category": "Mental health hospital (private sector)"
+            },
+            "Q.86.1.0.1.49": {
+              "ID": 15625,
+              "SIC": "Q.86.1.0.1.49",
+              "Category": "Mental health hospital (public sector)"
+            },
+            "Q.86.1.0.1.50": {
+              "ID": 15626,
+              "SIC": "Q.86.1.0.1.50",
+              "Category": "Military base hospitals"
+            },
+            "Q.86.1.0.1.51": {
+              "ID": 15627,
+              "SIC": "Q.86.1.0.1.51",
+              "Category": "Military hospital (public sector)"
+            },
+            "Q.86.1.0.1.52": {
+              "ID": 15628,
+              "SIC": "Q.86.1.0.1.52",
+              "Category": "Morbid anatomy specialist (public sector)"
+            },
+            "Q.86.1.0.1.53": {
+              "ID": 15629,
+              "SIC": "Q.86.1.0.1.53",
+              "Category": "Ophthalmic hospital (private sector)"
+            },
+            "Q.86.1.0.1.54": {
+              "ID": 15630,
+              "SIC": "Q.86.1.0.1.54",
+              "Category": "Ophthalmic hospital (public sector)"
+            },
+            "Q.86.1.0.1.55": {
+              "ID": 15631,
+              "SIC": "Q.86.1.0.1.55",
+              "Category": "Orthopaedic hospital (private sector)"
+            },
+            "Q.86.1.0.1.56": {
+              "ID": 15632,
+              "SIC": "Q.86.1.0.1.56",
+              "Category": "Orthopaedic hospital (public sector)"
+            },
+            "Q.86.1.0.1.57": {
+              "ID": 15633,
+              "SIC": "Q.86.1.0.1.57",
+              "Category": "Pre-convalescent hospital (private sector)"
+            },
+            "Q.86.1.0.1.58": {
+              "ID": 15634,
+              "SIC": "Q.86.1.0.1.58",
+              "Category": "Pre-convalescent hospital (public sector)"
+            },
+            "Q.86.1.0.1.59": {
+              "ID": 15635,
+              "SIC": "Q.86.1.0.1.59",
+              "Category": "Preventoria providing hospital type care (public sector)"
+            },
+            "Q.86.1.0.1.60": {
+              "ID": 15636,
+              "SIC": "Q.86.1.0.1.60",
+              "Category": "Prison hospitals"
+            },
+            "Q.86.1.0.1.61": {
+              "ID": 15637,
+              "SIC": "Q.86.1.0.1.61",
+              "Category": "Private hospital"
+            },
+            "Q.86.1.0.1.62": {
+              "ID": 15638,
+              "SIC": "Q.86.1.0.1.62",
+              "Category": "Psychiatric unit (private sector)"
+            },
+            "Q.86.1.0.1.63": {
+              "ID": 15639,
+              "SIC": "Q.86.1.0.1.63",
+              "Category": "Radiologist (public sector)"
+            },
+            "Q.86.1.0.1.64": {
+              "ID": 15640,
+              "SIC": "Q.86.1.0.1.64",
+              "Category": "Radiotherapist (public sector)"
+            },
+            "Q.86.1.0.1.65": {
+              "ID": 15641,
+              "SIC": "Q.86.1.0.1.65",
+              "Category": "Rampton Hospital"
+            },
+            "Q.86.1.0.1.66": {
+              "ID": 15642,
+              "SIC": "Q.86.1.0.1.66",
+              "Category": "Rehabilitation hospital (private sector)"
+            },
+            "Q.86.1.0.1.67": {
+              "ID": 15643,
+              "SIC": "Q.86.1.0.1.67",
+              "Category": "Rehabilitation hospital (public sector)"
+            },
+            "Q.86.1.0.1.68": {
+              "ID": 15644,
+              "SIC": "Q.86.1.0.1.68",
+              "Category": "Sanatoria providing hospital type care (private sector)"
+            },
+            "Q.86.1.0.1.69": {
+              "ID": 15645,
+              "SIC": "Q.86.1.0.1.69",
+              "Category": "Sanatoria providing hospital type care (public sector)"
+            },
+            "Q.86.1.0.1.70": {
+              "ID": 15646,
+              "SIC": "Q.86.1.0.1.70",
+              "Category": "Smallpox hospital (public sector)"
+            },
+            "Q.86.1.0.1.71": {
+              "ID": 15647,
+              "SIC": "Q.86.1.0.1.71",
+              "Category": "Social medicine specialist (public sector)"
+            },
+            "Q.86.1.0.1.72": {
+              "ID": 15648,
+              "SIC": "Q.86.1.0.1.72",
+              "Category": "Special hospital (private sector)"
+            },
+            "Q.86.1.0.1.73": {
+              "ID": 15649,
+              "SIC": "Q.86.1.0.1.73",
+              "Category": "Special hospital (public sector)"
+            },
+            "Q.86.1.0.1.74": {
+              "ID": 15650,
+              "SIC": "Q.86.1.0.1.74",
+              "Category": "Surgeon (public sector)"
+            },
+            "Q.86.1.0.1.75": {
+              "ID": 15651,
+              "SIC": "Q.86.1.0.1.75",
+              "Category": "Tuberculosis hospital (public sector)"
+            },
+            "Q.86.1.0.1.76": {
+              "ID": 15652,
+              "SIC": "Q.86.1.0.1.76",
+              "Category": "Urologist (public sector)"
+            }
+          },
+          "Q.86.1.0.2": {
+            "ID": 1095,
+            "SIC": "Q.86.1.0.2",
+            "Category": "Medical nursing home activities",
+            "Q.86.1.0.2.1": {
+              "ID": 15653,
+              "SIC": "Q.86.1.0.2.1",
+              "Category": "Nursing home with medical care (under the direct supervision of medical doctors)"
+            }
+          }
+        }
+      },
+      "Q.86.2": {
+        "ID": 1096,
+        "SIC": "Q.86.2",
+        "Category": "Medical and dental practice activities",
+        "Q.86.2.1": {
+          "ID": 1097,
+          "SIC": "Q.86.2.1",
+          "Category": "General medical practice activities",
+          "Q.86.2.1.0.1": {
+            "ID": 15654,
+            "SIC": "Q.86.2.1.0.1",
+            "Category": "District community physician"
+          },
+          "Q.86.2.1.0.2": {
+            "ID": 15655,
+            "SIC": "Q.86.2.1.0.2",
+            "Category": "Doctor (unspecified)"
+          },
+          "Q.86.2.1.0.3": {
+            "ID": 15656,
+            "SIC": "Q.86.2.1.0.3",
+            "Category": "Doctors receptionist"
+          },
+          "Q.86.2.1.0.4": {
+            "ID": 15657,
+            "SIC": "Q.86.2.1.0.4",
+            "Category": "Family doctor service"
+          },
+          "Q.86.2.1.0.5": {
+            "ID": 15658,
+            "SIC": "Q.86.2.1.0.5",
+            "Category": "General medical consultant (private practice)"
+          },
+          "Q.86.2.1.0.6": {
+            "ID": 15659,
+            "SIC": "Q.86.2.1.0.6",
+            "Category": "General medical practitioner"
+          },
+          "Q.86.2.1.0.7": {
+            "ID": 15660,
+            "SIC": "Q.86.2.1.0.7",
+            "Category": "Medical group practice"
+          },
+          "Q.86.2.1.0.8": {
+            "ID": 15661,
+            "SIC": "Q.86.2.1.0.8",
+            "Category": "School medical officer"
+          }
+        },
+        "Q.86.2.2": {
+          "ID": 1098,
+          "SIC": "Q.86.2.2",
+          "Category": "Specialist medical practice activities",
+          "Q.86.2.2.0.1": {
+            "ID": 15662,
+            "SIC": "Q.86.2.2.0.1",
+            "Category": "Ear, nose and throat specialist (private practice)"
+          },
+          "Q.86.2.2.0.2": {
+            "ID": 15663,
+            "SIC": "Q.86.2.2.0.2",
+            "Category": "Eye specialist (private practice)"
+          },
+          "Q.86.2.2.0.3": {
+            "ID": 15664,
+            "SIC": "Q.86.2.2.0.3",
+            "Category": "Family planning centre providing medical treatment without accommodation"
+          },
+          "Q.86.2.2.0.4": {
+            "ID": 15665,
+            "SIC": "Q.86.2.2.0.4",
+            "Category": "Genito-urinary specialist (private practice)"
+          },
+          "Q.86.2.2.0.5": {
+            "ID": 15666,
+            "SIC": "Q.86.2.2.0.5",
+            "Category": "Gynaecologist (private practice)"
+          },
+          "Q.86.2.2.0.6": {
+            "ID": 15667,
+            "SIC": "Q.86.2.2.0.6",
+            "Category": "Homeopath (registered medical practitioner)"
+          },
+          "Q.86.2.2.0.7": {
+            "ID": 15668,
+            "SIC": "Q.86.2.2.0.7",
+            "Category": "Infectious disease specialist (private practice)"
+          },
+          "Q.86.2.2.0.8": {
+            "ID": 15669,
+            "SIC": "Q.86.2.2.0.8",
+            "Category": "Mental health specialist (private practice)"
+          },
+          "Q.86.2.2.0.9": {
+            "ID": 15670,
+            "SIC": "Q.86.2.2.0.9",
+            "Category": "Morbid anatomy specialist (private practice)"
+          },
+          "Q.86.2.2.0.10": {
+            "ID": 15671,
+            "SIC": "Q.86.2.2.0.10",
+            "Category": "Osteopath (registered medical practitioner)"
+          },
+          "Q.86.2.2.0.11": {
+            "ID": 15672,
+            "SIC": "Q.86.2.2.0.11",
+            "Category": "Physiologist"
+          },
+          "Q.86.2.2.0.12": {
+            "ID": 15673,
+            "SIC": "Q.86.2.2.0.12",
+            "Category": "Private consultants clinics"
+          },
+          "Q.86.2.2.0.13": {
+            "ID": 15674,
+            "SIC": "Q.86.2.2.0.13",
+            "Category": "Psychiatrist (private practice)"
+          },
+          "Q.86.2.2.0.14": {
+            "ID": 15675,
+            "SIC": "Q.86.2.2.0.14",
+            "Category": "Radiotherapy treatment centre"
+          },
+          "Q.86.2.2.0.15": {
+            "ID": 15676,
+            "SIC": "Q.86.2.2.0.15",
+            "Category": "Social medicine specialist (private practice)"
+          },
+          "Q.86.2.2.0.16": {
+            "ID": 15677,
+            "SIC": "Q.86.2.2.0.16",
+            "Category": "Specialist medical consultant (private practice)"
+          },
+          "Q.86.2.2.0.17": {
+            "ID": 15678,
+            "SIC": "Q.86.2.2.0.17",
+            "Category": "Specialist medical consultation and treatment"
+          },
+          "Q.86.2.2.0.18": {
+            "ID": 15679,
+            "SIC": "Q.86.2.2.0.18",
+            "Category": "Specialist physician and surgeon (private practice)"
+          },
+          "Q.86.2.2.0.19": {
+            "ID": 15680,
+            "SIC": "Q.86.2.2.0.19",
+            "Category": "Surgeon (private practice)"
+          },
+          "Q.86.2.2.0.20": {
+            "ID": 15681,
+            "SIC": "Q.86.2.2.0.20",
+            "Category": "Urologist (private practice)"
+          }
+        },
+        "Q.86.2.3": {
+          "ID": 1099,
+          "SIC": "Q.86.2.3",
+          "Category": "Dental practice activities",
+          "Q.86.2.3.0.1": {
+            "ID": 15682,
+            "SIC": "Q.86.2.3.0.1",
+            "Category": "Community dental service clinics"
+          },
+          "Q.86.2.3.0.2": {
+            "ID": 15683,
+            "SIC": "Q.86.2.3.0.2",
+            "Category": "Dental activities in operating rooms"
+          },
+          "Q.86.2.3.0.3": {
+            "ID": 15684,
+            "SIC": "Q.86.2.3.0.3",
+            "Category": "Dental clinic"
+          },
+          "Q.86.2.3.0.4": {
+            "ID": 15685,
+            "SIC": "Q.86.2.3.0.4",
+            "Category": "Dental clinic (health service)"
+          },
+          "Q.86.2.3.0.5": {
+            "ID": 15686,
+            "SIC": "Q.86.2.3.0.5",
+            "Category": "Dental practice activities"
+          },
+          "Q.86.2.3.0.6": {
+            "ID": 15687,
+            "SIC": "Q.86.2.3.0.6",
+            "Category": "Dental receptionist"
+          },
+          "Q.86.2.3.0.7": {
+            "ID": 15688,
+            "SIC": "Q.86.2.3.0.7",
+            "Category": "Dental surgeon (not employed full time by a hospital)"
+          },
+          "Q.86.2.3.0.8": {
+            "ID": 15689,
+            "SIC": "Q.86.2.3.0.8",
+            "Category": "Dentist"
+          },
+          "Q.86.2.3.0.9": {
+            "ID": 15690,
+            "SIC": "Q.86.2.3.0.9",
+            "Category": "Endodontic dentistry"
+          },
+          "Q.86.2.3.0.10": {
+            "ID": 15691,
+            "SIC": "Q.86.2.3.0.10",
+            "Category": "Oral pathology"
+          },
+          "Q.86.2.3.0.11": {
+            "ID": 15692,
+            "SIC": "Q.86.2.3.0.11",
+            "Category": "Orthodontic activities"
+          },
+          "Q.86.2.3.0.12": {
+            "ID": 15693,
+            "SIC": "Q.86.2.3.0.12",
+            "Category": "Paediatric dentistry"
+          }
+        }
+      },
+      "Q.86.9": {
+        "ID": 1100,
+        "SIC": "Q.86.9",
+        "Category": "Other human health activities",
+        "Q.86.9.0": {
+          "ID": 1101,
+          "SIC": "Q.86.9.0",
+          "Category": "Other human health activities",
+          "Q.86.9.0.0.1": {
+            "ID": 15694,
+            "SIC": "Q.86.9.0.0.1",
+            "Category": "Ambulance service"
+          },
+          "Q.86.9.0.0.2": {
+            "ID": 15695,
+            "SIC": "Q.86.9.0.0.2",
+            "Category": "Anti-doping control"
+          },
+          "Q.86.9.0.0.3": {
+            "ID": 15696,
+            "SIC": "Q.86.9.0.0.3",
+            "Category": "Artificial kidney unit"
+          },
+          "Q.86.9.0.0.4": {
+            "ID": 15697,
+            "SIC": "Q.86.9.0.0.4",
+            "Category": "Artificial limb and appliance centre"
+          },
+          "Q.86.9.0.0.5": {
+            "ID": 15698,
+            "SIC": "Q.86.9.0.0.5",
+            "Category": "Blood banks"
+          },
+          "Q.86.9.0.0.6": {
+            "ID": 15699,
+            "SIC": "Q.86.9.0.0.6",
+            "Category": "Blood transfusion service"
+          },
+          "Q.86.9.0.0.7": {
+            "ID": 15700,
+            "SIC": "Q.86.9.0.0.7",
+            "Category": "Chiropodist (NHS)"
+          },
+          "Q.86.9.0.0.8": {
+            "ID": 15701,
+            "SIC": "Q.86.9.0.0.8",
+            "Category": "Chiropodist (private)"
+          },
+          "Q.86.9.0.0.9": {
+            "ID": 15702,
+            "SIC": "Q.86.9.0.0.9",
+            "Category": "Chiropractor clinic (own account)"
+          },
+          "Q.86.9.0.0.10": {
+            "ID": 15703,
+            "SIC": "Q.86.9.0.0.10",
+            "Category": "Clinic (health service)"
+          },
+          "Q.86.9.0.0.11": {
+            "ID": 15704,
+            "SIC": "Q.86.9.0.0.11",
+            "Category": "Collection of female human urine for hormone extraction"
+          },
+          "Q.86.9.0.0.12": {
+            "ID": 15705,
+            "SIC": "Q.86.9.0.0.12",
+            "Category": "Colon Hydrotherapy"
+          },
+          "Q.86.9.0.0.13": {
+            "ID": 15706,
+            "SIC": "Q.86.9.0.0.13",
+            "Category": "Community health service"
+          },
+          "Q.86.9.0.0.14": {
+            "ID": 15707,
+            "SIC": "Q.86.9.0.0.14",
+            "Category": "Community medical service clinics"
+          },
+          "Q.86.9.0.0.15": {
+            "ID": 15708,
+            "SIC": "Q.86.9.0.0.15",
+            "Category": "Community psychiatric nurse (NHS)"
+          },
+          "Q.86.9.0.0.16": {
+            "ID": 15709,
+            "SIC": "Q.86.9.0.0.16",
+            "Category": "Dental hygienist"
+          },
+          "Q.86.9.0.0.17": {
+            "ID": 15710,
+            "SIC": "Q.86.9.0.0.17",
+            "Category": "Dental therapist"
+          },
+          "Q.86.9.0.0.18": {
+            "ID": 15711,
+            "SIC": "Q.86.9.0.0.18",
+            "Category": "Disablement services centres"
+          },
+          "Q.86.9.0.0.19": {
+            "ID": 15712,
+            "SIC": "Q.86.9.0.0.19",
+            "Category": "District nurse"
+          },
+          "Q.86.9.0.0.20": {
+            "ID": 15713,
+            "SIC": "Q.86.9.0.0.20",
+            "Category": "Echography"
+          },
+          "Q.86.9.0.0.21": {
+            "ID": 15714,
+            "SIC": "Q.86.9.0.0.21",
+            "Category": "Family Planning Association clinics (not providing medical treatment)"
+          },
+          "Q.86.9.0.0.22": {
+            "ID": 15715,
+            "SIC": "Q.86.9.0.0.22",
+            "Category": "Foot clinic (NHS)"
+          },
+          "Q.86.9.0.0.23": {
+            "ID": 15716,
+            "SIC": "Q.86.9.0.0.23",
+            "Category": "Foot clinic (private)"
+          },
+          "Q.86.9.0.0.24": {
+            "ID": 15717,
+            "SIC": "Q.86.9.0.0.24",
+            "Category": "Health centre"
+          },
+          "Q.86.9.0.0.25": {
+            "ID": 15718,
+            "SIC": "Q.86.9.0.0.25",
+            "Category": "Health visitor"
+          },
+          "Q.86.9.0.0.26": {
+            "ID": 15719,
+            "SIC": "Q.86.9.0.0.26",
+            "Category": "Home nurse (NHS)"
+          },
+          "Q.86.9.0.0.27": {
+            "ID": 15720,
+            "SIC": "Q.86.9.0.0.27",
+            "Category": "Homeopath (not registered medical practitioner)"
+          },
+          "Q.86.9.0.0.28": {
+            "ID": 15721,
+            "SIC": "Q.86.9.0.0.28",
+            "Category": "Limb fitting centre"
+          },
+          "Q.86.9.0.0.29": {
+            "ID": 15722,
+            "SIC": "Q.86.9.0.0.29",
+            "Category": "Mass radiography service"
+          },
+          "Q.86.9.0.0.30": {
+            "ID": 15723,
+            "SIC": "Q.86.9.0.0.30",
+            "Category": "Maternity clinic"
+          },
+          "Q.86.9.0.0.31": {
+            "ID": 15724,
+            "SIC": "Q.86.9.0.0.31",
+            "Category": "Medical laboratories"
+          },
+          "Q.86.9.0.0.32": {
+            "ID": 15725,
+            "SIC": "Q.86.9.0.0.32",
+            "Category": "Medical scanning"
+          },
+          "Q.86.9.0.0.33": {
+            "ID": 15726,
+            "SIC": "Q.86.9.0.0.33",
+            "Category": "Midwife (NHS)"
+          },
+          "Q.86.9.0.0.34": {
+            "ID": 15727,
+            "SIC": "Q.86.9.0.0.34",
+            "Category": "Midwife (private)"
+          },
+          "Q.86.9.0.0.35": {
+            "ID": 15728,
+            "SIC": "Q.86.9.0.0.35",
+            "Category": "Neuropath"
+          },
+          "Q.86.9.0.0.36": {
+            "ID": 15729,
+            "SIC": "Q.86.9.0.0.36",
+            "Category": "Nurse (private)"
+          },
+          "Q.86.9.0.0.37": {
+            "ID": 15730,
+            "SIC": "Q.86.9.0.0.37",
+            "Category": "Nursing co-operative"
+          },
+          "Q.86.9.0.0.38": {
+            "ID": 15731,
+            "SIC": "Q.86.9.0.0.38",
+            "Category": "Occupational therapist (private)"
+          },
+          "Q.86.9.0.0.39": {
+            "ID": 15732,
+            "SIC": "Q.86.9.0.0.39",
+            "Category": "Ophthalmic clinic"
+          },
+          "Q.86.9.0.0.40": {
+            "ID": 15733,
+            "SIC": "Q.86.9.0.0.40",
+            "Category": "Osteopath (not registered medical practitioner)"
+          },
+          "Q.86.9.0.0.41": {
+            "ID": 15734,
+            "SIC": "Q.86.9.0.0.41",
+            "Category": "Para-medical practitioner activities"
+          },
+          "Q.86.9.0.0.42": {
+            "ID": 15735,
+            "SIC": "Q.86.9.0.0.42",
+            "Category": "Pathological laboratory"
+          },
+          "Q.86.9.0.0.43": {
+            "ID": 15736,
+            "SIC": "Q.86.9.0.0.43",
+            "Category": "Physiotherapist (private)"
+          },
+          "Q.86.9.0.0.44": {
+            "ID": 15737,
+            "SIC": "Q.86.9.0.0.44",
+            "Category": "Physiotherapy clinic"
+          },
+          "Q.86.9.0.0.45": {
+            "ID": 15738,
+            "SIC": "Q.86.9.0.0.45",
+            "Category": "Psychiatric clinic"
+          },
+          "Q.86.9.0.0.46": {
+            "ID": 15739,
+            "SIC": "Q.86.9.0.0.46",
+            "Category": "Psychiatric day hospital"
+          },
+          "Q.86.9.0.0.47": {
+            "ID": 15740,
+            "SIC": "Q.86.9.0.0.47",
+            "Category": "Psychologist"
+          },
+          "Q.86.9.0.0.48": {
+            "ID": 15741,
+            "SIC": "Q.86.9.0.0.48",
+            "Category": "Public health laboratory"
+          },
+          "Q.86.9.0.0.49": {
+            "ID": 15742,
+            "SIC": "Q.86.9.0.0.49",
+            "Category": "Radiographer (private)"
+          },
+          "Q.86.9.0.0.50": {
+            "ID": 15743,
+            "SIC": "Q.86.9.0.0.50",
+            "Category": "Reflex therapy"
+          },
+          "Q.86.9.0.0.51": {
+            "ID": 15744,
+            "SIC": "Q.86.9.0.0.51",
+            "Category": "School dental nurse"
+          },
+          "Q.86.9.0.0.52": {
+            "ID": 15745,
+            "SIC": "Q.86.9.0.0.52",
+            "Category": "School health service"
+          },
+          "Q.86.9.0.0.53": {
+            "ID": 15746,
+            "SIC": "Q.86.9.0.0.53",
+            "Category": "School medical clinic"
+          },
+          "Q.86.9.0.0.54": {
+            "ID": 15747,
+            "SIC": "Q.86.9.0.0.54",
+            "Category": "Scottish Ambulance Service"
+          },
+          "Q.86.9.0.0.55": {
+            "ID": 15748,
+            "SIC": "Q.86.9.0.0.55",
+            "Category": "Speech therapist (NHS)"
+          },
+          "Q.86.9.0.0.56": {
+            "ID": 15749,
+            "SIC": "Q.86.9.0.0.56",
+            "Category": "Speech therapist (own account)"
+          },
+          "Q.86.9.0.0.57": {
+            "ID": 15750,
+            "SIC": "Q.86.9.0.0.57",
+            "Category": "Sperm banks"
+          },
+          "Q.86.9.0.0.58": {
+            "ID": 15751,
+            "SIC": "Q.86.9.0.0.58",
+            "Category": "St Andrew"
+          },
+          "Q.86.9.0.0.59": {
+            "ID": 15752,
+            "SIC": "Q.86.9.0.0.59",
+            "Category": "St John's ambulance brigade"
+          },
+          "Q.86.9.0.0.60": {
+            "ID": 15753,
+            "SIC": "Q.86.9.0.0.60",
+            "Category": "Transplant organ banks"
+          }
+        }
+      }
+    },
+    "Q.87": {
+      "ID": 1102,
+      "SIC": "Q.87",
+      "Category": "Residential care activities",
+      "Q.87.1": {
+        "ID": 1103,
+        "SIC": "Q.87.1",
+        "Category": "Residential nursing care activities",
+        "Q.87.1.0": {
+          "ID": 1104,
+          "SIC": "Q.87.1.0",
+          "Category": "Residential nursing care activities",
+          "Q.87.1.0.0.1": {
+            "ID": 15754,
+            "SIC": "Q.87.1.0.0.1",
+            "Category": "Convalescent homes"
+          },
+          "Q.87.1.0.0.2": {
+            "ID": 15755,
+            "SIC": "Q.87.1.0.0.2",
+            "Category": "Homes for the elderly with nursing care"
+          },
+          "Q.87.1.0.0.3": {
+            "ID": 15756,
+            "SIC": "Q.87.1.0.0.3",
+            "Category": "Nursing care facilities"
+          },
+          "Q.87.1.0.0.4": {
+            "ID": 15757,
+            "SIC": "Q.87.1.0.0.4",
+            "Category": "Nursing homes"
+          },
+          "Q.87.1.0.0.5": {
+            "ID": 15758,
+            "SIC": "Q.87.1.0.0.5",
+            "Category": "Residential nursing care facilities"
+          },
+          "Q.87.1.0.0.6": {
+            "ID": 15759,
+            "SIC": "Q.87.1.0.0.6",
+            "Category": "Residential nursing care facilities (not directly supervised by medical doctors)"
+          },
+          "Q.87.1.0.0.7": {
+            "ID": 15760,
+            "SIC": "Q.87.1.0.0.7",
+            "Category": "Rest homes with nursing care"
+          }
+        }
+      },
+      "Q.87.2": {
+        "ID": 1105,
+        "SIC": "Q.87.2",
+        "Category": "Residential care activities for learning disabilities, mental health and substance abuse",
+        "Q.87.2.0": {
+          "ID": 1106,
+          "SIC": "Q.87.2.0",
+          "Category": "Residential care activities for learning disabilities, mental health and substance abuse",
+          "Q.87.2.0.0.1": {
+            "ID": 15761,
+            "SIC": "Q.87.2.0.0.1",
+            "Category": "Residential care activities (paramedical) for learning disabilities"
+          },
+          "Q.87.2.0.0.2": {
+            "ID": 15762,
+            "SIC": "Q.87.2.0.0.2",
+            "Category": "Residential care activities (paramedical) for mental health"
+          },
+          "Q.87.2.0.0.3": {
+            "ID": 15763,
+            "SIC": "Q.87.2.0.0.3",
+            "Category": "Residential care activities (paramedical) for substance abuse"
+          },
+          "Q.87.2.0.0.4": {
+            "ID": 15764,
+            "SIC": "Q.87.2.0.0.4",
+            "Category": "Residential care activities (social) for learning difficulties (charitable)"
+          },
+          "Q.87.2.0.0.5": {
+            "ID": 15765,
+            "SIC": "Q.87.2.0.0.5",
+            "Category": "Residential care activities (social) for learning difficulties (non-charitable)"
+          },
+          "Q.87.2.0.0.6": {
+            "ID": 15766,
+            "SIC": "Q.87.2.0.0.6",
+            "Category": "Residential care activities (social) for mental health (charitable)"
+          },
+          "Q.87.2.0.0.7": {
+            "ID": 15767,
+            "SIC": "Q.87.2.0.0.7",
+            "Category": "Residential care activities (social) for mental health (non-charitable)"
+          },
+          "Q.87.2.0.0.8": {
+            "ID": 15768,
+            "SIC": "Q.87.2.0.0.8",
+            "Category": "Residential care activities (social) for substance abuse (charitable)"
+          },
+          "Q.87.2.0.0.9": {
+            "ID": 15769,
+            "SIC": "Q.87.2.0.0.9",
+            "Category": "Residential care activities (social) for substance abuse (non-charitable)"
+          },
+          "Q.87.2.0.0.10": {
+            "ID": 15770,
+            "SIC": "Q.87.2.0.0.10",
+            "Category": "Residential care home for the mentally ped (charitable)"
+          },
+          "Q.87.2.0.0.11": {
+            "ID": 15771,
+            "SIC": "Q.87.2.0.0.11",
+            "Category": "Residential care home for the intellectually disabled (charitable)"
+          },
+          "Q.87.2.0.0.12": {
+            "ID": 15772,
+            "SIC": "Q.87.2.0.0.12",
+            "Category": "Residential care home for the intellectually disabled (non-charitable)"
+          },
+          "Q.87.2.0.0.13": {
+            "ID": 15773,
+            "SIC": "Q.87.2.0.0.13",
+            "Category": "Residential care home for the mentally ill (non-charitable)"
+          },
+          "Q.87.2.0.0.14": {
+            "ID": 15774,
+            "SIC": "Q.87.2.0.0.14",
+            "Category": "Residential care in alcoholism or drug addiction treatment facilities (private sector)"
+          },
+          "Q.87.2.0.0.15": {
+            "ID": 15775,
+            "SIC": "Q.87.2.0.0.15",
+            "Category": "Residential care in alcoholism or drug addiction treatment facilities (public sector)"
+          },
+          "Q.87.2.0.0.16": {
+            "ID": 15776,
+            "SIC": "Q.87.2.0.0.16",
+            "Category": "Residential care in rehabilitation centres (private sector)"
+          },
+          "Q.87.2.0.0.17": {
+            "ID": 15777,
+            "SIC": "Q.87.2.0.0.17",
+            "Category": "Residential care in rehabilitation health centres (public sector)"
+          },
+          "Q.87.2.0.0.18": {
+            "ID": 15778,
+            "SIC": "Q.87.2.0.0.18",
+            "Category": "Residential care (paramedical) in group homes for the emotionally disturbed (charitable)"
+          },
+          "Q.87.2.0.0.19": {
+            "ID": 15779,
+            "SIC": "Q.87.2.0.0.19",
+            "Category": "Residential care (paramedical) in learning disabilities facilities"
+          },
+          "Q.87.2.0.0.20": {
+            "ID": 15780,
+            "SIC": "Q.87.2.0.0.20",
+            "Category": "Residential care (paramedical) in mental health halfway houses"
+          },
+          "Q.87.2.0.0.21": {
+            "ID": 15781,
+            "SIC": "Q.87.2.0.0.21",
+            "Category": "Residential care (paramedical) in psychiatric convalescent homes"
+          },
+          "Q.87.2.0.0.22": {
+            "ID": 15782,
+            "SIC": "Q.87.2.0.0.22",
+            "Category": "Residential care (social) in group homes for the emotionally disturbed (charitable)"
+          },
+          "Q.87.2.0.0.23": {
+            "ID": 15783,
+            "SIC": "Q.87.2.0.0.23",
+            "Category": "Residential care (social) in group homes for the emotionally disturbed (non charitable)"
+          },
+          "Q.87.2.0.0.24": {
+            "ID": 15784,
+            "SIC": "Q.87.2.0.0.24",
+            "Category": "Residential care (social) in learning disabilities facilities (charitable)"
+          },
+          "Q.87.2.0.0.25": {
+            "ID": 15785,
+            "SIC": "Q.87.2.0.0.25",
+            "Category": "Residential care (social) in learning disabilities facilities (non-charitable)"
+          },
+          "Q.87.2.0.0.26": {
+            "ID": 15786,
+            "SIC": "Q.87.2.0.0.26",
+            "Category": "Residential care (social) in mental health halfway houses (charitable)"
+          },
+          "Q.87.2.0.0.27": {
+            "ID": 15787,
+            "SIC": "Q.87.2.0.0.27",
+            "Category": "Residential care (social) in mental health halfway houses (non-charitable)"
+          },
+          "Q.87.2.0.0.28": {
+            "ID": 15788,
+            "SIC": "Q.87.2.0.0.28",
+            "Category": "Residential care (social) in psychiatric convalescent homes (charitable)"
+          },
+          "Q.87.2.0.0.29": {
+            "ID": 15789,
+            "SIC": "Q.87.2.0.0.29",
+            "Category": "Residential care (social) in psychiatric convalescent homes (non-charitable)"
+          }
+        }
+      },
+      "Q.87.3": {
+        "ID": 1107,
+        "SIC": "Q.87.3",
+        "Category": "Residential care activities for the elderly and disabled",
+        "Q.87.3.0": {
+          "ID": 1108,
+          "SIC": "Q.87.3.0",
+          "Category": "Residential care activities for the elderly and disabled",
+          "Q.87.3.0.0.1": {
+            "ID": 15790,
+            "SIC": "Q.87.3.0.0.1",
+            "Category": "Assisted-living facilities for the elderly or disabled (charitable)"
+          },
+          "Q.87.3.0.0.2": {
+            "ID": 15791,
+            "SIC": "Q.87.3.0.0.2",
+            "Category": "Assisted-living facilities for the elderly or disabled (non-charitable)"
+          },
+          "Q.87.3.0.0.3": {
+            "ID": 15792,
+            "SIC": "Q.87.3.0.0.3",
+            "Category": "Continuing care retirement communities (charitable)"
+          },
+          "Q.87.3.0.0.4": {
+            "ID": 15793,
+            "SIC": "Q.87.3.0.0.4",
+            "Category": "Continuing care retirement communities (non-charitable)"
+          },
+          "Q.87.3.0.0.5": {
+            "ID": 15794,
+            "SIC": "Q.87.3.0.0.5",
+            "Category": "Home for the visually impaired (charitable)"
+          },
+          "Q.87.3.0.0.6": {
+            "ID": 15795,
+            "SIC": "Q.87.3.0.0.6",
+            "Category": "Home for the visually impaired (non-charitable)"
+          },
+          "Q.87.3.0.0.7": {
+            "ID": 15796,
+            "SIC": "Q.87.3.0.0.7",
+            "Category": "Home for the disabled (charitable)"
+          },
+          "Q.87.3.0.0.8": {
+            "ID": 15797,
+            "SIC": "Q.87.3.0.0.8",
+            "Category": "Home for the disabled (non-charitable)"
+          },
+          "Q.87.3.0.0.9": {
+            "ID": 15798,
+            "SIC": "Q.87.3.0.0.9",
+            "Category": "Home for the elderly (charitable)"
+          },
+          "Q.87.3.0.0.10": {
+            "ID": 15799,
+            "SIC": "Q.87.3.0.0.10",
+            "Category": "Home for the elderly (non-charitable)"
+          },
+          "Q.87.3.0.0.11": {
+            "ID": 15800,
+            "SIC": "Q.87.3.0.0.11",
+            "Category": "Homes for the elderly with minimal nursing care (charitable)"
+          },
+          "Q.87.3.0.0.12": {
+            "ID": 15801,
+            "SIC": "Q.87.3.0.0.12",
+            "Category": "Homes for the elderly with minimal nursing care (non-charitable)"
+          },
+          "Q.87.3.0.0.13": {
+            "ID": 15802,
+            "SIC": "Q.87.3.0.0.13",
+            "Category": "Local authority homes for the disabled and the elderly"
+          },
+          "Q.87.3.0.0.14": {
+            "ID": 15803,
+            "SIC": "Q.87.3.0.0.14",
+            "Category": "Home for the elderly (local authority)"
+          },
+          "Q.87.3.0.0.15": {
+            "ID": 15804,
+            "SIC": "Q.87.3.0.0.15",
+            "Category": "Provision of residential care and treatment for the elderly and disabled by paramedical staff"
+          },
+          "Q.87.3.0.0.16": {
+            "ID": 15805,
+            "SIC": "Q.87.3.0.0.16",
+            "Category": "Residential care activities for the elderly and disabled (charitable)"
+          },
+          "Q.87.3.0.0.17": {
+            "ID": 15806,
+            "SIC": "Q.87.3.0.0.17",
+            "Category": "Residential care activities for the elderly and disabled (non-charitable)"
+          },
+          "Q.87.3.0.0.18": {
+            "ID": 15807,
+            "SIC": "Q.87.3.0.0.18",
+            "Category": "Residential care home for disabled children (charitable)"
+          },
+          "Q.87.3.0.0.19": {
+            "ID": 15808,
+            "SIC": "Q.87.3.0.0.19",
+            "Category": "Residential care home for disabled children (non-charitable)"
+          },
+          "Q.87.3.0.0.20": {
+            "ID": 15809,
+            "SIC": "Q.87.3.0.0.20",
+            "Category": "Residential care home for epileptics (charitable)"
+          },
+          "Q.87.3.0.0.21": {
+            "ID": 15810,
+            "SIC": "Q.87.3.0.0.21",
+            "Category": "Residential care home for epileptics (non-charitable)"
+          },
+          "Q.87.3.0.0.22": {
+            "ID": 15811,
+            "SIC": "Q.87.3.0.0.22",
+            "Category": "Rest homes without nursing care (charitable)"
+          },
+          "Q.87.3.0.0.23": {
+            "ID": 15812,
+            "SIC": "Q.87.3.0.0.23",
+            "Category": "Rest homes without nursing care (non-charitable)"
+          },
+          "Q.87.3.0.0.24": {
+            "ID": 15813,
+            "SIC": "Q.87.3.0.0.24",
+            "Category": "Sheltered housing for the elderly (charitable)"
+          },
+          "Q.87.3.0.0.25": {
+            "ID": 15814,
+            "SIC": "Q.87.3.0.0.25",
+            "Category": "Sheltered housing for the elderly (non-charitable)"
+          },
+          "Q.87.3.0.0.26": {
+            "ID": 15815,
+            "SIC": "Q.87.3.0.0.26",
+            "Category": "Warden assisted dwellings for the elderly (charitable)"
+          },
+          "Q.87.3.0.0.27": {
+            "ID": 15816,
+            "SIC": "Q.87.3.0.0.27",
+            "Category": "Warden assisted dwellings for the elderly (non-charitable)"
+          }
+        }
+      },
+      "Q.87.9": {
+        "ID": 1109,
+        "SIC": "Q.87.9",
+        "Category": "Other residential care activities",
+        "Q.87.9.0": {
+          "ID": 1110,
+          "SIC": "Q.87.9.0",
+          "Category": "Other residential care activities",
+          "Q.87.9.0.0.1": {
+            "ID": 15817,
+            "SIC": "Q.87.9.0.0.1",
+            "Category": "Children's boarding homes and hostels (charitable)"
+          },
+          "Q.87.9.0.0.2": {
+            "ID": 15818,
+            "SIC": "Q.87.9.0.0.2",
+            "Category": "Children's boarding homes and hostels (non-charitable)"
+          },
+          "Q.87.9.0.0.3": {
+            "ID": 15819,
+            "SIC": "Q.87.9.0.0.3",
+            "Category": "Children's home (charitable)"
+          },
+          "Q.87.9.0.0.4": {
+            "ID": 15820,
+            "SIC": "Q.87.9.0.0.4",
+            "Category": "Children's home (non-charitable)"
+          },
+          "Q.87.9.0.0.5": {
+            "ID": 15821,
+            "SIC": "Q.87.9.0.0.5",
+            "Category": "Community homes for children (charitable)"
+          },
+          "Q.87.9.0.0.6": {
+            "ID": 15822,
+            "SIC": "Q.87.9.0.0.6",
+            "Category": "Community homes for children (non-charitable)"
+          },
+          "Q.87.9.0.0.7": {
+            "ID": 15823,
+            "SIC": "Q.87.9.0.0.7",
+            "Category": "Convalescent home without medical care (charitable)"
+          },
+          "Q.87.9.0.0.8": {
+            "ID": 15824,
+            "SIC": "Q.87.9.0.0.8",
+            "Category": "Convalescent homes without medical care (non-charitable)"
+          },
+          "Q.87.9.0.0.9": {
+            "ID": 15825,
+            "SIC": "Q.87.9.0.0.9",
+            "Category": "Discharged prisoners' hostel (charitable)"
+          },
+          "Q.87.9.0.0.10": {
+            "ID": 15826,
+            "SIC": "Q.87.9.0.0.10",
+            "Category": "Discharged prisoners' hostel (non-charitable)"
+          },
+          "Q.87.9.0.0.11": {
+            "ID": 15827,
+            "SIC": "Q.87.9.0.0.11",
+            "Category": "Halfway group homes for persons with social or personal problems (charitable)"
+          },
+          "Q.87.9.0.0.12": {
+            "ID": 15828,
+            "SIC": "Q.87.9.0.0.12",
+            "Category": "Halfway group homes for persons with social or personal problems (non-charitable)"
+          },
+          "Q.87.9.0.0.13": {
+            "ID": 15829,
+            "SIC": "Q.87.9.0.0.13",
+            "Category": "Halfway homes for young offenders and offenders (charitable)"
+          },
+          "Q.87.9.0.0.14": {
+            "ID": 15830,
+            "SIC": "Q.87.9.0.0.14",
+            "Category": "Halfway homes for young offenders and offenders (non-charitable)"
+          },
+          "Q.87.9.0.0.15": {
+            "ID": 15831,
+            "SIC": "Q.87.9.0.0.15",
+            "Category": "Hostel for the homeless (charitable)"
+          },
+          "Q.87.9.0.0.16": {
+            "ID": 15832,
+            "SIC": "Q.87.9.0.0.16",
+            "Category": "Hostel for the homeless (non-charitable)"
+          },
+          "Q.87.9.0.0.17": {
+            "ID": 15833,
+            "SIC": "Q.87.9.0.0.17",
+            "Category": "Juvenile correction homes (charitable)"
+          },
+          "Q.87.9.0.0.18": {
+            "ID": 15834,
+            "SIC": "Q.87.9.0.0.18",
+            "Category": "Juvenile correction homes (non-charitable)"
+          },
+          "Q.87.9.0.0.19": {
+            "ID": 15835,
+            "SIC": "Q.87.9.0.0.19",
+            "Category": "Local authority community homes (children)"
+          },
+          "Q.87.9.0.0.20": {
+            "ID": 15836,
+            "SIC": "Q.87.9.0.0.20",
+            "Category": "Orphanages (charitable)"
+          },
+          "Q.87.9.0.0.21": {
+            "ID": 15837,
+            "SIC": "Q.87.9.0.0.21",
+            "Category": "Orphanages (non-charitable)"
+          },
+          "Q.87.9.0.0.22": {
+            "ID": 15838,
+            "SIC": "Q.87.9.0.0.22",
+            "Category": "Residential nurseries (charitable)"
+          },
+          "Q.87.9.0.0.23": {
+            "ID": 15839,
+            "SIC": "Q.87.9.0.0.23",
+            "Category": "Residential nurseries (non-charitable)"
+          },
+          "Q.87.9.0.0.24": {
+            "ID": 15840,
+            "SIC": "Q.87.9.0.0.24",
+            "Category": "Salvation army shelter (charitable)"
+          },
+          "Q.87.9.0.0.25": {
+            "ID": 15841,
+            "SIC": "Q.87.9.0.0.25",
+            "Category": "Social work activities with accommodation (charitable)"
+          },
+          "Q.87.9.0.0.26": {
+            "ID": 15842,
+            "SIC": "Q.87.9.0.0.26",
+            "Category": "Social work activities with accommodation (non-charitable)"
+          },
+          "Q.87.9.0.0.27": {
+            "ID": 15843,
+            "SIC": "Q.87.9.0.0.27",
+            "Category": "Temporary accommodation for the homeless (charitable)"
+          },
+          "Q.87.9.0.0.28": {
+            "ID": 15844,
+            "SIC": "Q.87.9.0.0.28",
+            "Category": "Temporary accommodation for the homeless (non-charitable)"
+          },
+          "Q.87.9.0.0.29": {
+            "ID": 15845,
+            "SIC": "Q.87.9.0.0.29",
+            "Category": "Temporary homeless shelters (charitable)"
+          },
+          "Q.87.9.0.0.30": {
+            "ID": 15846,
+            "SIC": "Q.87.9.0.0.30",
+            "Category": "Temporary homeless shelters (non-charitable)"
+          }
+        }
+      }
+    },
+    "Q.88": {
+      "ID": 1111,
+      "SIC": "Q.88",
+      "Category": "Social work activities without accommodation",
+      "Q.88.1": {
+        "ID": 1112,
+        "SIC": "Q.88.1",
+        "Category": "Social work activities without accommodation for the elderly and disabled",
+        "Q.88.1.0": {
+          "ID": 1113,
+          "SIC": "Q.88.1.0",
+          "Category": "Social work activities without accommodation for the elderly and disabled",
+          "Q.88.1.0.0.1": {
+            "ID": 15847,
+            "SIC": "Q.88.1.0.0.1",
+            "Category": "Day centres for the elderly, the physically or intellectually disabled (charitable)"
+          },
+          "Q.88.1.0.0.2": {
+            "ID": 15848,
+            "SIC": "Q.88.1.0.0.2",
+            "Category": "Day centres for the elderly, the physically or intellectually disabled (non-charitable)"
+          },
+          "Q.88.1.0.0.3": {
+            "ID": 15849,
+            "SIC": "Q.88.1.0.0.3",
+            "Category": "Elderly and sick visiting (charitable)"
+          },
+          "Q.88.1.0.0.4": {
+            "ID": 15850,
+            "SIC": "Q.88.1.0.0.4",
+            "Category": "Elderly and sick visiting (non-charitable)"
+          },
+          "Q.88.1.0.0.5": {
+            "ID": 15851,
+            "SIC": "Q.88.1.0.0.5",
+            "Category": "Home help service (charitable)"
+          },
+          "Q.88.1.0.0.6": {
+            "ID": 15852,
+            "SIC": "Q.88.1.0.0.6",
+            "Category": "Home help service (non-charitable)"
+          },
+          "Q.88.1.0.0.7": {
+            "ID": 15853,
+            "SIC": "Q.88.1.0.0.7",
+            "Category": "Local authority home help service"
+          },
+          "Q.88.1.0.0.8": {
+            "ID": 15854,
+            "SIC": "Q.88.1.0.0.8",
+            "Category": "Occupation and training centre for the mentally disordered (non-charitable)"
+          },
+          "Q.88.1.0.0.9": {
+            "ID": 15855,
+            "SIC": "Q.88.1.0.0.9",
+            "Category": "Occupation and training centres for the mentally disordered (charitable)"
+          },
+          "Q.88.1.0.0.10": {
+            "ID": 15856,
+            "SIC": "Q.88.1.0.0.10",
+            "Category": "Vocational rehabilitation (charitable)"
+          },
+          "Q.88.1.0.0.11": {
+            "ID": 15857,
+            "SIC": "Q.88.1.0.0.11",
+            "Category": "Vocational rehabilitation (non-charitable)"
+          }
+        }
+      },
+      "Q.88.9": {
+        "ID": 1114,
+        "SIC": "Q.88.9",
+        "Category": "Other social work activities without accommodation",
+        "Q.88.9.1": {
+          "ID": 1115,
+          "SIC": "Q.88.9.1",
+          "Category": "Child day-care activities",
+          "Q.88.9.1.0.1": {
+            "ID": 15858,
+            "SIC": "Q.88.9.1.0.1",
+            "Category": "Child day-care activities (charitable)"
+          },
+          "Q.88.9.1.0.2": {
+            "ID": 15859,
+            "SIC": "Q.88.9.1.0.2",
+            "Category": "Child day-care activities (non-charitable)"
+          },
+          "Q.88.9.1.0.3": {
+            "ID": 15860,
+            "SIC": "Q.88.9.1.0.3",
+            "Category": "Cr"
+          },
+          "Q.88.9.1.0.4": {
+            "ID": 15861,
+            "SIC": "Q.88.9.1.0.4",
+            "Category": "Cr"
+          },
+          "Q.88.9.1.0.5": {
+            "ID": 15862,
+            "SIC": "Q.88.9.1.0.5",
+            "Category": "Day care for disabled children (charitable)"
+          },
+          "Q.88.9.1.0.6": {
+            "ID": 15863,
+            "SIC": "Q.88.9.1.0.6",
+            "Category": "Day care for disabled children (non-charitable)"
+          },
+          "Q.88.9.1.0.7": {
+            "ID": 15864,
+            "SIC": "Q.88.9.1.0.7",
+            "Category": "Day nursery (charitable)"
+          },
+          "Q.88.9.1.0.8": {
+            "ID": 15865,
+            "SIC": "Q.88.9.1.0.8",
+            "Category": "Day nursery (non-charitable)"
+          },
+          "Q.88.9.1.0.9": {
+            "ID": 15866,
+            "SIC": "Q.88.9.1.0.9",
+            "Category": "Playgroup (charitable)"
+          },
+          "Q.88.9.1.0.10": {
+            "ID": 15867,
+            "SIC": "Q.88.9.1.0.10",
+            "Category": "Playgroup (non-charitable)"
+          }
+        },
+        "Q.88.9.9": {
+          "ID": 1116,
+          "SIC": "Q.88.9.9",
+          "Category": "Other social work activities without accommodation n.e.c.",
+          "Q.88.9.9.0.1": {
+            "ID": 15868,
+            "SIC": "Q.88.9.9.0.1",
+            "Category": "Adoption activities (charitable)"
+          },
+          "Q.88.9.9.0.2": {
+            "ID": 15869,
+            "SIC": "Q.88.9.9.0.2",
+            "Category": "Adoption activities (non-charitable)"
+          },
+          "Q.88.9.9.0.3": {
+            "ID": 15870,
+            "SIC": "Q.88.9.9.0.3",
+            "Category": "Adoption organisation (charitable)"
+          },
+          "Q.88.9.9.0.4": {
+            "ID": 15871,
+            "SIC": "Q.88.9.9.0.4",
+            "Category": "Adoption organisation (non-charitable)"
+          },
+          "Q.88.9.9.0.5": {
+            "ID": 15872,
+            "SIC": "Q.88.9.9.0.5",
+            "Category": "Benevolent society (charitable services)"
+          },
+          "Q.88.9.9.0.6": {
+            "ID": 15873,
+            "SIC": "Q.88.9.9.0.6",
+            "Category": "Charity administration"
+          },
+          "Q.88.9.9.0.7": {
+            "ID": 15874,
+            "SIC": "Q.88.9.9.0.7",
+            "Category": "Child guidance centre (charitable)"
+          },
+          "Q.88.9.9.0.8": {
+            "ID": 15875,
+            "SIC": "Q.88.9.9.0.8",
+            "Category": "Child guidance centre (non-charitable)"
+          },
+          "Q.88.9.9.0.9": {
+            "ID": 15876,
+            "SIC": "Q.88.9.9.0.9",
+            "Category": "Citizens Advice Bureau"
+          },
+          "Q.88.9.9.0.10": {
+            "ID": 15877,
+            "SIC": "Q.88.9.9.0.10",
+            "Category": "Community and neighbourhood activities (charitable)"
+          },
+          "Q.88.9.9.0.11": {
+            "ID": 15878,
+            "SIC": "Q.88.9.9.0.11",
+            "Category": "Community and neighbourhood activities (non-charitable)"
+          },
+          "Q.88.9.9.0.12": {
+            "ID": 15879,
+            "SIC": "Q.88.9.9.0.12",
+            "Category": "Credit and debt counselling services (charitable)"
+          },
+          "Q.88.9.9.0.13": {
+            "ID": 15880,
+            "SIC": "Q.88.9.9.0.13",
+            "Category": "Credit and debt counselling services (non-charitable)"
+          },
+          "Q.88.9.9.0.14": {
+            "ID": 15881,
+            "SIC": "Q.88.9.9.0.14",
+            "Category": "Cultural mediation (charitable)"
+          },
+          "Q.88.9.9.0.15": {
+            "ID": 15882,
+            "SIC": "Q.88.9.9.0.15",
+            "Category": "Cultural mediation (non-charitable)"
+          },
+          "Q.88.9.9.0.16": {
+            "ID": 15883,
+            "SIC": "Q.88.9.9.0.16",
+            "Category": "Disaster relief organisations (charitable)"
+          },
+          "Q.88.9.9.0.17": {
+            "ID": 15884,
+            "SIC": "Q.88.9.9.0.17",
+            "Category": "Disaster relief organisations (non-charitable)"
+          },
+          "Q.88.9.9.0.18": {
+            "ID": 15885,
+            "SIC": "Q.88.9.9.0.18",
+            "Category": "Employment rehabilitation centre (charitable)"
+          },
+          "Q.88.9.9.0.19": {
+            "ID": 15886,
+            "SIC": "Q.88.9.9.0.19",
+            "Category": "Employment rehabilitation centre (non-charitable)"
+          },
+          "Q.88.9.9.0.20": {
+            "ID": 15887,
+            "SIC": "Q.88.9.9.0.20",
+            "Category": "Family Planning Associations (not clinics)"
+          },
+          "Q.88.9.9.0.21": {
+            "ID": 15888,
+            "SIC": "Q.88.9.9.0.21",
+            "Category": "Family Welfare Association"
+          },
+          "Q.88.9.9.0.22": {
+            "ID": 15889,
+            "SIC": "Q.88.9.9.0.22",
+            "Category": "Jewish board of family and children's services"
+          },
+          "Q.88.9.9.0.23": {
+            "ID": 15890,
+            "SIC": "Q.88.9.9.0.23",
+            "Category": "Local authority probation service"
+          },
+          "Q.88.9.9.0.24": {
+            "ID": 15891,
+            "SIC": "Q.88.9.9.0.24",
+            "Category": "Local authority social services department"
+          },
+          "Q.88.9.9.0.25": {
+            "ID": 15892,
+            "SIC": "Q.88.9.9.0.25",
+            "Category": "Marriage and family guidance (charitable)"
+          },
+          "Q.88.9.9.0.26": {
+            "ID": 15893,
+            "SIC": "Q.88.9.9.0.26",
+            "Category": "Marriage and family guidance (non-charitable)"
+          },
+          "Q.88.9.9.0.27": {
+            "ID": 15894,
+            "SIC": "Q.88.9.9.0.27",
+            "Category": "National society for the prevention of cruelty to children"
+          },
+          "Q.88.9.9.0.28": {
+            "ID": 15895,
+            "SIC": "Q.88.9.9.0.28",
+            "Category": "Oxfam (social work activities)"
+          },
+          "Q.88.9.9.0.29": {
+            "ID": 15896,
+            "SIC": "Q.88.9.9.0.29",
+            "Category": "Police court mission"
+          },
+          "Q.88.9.9.0.30": {
+            "ID": 15897,
+            "SIC": "Q.88.9.9.0.30",
+            "Category": "Probation and after care service"
+          },
+          "Q.88.9.9.0.31": {
+            "ID": 15898,
+            "SIC": "Q.88.9.9.0.31",
+            "Category": "Red Cross Society"
+          },
+          "Q.88.9.9.0.32": {
+            "ID": 15899,
+            "SIC": "Q.88.9.9.0.32",
+            "Category": "Refugee and hunger relief programmes abroad"
+          },
+          "Q.88.9.9.0.33": {
+            "ID": 15900,
+            "SIC": "Q.88.9.9.0.33",
+            "Category": "Refugee camp (charitable)"
+          },
+          "Q.88.9.9.0.34": {
+            "ID": 15901,
+            "SIC": "Q.88.9.9.0.34",
+            "Category": "Refugee camp (non-charitable)"
+          },
+          "Q.88.9.9.0.35": {
+            "ID": 15902,
+            "SIC": "Q.88.9.9.0.35",
+            "Category": "Refugee services (charitable)"
+          },
+          "Q.88.9.9.0.36": {
+            "ID": 15903,
+            "SIC": "Q.88.9.9.0.36",
+            "Category": "Refugee services (non-charitable)"
+          },
+          "Q.88.9.9.0.37": {
+            "ID": 15904,
+            "SIC": "Q.88.9.9.0.37",
+            "Category": "Royal Masonic Benevolent Institute"
+          },
+          "Q.88.9.9.0.38": {
+            "ID": 15905,
+            "SIC": "Q.88.9.9.0.38",
+            "Category": "Social Services Department"
+          },
+          "Q.88.9.9.0.39": {
+            "ID": 15906,
+            "SIC": "Q.88.9.9.0.39",
+            "Category": "Social welfare society (charitable)"
+          },
+          "Q.88.9.9.0.40": {
+            "ID": 15907,
+            "SIC": "Q.88.9.9.0.40",
+            "Category": "Social work activities for immigrants (charitable)"
+          },
+          "Q.88.9.9.0.41": {
+            "ID": 15908,
+            "SIC": "Q.88.9.9.0.41",
+            "Category": "Social work activities for immigrants (non-charitable)"
+          },
+          "Q.88.9.9.0.42": {
+            "ID": 15909,
+            "SIC": "Q.88.9.9.0.42",
+            "Category": "Social work activities without accommodation (charitable)"
+          },
+          "Q.88.9.9.0.43": {
+            "ID": 15910,
+            "SIC": "Q.88.9.9.0.43",
+            "Category": "Social work activities without accommodation (non-charitable)"
+          },
+          "Q.88.9.9.0.44": {
+            "ID": 15911,
+            "SIC": "Q.88.9.9.0.44",
+            "Category": "Social worker (charitable)"
+          },
+          "Q.88.9.9.0.45": {
+            "ID": 15912,
+            "SIC": "Q.88.9.9.0.45",
+            "Category": "Social worker (non-charitable)"
+          },
+          "Q.88.9.9.0.46": {
+            "ID": 15913,
+            "SIC": "Q.88.9.9.0.46",
+            "Category": "Temperance association"
+          },
+          "Q.88.9.9.0.47": {
+            "ID": 15914,
+            "SIC": "Q.88.9.9.0.47",
+            "Category": "Welfare and guidance activities for children and adolescents (charitable)"
+          },
+          "Q.88.9.9.0.48": {
+            "ID": 15915,
+            "SIC": "Q.88.9.9.0.48",
+            "Category": "Welfare and guidance activities for children and adolescents (non-charitable)"
+          },
+          "Q.88.9.9.0.49": {
+            "ID": 15916,
+            "SIC": "Q.88.9.9.0.49",
+            "Category": "Welfare service (charitable)"
+          },
+          "Q.88.9.9.0.50": {
+            "ID": 15917,
+            "SIC": "Q.88.9.9.0.50",
+            "Category": "Welfare service (non-charitable)"
+          },
+          "Q.88.9.9.0.51": {
+            "ID": 15918,
+            "SIC": "Q.88.9.9.0.51",
+            "Category": "Women's Royal Voluntary Service"
+          }
+        }
+      }
+    }
+  }
+}

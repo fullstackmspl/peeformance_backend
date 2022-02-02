@@ -1,0 +1,837 @@
+{
+  "I": {
+    "ID": 766,
+    "SIC": "I",
+    "Category": "ACCOMMODATION AND FOOD SERVICE ACTIVITIES",
+    "I.55": {
+      "ID": 767,
+      "SIC": "I.55",
+      "Category": "Accommodation",
+      "I.55.1": {
+        "ID": 768,
+        "SIC": "I.55.1",
+        "Category": "Hotels and similar accommodation",
+        "I.55.1.0": {
+          "ID": 769,
+          "SIC": "I.55.1.0",
+          "Category": "Hotels and similar accommodation",
+          "I.55.1.0.0.1": {
+            "ID": 13891,
+            "SIC": "I.55.1.0.0.1",
+            "Category": "Hotel (licensed with restaurant)"
+          },
+          "I.55.1.0.0.2": {
+            "ID": 13892,
+            "SIC": "I.55.1.0.0.2",
+            "Category": "Hotel (unlicensed with restaurant)"
+          },
+          "I.55.1.0.0.3": {
+            "ID": 13893,
+            "SIC": "I.55.1.0.0.3",
+            "Category": "Hotel without restaurant"
+          },
+          "I.55.1.0.0.4": {
+            "ID": 13894,
+            "SIC": "I.55.1.0.0.4",
+            "Category": "Motel (licensed with restaurant)"
+          },
+          "I.55.1.0.0.5": {
+            "ID": 13895,
+            "SIC": "I.55.1.0.0.5",
+            "Category": "Motel (unlicensed with restaurant)"
+          },
+          "I.55.1.0.0.6": {
+            "ID": 13896,
+            "SIC": "I.55.1.0.0.6",
+            "Category": "Motel without restaurant"
+          }
+        }
+      },
+      "I.55.2": {
+        "ID": 770,
+        "SIC": "I.55.2",
+        "Category": "Holiday and other short-stay accommodation",
+        "I.55.2.0": {
+          "ID": 771,
+          "SIC": "I.55.2.0",
+          "Category": "Holiday and other short-stay accommodation",
+          "I.55.2.0.1": {
+            "ID": 772,
+            "SIC": "I.55.2.0.1",
+            "Category": "Holiday centres and villages",
+            "I.55.2.0.1.1": {
+              "ID": 13897,
+              "SIC": "I.55.2.0.1.1",
+              "Category": "Chalets in holiday centres and holiday villages (provision of short-stay lodging in)"
+            },
+            "I.55.2.0.1.2": {
+              "ID": 13898,
+              "SIC": "I.55.2.0.1.2",
+              "Category": "Cottages and cabins without housekeeping services, provided in holiday centres and holiday villages"
+            },
+            "I.55.2.0.1.3": {
+              "ID": 13899,
+              "SIC": "I.55.2.0.1.3",
+              "Category": "Cottages in holiday centres and holiday villages (provision of short-stay lodging in)"
+            },
+            "I.55.2.0.1.4": {
+              "ID": 13900,
+              "SIC": "I.55.2.0.1.4",
+              "Category": "Flats in holiday centres and holiday villages (provision of short-stay lodging in)"
+            },
+            "I.55.2.0.1.5": {
+              "ID": 13901,
+              "SIC": "I.55.2.0.1.5",
+              "Category": "Holiday and other short stay accommodation, provided in holiday centres and holiday villages"
+            },
+            "I.55.2.0.1.6": {
+              "ID": 13902,
+              "SIC": "I.55.2.0.1.6",
+              "Category": "Holiday camp"
+            },
+            "I.55.2.0.1.7": {
+              "ID": 13903,
+              "SIC": "I.55.2.0.1.7",
+              "Category": "Holiday centres and villages"
+            },
+            "I.55.2.0.1.8": {
+              "ID": 13904,
+              "SIC": "I.55.2.0.1.8",
+              "Category": "Visitor flats and bungalows provided in holiday centres and holiday villages"
+            }
+          },
+          "I.55.2.0.2": {
+            "ID": 773,
+            "SIC": "I.55.2.0.2",
+            "Category": "Youth hostels",
+            "I.55.2.0.2.1": {
+              "ID": 13905,
+              "SIC": "I.55.2.0.2.1",
+              "Category": "Mountain refuges"
+            },
+            "I.55.2.0.2.2": {
+              "ID": 13906,
+              "SIC": "I.55.2.0.2.2",
+              "Category": "Youth hostel"
+            }
+          },
+          "I.55.2.0.9": {
+            "ID": 774,
+            "SIC": "I.55.2.0.9",
+            "Category": "Other holiday and other short-stay accommodation (not including holiday centres and villages or youth hostels) n.e.c.",
+            "I.55.2.0.9.1": {
+              "ID": 13907,
+              "SIC": "I.55.2.0.9.1",
+              "Category": "Apartment letting (self catering) other than holiday centres and holiday villages or youth hostels"
+            },
+            "I.55.2.0.9.2": {
+              "ID": 13908,
+              "SIC": "I.55.2.0.9.2",
+              "Category": "Bed and breakfast (without housekeeping services)"
+            },
+            "I.55.2.0.9.3": {
+              "ID": 13909,
+              "SIC": "I.55.2.0.9.3",
+              "Category": "Chalets, not holiday centres, holiday villages or youth hostels (self catering short-stay lodging)"
+            },
+            "I.55.2.0.9.4": {
+              "ID": 13910,
+              "SIC": "I.55.2.0.9.4",
+              "Category": "Children's and other holiday homes"
+            },
+            "I.55.2.0.9.5": {
+              "ID": 13911,
+              "SIC": "I.55.2.0.9.5",
+              "Category": "Cottages, not in holiday centres, holiday villages, youth hostels (self catering short-stay lodging)"
+            },
+            "I.55.2.0.9.6": {
+              "ID": 13912,
+              "SIC": "I.55.2.0.9.6",
+              "Category": "Farmhouse short stay accommodation"
+            },
+            "I.55.2.0.9.7": {
+              "ID": 13913,
+              "SIC": "I.55.2.0.9.7",
+              "Category": "Flats, not in holiday centres, holiday villages or youth hostels (self catering short-stay lodging)"
+            },
+            "I.55.2.0.9.8": {
+              "ID": 13914,
+              "SIC": "I.55.2.0.9.8",
+              "Category": "Guest house (licensed)"
+            },
+            "I.55.2.0.9.9": {
+              "ID": 13915,
+              "SIC": "I.55.2.0.9.9",
+              "Category": "Guest house (unlicensed)"
+            },
+            "I.55.2.0.9.10": {
+              "ID": 13916,
+              "SIC": "I.55.2.0.9.10",
+              "Category": "Holiday home (not charitable)"
+            },
+            "I.55.2.0.9.11": {
+              "ID": 13917,
+              "SIC": "I.55.2.0.9.11",
+              "Category": "Hydro (accommodation)"
+            },
+            "I.55.2.0.9.12": {
+              "ID": 13918,
+              "SIC": "I.55.2.0.9.12",
+              "Category": "Inns with letting rooms (short-stay lodgings)"
+            }
+          }
+        }
+      },
+      "I.55.3": {
+        "ID": 775,
+        "SIC": "I.55.3",
+        "Category": "Camping grounds, recreational vehicle parks and trailer parks",
+        "I.55.3.0": {
+          "ID": 776,
+          "SIC": "I.55.3.0",
+          "Category": "Camping grounds, recreational vehicle parks and trailer parks",
+          "I.55.3.0.0.1": {
+            "ID": 13919,
+            "SIC": "I.55.3.0.0.1",
+            "Category": "Accommodation in protective shelters or plain bivouac facilities for tents and/or sleeping bags"
+          },
+          "I.55.3.0.0.2": {
+            "ID": 13920,
+            "SIC": "I.55.3.0.0.2",
+            "Category": "Camping sites"
+          },
+          "I.55.3.0.0.3": {
+            "ID": 13921,
+            "SIC": "I.55.3.0.0.3",
+            "Category": "Caravan holiday site operator, owner or proprietor"
+          },
+          "I.55.3.0.0.4": {
+            "ID": 13922,
+            "SIC": "I.55.3.0.0.4",
+            "Category": "Caravan sites"
+          },
+          "I.55.3.0.0.5": {
+            "ID": 13923,
+            "SIC": "I.55.3.0.0.5",
+            "Category": "Recreational vehicle parks and trailer parks"
+          }
+        }
+      },
+      "I.55.9": {
+        "ID": 777,
+        "SIC": "I.55.9",
+        "Category": "Other accommodation",
+        "I.55.9.0": {
+          "ID": 778,
+          "SIC": "I.55.9.0",
+          "Category": "Other accommodation",
+          "I.55.9.0.0.1": {
+            "ID": 13924,
+            "SIC": "I.55.9.0.0.1",
+            "Category": "Boarding house"
+          },
+          "I.55.9.0.0.2": {
+            "ID": 13925,
+            "SIC": "I.55.9.0.0.2",
+            "Category": "Boarding school accommodation"
+          },
+          "I.55.9.0.0.3": {
+            "ID": 13926,
+            "SIC": "I.55.9.0.0.3",
+            "Category": "Halls of residence"
+          },
+          "I.55.9.0.0.4": {
+            "ID": 13927,
+            "SIC": "I.55.9.0.0.4",
+            "Category": "Hostels (not social work)"
+          },
+          "I.55.9.0.0.5": {
+            "ID": 13928,
+            "SIC": "I.55.9.0.0.5",
+            "Category": "Landlord (boarding house)"
+          },
+          "I.55.9.0.0.6": {
+            "ID": 13929,
+            "SIC": "I.55.9.0.0.6",
+            "Category": "Lodging house (private)"
+          },
+          "I.55.9.0.0.7": {
+            "ID": 13930,
+            "SIC": "I.55.9.0.0.7",
+            "Category": "Migrant worker accommodation"
+          },
+          "I.55.9.0.0.8": {
+            "ID": 13931,
+            "SIC": "I.55.9.0.0.8",
+            "Category": "Pension (accommodation)"
+          },
+          "I.55.9.0.0.9": {
+            "ID": 13932,
+            "SIC": "I.55.9.0.0.9",
+            "Category": "Private lodging house"
+          },
+          "I.55.9.0.0.10": {
+            "ID": 13933,
+            "SIC": "I.55.9.0.0.10",
+            "Category": "Railway sleeping cars when operated by separate units from the transport provider"
+          },
+          "I.55.9.0.0.11": {
+            "ID": 13934,
+            "SIC": "I.55.9.0.0.11",
+            "Category": "Rooming and boarding houses"
+          },
+          "I.55.9.0.0.12": {
+            "ID": 13935,
+            "SIC": "I.55.9.0.0.12",
+            "Category": "School dormitories"
+          },
+          "I.55.9.0.0.13": {
+            "ID": 13936,
+            "SIC": "I.55.9.0.0.13",
+            "Category": "Student house accommodation"
+          },
+          "I.55.9.0.0.14": {
+            "ID": 13937,
+            "SIC": "I.55.9.0.0.14",
+            "Category": "Student residences"
+          },
+          "I.55.9.0.0.15": {
+            "ID": 13938,
+            "SIC": "I.55.9.0.0.15",
+            "Category": "University halls of residence"
+          },
+          "I.55.9.0.0.16": {
+            "ID": 13939,
+            "SIC": "I.55.9.0.0.16",
+            "Category": "Workers' hostels"
+          },
+          "I.55.9.0.0.17": {
+            "ID": 13940,
+            "SIC": "I.55.9.0.0.17",
+            "Category": "YMCA hostel"
+          }
+        }
+      }
+    },
+    "I.56": {
+      "ID": 779,
+      "SIC": "I.56",
+      "Category": "Food and beverage service activities",
+      "I.56.1": {
+        "ID": 780,
+        "SIC": "I.56.1",
+        "Category": "Restaurants and mobile food service activities",
+        "I.56.1.0": {
+          "ID": 781,
+          "SIC": "I.56.1.0",
+          "Category": "Restaurants and mobile food service activities",
+          "I.56.1.0.1": {
+            "ID": 782,
+            "SIC": "I.56.1.0.1",
+            "Category": "Licensed restaurants",
+            "I.56.1.0.1.1": {
+              "ID": 13941,
+              "SIC": "I.56.1.0.1.1",
+              "Category": "Buffet (licensed)"
+            },
+            "I.56.1.0.1.2": {
+              "ID": 13942,
+              "SIC": "I.56.1.0.1.2",
+              "Category": "Cafeteria (licensed)"
+            },
+            "I.56.1.0.1.3": {
+              "ID": 13943,
+              "SIC": "I.56.1.0.1.3",
+              "Category": "Chop house (licensed)"
+            },
+            "I.56.1.0.1.4": {
+              "ID": 13944,
+              "SIC": "I.56.1.0.1.4",
+              "Category": "Civic restaurant (licensed)"
+            },
+            "I.56.1.0.1.5": {
+              "ID": 13945,
+              "SIC": "I.56.1.0.1.5",
+              "Category": "Fast-food restaurants, licensed"
+            },
+            "I.56.1.0.1.6": {
+              "ID": 13946,
+              "SIC": "I.56.1.0.1.6",
+              "Category": "Function room (licensed)"
+            },
+            "I.56.1.0.1.7": {
+              "ID": 13947,
+              "SIC": "I.56.1.0.1.7",
+              "Category": "Luncheon bar (licensed)"
+            },
+            "I.56.1.0.1.8": {
+              "ID": 13948,
+              "SIC": "I.56.1.0.1.8",
+              "Category": "Oyster bar (licensed)"
+            },
+            "I.56.1.0.1.9": {
+              "ID": 13949,
+              "SIC": "I.56.1.0.1.9",
+              "Category": "Railway dining car or buffet (licensed)"
+            },
+            "I.56.1.0.1.10": {
+              "ID": 13950,
+              "SIC": "I.56.1.0.1.10",
+              "Category": "Restaurant (licensed)"
+            },
+            "I.56.1.0.1.11": {
+              "ID": 13951,
+              "SIC": "I.56.1.0.1.11",
+              "Category": "Self-service restaurant (licensed)"
+            },
+            "I.56.1.0.1.12": {
+              "ID": 13952,
+              "SIC": "I.56.1.0.1.12",
+              "Category": "Steak houses (licensed)"
+            }
+          },
+          "I.56.1.0.2": {
+            "ID": 783,
+            "SIC": "I.56.1.0.2",
+            "Category": "Unlicensed restaurants and cafes",
+            "I.56.1.0.2.1": {
+              "ID": 13953,
+              "SIC": "I.56.1.0.2.1",
+              "Category": "Burger bar restaurant (unlicensed)"
+            },
+            "I.56.1.0.2.2": {
+              "ID": 13954,
+              "SIC": "I.56.1.0.2.2",
+              "Category": "Cafeteria (unlicensed)"
+            },
+            "I.56.1.0.2.3": {
+              "ID": 13955,
+              "SIC": "I.56.1.0.2.3",
+              "Category": "Coffee bar, room or saloon (unlicensed)"
+            },
+            "I.56.1.0.2.4": {
+              "ID": 13956,
+              "SIC": "I.56.1.0.2.4",
+              "Category": "Dining room (unlicensed)"
+            },
+            "I.56.1.0.2.5": {
+              "ID": 13957,
+              "SIC": "I.56.1.0.2.5",
+              "Category": "Fast food outlet with restaurant (unlicensed)"
+            },
+            "I.56.1.0.2.6": {
+              "ID": 13958,
+              "SIC": "I.56.1.0.2.6",
+              "Category": "Fast-food restaurants, unlicensed"
+            },
+            "I.56.1.0.2.7": {
+              "ID": 13959,
+              "SIC": "I.56.1.0.2.7",
+              "Category": "Local authority restaurants, cafes, snack bars, etc. (unlicensed)"
+            },
+            "I.56.1.0.2.8": {
+              "ID": 13960,
+              "SIC": "I.56.1.0.2.8",
+              "Category": "Motorway services cafeteria (unlicensed)"
+            },
+            "I.56.1.0.2.9": {
+              "ID": 13961,
+              "SIC": "I.56.1.0.2.9",
+              "Category": "Refreshment room (unlicensed)"
+            },
+            "I.56.1.0.2.10": {
+              "ID": 13962,
+              "SIC": "I.56.1.0.2.10",
+              "Category": "Restaurant (unlicensed)"
+            },
+            "I.56.1.0.2.11": {
+              "ID": 13963,
+              "SIC": "I.56.1.0.2.11",
+              "Category": "Self-service restaurant (unlicensed)"
+            },
+            "I.56.1.0.2.12": {
+              "ID": 13964,
+              "SIC": "I.56.1.0.2.12",
+              "Category": "Supper bar or room (unlicensed)"
+            },
+            "I.56.1.0.2.13": {
+              "ID": 13965,
+              "SIC": "I.56.1.0.2.13",
+              "Category": "Tea garden (unlicensed)"
+            },
+            "I.56.1.0.2.14": {
+              "ID": 13966,
+              "SIC": "I.56.1.0.2.14",
+              "Category": "Tea room or shop (unlicensed)"
+            },
+            "I.56.1.0.2.15": {
+              "ID": 13967,
+              "SIC": "I.56.1.0.2.15",
+              "Category": "Temperance buffet"
+            }
+          },
+          "I.56.1.0.3": {
+            "ID": 784,
+            "SIC": "I.56.1.0.3",
+            "Category": "Take away food shops and mobile food stands",
+            "I.56.1.0.3.1": {
+              "ID": 13968,
+              "SIC": "I.56.1.0.3.1",
+              "Category": "Burger bar (take-away)"
+            },
+            "I.56.1.0.3.2": {
+              "ID": 13969,
+              "SIC": "I.56.1.0.3.2",
+              "Category": "Burger stand"
+            },
+            "I.56.1.0.3.3": {
+              "ID": 13970,
+              "SIC": "I.56.1.0.3.3",
+              "Category": "Eel pie shop"
+            },
+            "I.56.1.0.3.4": {
+              "ID": 13971,
+              "SIC": "I.56.1.0.3.4",
+              "Category": "Fish and chip shop"
+            },
+            "I.56.1.0.3.5": {
+              "ID": 13972,
+              "SIC": "I.56.1.0.3.5",
+              "Category": "Fish and chip stand"
+            },
+            "I.56.1.0.3.6": {
+              "ID": 13973,
+              "SIC": "I.56.1.0.3.6",
+              "Category": "Food preparation in market stalls"
+            },
+            "I.56.1.0.3.7": {
+              "ID": 13974,
+              "SIC": "I.56.1.0.3.7",
+              "Category": "Fried fish shop"
+            },
+            "I.56.1.0.3.8": {
+              "ID": 13975,
+              "SIC": "I.56.1.0.3.8",
+              "Category": "Hot dog vendor"
+            },
+            "I.56.1.0.3.9": {
+              "ID": 13976,
+              "SIC": "I.56.1.0.3.9",
+              "Category": "Ice cream parlour"
+            },
+            "I.56.1.0.3.10": {
+              "ID": 13977,
+              "SIC": "I.56.1.0.3.10",
+              "Category": "Ice cream retailer (take away)"
+            },
+            "I.56.1.0.3.11": {
+              "ID": 13978,
+              "SIC": "I.56.1.0.3.11",
+              "Category": "Ice cream vans"
+            },
+            "I.56.1.0.3.12": {
+              "ID": 13979,
+              "SIC": "I.56.1.0.3.12",
+              "Category": "Jellied eel shop"
+            },
+            "I.56.1.0.3.13": {
+              "ID": 13980,
+              "SIC": "I.56.1.0.3.13",
+              "Category": "Meat pie shop"
+            },
+            "I.56.1.0.3.14": {
+              "ID": 13981,
+              "SIC": "I.56.1.0.3.14",
+              "Category": "Milk bar"
+            },
+            "I.56.1.0.3.15": {
+              "ID": 13982,
+              "SIC": "I.56.1.0.3.15",
+              "Category": "Mobile food carts"
+            },
+            "I.56.1.0.3.16": {
+              "ID": 13983,
+              "SIC": "I.56.1.0.3.16",
+              "Category": "Pea and pie vendor"
+            },
+            "I.56.1.0.3.17": {
+              "ID": 13984,
+              "SIC": "I.56.1.0.3.17",
+              "Category": "Sandwich bar"
+            },
+            "I.56.1.0.3.18": {
+              "ID": 13985,
+              "SIC": "I.56.1.0.3.18",
+              "Category": "Snack bar"
+            },
+            "I.56.1.0.3.19": {
+              "ID": 13986,
+              "SIC": "I.56.1.0.3.19",
+              "Category": "Take away food shop"
+            },
+            "I.56.1.0.3.20": {
+              "ID": 13987,
+              "SIC": "I.56.1.0.3.20",
+              "Category": "Take-out eating places"
+            },
+            "I.56.1.0.3.21": {
+              "ID": 13988,
+              "SIC": "I.56.1.0.3.21",
+              "Category": "Tea bar"
+            }
+          }
+        }
+      },
+      "I.56.2": {
+        "ID": 785,
+        "SIC": "I.56.2",
+        "Category": "Event catering and other food service activities",
+        "I.56.2.1": {
+          "ID": 786,
+          "SIC": "I.56.2.1",
+          "Category": "Event catering activities",
+          "I.56.2.1.0.1": {
+            "ID": 13989,
+            "SIC": "I.56.2.1.0.1",
+            "Category": "Banquet catering"
+          },
+          "I.56.2.1.0.2": {
+            "ID": 13990,
+            "SIC": "I.56.2.1.0.2",
+            "Category": "Corporate hospitality catering"
+          },
+          "I.56.2.1.0.3": {
+            "ID": 13991,
+            "SIC": "I.56.2.1.0.3",
+            "Category": "Wedding catering"
+          }
+        },
+        "I.56.2.9": {
+          "ID": 787,
+          "SIC": "I.56.2.9",
+          "Category": "Other food service activities",
+          "I.56.2.9.0.1": {
+            "ID": 13992,
+            "SIC": "I.56.2.9.0.1",
+            "Category": "Airline catering"
+          },
+          "I.56.2.9.0.2": {
+            "ID": 13993,
+            "SIC": "I.56.2.9.0.2",
+            "Category": "Factory or office canteens"
+          },
+          "I.56.2.9.0.3": {
+            "ID": 13994,
+            "SIC": "I.56.2.9.0.3",
+            "Category": "Industrial canteen (run by catering contractor)"
+          },
+          "I.56.2.9.0.4": {
+            "ID": 13995,
+            "SIC": "I.56.2.9.0.4",
+            "Category": "Local authority school meals service"
+          },
+          "I.56.2.9.0.5": {
+            "ID": 13996,
+            "SIC": "I.56.2.9.0.5",
+            "Category": "Luncheon club"
+          },
+          "I.56.2.9.0.6": {
+            "ID": 13997,
+            "SIC": "I.56.2.9.0.6",
+            "Category": "Meals on wheels catering"
+          },
+          "I.56.2.9.0.7": {
+            "ID": 13998,
+            "SIC": "I.56.2.9.0.7",
+            "Category": "NAAFI canteen"
+          },
+          "I.56.2.9.0.8": {
+            "ID": 13999,
+            "SIC": "I.56.2.9.0.8",
+            "Category": "NAAFI headquarters"
+          },
+          "I.56.2.9.0.9": {
+            "ID": 14000,
+            "SIC": "I.56.2.9.0.9",
+            "Category": "Officers' messes"
+          },
+          "I.56.2.9.0.10": {
+            "ID": 14001,
+            "SIC": "I.56.2.9.0.10",
+            "Category": "Other ranks' messes"
+          },
+          "I.56.2.9.0.11": {
+            "ID": 14002,
+            "SIC": "I.56.2.9.0.11",
+            "Category": "Pleasure steamer caterer"
+          },
+          "I.56.2.9.0.12": {
+            "ID": 14003,
+            "SIC": "I.56.2.9.0.12",
+            "Category": "School canteen"
+          },
+          "I.56.2.9.0.13": {
+            "ID": 14004,
+            "SIC": "I.56.2.9.0.13",
+            "Category": "School canteen (run by catering contractor)"
+          },
+          "I.56.2.9.0.14": {
+            "ID": 14005,
+            "SIC": "I.56.2.9.0.14",
+            "Category": "Sergeants' messes"
+          },
+          "I.56.2.9.0.15": {
+            "ID": 14006,
+            "SIC": "I.56.2.9.0.15",
+            "Category": "Staff canteen (run by catering contractor)"
+          },
+          "I.56.2.9.0.16": {
+            "ID": 14007,
+            "SIC": "I.56.2.9.0.16",
+            "Category": "University canteen"
+          },
+          "I.56.2.9.0.17": {
+            "ID": 14008,
+            "SIC": "I.56.2.9.0.17",
+            "Category": "University dining halls"
+          }
+        }
+      },
+      "I.56.3": {
+        "ID": 788,
+        "SIC": "I.56.3",
+        "Category": "Beverage serving activities",
+        "I.56.3.0": {
+          "ID": 789,
+          "SIC": "I.56.3.0",
+          "Category": "Beverage serving activities",
+          "I.56.3.0.1": {
+            "ID": 790,
+            "SIC": "I.56.3.0.1",
+            "Category": "Licensed clubs",
+            "I.56.3.0.1.1": {
+              "ID": 14009,
+              "SIC": "I.56.3.0.1.1",
+              "Category": "Discotheques (licensed to sell alcohol)"
+            },
+            "I.56.3.0.1.2": {
+              "ID": 14010,
+              "SIC": "I.56.3.0.1.2",
+              "Category": "Night-clubs (licensed to sell alcohol)"
+            },
+            "I.56.3.0.1.3": {
+              "ID": 14011,
+              "SIC": "I.56.3.0.1.3",
+              "Category": "Social clubs (licensed to sell alcohol)"
+            },
+            "I.56.3.0.1.4": {
+              "ID": 14012,
+              "SIC": "I.56.3.0.1.4",
+              "Category": "Working men's clubs (licensed to sell alcohol)"
+            }
+          },
+          "I.56.3.0.2": {
+            "ID": 791,
+            "SIC": "I.56.3.0.2",
+            "Category": "Public houses and bars",
+            "I.56.3.0.2.1": {
+              "ID": 14013,
+              "SIC": "I.56.3.0.2.1",
+              "Category": "Beer gardens (independent)"
+            },
+            "I.56.3.0.2.2": {
+              "ID": 14014,
+              "SIC": "I.56.3.0.2.2",
+              "Category": "Beer gardens (managed)"
+            },
+            "I.56.3.0.2.3": {
+              "ID": 14015,
+              "SIC": "I.56.3.0.2.3",
+              "Category": "Beer gardens (tenanted)"
+            },
+            "I.56.3.0.2.4": {
+              "ID": 14016,
+              "SIC": "I.56.3.0.2.4",
+              "Category": "Beer halls (independent)"
+            },
+            "I.56.3.0.2.5": {
+              "ID": 14017,
+              "SIC": "I.56.3.0.2.5",
+              "Category": "Beer halls (managed)"
+            },
+            "I.56.3.0.2.6": {
+              "ID": 14018,
+              "SIC": "I.56.3.0.2.6",
+              "Category": "Beer halls (tenanted)"
+            },
+            "I.56.3.0.2.7": {
+              "ID": 14019,
+              "SIC": "I.56.3.0.2.7",
+              "Category": "Licensed bars (independent)"
+            },
+            "I.56.3.0.2.8": {
+              "ID": 14020,
+              "SIC": "I.56.3.0.2.8",
+              "Category": "Licensed bars (managed)"
+            },
+            "I.56.3.0.2.9": {
+              "ID": 14021,
+              "SIC": "I.56.3.0.2.9",
+              "Category": "Licensed bars (tenanted)"
+            },
+            "I.56.3.0.2.10": {
+              "ID": 14022,
+              "SIC": "I.56.3.0.2.10",
+              "Category": "Licensed victualler (independent)"
+            },
+            "I.56.3.0.2.11": {
+              "ID": 14023,
+              "SIC": "I.56.3.0.2.11",
+              "Category": "Licensed victualler (managed)"
+            },
+            "I.56.3.0.2.12": {
+              "ID": 14024,
+              "SIC": "I.56.3.0.2.12",
+              "Category": "Licensed victualler (tenanted)"
+            },
+            "I.56.3.0.2.13": {
+              "ID": 14025,
+              "SIC": "I.56.3.0.2.13",
+              "Category": "NAAFI clubs"
+            },
+            "I.56.3.0.2.14": {
+              "ID": 14026,
+              "SIC": "I.56.3.0.2.14",
+              "Category": "Public houses (independent)"
+            },
+            "I.56.3.0.2.15": {
+              "ID": 14027,
+              "SIC": "I.56.3.0.2.15",
+              "Category": "Public houses (managed)"
+            },
+            "I.56.3.0.2.16": {
+              "ID": 14028,
+              "SIC": "I.56.3.0.2.16",
+              "Category": "Public houses (tenanted)"
+            },
+            "I.56.3.0.2.17": {
+              "ID": 14029,
+              "SIC": "I.56.3.0.2.17",
+              "Category": "Taverns (independent)"
+            },
+            "I.56.3.0.2.18": {
+              "ID": 14030,
+              "SIC": "I.56.3.0.2.18",
+              "Category": "Taverns (managed)"
+            },
+            "I.56.3.0.2.19": {
+              "ID": 14031,
+              "SIC": "I.56.3.0.2.19",
+              "Category": "Taverns (tenanted)"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "U": {
+    "ID": 1184,
+    "SIC": "U",
+    "Category": "ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES",
+    "U.99": {
+      "ID": 1185,
+      "SIC": "U.99",
+      "Category": "Activities of extraterritorial organisations and bodies",
+      "U.99.0": {
+        "ID": 1186,
+        "SIC": "U.99.0",
+        "Category": "Activities of extraterritorial organisations and bodies",
+        "U.99.0.0": {
+          "ID": 1187,
+          "SIC": "U.99.0.0",
+          "Category": "Activities of extraterritorial organisations and bodies",
+          "U.99.0.0.0.1": {
+            "ID": 16697,
+            "SIC": "U.99.0.0.0.1",
+            "Category": "Charge d'affaires"
+          },
+          "U.99.0.0.0.2": {
+            "ID": 16698,
+            "SIC": "U.99.0.0.0.2",
+            "Category": "Commonwealth Armed Forces"
+          },
+          "U.99.0.0.0.3": {
+            "ID": 16699,
+            "SIC": "U.99.0.0.0.3",
+            "Category": "Commonwealth Government Service"
+          },
+          "U.99.0.0.0.4": {
+            "ID": 16700,
+            "SIC": "U.99.0.0.0.4",
+            "Category": "Commonwealth Institute"
+          },
+          "U.99.0.0.0.5": {
+            "ID": 16701,
+            "SIC": "U.99.0.0.0.5",
+            "Category": "Commonwealth Secretariat"
+          },
+          "U.99.0.0.0.6": {
+            "ID": 16702,
+            "SIC": "U.99.0.0.0.6",
+            "Category": "Commonwealth War Graves Commission"
+          },
+          "U.99.0.0.0.7": {
+            "ID": 16703,
+            "SIC": "U.99.0.0.0.7",
+            "Category": "Consular office"
+          },
+          "U.99.0.0.0.8": {
+            "ID": 16704,
+            "SIC": "U.99.0.0.0.8",
+            "Category": "Crown agents for overseas governments and administrations"
+          },
+          "U.99.0.0.0.9": {
+            "ID": 16705,
+            "SIC": "U.99.0.0.0.9",
+            "Category": "Customs co-operation council"
+          },
+          "U.99.0.0.0.10": {
+            "ID": 16706,
+            "SIC": "U.99.0.0.0.10",
+            "Category": "Diplomatic missions"
+          },
+          "U.99.0.0.0.11": {
+            "ID": 16707,
+            "SIC": "U.99.0.0.0.11",
+            "Category": "Embassy"
+          },
+          "U.99.0.0.0.12": {
+            "ID": 16708,
+            "SIC": "U.99.0.0.0.12",
+            "Category": "European Communities Representatives and Information Office"
+          },
+          "U.99.0.0.0.13": {
+            "ID": 16709,
+            "SIC": "U.99.0.0.0.13",
+            "Category": "European Community"
+          },
+          "U.99.0.0.0.14": {
+            "ID": 16710,
+            "SIC": "U.99.0.0.0.14",
+            "Category": "European Free Trade Association"
+          },
+          "U.99.0.0.0.15": {
+            "ID": 16711,
+            "SIC": "U.99.0.0.0.15",
+            "Category": "Foreign armed forces"
+          },
+          "U.99.0.0.0.16": {
+            "ID": 16712,
+            "SIC": "U.99.0.0.0.16",
+            "Category": "Foreign embassy"
+          },
+          "U.99.0.0.0.17": {
+            "ID": 16713,
+            "SIC": "U.99.0.0.0.17",
+            "Category": "Foreign government service"
+          },
+          "U.99.0.0.0.18": {
+            "ID": 16714,
+            "SIC": "U.99.0.0.0.18",
+            "Category": "International Labour Office"
+          },
+          "U.99.0.0.0.19": {
+            "ID": 16715,
+            "SIC": "U.99.0.0.0.19",
+            "Category": "International Monetary Fund"
+          },
+          "U.99.0.0.0.20": {
+            "ID": 16716,
+            "SIC": "U.99.0.0.0.20",
+            "Category": "International organisation (e.g. United Nations, International Labour Office)"
+          },
+          "U.99.0.0.0.21": {
+            "ID": 16717,
+            "SIC": "U.99.0.0.0.21",
+            "Category": "Legation"
+          },
+          "U.99.0.0.0.22": {
+            "ID": 16718,
+            "SIC": "U.99.0.0.0.22",
+            "Category": "Office of High Commissioner"
+          },
+          "U.99.0.0.0.23": {
+            "ID": 16719,
+            "SIC": "U.99.0.0.0.23",
+            "Category": "Organisation for economic co-operation and development"
+          },
+          "U.99.0.0.0.24": {
+            "ID": 16720,
+            "SIC": "U.99.0.0.0.24",
+            "Category": "Organisation of oil producing and exporting countries"
+          },
+          "U.99.0.0.0.25": {
+            "ID": 16721,
+            "SIC": "U.99.0.0.0.25",
+            "Category": "United Nations and affiliated organisations (not United Nations Association)"
+          },
+          "U.99.0.0.0.26": {
+            "ID": 16722,
+            "SIC": "U.99.0.0.0.26",
+            "Category": "World bank"
+          }
+        }
+      }
+    }
+  }
+}

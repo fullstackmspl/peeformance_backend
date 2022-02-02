@@ -1,0 +1,137 @@
+{
+  "T": {
+    "ID": 1175,
+    "SIC": "T",
+    "Category": "ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS-AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE",
+    "T.97": {
+      "ID": 1176,
+      "SIC": "T.97",
+      "Category": "Activities of households as employers of domestic personnel",
+      "T.97.0": {
+        "ID": 1177,
+        "SIC": "T.97.0",
+        "Category": "Activities of households as employers of domestic personnel",
+        "T.97.0.0": {
+          "ID": 1178,
+          "SIC": "T.97.0.0",
+          "Category": "Activities of households as employers of domestic personnel",
+          "T.97.0.0.0.1": {
+            "ID": 16679,
+            "SIC": "T.97.0.0.0.1",
+            "Category": "Activities of households as employers of domestic babysitters"
+          },
+          "T.97.0.0.0.2": {
+            "ID": 16680,
+            "SIC": "T.97.0.0.0.2",
+            "Category": "Activities of households as employers of domestic butlers"
+          },
+          "T.97.0.0.0.3": {
+            "ID": 16681,
+            "SIC": "T.97.0.0.0.3",
+            "Category": "Activities of households as employers of domestic caretakers"
+          },
+          "T.97.0.0.0.4": {
+            "ID": 16682,
+            "SIC": "T.97.0.0.0.4",
+            "Category": "Activities of households as employers of domestic chauffeurs"
+          },
+          "T.97.0.0.0.5": {
+            "ID": 16683,
+            "SIC": "T.97.0.0.0.5",
+            "Category": "Activities of households as employers of domestic cooks"
+          },
+          "T.97.0.0.0.6": {
+            "ID": 16684,
+            "SIC": "T.97.0.0.0.6",
+            "Category": "Activities of households as employers of domestic gardeners"
+          },
+          "T.97.0.0.0.7": {
+            "ID": 16685,
+            "SIC": "T.97.0.0.0.7",
+            "Category": "Activities of households as employers of domestic gatekeepers"
+          },
+          "T.97.0.0.0.8": {
+            "ID": 16686,
+            "SIC": "T.97.0.0.0.8",
+            "Category": "Activities of households as employers of domestic governesses"
+          },
+          "T.97.0.0.0.9": {
+            "ID": 16687,
+            "SIC": "T.97.0.0.0.9",
+            "Category": "Activities of households as employers of domestic laundresses"
+          },
+          "T.97.0.0.0.10": {
+            "ID": 16688,
+            "SIC": "T.97.0.0.0.10",
+            "Category": "Activities of households as employers of domestic maids"
+          },
+          "T.97.0.0.0.11": {
+            "ID": 16689,
+            "SIC": "T.97.0.0.0.11",
+            "Category": "Activities of households as employers of domestic secretaries"
+          },
+          "T.97.0.0.0.12": {
+            "ID": 16690,
+            "SIC": "T.97.0.0.0.12",
+            "Category": "Activities of households as employers of domestic stable-lads"
+          },
+          "T.97.0.0.0.13": {
+            "ID": 16691,
+            "SIC": "T.97.0.0.0.13",
+            "Category": "Activities of households as employers of domestic staff"
+          },
+          "T.97.0.0.0.14": {
+            "ID": 16692,
+            "SIC": "T.97.0.0.0.14",
+            "Category": "Activities of households as employers of domestic tutors"
+          },
+          "T.97.0.0.0.15": {
+            "ID": 16693,
+            "SIC": "T.97.0.0.0.15",
+            "Category": "Activities of households as employers of domestic valets"
+          },
+          "T.97.0.0.0.16": {
+            "ID": 16694,
+            "SIC": "T.97.0.0.0.16",
+            "Category": "Activities of households as employers of domestic waiters"
+          }
+        }
+      }
+    },
+    "T.98": {
+      "ID": 1179,
+      "SIC": "T.98",
+      "Category": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "T.98.1": {
+        "ID": 1180,
+        "SIC": "T.98.1",
+        "Category": "Undifferentiated goods-producing activities of private households for own use",
+        "T.98.1.0": {
+          "ID": 1181,
+          "SIC": "T.98.1.0",
+          "Category": "Undifferentiated goods-producing activities of private households for own use",
+          "T.98.1.0.0.1": {
+            "ID": 16695,
+            "SIC": "T.98.1.0.0.1",
+            "Category": "Undifferentiated goods producing activities of private households for own use"
+          }
+        }
+      },
+      "T.98.2": {
+        "ID": 1182,
+        "SIC": "T.98.2",
+        "Category": "Undifferentiated service-producing activities of private households for own use",
+        "T.98.2.0": {
+          "ID": 1183,
+          "SIC": "T.98.2.0",
+          "Category": "Undifferentiated service-producing activities of private households for own use",
+          "T.98.2.0.0.1": {
+            "ID": 16696,
+            "SIC": "T.98.2.0.0.1",
+            "Category": "Undifferentiated services producing activities of private households for own use"
+          }
+        }
+      }
+    }
+  }
+}

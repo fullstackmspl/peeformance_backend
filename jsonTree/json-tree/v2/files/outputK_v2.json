@@ -1,0 +1,1167 @@
+{
+  "K": {
+    "ID": 848,
+    "SIC": "K",
+    "Category": "FINANCIAL AND INSURANCE ACTIVITIES",
+    "K.64": {
+      "ID": 849,
+      "SIC": "K.64",
+      "Category": "Financial service activities, except insurance and pension funding",
+      "K.64.1": {
+        "ID": 850,
+        "SIC": "K.64.1",
+        "Category": "Monetary intermediation",
+        "K.64.1.1": {
+          "ID": 851,
+          "SIC": "K.64.1.1",
+          "Category": "Central banking",
+          "K.64.1.1.0.1": {
+            "ID": 14269,
+            "SIC": "K.64.1.1.0.1",
+            "Category": "Bank of England"
+          }
+        },
+        "K.64.1.9": {
+          "ID": 852,
+          "SIC": "K.64.1.9",
+          "Category": "Other monetary intermediation",
+          "K.64.1.9.1": {
+            "ID": 853,
+            "SIC": "K.64.1.9.1",
+            "Category": "Banks",
+            "K.64.1.9.1.1": {
+              "ID": 14270,
+              "SIC": "K.64.1.9.1.1",
+              "Category": "Banks (deposit taking)"
+            },
+            "K.64.1.9.1.2": {
+              "ID": 14271,
+              "SIC": "K.64.1.9.1.2",
+              "Category": "Discount houses (monetary intermediation)"
+            },
+            "K.64.1.9.1.3": {
+              "ID": 14272,
+              "SIC": "K.64.1.9.1.3",
+              "Category": "Electronic currency issuing and trading"
+            },
+            "K.64.1.9.1.4": {
+              "ID": 14273,
+              "SIC": "K.64.1.9.1.4",
+              "Category": "Money order activities"
+            },
+            "K.64.1.9.1.5": {
+              "ID": 14274,
+              "SIC": "K.64.1.9.1.5",
+              "Category": "Postal giro and postal savings bank activities"
+            },
+            "K.64.1.9.1.6": {
+              "ID": 14275,
+              "SIC": "K.64.1.9.1.6",
+              "Category": "Savings bank"
+            }
+          },
+          "K.64.1.9.2": {
+            "ID": 854,
+            "SIC": "K.64.1.9.2",
+            "Category": "Building societies",
+            "K.64.1.9.2.1": {
+              "ID": 14276,
+              "SIC": "K.64.1.9.2.1",
+              "Category": "Building societies"
+            },
+            "K.64.1.9.2.2": {
+              "ID": 14277,
+              "SIC": "K.64.1.9.2.2",
+              "Category": "Credit unions"
+            }
+          }
+        }
+      },
+      "K.64.2": {
+        "ID": 855,
+        "SIC": "K.64.2",
+        "Category": "Activities of holding companies",
+        "K.64.2.0": {
+          "ID": 856,
+          "SIC": "K.64.2.0",
+          "Category": "Activities of holding companies",
+          "K.64.2.0.1": {
+            "ID": 857,
+            "SIC": "K.64.2.0.1",
+            "Category": "Activities of agricultural holding companies",
+            "K.64.2.0.1.1": {
+              "ID": 14278,
+              "SIC": "K.64.2.0.1.1",
+              "Category": "Holding company in agricultural sector"
+            }
+          },
+          "K.64.2.0.2": {
+            "ID": 858,
+            "SIC": "K.64.2.0.2",
+            "Category": "Activities of production holding companies",
+            "K.64.2.0.2.1": {
+              "ID": 14279,
+              "SIC": "K.64.2.0.2.1",
+              "Category": "Holding company in production sector"
+            }
+          },
+          "K.64.2.0.3": {
+            "ID": 859,
+            "SIC": "K.64.2.0.3",
+            "Category": "Activities of construction holding companies",
+            "K.64.2.0.3.1": {
+              "ID": 14280,
+              "SIC": "K.64.2.0.3.1",
+              "Category": "Holding company in construction sector"
+            }
+          },
+          "K.64.2.0.4": {
+            "ID": 860,
+            "SIC": "K.64.2.0.4",
+            "Category": "Activities of distribution holding companies",
+            "K.64.2.0.4.1": {
+              "ID": 14281,
+              "SIC": "K.64.2.0.4.1",
+              "Category": "Holding company in motor trades sector"
+            }
+          },
+          "K.64.2.0.5": {
+            "ID": 861,
+            "SIC": "K.64.2.0.5",
+            "Category": "Activities of financial services holding companies",
+            "K.64.2.0.5.1": {
+              "ID": 14282,
+              "SIC": "K.64.2.0.5.1",
+              "Category": "Bank holding companies"
+            },
+            "K.64.2.0.5.2": {
+              "ID": 14283,
+              "SIC": "K.64.2.0.5.2",
+              "Category": "Holding company activities for banks"
+            },
+            "K.64.2.0.5.3": {
+              "ID": 14284,
+              "SIC": "K.64.2.0.5.3",
+              "Category": "Holding company in financial services sector"
+            }
+          },
+          "K.64.2.0.9": {
+            "ID": 862,
+            "SIC": "K.64.2.0.9",
+            "Category": "Activities of other holding companies (not including agricultural, production, construction, distribution and financial services holding companies) n.e.c.",
+            "K.64.2.0.9.1": {
+              "ID": 14285,
+              "SIC": "K.64.2.0.9.1",
+              "Category": "Activities of service trades holding companies not engaged in management"
+            },
+            "K.64.2.0.9.2": {
+              "ID": 14286,
+              "SIC": "K.64.2.0.9.2",
+              "Category": "Holding company in catering sector"
+            },
+            "K.64.2.0.9.3": {
+              "ID": 14287,
+              "SIC": "K.64.2.0.9.3",
+              "Category": "Holding company in property sector"
+            },
+            "K.64.2.0.9.4": {
+              "ID": 14288,
+              "SIC": "K.64.2.0.9.4",
+              "Category": "Holding company in transport sector"
+            },
+            "K.64.2.0.9.5": {
+              "ID": 14289,
+              "SIC": "K.64.2.0.9.5",
+              "Category": "Holding company n.e.c."
+            }
+          }
+        }
+      },
+      "K.64.3": {
+        "ID": 863,
+        "SIC": "K.64.3",
+        "Category": "Trusts, funds and similar financial entities",
+        "K.64.3.0": {
+          "ID": 864,
+          "SIC": "K.64.3.0",
+          "Category": "Trusts, funds and similar financial entities",
+          "K.64.3.0.1": {
+            "ID": 865,
+            "SIC": "K.64.3.0.1",
+            "Category": "Activities of investment trusts",
+            "K.64.3.0.1.1": {
+              "ID": 14290,
+              "SIC": "K.64.3.0.1.1",
+              "Category": "Investment fund activities"
+            },
+            "K.64.3.0.1.2": {
+              "ID": 14291,
+              "SIC": "K.64.3.0.1.2",
+              "Category": "Investment trusts activities"
+            }
+          },
+          "K.64.3.0.2": {
+            "ID": 866,
+            "SIC": "K.64.3.0.2",
+            "Category": "Activities of unit trusts",
+            "K.64.3.0.2.1": {
+              "ID": 14292,
+              "SIC": "K.64.3.0.2.1",
+              "Category": "In-house trust activities"
+            },
+            "K.64.3.0.2.2": {
+              "ID": 14293,
+              "SIC": "K.64.3.0.2.2",
+              "Category": "Unit trust activities"
+            }
+          },
+          "K.64.3.0.3": {
+            "ID": 867,
+            "SIC": "K.64.3.0.3",
+            "Category": "Activities of venture and development capital companies",
+            "K.64.3.0.3.1": {
+              "ID": 14294,
+              "SIC": "K.64.3.0.3.1",
+              "Category": "Development capital company"
+            },
+            "K.64.3.0.3.2": {
+              "ID": 14295,
+              "SIC": "K.64.3.0.3.2",
+              "Category": "Venture and development capital companies and funds activities"
+            }
+          },
+          "K.64.3.0.4": {
+            "ID": 868,
+            "SIC": "K.64.3.0.4",
+            "Category": "Activities of open-ended investment companies",
+            "K.64.3.0.4.1": {
+              "ID": 14296,
+              "SIC": "K.64.3.0.4.1",
+              "Category": "Open-ended investment companies"
+            }
+          },
+          "K.64.3.0.5": {
+            "ID": 869,
+            "SIC": "K.64.3.0.5",
+            "Category": "Activities of property unit trusts",
+            "K.64.3.0.5.1": {
+              "ID": 14297,
+              "SIC": "K.64.3.0.5.1",
+              "Category": "Property unit trusts"
+            }
+          },
+          "K.64.3.0.6": {
+            "ID": 870,
+            "SIC": "K.64.3.0.6",
+            "Category": "Activities of real estate investment trusts",
+            "K.64.3.0.6.1": {
+              "ID": 14298,
+              "SIC": "K.64.3.0.6.1",
+              "Category": "Real estate investment trusts"
+            }
+          }
+        }
+      },
+      "K.64.9": {
+        "ID": 871,
+        "SIC": "K.64.9",
+        "Category": "Other financial service activities, except insurance and pension funding",
+        "K.64.9.1": {
+          "ID": 872,
+          "SIC": "K.64.9.1",
+          "Category": "Financial leasing",
+          "K.64.9.1.0.1": {
+            "ID": 14299,
+            "SIC": "K.64.9.1.0.1",
+            "Category": "Financial leasing"
+          }
+        },
+        "K.64.9.2": {
+          "ID": 873,
+          "SIC": "K.64.9.2",
+          "Category": "Other credit granting",
+          "K.64.9.2.1": {
+            "ID": 874,
+            "SIC": "K.64.9.2.1",
+            "Category": "Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors",
+            "K.64.9.2.1.1": {
+              "ID": 14300,
+              "SIC": "K.64.9.2.1.1",
+              "Category": "Building societies' personal finance subsidiaries activities"
+            },
+            "K.64.9.2.1.2": {
+              "ID": 14301,
+              "SIC": "K.64.9.2.1.2",
+              "Category": "Check trader activities"
+            },
+            "K.64.9.2.1.3": {
+              "ID": 14302,
+              "SIC": "K.64.9.2.1.3",
+              "Category": "Consumer credit granting company (other than banks or building societies)"
+            },
+            "K.64.9.2.1.4": {
+              "ID": 14303,
+              "SIC": "K.64.9.2.1.4",
+              "Category": "Credit card issuer (sole activity - requiring full payment at end of credit period)"
+            },
+            "K.64.9.2.1.5": {
+              "ID": 14304,
+              "SIC": "K.64.9.2.1.5",
+              "Category": "Finance house activities (non-deposit taking)"
+            },
+            "K.64.9.2.1.6": {
+              "ID": 14305,
+              "SIC": "K.64.9.2.1.6",
+              "Category": "Hire purchase company (other than in banks' sector)"
+            },
+            "K.64.9.2.1.7": {
+              "ID": 14306,
+              "SIC": "K.64.9.2.1.7",
+              "Category": "Loan company (other than in banks' sector)"
+            },
+            "K.64.9.2.1.8": {
+              "ID": 14307,
+              "SIC": "K.64.9.2.1.8",
+              "Category": "Money lender"
+            },
+            "K.64.9.2.1.9": {
+              "ID": 14308,
+              "SIC": "K.64.9.2.1.9",
+              "Category": "Pawnbroker (principally lending money)"
+            },
+            "K.64.9.2.1.10": {
+              "ID": 14309,
+              "SIC": "K.64.9.2.1.10",
+              "Category": "Vehicle fuel credit card services"
+            }
+          },
+          "K.64.9.2.2": {
+            "ID": 875,
+            "SIC": "K.64.9.2.2",
+            "Category": "Activities of mortgage finance companies",
+            "K.64.9.2.2.1": {
+              "ID": 14310,
+              "SIC": "K.64.9.2.2.1",
+              "Category": "Mortgage finance companies' activities (other than banks and building societies)"
+            }
+          },
+          "K.64.9.2.9": {
+            "ID": 876,
+            "SIC": "K.64.9.2.9",
+            "Category": "Other credit granting (not including credit granting by non-deposit taking finance houses and other specialist consumer credit grantors and activities of mortgage finance companies) n.e.c.",
+            "K.64.9.2.9.1": {
+              "ID": 14311,
+              "SIC": "K.64.9.2.9.1",
+              "Category": "Banking institutions in Channel Islands and Isle of Man activities (not in UK banking sector)"
+            },
+            "K.64.9.2.9.2": {
+              "ID": 14312,
+              "SIC": "K.64.9.2.9.2",
+              "Category": "Banks not authorised by the FSA as deposit taking"
+            },
+            "K.64.9.2.9.3": {
+              "ID": 14313,
+              "SIC": "K.64.9.2.9.3",
+              "Category": "Channel Islands and Isle of Man banking institutes"
+            },
+            "K.64.9.2.9.4": {
+              "ID": 14314,
+              "SIC": "K.64.9.2.9.4",
+              "Category": "Export finance company (other than in banks' sector)"
+            },
+            "K.64.9.2.9.5": {
+              "ID": 14315,
+              "SIC": "K.64.9.2.9.5",
+              "Category": "Finance corporation for industry"
+            },
+            "K.64.9.2.9.6": {
+              "ID": 14316,
+              "SIC": "K.64.9.2.9.6",
+              "Category": "Mortgage corporation for agriculture"
+            }
+          }
+        },
+        "K.64.9.9": {
+          "ID": 877,
+          "SIC": "K.64.9.9",
+          "Category": "Other financial service activities, except insurance and pension funding, n.e.c.",
+          "K.64.9.9.1": {
+            "ID": 878,
+            "SIC": "K.64.9.9.1",
+            "Category": "Security dealing on own account",
+            "K.64.9.9.1.1": {
+              "ID": 14317,
+              "SIC": "K.64.9.9.1.1",
+              "Category": "Bill broker on own account (other than discount house)"
+            },
+            "K.64.9.9.1.2": {
+              "ID": 14318,
+              "SIC": "K.64.9.9.1.2",
+              "Category": "Bullion broker on own account"
+            },
+            "K.64.9.9.1.3": {
+              "ID": 14319,
+              "SIC": "K.64.9.9.1.3",
+              "Category": "Bullion dealer in investment grades"
+            },
+            "K.64.9.9.1.4": {
+              "ID": 14320,
+              "SIC": "K.64.9.9.1.4",
+              "Category": "Commodities dealing for investment purposes"
+            },
+            "K.64.9.9.1.5": {
+              "ID": 14321,
+              "SIC": "K.64.9.9.1.5",
+              "Category": "Dealer in stocks and shares on own account"
+            },
+            "K.64.9.9.1.6": {
+              "ID": 14322,
+              "SIC": "K.64.9.9.1.6",
+              "Category": "Financial futures, options and other derivatives dealing in on own account"
+            },
+            "K.64.9.9.1.7": {
+              "ID": 14323,
+              "SIC": "K.64.9.9.1.7",
+              "Category": "Inter-dealer brokers"
+            },
+            "K.64.9.9.1.8": {
+              "ID": 14324,
+              "SIC": "K.64.9.9.1.8",
+              "Category": "Securities dealer on own account"
+            },
+            "K.64.9.9.1.9": {
+              "ID": 14325,
+              "SIC": "K.64.9.9.1.9",
+              "Category": "Share dealer on own account"
+            },
+            "K.64.9.9.1.10": {
+              "ID": 14326,
+              "SIC": "K.64.9.9.1.10",
+              "Category": "Stock exchange money broker activities"
+            }
+          },
+          "K.64.9.9.2": {
+            "ID": 879,
+            "SIC": "K.64.9.9.2",
+            "Category": "Factoring",
+            "K.64.9.9.2.1": {
+              "ID": 14327,
+              "SIC": "K.64.9.9.2.1",
+              "Category": "Debt purchasing"
+            },
+            "K.64.9.9.2.2": {
+              "ID": 14328,
+              "SIC": "K.64.9.9.2.2",
+              "Category": "Discount company (e.g. Debt factoring)"
+            },
+            "K.64.9.9.2.3": {
+              "ID": 14329,
+              "SIC": "K.64.9.9.2.3",
+              "Category": "Factoring company (buying book debts)"
+            },
+            "K.64.9.9.2.4": {
+              "ID": 14330,
+              "SIC": "K.64.9.9.2.4",
+              "Category": "Invoice discounting"
+            }
+          },
+          "K.64.9.9.9": {
+            "ID": 880,
+            "SIC": "K.64.9.9.9",
+            "Category": "Other financial service activities, except insurance and pension funding, (not including security dealing on own account and factoring) n.e.c.",
+            "K.64.9.9.9.1": {
+              "ID": 14331,
+              "SIC": "K.64.9.9.9.1",
+              "Category": "Financial intermediation n.e.c."
+            },
+            "K.64.9.9.9.2": {
+              "ID": 14332,
+              "SIC": "K.64.9.9.9.2",
+              "Category": "Securitisation activities"
+            },
+            "K.64.9.9.9.3": {
+              "ID": 14333,
+              "SIC": "K.64.9.9.9.3",
+              "Category": "Swaps, options and other hedging arrangements"
+            },
+            "K.64.9.9.9.4": {
+              "ID": 14334,
+              "SIC": "K.64.9.9.9.4",
+              "Category": "Underwriter (stock and share issues)"
+            },
+            "K.64.9.9.9.5": {
+              "ID": 14335,
+              "SIC": "K.64.9.9.9.5",
+              "Category": "Viatical settlement company activities"
+            }
+          }
+        }
+      }
+    },
+    "K.65": {
+      "ID": 881,
+      "SIC": "K.65",
+      "Category": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "K.65.1": {
+        "ID": 882,
+        "SIC": "K.65.1",
+        "Category": "Insurance",
+        "K.65.1.1": {
+          "ID": 883,
+          "SIC": "K.65.1.1",
+          "Category": "Life insurance",
+          "K.65.1.1.0.1": {
+            "ID": 14336,
+            "SIC": "K.65.1.1.0.1",
+            "Category": "Assurance company (life)"
+          },
+          "K.65.1.1.0.2": {
+            "ID": 14337,
+            "SIC": "K.65.1.1.0.2",
+            "Category": "Friendly society (not collecting society)"
+          },
+          "K.65.1.1.0.3": {
+            "ID": 14338,
+            "SIC": "K.65.1.1.0.3",
+            "Category": "Funeral Insurance"
+          },
+          "K.65.1.1.0.4": {
+            "ID": 14339,
+            "SIC": "K.65.1.1.0.4",
+            "Category": "Life assurance"
+          },
+          "K.65.1.1.0.5": {
+            "ID": 14340,
+            "SIC": "K.65.1.1.0.5",
+            "Category": "Provident fund (life)"
+          },
+          "K.65.1.1.0.6": {
+            "ID": 14341,
+            "SIC": "K.65.1.1.0.6",
+            "Category": "Underwriter (life insurance)"
+          }
+        },
+        "K.65.1.2": {
+          "ID": 884,
+          "SIC": "K.65.1.2",
+          "Category": "Non-life insurance",
+          "K.65.1.2.0.1": {
+            "ID": 14342,
+            "SIC": "K.65.1.2.0.1",
+            "Category": "Accident insurance"
+          },
+          "K.65.1.2.0.2": {
+            "ID": 14343,
+            "SIC": "K.65.1.2.0.2",
+            "Category": "Aviation insurance"
+          },
+          "K.65.1.2.0.3": {
+            "ID": 14344,
+            "SIC": "K.65.1.2.0.3",
+            "Category": "Benevolent society (insurance)"
+          },
+          "K.65.1.2.0.4": {
+            "ID": 14345,
+            "SIC": "K.65.1.2.0.4",
+            "Category": "Boiler insurance"
+          },
+          "K.65.1.2.0.5": {
+            "ID": 14346,
+            "SIC": "K.65.1.2.0.5",
+            "Category": "Collecting society"
+          },
+          "K.65.1.2.0.6": {
+            "ID": 14347,
+            "SIC": "K.65.1.2.0.6",
+            "Category": "Contingency insurance"
+          },
+          "K.65.1.2.0.7": {
+            "ID": 14348,
+            "SIC": "K.65.1.2.0.7",
+            "Category": "Export credit guarantee department"
+          },
+          "K.65.1.2.0.8": {
+            "ID": 14349,
+            "SIC": "K.65.1.2.0.8",
+            "Category": "Fire insurance"
+          },
+          "K.65.1.2.0.9": {
+            "ID": 14350,
+            "SIC": "K.65.1.2.0.9",
+            "Category": "Health insurance"
+          },
+          "K.65.1.2.0.10": {
+            "ID": 14351,
+            "SIC": "K.65.1.2.0.10",
+            "Category": "Health plan management (own account)"
+          },
+          "K.65.1.2.0.11": {
+            "ID": 14352,
+            "SIC": "K.65.1.2.0.11",
+            "Category": "Hospital contribution scheme"
+          },
+          "K.65.1.2.0.12": {
+            "ID": 14353,
+            "SIC": "K.65.1.2.0.12",
+            "Category": "Hospital saving association"
+          },
+          "K.65.1.2.0.13": {
+            "ID": 14354,
+            "SIC": "K.65.1.2.0.13",
+            "Category": "House insurance"
+          },
+          "K.65.1.2.0.14": {
+            "ID": 14355,
+            "SIC": "K.65.1.2.0.14",
+            "Category": "Industrial insurance"
+          },
+          "K.65.1.2.0.15": {
+            "ID": 14356,
+            "SIC": "K.65.1.2.0.15",
+            "Category": "Injury insurance"
+          },
+          "K.65.1.2.0.16": {
+            "ID": 14357,
+            "SIC": "K.65.1.2.0.16",
+            "Category": "Insurance (non-life)"
+          },
+          "K.65.1.2.0.17": {
+            "ID": 14358,
+            "SIC": "K.65.1.2.0.17",
+            "Category": "Liability insurance"
+          },
+          "K.65.1.2.0.18": {
+            "ID": 14359,
+            "SIC": "K.65.1.2.0.18",
+            "Category": "Livestock insurance"
+          },
+          "K.65.1.2.0.19": {
+            "ID": 14360,
+            "SIC": "K.65.1.2.0.19",
+            "Category": "Lloyd's underwriter (non-life)"
+          },
+          "K.65.1.2.0.20": {
+            "ID": 14361,
+            "SIC": "K.65.1.2.0.20",
+            "Category": "Marine insurance"
+          },
+          "K.65.1.2.0.21": {
+            "ID": 14362,
+            "SIC": "K.65.1.2.0.21",
+            "Category": "Motor insurance"
+          },
+          "K.65.1.2.0.22": {
+            "ID": 14363,
+            "SIC": "K.65.1.2.0.22",
+            "Category": "Motor vehicle warranty provision"
+          },
+          "K.65.1.2.0.23": {
+            "ID": 14364,
+            "SIC": "K.65.1.2.0.23",
+            "Category": "Pecuniary loss insurance"
+          },
+          "K.65.1.2.0.24": {
+            "ID": 14365,
+            "SIC": "K.65.1.2.0.24",
+            "Category": "Personal injury insurance"
+          },
+          "K.65.1.2.0.25": {
+            "ID": 14366,
+            "SIC": "K.65.1.2.0.25",
+            "Category": "Plate glass insurance"
+          },
+          "K.65.1.2.0.26": {
+            "ID": 14367,
+            "SIC": "K.65.1.2.0.26",
+            "Category": "Pluvium insurance"
+          },
+          "K.65.1.2.0.27": {
+            "ID": 14368,
+            "SIC": "K.65.1.2.0.27",
+            "Category": "Property insurance"
+          },
+          "K.65.1.2.0.28": {
+            "ID": 14369,
+            "SIC": "K.65.1.2.0.28",
+            "Category": "Provident fund (non-life)"
+          },
+          "K.65.1.2.0.29": {
+            "ID": 14370,
+            "SIC": "K.65.1.2.0.29",
+            "Category": "Sports insurance"
+          },
+          "K.65.1.2.0.30": {
+            "ID": 14371,
+            "SIC": "K.65.1.2.0.30",
+            "Category": "Transport insurance"
+          },
+          "K.65.1.2.0.31": {
+            "ID": 14372,
+            "SIC": "K.65.1.2.0.31",
+            "Category": "Travel insurance"
+          },
+          "K.65.1.2.0.32": {
+            "ID": 14373,
+            "SIC": "K.65.1.2.0.32",
+            "Category": "Underwriter (non-life insurance)"
+          },
+          "K.65.1.2.0.33": {
+            "ID": 14374,
+            "SIC": "K.65.1.2.0.33",
+            "Category": "Weather insurance"
+          }
+        }
+      },
+      "K.65.2": {
+        "ID": 885,
+        "SIC": "K.65.2",
+        "Category": "Reinsurance",
+        "K.65.2.0": {
+          "ID": 886,
+          "SIC": "K.65.2.0",
+          "Category": "Reinsurance",
+          "K.65.2.0.1": {
+            "ID": 887,
+            "SIC": "K.65.2.0.1",
+            "Category": "Life reinsurance",
+            "K.65.2.0.1.1": {
+              "ID": 14375,
+              "SIC": "K.65.2.0.1.1",
+              "Category": "Life re-insurance"
+            }
+          },
+          "K.65.2.0.2": {
+            "ID": 888,
+            "SIC": "K.65.2.0.2",
+            "Category": "Non-life reinsurance",
+            "K.65.2.0.2.1": {
+              "ID": 14376,
+              "SIC": "K.65.2.0.2.1",
+              "Category": "Non-life reinsurance"
+            },
+            "K.65.2.0.2.2": {
+              "ID": 14377,
+              "SIC": "K.65.2.0.2.2",
+              "Category": "Non-life reinsurance related to pension funding"
+            },
+            "K.65.2.0.2.3": {
+              "ID": 14378,
+              "SIC": "K.65.2.0.2.3",
+              "Category": "Re-insurance company (non-life)"
+            }
+          }
+        }
+      },
+      "K.65.3": {
+        "ID": 889,
+        "SIC": "K.65.3",
+        "Category": "Pension funding",
+        "K.65.3.0": {
+          "ID": 890,
+          "SIC": "K.65.3.0",
+          "Category": "Pension funding",
+          "K.65.3.0.0.1": {
+            "ID": 14379,
+            "SIC": "K.65.3.0.0.1",
+            "Category": "Employee benefit plans"
+          },
+          "K.65.3.0.0.2": {
+            "ID": 14380,
+            "SIC": "K.65.3.0.0.2",
+            "Category": "Fund management on behalf of members"
+          },
+          "K.65.3.0.0.3": {
+            "ID": 14381,
+            "SIC": "K.65.3.0.0.3",
+            "Category": "Pension fund (autonomous)"
+          },
+          "K.65.3.0.0.4": {
+            "ID": 14382,
+            "SIC": "K.65.3.0.0.4",
+            "Category": "Pension funding except compulsory social security"
+          },
+          "K.65.3.0.0.5": {
+            "ID": 14383,
+            "SIC": "K.65.3.0.0.5",
+            "Category": "Pension funds and plans"
+          },
+          "K.65.3.0.0.6": {
+            "ID": 14384,
+            "SIC": "K.65.3.0.0.6",
+            "Category": "Retirement incomes provision"
+          },
+          "K.65.3.0.0.7": {
+            "ID": 14385,
+            "SIC": "K.65.3.0.0.7",
+            "Category": "Retirement plans"
+          },
+          "K.65.3.0.0.8": {
+            "ID": 14386,
+            "SIC": "K.65.3.0.0.8",
+            "Category": "Superannuation fund (autonomous)"
+          }
+        }
+      }
+    },
+    "K.66": {
+      "ID": 891,
+      "SIC": "K.66",
+      "Category": "Activities auxiliary to financial services and insurance activities",
+      "K.66.1": {
+        "ID": 892,
+        "SIC": "K.66.1",
+        "Category": "Activities auxiliary to financial services, except insurance and pension funding",
+        "K.66.1.1": {
+          "ID": 893,
+          "SIC": "K.66.1.1",
+          "Category": "Administration of financial markets",
+          "K.66.1.1.0.1": {
+            "ID": 14387,
+            "SIC": "K.66.1.1.0.1",
+            "Category": "Bankers' clearing house"
+          },
+          "K.66.1.1.0.2": {
+            "ID": 14388,
+            "SIC": "K.66.1.1.0.2",
+            "Category": "Clearing house (banking)"
+          },
+          "K.66.1.1.0.3": {
+            "ID": 14389,
+            "SIC": "K.66.1.1.0.3",
+            "Category": "Commodity contracts exchanges administration"
+          },
+          "K.66.1.1.0.4": {
+            "ID": 14390,
+            "SIC": "K.66.1.1.0.4",
+            "Category": "Financial markets administration"
+          },
+          "K.66.1.1.0.5": {
+            "ID": 14391,
+            "SIC": "K.66.1.1.0.5",
+            "Category": "Futures commodity contracts exchanges administration"
+          },
+          "K.66.1.1.0.6": {
+            "ID": 14392,
+            "SIC": "K.66.1.1.0.6",
+            "Category": "Securities exchanges administration"
+          },
+          "K.66.1.1.0.7": {
+            "ID": 14393,
+            "SIC": "K.66.1.1.0.7",
+            "Category": "Stock exchange activities"
+          },
+          "K.66.1.1.0.8": {
+            "ID": 14394,
+            "SIC": "K.66.1.1.0.8",
+            "Category": "Stock or commodity options exchanges administration"
+          }
+        },
+        "K.66.1.2": {
+          "ID": 894,
+          "SIC": "K.66.1.2",
+          "Category": "Security and commodity contracts brokerage",
+          "K.66.1.2.0.1": {
+            "ID": 14395,
+            "SIC": "K.66.1.2.0.1",
+            "Category": "Bill broking on behalf of others (other than discount house)"
+          },
+          "K.66.1.2.0.2": {
+            "ID": 14396,
+            "SIC": "K.66.1.2.0.2",
+            "Category": "Bullion broking on behalf of others"
+          },
+          "K.66.1.2.0.3": {
+            "ID": 14397,
+            "SIC": "K.66.1.2.0.3",
+            "Category": "Bureaux de change activities"
+          },
+          "K.66.1.2.0.4": {
+            "ID": 14398,
+            "SIC": "K.66.1.2.0.4",
+            "Category": "Commodity contracts brokerage"
+          },
+          "K.66.1.2.0.5": {
+            "ID": 14399,
+            "SIC": "K.66.1.2.0.5",
+            "Category": "Corporate finance companies"
+          },
+          "K.66.1.2.0.6": {
+            "ID": 14400,
+            "SIC": "K.66.1.2.0.6",
+            "Category": "Currency broking"
+          },
+          "K.66.1.2.0.7": {
+            "ID": 14401,
+            "SIC": "K.66.1.2.0.7",
+            "Category": "Custodians and settlement services"
+          },
+          "K.66.1.2.0.8": {
+            "ID": 14402,
+            "SIC": "K.66.1.2.0.8",
+            "Category": "Dealing in finance markets for others (e.g. Stock broking), related activities (not fund management)"
+          },
+          "K.66.1.2.0.9": {
+            "ID": 14403,
+            "SIC": "K.66.1.2.0.9",
+            "Category": "Dealing in securities on behalf of others"
+          },
+          "K.66.1.2.0.10": {
+            "ID": 14404,
+            "SIC": "K.66.1.2.0.10",
+            "Category": "Foreign exchange broker"
+          },
+          "K.66.1.2.0.11": {
+            "ID": 14405,
+            "SIC": "K.66.1.2.0.11",
+            "Category": "Investment broking"
+          },
+          "K.66.1.2.0.12": {
+            "ID": 14406,
+            "SIC": "K.66.1.2.0.12",
+            "Category": "Money changer"
+          },
+          "K.66.1.2.0.13": {
+            "ID": 14407,
+            "SIC": "K.66.1.2.0.13",
+            "Category": "Securities broking"
+          },
+          "K.66.1.2.0.14": {
+            "ID": 14408,
+            "SIC": "K.66.1.2.0.14",
+            "Category": "Securities dealing on behalf of others"
+          },
+          "K.66.1.2.0.15": {
+            "ID": 14409,
+            "SIC": "K.66.1.2.0.15",
+            "Category": "Security and commodity contracts dealing activities"
+          },
+          "K.66.1.2.0.16": {
+            "ID": 14410,
+            "SIC": "K.66.1.2.0.16",
+            "Category": "Share dealer on behalf of others"
+          }
+        },
+        "K.66.1.9": {
+          "ID": 895,
+          "SIC": "K.66.1.9",
+          "Category": "Other activities auxiliary to financial services, except insurance and pension funding",
+          "K.66.1.9.0.1": {
+            "ID": 14411,
+            "SIC": "K.66.1.9.0.1",
+            "Category": "Company promoting"
+          },
+          "K.66.1.9.0.2": {
+            "ID": 14412,
+            "SIC": "K.66.1.9.0.2",
+            "Category": "Credit or finance broking"
+          },
+          "K.66.1.9.0.3": {
+            "ID": 14413,
+            "SIC": "K.66.1.9.0.3",
+            "Category": "Currency trading via the internet"
+          },
+          "K.66.1.9.0.4": {
+            "ID": 14414,
+            "SIC": "K.66.1.9.0.4",
+            "Category": "Deposit broker"
+          },
+          "K.66.1.9.0.5": {
+            "ID": 14415,
+            "SIC": "K.66.1.9.0.5",
+            "Category": "Financial advisor"
+          },
+          "K.66.1.9.0.6": {
+            "ID": 14416,
+            "SIC": "K.66.1.9.0.6",
+            "Category": "Financial transactions centre"
+          },
+          "K.66.1.9.0.7": {
+            "ID": 14417,
+            "SIC": "K.66.1.9.0.7",
+            "Category": "Independent financial advisors (not specialising in insurance or pensions advice)"
+          },
+          "K.66.1.9.0.8": {
+            "ID": 14418,
+            "SIC": "K.66.1.9.0.8",
+            "Category": "Interbank (worldwide financial telecommunications society)"
+          },
+          "K.66.1.9.0.9": {
+            "ID": 14419,
+            "SIC": "K.66.1.9.0.9",
+            "Category": "Investment advisory services"
+          },
+          "K.66.1.9.0.10": {
+            "ID": 14420,
+            "SIC": "K.66.1.9.0.10",
+            "Category": "Issuing house"
+          },
+          "K.66.1.9.0.11": {
+            "ID": 14421,
+            "SIC": "K.66.1.9.0.11",
+            "Category": "Mortgage agent"
+          },
+          "K.66.1.9.0.12": {
+            "ID": 14422,
+            "SIC": "K.66.1.9.0.12",
+            "Category": "Mortgage broker activities"
+          },
+          "K.66.1.9.0.13": {
+            "ID": 14423,
+            "SIC": "K.66.1.9.0.13",
+            "Category": "Nominee company"
+          },
+          "K.66.1.9.0.14": {
+            "ID": 14424,
+            "SIC": "K.66.1.9.0.14",
+            "Category": "Organisation and development of electronic money circulation"
+          },
+          "K.66.1.9.0.15": {
+            "ID": 14425,
+            "SIC": "K.66.1.9.0.15",
+            "Category": "Paying agent"
+          },
+          "K.66.1.9.0.16": {
+            "ID": 14426,
+            "SIC": "K.66.1.9.0.16",
+            "Category": "Trustee, fiduciary and custody services on a fee or contract basis"
+          }
+        }
+      },
+      "K.66.2": {
+        "ID": 896,
+        "SIC": "K.66.2",
+        "Category": "Activities auxiliary to insurance and pension funding",
+        "K.66.2.1": {
+          "ID": 897,
+          "SIC": "K.66.2.1",
+          "Category": "Risk and damage evaluation",
+          "K.66.2.1.0.1": {
+            "ID": 14427,
+            "SIC": "K.66.2.1.0.1",
+            "Category": "Adjuster (insurance)"
+          },
+          "K.66.2.1.0.2": {
+            "ID": 14428,
+            "SIC": "K.66.2.1.0.2",
+            "Category": "Average adjuster"
+          },
+          "K.66.2.1.0.3": {
+            "ID": 14429,
+            "SIC": "K.66.2.1.0.3",
+            "Category": "Damage evaluators activities"
+          },
+          "K.66.2.1.0.4": {
+            "ID": 14430,
+            "SIC": "K.66.2.1.0.4",
+            "Category": "Insurance claims settlement"
+          },
+          "K.66.2.1.0.5": {
+            "ID": 14431,
+            "SIC": "K.66.2.1.0.5",
+            "Category": "Insurance risk evaluators activities"
+          },
+          "K.66.2.1.0.6": {
+            "ID": 14432,
+            "SIC": "K.66.2.1.0.6",
+            "Category": "Loss adjuster"
+          }
+        },
+        "K.66.2.2": {
+          "ID": 898,
+          "SIC": "K.66.2.2",
+          "Category": "Activities of insurance agents and brokers",
+          "K.66.2.2.0.1": {
+            "ID": 14433,
+            "SIC": "K.66.2.2.0.1",
+            "Category": "Health plan management agents and brokers"
+          },
+          "K.66.2.2.0.2": {
+            "ID": 14434,
+            "SIC": "K.66.2.2.0.2",
+            "Category": "Insurance agent (not employed by insurance company)"
+          },
+          "K.66.2.2.0.3": {
+            "ID": 14435,
+            "SIC": "K.66.2.2.0.3",
+            "Category": "Insurance agents activities"
+          },
+          "K.66.2.2.0.4": {
+            "ID": 14436,
+            "SIC": "K.66.2.2.0.4",
+            "Category": "Insurance broker (not employed by insurance company)"
+          },
+          "K.66.2.2.0.5": {
+            "ID": 14437,
+            "SIC": "K.66.2.2.0.5",
+            "Category": "Insurance brokers activities"
+          },
+          "K.66.2.2.0.6": {
+            "ID": 14438,
+            "SIC": "K.66.2.2.0.6",
+            "Category": "Underwriting brokers (insurance)"
+          }
+        },
+        "K.66.2.9": {
+          "ID": 899,
+          "SIC": "K.66.2.9",
+          "Category": "Other activities auxiliary to insurance and pension funding",
+          "K.66.2.9.0.1": {
+            "ID": 14439,
+            "SIC": "K.66.2.9.0.1",
+            "Category": "Actuarial services"
+          },
+          "K.66.2.9.0.2": {
+            "ID": 14440,
+            "SIC": "K.66.2.9.0.2",
+            "Category": "Administration of insurance guarantee fund"
+          },
+          "K.66.2.9.0.3": {
+            "ID": 14441,
+            "SIC": "K.66.2.9.0.3",
+            "Category": "Insurance consultancy services"
+          },
+          "K.66.2.9.0.4": {
+            "ID": 14442,
+            "SIC": "K.66.2.9.0.4",
+            "Category": "Pension consultancy services"
+          },
+          "K.66.2.9.0.5": {
+            "ID": 14443,
+            "SIC": "K.66.2.9.0.5",
+            "Category": "Pension consultants (own account)"
+          }
+        }
+      },
+      "K.66.3": {
+        "ID": 900,
+        "SIC": "K.66.3",
+        "Category": "Fund management activities",
+        "K.66.3.0": {
+          "ID": 901,
+          "SIC": "K.66.3.0",
+          "Category": "Fund management activities",
+          "K.66.3.0.0.1": {
+            "ID": 14444,
+            "SIC": "K.66.3.0.0.1",
+            "Category": "Fund management activities"
+          },
+          "K.66.3.0.0.2": {
+            "ID": 14445,
+            "SIC": "K.66.3.0.0.2",
+            "Category": "Mutual funds management"
+          },
+          "K.66.3.0.0.3": {
+            "ID": 14446,
+            "SIC": "K.66.3.0.0.3",
+            "Category": "Pension fund management"
+          },
+          "K.66.3.0.0.4": {
+            "ID": 14447,
+            "SIC": "K.66.3.0.0.4",
+            "Category": "Portfolio management services"
+          }
+        }
+      }
+    }
+  }
+}

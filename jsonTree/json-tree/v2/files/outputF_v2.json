@@ -1,0 +1,2272 @@
+{
+  "F": {
+    "ID": 526,
+    "SIC": "F",
+    "Category": "CONSTRUCTION",
+    "F.41": {
+      "ID": 527,
+      "SIC": "F.41",
+      "Category": "Construction of buildings",
+      "F.41.1": {
+        "ID": 528,
+        "SIC": "F.41.1",
+        "Category": "Development of building projects",
+        "F.41.1.0": {
+          "ID": 529,
+          "SIC": "F.41.1.0",
+          "Category": "Development of building projects",
+          "F.41.1.0.0.1": {
+            "ID": 11313,
+            "SIC": "F.41.1.0.0.1",
+            "Category": "Building co-operative (construction only)"
+          },
+          "F.41.1.0.0.2": {
+            "ID": 11314,
+            "SIC": "F.41.1.0.0.2",
+            "Category": "Developing building projects for commercial buildings hotels, stores, shopping malls, restaurants "
+          },
+          "F.41.1.0.0.3": {
+            "ID": 11315,
+            "SIC": "F.41.1.0.0.3",
+            "Category": "Development of building projects for residential buildings"
+          },
+          "F.41.1.0.0.4": {
+            "ID": 11316,
+            "SIC": "F.41.1.0.0.4",
+            "Category": "Housing association (building houses for later sale)"
+          },
+          "F.41.1.0.0.5": {
+            "ID": 11317,
+            "SIC": "F.41.1.0.0.5",
+            "Category": "Land and building company"
+          },
+          "F.41.1.0.0.6": {
+            "ID": 11318,
+            "SIC": "F.41.1.0.0.6",
+            "Category": "Land investment company"
+          },
+          "F.41.1.0.0.7": {
+            "ID": 11319,
+            "SIC": "F.41.1.0.0.7",
+            "Category": "Property developer"
+          },
+          "F.41.1.0.0.8": {
+            "ID": 11320,
+            "SIC": "F.41.1.0.0.8",
+            "Category": "Property investment company"
+          },
+          "F.41.1.0.0.9": {
+            "ID": 11321,
+            "SIC": "F.41.1.0.0.9",
+            "Category": "Real estate project development"
+          }
+        }
+      },
+      "F.41.2": {
+        "ID": 530,
+        "SIC": "F.41.2",
+        "Category": "Construction of residential and non-residential buildings",
+        "F.41.2.0": {
+          "ID": 531,
+          "SIC": "F.41.2.0",
+          "Category": "Construction of residential and non-residential buildings",
+          "F.41.2.0.1": {
+            "ID": 532,
+            "SIC": "F.41.2.0.1",
+            "Category": "Construction of commercial buildings",
+            "F.41.2.0.1.1": {
+              "ID": 11322,
+              "SIC": "F.41.2.0.1.1",
+              "Category": "Arts, cultural or leisure facilities buildings construction"
+            },
+            "F.41.2.0.1.2": {
+              "ID": 11323,
+              "SIC": "F.41.2.0.1.2",
+              "Category": "Assembly and erection of prefabricated non-residential constructions on the site"
+            },
+            "F.41.2.0.1.3": {
+              "ID": 11324,
+              "SIC": "F.41.2.0.1.3",
+              "Category": "Assembly and installation of self-manufactured commercial buildings of metal on site"
+            },
+            "F.41.2.0.1.4": {
+              "ID": 11325,
+              "SIC": "F.41.2.0.1.4",
+              "Category": "Assembly and installation of self-manufactured commercial buildings of plastic on site"
+            },
+            "F.41.2.0.1.5": {
+              "ID": 11326,
+              "SIC": "F.41.2.0.1.5",
+              "Category": "Assembly and installation of self-manufactured commercial buildings of wood on site"
+            },
+            "F.41.2.0.1.6": {
+              "ID": 11327,
+              "SIC": "F.41.2.0.1.6",
+              "Category": "Builder and contractor for commercial buildings"
+            },
+            "F.41.2.0.1.7": {
+              "ID": 11328,
+              "SIC": "F.41.2.0.1.7",
+              "Category": "Building and installation of grain storage systems"
+            },
+            "F.41.2.0.1.8": {
+              "ID": 11329,
+              "SIC": "F.41.2.0.1.8",
+              "Category": "Building maintenance and restoration commercial buildings"
+            },
+            "F.41.2.0.1.9": {
+              "ID": 11330,
+              "SIC": "F.41.2.0.1.9",
+              "Category": "Car park construction"
+            },
+            "F.41.2.0.1.10": {
+              "ID": 11331,
+              "SIC": "F.41.2.0.1.10",
+              "Category": "Churches and other ecclesiastical buildings construction"
+            },
+            "F.41.2.0.1.11": {
+              "ID": 11332,
+              "SIC": "F.41.2.0.1.11",
+              "Category": "Commercial buildings construction"
+            },
+            "F.41.2.0.1.12": {
+              "ID": 11333,
+              "SIC": "F.41.2.0.1.12",
+              "Category": "Construction factories"
+            },
+            "F.41.2.0.1.13": {
+              "ID": 11334,
+              "SIC": "F.41.2.0.1.13",
+              "Category": "Construction of airport buildings"
+            },
+            "F.41.2.0.1.14": {
+              "ID": 11335,
+              "SIC": "F.41.2.0.1.14",
+              "Category": "Construction of arts, cultural or leisure facilities buildings"
+            },
+            "F.41.2.0.1.15": {
+              "ID": 11336,
+              "SIC": "F.41.2.0.1.15",
+              "Category": "Construction of assembly plants"
+            },
+            "F.41.2.0.1.16": {
+              "ID": 11337,
+              "SIC": "F.41.2.0.1.16",
+              "Category": "Construction of commercial buildings"
+            },
+            "F.41.2.0.1.17": {
+              "ID": 11338,
+              "SIC": "F.41.2.0.1.17",
+              "Category": "Construction of hospitals"
+            },
+            "F.41.2.0.1.18": {
+              "ID": 11339,
+              "SIC": "F.41.2.0.1.18",
+              "Category": "Construction of indoor sports facilities"
+            },
+            "F.41.2.0.1.19": {
+              "ID": 11340,
+              "SIC": "F.41.2.0.1.19",
+              "Category": "Construction of office buildings"
+            },
+            "F.41.2.0.1.20": {
+              "ID": 11341,
+              "SIC": "F.41.2.0.1.20",
+              "Category": "Construction of parking garages"
+            },
+            "F.41.2.0.1.21": {
+              "ID": 11342,
+              "SIC": "F.41.2.0.1.21",
+              "Category": "Construction of primary, secondary and other schools"
+            },
+            "F.41.2.0.1.22": {
+              "ID": 11343,
+              "SIC": "F.41.2.0.1.22",
+              "Category": "Construction of religious buildings"
+            },
+            "F.41.2.0.1.23": {
+              "ID": 11344,
+              "SIC": "F.41.2.0.1.23",
+              "Category": "Construction of warehouses"
+            },
+            "F.41.2.0.1.24": {
+              "ID": 11345,
+              "SIC": "F.41.2.0.1.24",
+              "Category": "Construction of workshops"
+            },
+            "F.41.2.0.1.25": {
+              "ID": 11346,
+              "SIC": "F.41.2.0.1.25",
+              "Category": "Flatwork for sport and recreational installations (commercial buildings)"
+            },
+            "F.41.2.0.1.26": {
+              "ID": 11347,
+              "SIC": "F.41.2.0.1.26",
+              "Category": "Office and shop construction"
+            },
+            "F.41.2.0.1.27": {
+              "ID": 11348,
+              "SIC": "F.41.2.0.1.27",
+              "Category": "Prefabricated constructions (commercial) assembly and erection"
+            },
+            "F.41.2.0.1.28": {
+              "ID": 11349,
+              "SIC": "F.41.2.0.1.28",
+              "Category": "Primary, secondary and other schools construction"
+            },
+            "F.41.2.0.1.29": {
+              "ID": 11350,
+              "SIC": "F.41.2.0.1.29",
+              "Category": "Silo assembly (on-site)"
+            },
+            "F.41.2.0.1.30": {
+              "ID": 11351,
+              "SIC": "F.41.2.0.1.30",
+              "Category": "Swimming pools construction"
+            }
+          },
+          "F.41.2.0.2": {
+            "ID": 533,
+            "SIC": "F.41.2.0.2",
+            "Category": "Construction of domestic buildings",
+            "F.41.2.0.2.1": {
+              "ID": 11352,
+              "SIC": "F.41.2.0.2.1",
+              "Category": "Assembly and installation of self-manufactured domestic buildings of metal on site"
+            },
+            "F.41.2.0.2.2": {
+              "ID": 11353,
+              "SIC": "F.41.2.0.2.2",
+              "Category": "Assembly and installation of self-manufactured domestic buildings of plastic on site"
+            },
+            "F.41.2.0.2.3": {
+              "ID": 11354,
+              "SIC": "F.41.2.0.2.3",
+              "Category": "Assembly and installation of self-manufactured domestic buildings of wood on site"
+            },
+            "F.41.2.0.2.4": {
+              "ID": 11355,
+              "SIC": "F.41.2.0.2.4",
+              "Category": "Builder and contractor for domestic buildings"
+            },
+            "F.41.2.0.2.5": {
+              "ID": 11356,
+              "SIC": "F.41.2.0.2.5",
+              "Category": "Building maintenance and restoration domestic buildings"
+            },
+            "F.41.2.0.2.6": {
+              "ID": 11357,
+              "SIC": "F.41.2.0.2.6",
+              "Category": "Construction of domestic buildings"
+            },
+            "F.41.2.0.2.7": {
+              "ID": 11358,
+              "SIC": "F.41.2.0.2.7",
+              "Category": "Construction of housing association and local authority housing"
+            },
+            "F.41.2.0.2.8": {
+              "ID": 11359,
+              "SIC": "F.41.2.0.2.8",
+              "Category": "Construction of multi-family buildings, including high-rise buildings"
+            },
+            "F.41.2.0.2.9": {
+              "ID": 11360,
+              "SIC": "F.41.2.0.2.9",
+              "Category": "Construction of residential buildings"
+            },
+            "F.41.2.0.2.10": {
+              "ID": 11361,
+              "SIC": "F.41.2.0.2.10",
+              "Category": "Construction of single-family houses"
+            },
+            "F.41.2.0.2.11": {
+              "ID": 11362,
+              "SIC": "F.41.2.0.2.11",
+              "Category": "House building and repairing"
+            },
+            "F.41.2.0.2.12": {
+              "ID": 11363,
+              "SIC": "F.41.2.0.2.12",
+              "Category": "Housing association (building work)"
+            },
+            "F.41.2.0.2.13": {
+              "ID": 11364,
+              "SIC": "F.41.2.0.2.13",
+              "Category": "Local authority house building and maintenance"
+            },
+            "F.41.2.0.2.14": {
+              "ID": 11365,
+              "SIC": "F.41.2.0.2.14",
+              "Category": "Local authority or new town direct labour department (domestic dwellings)"
+            },
+            "F.41.2.0.2.15": {
+              "ID": 11366,
+              "SIC": "F.41.2.0.2.15",
+              "Category": "Prefabricated constructions (domestic) assembly and erection"
+            },
+            "F.41.2.0.2.16": {
+              "ID": 11367,
+              "SIC": "F.41.2.0.2.16",
+              "Category": "Remodelling or renovating existing residential structures"
+            },
+            "F.41.2.0.2.17": {
+              "ID": 11368,
+              "SIC": "F.41.2.0.2.17",
+              "Category": "Scottish Special Housing Association (building work)"
+            }
+          }
+        }
+      }
+    },
+    "F.42": {
+      "ID": 534,
+      "SIC": "F.42",
+      "Category": "Civil engineering",
+      "F.42.1": {
+        "ID": 535,
+        "SIC": "F.42.1",
+        "Category": "Construction of roads and railways",
+        "F.42.1.1": {
+          "ID": 536,
+          "SIC": "F.42.1.1",
+          "Category": "Construction of roads and motorways",
+          "F.42.1.1.0.1": {
+            "ID": 11369,
+            "SIC": "F.42.1.1.0.1",
+            "Category": "Airfield runway construction"
+          },
+          "F.42.1.1.0.2": {
+            "ID": 11370,
+            "SIC": "F.42.1.1.0.2",
+            "Category": "Airport runway construction"
+          },
+          "F.42.1.1.0.3": {
+            "ID": 11371,
+            "SIC": "F.42.1.1.0.3",
+            "Category": "Asphalt paving of roads"
+          },
+          "F.42.1.1.0.4": {
+            "ID": 11372,
+            "SIC": "F.42.1.1.0.4",
+            "Category": "Asphalting contractor (civil engineering)"
+          },
+          "F.42.1.1.0.5": {
+            "ID": 11373,
+            "SIC": "F.42.1.1.0.5",
+            "Category": "Construction of other vehicular and pedestrian ways"
+          },
+          "F.42.1.1.0.6": {
+            "ID": 11374,
+            "SIC": "F.42.1.1.0.6",
+            "Category": "Erection of roadway barriers"
+          },
+          "F.42.1.1.0.7": {
+            "ID": 11375,
+            "SIC": "F.42.1.1.0.7",
+            "Category": "Ground work contracting"
+          },
+          "F.42.1.1.0.8": {
+            "ID": 11376,
+            "SIC": "F.42.1.1.0.8",
+            "Category": "Highway construction"
+          },
+          "F.42.1.1.0.9": {
+            "ID": 11377,
+            "SIC": "F.42.1.1.0.9",
+            "Category": "Installation of crash barriers"
+          },
+          "F.42.1.1.0.10": {
+            "ID": 11378,
+            "SIC": "F.42.1.1.0.10",
+            "Category": "Installation of non-illuminated road signs, bollards etc."
+          },
+          "F.42.1.1.0.11": {
+            "ID": 11379,
+            "SIC": "F.42.1.1.0.11",
+            "Category": "Local authority highways construction and maintenance"
+          },
+          "F.42.1.1.0.12": {
+            "ID": 11380,
+            "SIC": "F.42.1.1.0.12",
+            "Category": "Local authority road construction and major repairs"
+          },
+          "F.42.1.1.0.13": {
+            "ID": 11381,
+            "SIC": "F.42.1.1.0.13",
+            "Category": "Motorway and other dual carriageway construction"
+          },
+          "F.42.1.1.0.14": {
+            "ID": 11382,
+            "SIC": "F.42.1.1.0.14",
+            "Category": "Parking lot markings painting"
+          },
+          "F.42.1.1.0.15": {
+            "ID": 11383,
+            "SIC": "F.42.1.1.0.15",
+            "Category": "Paving contractor"
+          },
+          "F.42.1.1.0.16": {
+            "ID": 11384,
+            "SIC": "F.42.1.1.0.16",
+            "Category": "Pedestrian ways construction"
+          },
+          "F.42.1.1.0.17": {
+            "ID": 11385,
+            "SIC": "F.42.1.1.0.17",
+            "Category": "Road construction and repair"
+          },
+          "F.42.1.1.0.18": {
+            "ID": 11386,
+            "SIC": "F.42.1.1.0.18",
+            "Category": "Road surface markings painting"
+          },
+          "F.42.1.1.0.19": {
+            "ID": 11387,
+            "SIC": "F.42.1.1.0.19",
+            "Category": "Street construction"
+          },
+          "F.42.1.1.0.20": {
+            "ID": 11388,
+            "SIC": "F.42.1.1.0.20",
+            "Category": "Surface work on elevated highways, bridges and in tunnels"
+          },
+          "F.42.1.1.0.21": {
+            "ID": 11389,
+            "SIC": "F.42.1.1.0.21",
+            "Category": "Surface work on streets, roads, highways, bridges or tunnels"
+          },
+          "F.42.1.1.0.22": {
+            "ID": 11390,
+            "SIC": "F.42.1.1.0.22",
+            "Category": "Tar spraying contractor (civil engineering)"
+          },
+          "F.42.1.1.0.23": {
+            "ID": 11391,
+            "SIC": "F.42.1.1.0.23",
+            "Category": "Tarmacadam laying contracting"
+          }
+        },
+        "F.42.1.2": {
+          "ID": 537,
+          "SIC": "F.42.1.2",
+          "Category": "Construction of railways and underground railways",
+          "F.42.1.2.0.1": {
+            "ID": 11392,
+            "SIC": "F.42.1.2.0.1",
+            "Category": "Cable supported transport systems construction"
+          },
+          "F.42.1.2.0.2": {
+            "ID": 11393,
+            "SIC": "F.42.1.2.0.2",
+            "Category": "Construction of underground railways"
+          },
+          "F.42.1.2.0.3": {
+            "ID": 11394,
+            "SIC": "F.42.1.2.0.3",
+            "Category": "Railway construction"
+          },
+          "F.42.1.2.0.4": {
+            "ID": 11395,
+            "SIC": "F.42.1.2.0.4",
+            "Category": "Railway tunnel construction"
+          },
+          "F.42.1.2.0.5": {
+            "ID": 11396,
+            "SIC": "F.42.1.2.0.5",
+            "Category": "Railway tunnelling contractor"
+          },
+          "F.42.1.2.0.6": {
+            "ID": 11397,
+            "SIC": "F.42.1.2.0.6",
+            "Category": "Subway construction"
+          },
+          "F.42.1.2.0.7": {
+            "ID": 11398,
+            "SIC": "F.42.1.2.0.7",
+            "Category": "Supply line (third rail) for railway construction"
+          },
+          "F.42.1.2.0.8": {
+            "ID": 11399,
+            "SIC": "F.42.1.2.0.8",
+            "Category": "Tramways construction"
+          },
+          "F.42.1.2.0.9": {
+            "ID": 11400,
+            "SIC": "F.42.1.2.0.9",
+            "Category": "Transmission line construction"
+          }
+        },
+        "F.42.1.3": {
+          "ID": 538,
+          "SIC": "F.42.1.3",
+          "Category": "Construction of bridges and tunnels",
+          "F.42.1.3.0.1": {
+            "ID": 11401,
+            "SIC": "F.42.1.3.0.1",
+            "Category": "Bridge construction"
+          },
+          "F.42.1.3.0.2": {
+            "ID": 11402,
+            "SIC": "F.42.1.3.0.2",
+            "Category": "Construction of tunnels"
+          },
+          "F.42.1.3.0.3": {
+            "ID": 11403,
+            "SIC": "F.42.1.3.0.3",
+            "Category": "Elevated highways construction"
+          },
+          "F.42.1.3.0.4": {
+            "ID": 11404,
+            "SIC": "F.42.1.3.0.4",
+            "Category": "Viaduct construction"
+          }
+        }
+      },
+      "F.42.2": {
+        "ID": 539,
+        "SIC": "F.42.2",
+        "Category": "Construction of utility projects",
+        "F.42.2.1": {
+          "ID": 540,
+          "SIC": "F.42.2.1",
+          "Category": "Construction of bridges and tunnels",
+          "F.42.2.1.0.1": {
+            "ID": 11405,
+            "SIC": "F.42.2.1.0.1",
+            "Category": "Artesian well contractor"
+          },
+          "F.42.2.1.0.2": {
+            "ID": 11406,
+            "SIC": "F.42.2.1.0.2",
+            "Category": "Construction of civil engineering constructions for long-distance and urban pipelines"
+          },
+          "F.42.2.1.0.3": {
+            "ID": 11407,
+            "SIC": "F.42.2.1.0.3",
+            "Category": "Construction of irrigation systems (canals)"
+          },
+          "F.42.2.1.0.4": {
+            "ID": 11408,
+            "SIC": "F.42.2.1.0.4",
+            "Category": "Construction of pumping stations"
+          },
+          "F.42.2.1.0.5": {
+            "ID": 11409,
+            "SIC": "F.42.2.1.0.5",
+            "Category": "Construction of sewage disposal plants"
+          },
+          "F.42.2.1.0.6": {
+            "ID": 11410,
+            "SIC": "F.42.2.1.0.6",
+            "Category": "Construction of sewer systems"
+          },
+          "F.42.2.1.0.7": {
+            "ID": 11411,
+            "SIC": "F.42.2.1.0.7",
+            "Category": "Gas offshore pipeline laying"
+          },
+          "F.42.2.1.0.8": {
+            "ID": 11412,
+            "SIC": "F.42.2.1.0.8",
+            "Category": "Installation of offshore pipelines from oil or gas wells"
+          },
+          "F.42.2.1.0.9": {
+            "ID": 11413,
+            "SIC": "F.42.2.1.0.9",
+            "Category": "Irrigation system construction"
+          },
+          "F.42.2.1.0.10": {
+            "ID": 11414,
+            "SIC": "F.42.2.1.0.10",
+            "Category": "Offshore oil pipeline laying"
+          },
+          "F.42.2.1.0.11": {
+            "ID": 11415,
+            "SIC": "F.42.2.1.0.11",
+            "Category": "Pipeline construction"
+          },
+          "F.42.2.1.0.12": {
+            "ID": 11416,
+            "SIC": "F.42.2.1.0.12",
+            "Category": "Pipeline contracting"
+          },
+          "F.42.2.1.0.13": {
+            "ID": 11417,
+            "SIC": "F.42.2.1.0.13",
+            "Category": "Repair of sewer systems"
+          },
+          "F.42.2.1.0.14": {
+            "ID": 11418,
+            "SIC": "F.42.2.1.0.14",
+            "Category": "Reservoir construction"
+          },
+          "F.42.2.1.0.15": {
+            "ID": 11419,
+            "SIC": "F.42.2.1.0.15",
+            "Category": "Sewerage construction"
+          },
+          "F.42.2.1.0.16": {
+            "ID": 11420,
+            "SIC": "F.42.2.1.0.16",
+            "Category": "Urban pipelines construction"
+          },
+          "F.42.2.1.0.17": {
+            "ID": 11421,
+            "SIC": "F.42.2.1.0.17",
+            "Category": "Water main and line construction"
+          },
+          "F.42.2.1.0.18": {
+            "ID": 11422,
+            "SIC": "F.42.2.1.0.18",
+            "Category": "Water treatment plant construction"
+          },
+          "F.42.2.1.0.19": {
+            "ID": 11423,
+            "SIC": "F.42.2.1.0.19",
+            "Category": "Water well drilling"
+          }
+        },
+        "F.42.2.2": {
+          "ID": 541,
+          "SIC": "F.42.2.2",
+          "Category": "Construction of utility projects for electricity and telecommunications",
+          "F.42.2.2.0.1": {
+            "ID": 11424,
+            "SIC": "F.42.2.2.0.1",
+            "Category": "Cable laying"
+          },
+          "F.42.2.2.0.2": {
+            "ID": 11425,
+            "SIC": "F.42.2.2.0.2",
+            "Category": "Cable-laying vessel services"
+          },
+          "F.42.2.2.0.3": {
+            "ID": 11426,
+            "SIC": "F.42.2.2.0.3",
+            "Category": "Civil engineering constructions for long-distance communication"
+          },
+          "F.42.2.2.0.4": {
+            "ID": 11427,
+            "SIC": "F.42.2.2.0.4",
+            "Category": "Civil engineering constructions for power lines"
+          },
+          "F.42.2.2.0.5": {
+            "ID": 11428,
+            "SIC": "F.42.2.2.0.5",
+            "Category": "Civil engineering constructions for power plants"
+          },
+          "F.42.2.2.0.6": {
+            "ID": 11429,
+            "SIC": "F.42.2.2.0.6",
+            "Category": "Civil engineering constructions for urban communication"
+          },
+          "F.42.2.2.0.7": {
+            "ID": 11430,
+            "SIC": "F.42.2.2.0.7",
+            "Category": "Communication lines construction"
+          },
+          "F.42.2.2.0.8": {
+            "ID": 11431,
+            "SIC": "F.42.2.2.0.8",
+            "Category": "Construction of utility projects for electricity"
+          },
+          "F.42.2.2.0.9": {
+            "ID": 11432,
+            "SIC": "F.42.2.2.0.9",
+            "Category": "Construction of utility projects for telecommunications"
+          },
+          "F.42.2.2.0.10": {
+            "ID": 11433,
+            "SIC": "F.42.2.2.0.10",
+            "Category": "Installation of solar plants"
+          },
+          "F.42.2.2.0.11": {
+            "ID": 11434,
+            "SIC": "F.42.2.2.0.11",
+            "Category": "Installation of wind energy plants"
+          },
+          "F.42.2.2.0.12": {
+            "ID": 11435,
+            "SIC": "F.42.2.2.0.12",
+            "Category": "Overhead line construction"
+          },
+          "F.42.2.2.0.13": {
+            "ID": 11436,
+            "SIC": "F.42.2.2.0.13",
+            "Category": "Power line construction"
+          },
+          "F.42.2.2.0.14": {
+            "ID": 11437,
+            "SIC": "F.42.2.2.0.14",
+            "Category": "Repair and maintenance of above-ground telecommunication lines"
+          },
+          "F.42.2.2.0.15": {
+            "ID": 11438,
+            "SIC": "F.42.2.2.0.15",
+            "Category": "Repair and maintenance of underground communication lines"
+          },
+          "F.42.2.2.0.16": {
+            "ID": 11439,
+            "SIC": "F.42.2.2.0.16",
+            "Category": "Urban communication and powerlines construction"
+          }
+        }
+      },
+      "F.42.9": {
+        "ID": 542,
+        "SIC": "F.42.9",
+        "Category": "Construction of other civil engineering projects",
+        "F.42.9.1": {
+          "ID": 543,
+          "SIC": "F.42.9.1",
+          "Category": "Construction of water projects",
+          "F.42.9.1.0.1": {
+            "ID": 11440,
+            "SIC": "F.42.9.1.0.1",
+            "Category": "Aqueduct construction"
+          },
+          "F.42.9.1.0.2": {
+            "ID": 11441,
+            "SIC": "F.42.9.1.0.2",
+            "Category": "Coastal defence construction"
+          },
+          "F.42.9.1.0.3": {
+            "ID": 11442,
+            "SIC": "F.42.9.1.0.3",
+            "Category": "Dam construction"
+          },
+          "F.42.9.1.0.4": {
+            "ID": 11443,
+            "SIC": "F.42.9.1.0.4",
+            "Category": "Dredging contractor"
+          },
+          "F.42.9.1.0.5": {
+            "ID": 11444,
+            "SIC": "F.42.9.1.0.5",
+            "Category": "Dredging for water projects"
+          },
+          "F.42.9.1.0.6": {
+            "ID": 11445,
+            "SIC": "F.42.9.1.0.6",
+            "Category": "Dredging of waterways"
+          },
+          "F.42.9.1.0.7": {
+            "ID": 11446,
+            "SIC": "F.42.9.1.0.7",
+            "Category": "Dry dock construction"
+          },
+          "F.42.9.1.0.8": {
+            "ID": 11447,
+            "SIC": "F.42.9.1.0.8",
+            "Category": "Dyke construction"
+          },
+          "F.42.9.1.0.9": {
+            "ID": 11448,
+            "SIC": "F.42.9.1.0.9",
+            "Category": "Dykes and static barrages construction"
+          },
+          "F.42.9.1.0.10": {
+            "ID": 11449,
+            "SIC": "F.42.9.1.0.10",
+            "Category": "Floodgates, movable barrages and hydro-mechanical structures construction"
+          },
+          "F.42.9.1.0.11": {
+            "ID": 11450,
+            "SIC": "F.42.9.1.0.11",
+            "Category": "Harbour construction"
+          },
+          "F.42.9.1.0.12": {
+            "ID": 11451,
+            "SIC": "F.42.9.1.0.12",
+            "Category": "Lock construction"
+          },
+          "F.42.9.1.0.13": {
+            "ID": 11452,
+            "SIC": "F.42.9.1.0.13",
+            "Category": "Marina construction"
+          },
+          "F.42.9.1.0.14": {
+            "ID": 11453,
+            "SIC": "F.42.9.1.0.14",
+            "Category": "Pleasure port construction"
+          },
+          "F.42.9.1.0.15": {
+            "ID": 11454,
+            "SIC": "F.42.9.1.0.15",
+            "Category": "River work construction"
+          },
+          "F.42.9.1.0.16": {
+            "ID": 11455,
+            "SIC": "F.42.9.1.0.16",
+            "Category": "Water project construction"
+          },
+          "F.42.9.1.0.17": {
+            "ID": 11456,
+            "SIC": "F.42.9.1.0.17",
+            "Category": "Waterway construction"
+          }
+        },
+        "F.42.9.9": {
+          "ID": 544,
+          "SIC": "F.42.9.9",
+          "Category": "Construction of other civil engineering projects n.e.c.",
+          "F.42.9.9.0.1": {
+            "ID": 11457,
+            "SIC": "F.42.9.9.0.1",
+            "Category": "Civil engineering construction"
+          },
+          "F.42.9.9.0.2": {
+            "ID": 11458,
+            "SIC": "F.42.9.9.0.2",
+            "Category": "Civil engineering contractor"
+          },
+          "F.42.9.9.0.3": {
+            "ID": 11459,
+            "SIC": "F.42.9.9.0.3",
+            "Category": "Construction of chemical plants (except buildings)"
+          },
+          "F.42.9.9.0.4": {
+            "ID": 11460,
+            "SIC": "F.42.9.9.0.4",
+            "Category": "Construction of industrial facilities (except buildings)"
+          },
+          "F.42.9.9.0.5": {
+            "ID": 11461,
+            "SIC": "F.42.9.9.0.5",
+            "Category": "Construction of outdoor sports facilities (except buildings)"
+          },
+          "F.42.9.9.0.6": {
+            "ID": 11462,
+            "SIC": "F.42.9.9.0.6",
+            "Category": "Construction of refineries (except buildings)"
+          },
+          "F.42.9.9.0.7": {
+            "ID": 11463,
+            "SIC": "F.42.9.9.0.7",
+            "Category": "Constructional engineering"
+          },
+          "F.42.9.9.0.8": {
+            "ID": 11464,
+            "SIC": "F.42.9.9.0.8",
+            "Category": "Foot and cycle path construction"
+          },
+          "F.42.9.9.0.9": {
+            "ID": 11465,
+            "SIC": "F.42.9.9.0.9",
+            "Category": "Golf course construction"
+          },
+          "F.42.9.9.0.10": {
+            "ID": 11466,
+            "SIC": "F.42.9.9.0.10",
+            "Category": "Government department (building and civil engineering works division)"
+          },
+          "F.42.9.9.0.11": {
+            "ID": 11467,
+            "SIC": "F.42.9.9.0.11",
+            "Category": "Land subdivision with land improvement (e.g. Adding of roads etc.)"
+          },
+          "F.42.9.9.0.12": {
+            "ID": 11468,
+            "SIC": "F.42.9.9.0.12",
+            "Category": "Local authority civil engineering department"
+          },
+          "F.42.9.9.0.13": {
+            "ID": 11469,
+            "SIC": "F.42.9.9.0.13",
+            "Category": "Local authority engineer's department"
+          },
+          "F.42.9.9.0.14": {
+            "ID": 11470,
+            "SIC": "F.42.9.9.0.14",
+            "Category": "Prefabricated constructions (civil engineering) assembly and erection"
+          },
+          "F.42.9.9.0.15": {
+            "ID": 11471,
+            "SIC": "F.42.9.9.0.15",
+            "Category": "Public works contractor"
+          },
+          "F.42.9.9.0.16": {
+            "ID": 11472,
+            "SIC": "F.42.9.9.0.16",
+            "Category": "Sport facilities construction"
+          },
+          "F.42.9.9.0.17": {
+            "ID": 11473,
+            "SIC": "F.42.9.9.0.17",
+            "Category": "Sports and recreation grounds, laying out"
+          },
+          "F.42.9.9.0.18": {
+            "ID": 11474,
+            "SIC": "F.42.9.9.0.18",
+            "Category": "Stadium construction"
+          },
+          "F.42.9.9.0.19": {
+            "ID": 11475,
+            "SIC": "F.42.9.9.0.19",
+            "Category": "Tennis courts construction"
+          }
+        }
+      }
+    },
+    "F.43": {
+      "ID": 545,
+      "SIC": "F.43",
+      "Category": "Specialised construction activities",
+      "F.43.1": {
+        "ID": 546,
+        "SIC": "F.43.1",
+        "Category": "Demolition and site preparation",
+        "F.43.1.1": {
+          "ID": 547,
+          "SIC": "F.43.1.1",
+          "Category": "Demolition",
+          "F.43.1.1.0.1": {
+            "ID": 11476,
+            "SIC": "F.43.1.1.0.1",
+            "Category": "Building demolition and wrecking"
+          },
+          "F.43.1.1.0.2": {
+            "ID": 11477,
+            "SIC": "F.43.1.1.0.2",
+            "Category": "Demolition contracting"
+          },
+          "F.43.1.1.0.3": {
+            "ID": 11478,
+            "SIC": "F.43.1.1.0.3",
+            "Category": "Demolition or wrecking of buildings and other structures"
+          }
+        },
+        "F.43.1.2": {
+          "ID": 548,
+          "SIC": "F.43.1.2",
+          "Category": "Site preparation",
+          "F.43.1.2.0.1": {
+            "ID": 11479,
+            "SIC": "F.43.1.2.0.1",
+            "Category": "Agricultural land drainage"
+          },
+          "F.43.1.2.0.2": {
+            "ID": 11480,
+            "SIC": "F.43.1.2.0.2",
+            "Category": "Blasting and associated rock removal work"
+          },
+          "F.43.1.2.0.3": {
+            "ID": 11481,
+            "SIC": "F.43.1.2.0.3",
+            "Category": "Blasting of construction sites"
+          },
+          "F.43.1.2.0.4": {
+            "ID": 11482,
+            "SIC": "F.43.1.2.0.4",
+            "Category": "Building site drainage"
+          },
+          "F.43.1.2.0.5": {
+            "ID": 11483,
+            "SIC": "F.43.1.2.0.5",
+            "Category": "Building sites clearance"
+          },
+          "F.43.1.2.0.6": {
+            "ID": 11484,
+            "SIC": "F.43.1.2.0.6",
+            "Category": "Development and preparation of mineral properties and sites"
+          },
+          "F.43.1.2.0.7": {
+            "ID": 11485,
+            "SIC": "F.43.1.2.0.7",
+            "Category": "Drainage of agricultural or forestry land"
+          },
+          "F.43.1.2.0.8": {
+            "ID": 11486,
+            "SIC": "F.43.1.2.0.8",
+            "Category": "Earth moving excavation"
+          },
+          "F.43.1.2.0.9": {
+            "ID": 11487,
+            "SIC": "F.43.1.2.0.9",
+            "Category": "Earthmoving contractor"
+          },
+          "F.43.1.2.0.10": {
+            "ID": 11488,
+            "SIC": "F.43.1.2.0.10",
+            "Category": "Excavation"
+          },
+          "F.43.1.2.0.11": {
+            "ID": 11489,
+            "SIC": "F.43.1.2.0.11",
+            "Category": "Forestry land drainage"
+          },
+          "F.43.1.2.0.12": {
+            "ID": 11490,
+            "SIC": "F.43.1.2.0.12",
+            "Category": "Land drainage contractor"
+          },
+          "F.43.1.2.0.13": {
+            "ID": 11491,
+            "SIC": "F.43.1.2.0.13",
+            "Category": "Land reclamation work"
+          },
+          "F.43.1.2.0.14": {
+            "ID": 11492,
+            "SIC": "F.43.1.2.0.14",
+            "Category": "Landfill for construction"
+          },
+          "F.43.1.2.0.15": {
+            "ID": 11493,
+            "SIC": "F.43.1.2.0.15",
+            "Category": "Levelling and grading of construction sites"
+          },
+          "F.43.1.2.0.16": {
+            "ID": 11494,
+            "SIC": "F.43.1.2.0.16",
+            "Category": "Mining site preparation and overburden removal"
+          },
+          "F.43.1.2.0.17": {
+            "ID": 11495,
+            "SIC": "F.43.1.2.0.17",
+            "Category": "Overburden removal and other development of mineral properties and sites"
+          },
+          "F.43.1.2.0.18": {
+            "ID": 11496,
+            "SIC": "F.43.1.2.0.18",
+            "Category": "Rock removal"
+          },
+          "F.43.1.2.0.19": {
+            "ID": 11497,
+            "SIC": "F.43.1.2.0.19",
+            "Category": "Site preparation"
+          },
+          "F.43.1.2.0.20": {
+            "ID": 11498,
+            "SIC": "F.43.1.2.0.20",
+            "Category": "Top soil stripping work"
+          },
+          "F.43.1.2.0.21": {
+            "ID": 11499,
+            "SIC": "F.43.1.2.0.21",
+            "Category": "Trench digging"
+          }
+        },
+        "F.43.1.3": {
+          "ID": 549,
+          "SIC": "F.43.1.3",
+          "Category": "Test drilling and boring",
+          "F.43.1.3.0.1": {
+            "ID": 11500,
+            "SIC": "F.43.1.3.0.1",
+            "Category": "Borehole drilling"
+          },
+          "F.43.1.3.0.2": {
+            "ID": 11501,
+            "SIC": "F.43.1.3.0.2",
+            "Category": "Core sampling for construction"
+          },
+          "F.43.1.3.0.3": {
+            "ID": 11502,
+            "SIC": "F.43.1.3.0.3",
+            "Category": "Geological test drilling, test boring and core sampling"
+          },
+          "F.43.1.3.0.4": {
+            "ID": 11503,
+            "SIC": "F.43.1.3.0.4",
+            "Category": "Geophysical test drilling, test boring and core sampling"
+          },
+          "F.43.1.3.0.5": {
+            "ID": 11504,
+            "SIC": "F.43.1.3.0.5",
+            "Category": "Test boring for construction"
+          },
+          "F.43.1.3.0.6": {
+            "ID": 11505,
+            "SIC": "F.43.1.3.0.6",
+            "Category": "Test drilling for construction"
+          }
+        }
+      },
+      "F.43.2": {
+        "ID": 550,
+        "SIC": "F.43.2",
+        "Category": "Electrical, plumbing and other construction installation activities",
+        "F.43.2.1": {
+          "ID": 551,
+          "SIC": "F.43.2.1",
+          "Category": "Electrical installation",
+          "F.43.2.1.0.1": {
+            "ID": 11506,
+            "SIC": "F.43.2.1.0.1",
+            "Category": "Aerial erection (domestic)"
+          },
+          "F.43.2.1.0.2": {
+            "ID": 11507,
+            "SIC": "F.43.2.1.0.2",
+            "Category": "Connecting of electric appliances and household equipment, including baseboard heating"
+          },
+          "F.43.2.1.0.3": {
+            "ID": 11508,
+            "SIC": "F.43.2.1.0.3",
+            "Category": "Electrical contractor (construction)"
+          },
+          "F.43.2.1.0.4": {
+            "ID": 11509,
+            "SIC": "F.43.2.1.0.4",
+            "Category": "Electrical installation for exhibition stands"
+          },
+          "F.43.2.1.0.5": {
+            "ID": 11510,
+            "SIC": "F.43.2.1.0.5",
+            "Category": "Electrical wiring of buildings"
+          },
+          "F.43.2.1.0.6": {
+            "ID": 11511,
+            "SIC": "F.43.2.1.0.6",
+            "Category": "Installation of aerials and residential antennas"
+          },
+          "F.43.2.1.0.7": {
+            "ID": 11512,
+            "SIC": "F.43.2.1.0.7",
+            "Category": "Installation of airport runway lighting"
+          },
+          "F.43.2.1.0.8": {
+            "ID": 11513,
+            "SIC": "F.43.2.1.0.8",
+            "Category": "Installation of burglar alarm systems"
+          },
+          "F.43.2.1.0.9": {
+            "ID": 11514,
+            "SIC": "F.43.2.1.0.9",
+            "Category": "Installation of cables"
+          },
+          "F.43.2.1.0.10": {
+            "ID": 11515,
+            "SIC": "F.43.2.1.0.10",
+            "Category": "Installation of computer network cabling and other telecommunications system cables"
+          },
+          "F.43.2.1.0.11": {
+            "ID": 11516,
+            "SIC": "F.43.2.1.0.11",
+            "Category": "Installation of electric solar energy collectors"
+          },
+          "F.43.2.1.0.12": {
+            "ID": 11517,
+            "SIC": "F.43.2.1.0.12",
+            "Category": "Installation of electrical systems in cable television wiring, including fibre optic"
+          },
+          "F.43.2.1.0.13": {
+            "ID": 11518,
+            "SIC": "F.43.2.1.0.13",
+            "Category": "Installation of electrical systems in computer network, including fibre optic"
+          },
+          "F.43.2.1.0.14": {
+            "ID": 11519,
+            "SIC": "F.43.2.1.0.14",
+            "Category": "Installation of electrical wiring and fittings"
+          },
+          "F.43.2.1.0.15": {
+            "ID": 11520,
+            "SIC": "F.43.2.1.0.15",
+            "Category": "Installation of fire alarms"
+          },
+          "F.43.2.1.0.16": {
+            "ID": 11521,
+            "SIC": "F.43.2.1.0.16",
+            "Category": "Installation of illuminated road signs and street furniture"
+          },
+          "F.43.2.1.0.17": {
+            "ID": 11522,
+            "SIC": "F.43.2.1.0.17",
+            "Category": "Installation of illumination and signalling systems for roads, railways, airports and harbours"
+          },
+          "F.43.2.1.0.18": {
+            "ID": 11523,
+            "SIC": "F.43.2.1.0.18",
+            "Category": "Installation of intertellecommunications wiring"
+          },
+          "F.43.2.1.0.19": {
+            "ID": 11524,
+            "SIC": "F.43.2.1.0.19",
+            "Category": "Installation of lighting systems"
+          },
+          "F.43.2.1.0.20": {
+            "ID": 11525,
+            "SIC": "F.43.2.1.0.20",
+            "Category": "Installation of office switchboards and telephone lines"
+          },
+          "F.43.2.1.0.21": {
+            "ID": 11526,
+            "SIC": "F.43.2.1.0.21",
+            "Category": "Installation of outdoor transformer and other outdoor electrical distribution apparatus"
+          },
+          "F.43.2.1.0.22": {
+            "ID": 11527,
+            "SIC": "F.43.2.1.0.22",
+            "Category": "Installation of roadway traffic monitoring and guidance equipment"
+          },
+          "F.43.2.1.0.23": {
+            "ID": 11528,
+            "SIC": "F.43.2.1.0.23",
+            "Category": "Installation of satellite dishes"
+          },
+          "F.43.2.1.0.24": {
+            "ID": 11529,
+            "SIC": "F.43.2.1.0.24",
+            "Category": "Installation of security alarms"
+          },
+          "F.43.2.1.0.25": {
+            "ID": 11530,
+            "SIC": "F.43.2.1.0.25",
+            "Category": "Installation of street lighting and electrical signals"
+          },
+          "F.43.2.1.0.26": {
+            "ID": 11531,
+            "SIC": "F.43.2.1.0.26",
+            "Category": "Installation of telecommunications wiring systems"
+          },
+          "F.43.2.1.0.27": {
+            "ID": 11532,
+            "SIC": "F.43.2.1.0.27",
+            "Category": "Installation of telephone lines"
+          },
+          "F.43.2.1.0.28": {
+            "ID": 11533,
+            "SIC": "F.43.2.1.0.28",
+            "Category": "Local authority street lighting"
+          },
+          "F.43.2.1.0.29": {
+            "ID": 11534,
+            "SIC": "F.43.2.1.0.29",
+            "Category": "Sign (electric) erection and maintenance"
+          }
+        },
+        "F.43.2.2": {
+          "ID": 552,
+          "SIC": "F.43.2.2",
+          "Category": "Plumbing, heat and air-conditioning installation",
+          "F.43.2.2.0.1": {
+            "ID": 11535,
+            "SIC": "F.43.2.2.0.1",
+            "Category": "Air conditioning contracting"
+          },
+          "F.43.2.2.0.2": {
+            "ID": 11536,
+            "SIC": "F.43.2.2.0.2",
+            "Category": "Heat and air-conditioning installation"
+          },
+          "F.43.2.2.0.3": {
+            "ID": 11537,
+            "SIC": "F.43.2.2.0.3",
+            "Category": "Heating and plumbing contracting"
+          },
+          "F.43.2.2.0.4": {
+            "ID": 11538,
+            "SIC": "F.43.2.2.0.4",
+            "Category": "Heating engineering (buildings)"
+          },
+          "F.43.2.2.0.5": {
+            "ID": 11539,
+            "SIC": "F.43.2.2.0.5",
+            "Category": "Heating service contracting"
+          },
+          "F.43.2.2.0.6": {
+            "ID": 11540,
+            "SIC": "F.43.2.2.0.6",
+            "Category": "Hot water engineer"
+          },
+          "F.43.2.2.0.7": {
+            "ID": 11541,
+            "SIC": "F.43.2.2.0.7",
+            "Category": "Installation of air conditioning equipment and ducts"
+          },
+          "F.43.2.2.0.8": {
+            "ID": 11542,
+            "SIC": "F.43.2.2.0.8",
+            "Category": "Installation of air conditioning plant"
+          },
+          "F.43.2.2.0.9": {
+            "ID": 11543,
+            "SIC": "F.43.2.2.0.9",
+            "Category": "Installation of coldrooms"
+          },
+          "F.43.2.2.0.10": {
+            "ID": 11544,
+            "SIC": "F.43.2.2.0.10",
+            "Category": "Installation of cooling towers"
+          },
+          "F.43.2.2.0.11": {
+            "ID": 11545,
+            "SIC": "F.43.2.2.0.11",
+            "Category": "Installation of duct work"
+          },
+          "F.43.2.2.0.12": {
+            "ID": 11546,
+            "SIC": "F.43.2.2.0.12",
+            "Category": "Installation of electrical heating systems (except baseboard heating)"
+          },
+          "F.43.2.2.0.13": {
+            "ID": 11547,
+            "SIC": "F.43.2.2.0.13",
+            "Category": "Installation of fire sprinkler systems"
+          },
+          "F.43.2.2.0.14": {
+            "ID": 11548,
+            "SIC": "F.43.2.2.0.14",
+            "Category": "Installation of furnaces"
+          },
+          "F.43.2.2.0.15": {
+            "ID": 11549,
+            "SIC": "F.43.2.2.0.15",
+            "Category": "Installation of gas fittings"
+          },
+          "F.43.2.2.0.16": {
+            "ID": 11550,
+            "SIC": "F.43.2.2.0.16",
+            "Category": "Installation of gas heating systems"
+          },
+          "F.43.2.2.0.17": {
+            "ID": 11551,
+            "SIC": "F.43.2.2.0.17",
+            "Category": "Installation of gas meters"
+          },
+          "F.43.2.2.0.18": {
+            "ID": 11552,
+            "SIC": "F.43.2.2.0.18",
+            "Category": "Installation of heat exchanger systems"
+          },
+          "F.43.2.2.0.19": {
+            "ID": 11553,
+            "SIC": "F.43.2.2.0.19",
+            "Category": "Installation of heating and ventilation apparatus"
+          },
+          "F.43.2.2.0.20": {
+            "ID": 11554,
+            "SIC": "F.43.2.2.0.20",
+            "Category": "Installation of lawn sprinkler systems"
+          },
+          "F.43.2.2.0.21": {
+            "ID": 11555,
+            "SIC": "F.43.2.2.0.21",
+            "Category": "Installation of non-electric solar energy collectors"
+          },
+          "F.43.2.2.0.22": {
+            "ID": 11556,
+            "SIC": "F.43.2.2.0.22",
+            "Category": "Installation of oil heating systems"
+          },
+          "F.43.2.2.0.23": {
+            "ID": 11557,
+            "SIC": "F.43.2.2.0.23",
+            "Category": "Installation of plumbing"
+          },
+          "F.43.2.2.0.24": {
+            "ID": 11558,
+            "SIC": "F.43.2.2.0.24",
+            "Category": "Installation of refrigeration"
+          },
+          "F.43.2.2.0.25": {
+            "ID": 11559,
+            "SIC": "F.43.2.2.0.25",
+            "Category": "Installation of sanitary equipment"
+          },
+          "F.43.2.2.0.26": {
+            "ID": 11560,
+            "SIC": "F.43.2.2.0.26",
+            "Category": "Installation of sprinkler systems"
+          },
+          "F.43.2.2.0.27": {
+            "ID": 11561,
+            "SIC": "F.43.2.2.0.27",
+            "Category": "Installation of steam piping"
+          },
+          "F.43.2.2.0.28": {
+            "ID": 11562,
+            "SIC": "F.43.2.2.0.28",
+            "Category": "Installation of ventilation"
+          },
+          "F.43.2.2.0.29": {
+            "ID": 11563,
+            "SIC": "F.43.2.2.0.29",
+            "Category": "Plumbing contractor"
+          },
+          "F.43.2.2.0.30": {
+            "ID": 11564,
+            "SIC": "F.43.2.2.0.30",
+            "Category": "Repair and maintenance of domestic air conditioning"
+          },
+          "F.43.2.2.0.31": {
+            "ID": 11565,
+            "SIC": "F.43.2.2.0.31",
+            "Category": "Repair and maintenance of domestic boilers"
+          },
+          "F.43.2.2.0.32": {
+            "ID": 11566,
+            "SIC": "F.43.2.2.0.32",
+            "Category": "Repair and maintenance of non-domestic central heating boilers (manufacture)"
+          },
+          "F.43.2.2.0.33": {
+            "ID": 11567,
+            "SIC": "F.43.2.2.0.33",
+            "Category": "Repair and maintenance of office, shop and computer centre air conditioning"
+          },
+          "F.43.2.2.0.34": {
+            "ID": 11568,
+            "SIC": "F.43.2.2.0.34",
+            "Category": "Sanitary engineering for buildings"
+          }
+        },
+        "F.43.2.9": {
+          "ID": 553,
+          "SIC": "F.43.2.9",
+          "Category": "Other construction installation",
+          "F.43.2.9.0.1": {
+            "ID": 11569,
+            "SIC": "F.43.2.9.0.1",
+            "Category": "Acoustical engineering"
+          },
+          "F.43.2.9.0.2": {
+            "ID": 11570,
+            "SIC": "F.43.2.9.0.2",
+            "Category": "Cavity wall insulation"
+          },
+          "F.43.2.9.0.3": {
+            "ID": 11571,
+            "SIC": "F.43.2.9.0.3",
+            "Category": "Fencing contractor (not agricultural)"
+          },
+          "F.43.2.9.0.4": {
+            "ID": 11572,
+            "SIC": "F.43.2.9.0.4",
+            "Category": "Fireproofing work"
+          },
+          "F.43.2.9.0.5": {
+            "ID": 11573,
+            "SIC": "F.43.2.9.0.5",
+            "Category": "Installation in buildings of fittings and fixtures n.e.c."
+          },
+          "F.43.2.9.0.6": {
+            "ID": 11574,
+            "SIC": "F.43.2.9.0.6",
+            "Category": "Installation of automated and revolving doors"
+          },
+          "F.43.2.9.0.7": {
+            "ID": 11575,
+            "SIC": "F.43.2.9.0.7",
+            "Category": "Installation of blinds and awnings"
+          },
+          "F.43.2.9.0.8": {
+            "ID": 11576,
+            "SIC": "F.43.2.9.0.8",
+            "Category": "Installation of elevators"
+          },
+          "F.43.2.9.0.9": {
+            "ID": 11577,
+            "SIC": "F.43.2.9.0.9",
+            "Category": "Installation of escalators"
+          },
+          "F.43.2.9.0.10": {
+            "ID": 11578,
+            "SIC": "F.43.2.9.0.10",
+            "Category": "Installation of lifts"
+          },
+          "F.43.2.9.0.11": {
+            "ID": 11579,
+            "SIC": "F.43.2.9.0.11",
+            "Category": "Installation of lightning conductors"
+          },
+          "F.43.2.9.0.12": {
+            "ID": 11580,
+            "SIC": "F.43.2.9.0.12",
+            "Category": "Installation of outdoor pumping or filtration equipment"
+          },
+          "F.43.2.9.0.13": {
+            "ID": 11581,
+            "SIC": "F.43.2.9.0.13",
+            "Category": "Installation of sound insulation"
+          },
+          "F.43.2.9.0.14": {
+            "ID": 11582,
+            "SIC": "F.43.2.9.0.14",
+            "Category": "Installation of thermal insulation"
+          },
+          "F.43.2.9.0.15": {
+            "ID": 11583,
+            "SIC": "F.43.2.9.0.15",
+            "Category": "Installation of vacuum cleaning systems"
+          },
+          "F.43.2.9.0.16": {
+            "ID": 11584,
+            "SIC": "F.43.2.9.0.16",
+            "Category": "Installation of vibration insulation"
+          },
+          "F.43.2.9.0.17": {
+            "ID": 11585,
+            "SIC": "F.43.2.9.0.17",
+            "Category": "Insulating contractor (buildings)"
+          },
+          "F.43.2.9.0.18": {
+            "ID": 11586,
+            "SIC": "F.43.2.9.0.18",
+            "Category": "Insulating work activities"
+          },
+          "F.43.2.9.0.19": {
+            "ID": 11587,
+            "SIC": "F.43.2.9.0.19",
+            "Category": "Repair and maintenance of elevators and escalators"
+          },
+          "F.43.2.9.0.20": {
+            "ID": 11588,
+            "SIC": "F.43.2.9.0.20",
+            "Category": "Repair of automated and revolving doors in buildings and civil engineering works (manufacture)"
+          },
+          "F.43.2.9.0.21": {
+            "ID": 11589,
+            "SIC": "F.43.2.9.0.21",
+            "Category": "Roof insulation contractor"
+          }
+        }
+      },
+      "F.43.3": {
+        "ID": 554,
+        "SIC": "F.43.3",
+        "Category": "Building completion and finishing",
+        "F.43.3.1": {
+          "ID": 555,
+          "SIC": "F.43.3.1",
+          "Category": "Plastering",
+          "F.43.3.1.0.1": {
+            "ID": 11590,
+            "SIC": "F.43.3.1.0.1",
+            "Category": "Exterior plaster application on buildings or other constructions incl. related lathing materials"
+          },
+          "F.43.3.1.0.2": {
+            "ID": 11591,
+            "SIC": "F.43.3.1.0.2",
+            "Category": "Exterior stucco application on buildings or other constructions incl. related lathing materials"
+          },
+          "F.43.3.1.0.3": {
+            "ID": 11592,
+            "SIC": "F.43.3.1.0.3",
+            "Category": "Interior plaster application in buildings or other constructions incl. related lathing materials"
+          },
+          "F.43.3.1.0.4": {
+            "ID": 11593,
+            "SIC": "F.43.3.1.0.4",
+            "Category": "Interior stucco application in buildings or other constructions incl. related lathing materials"
+          },
+          "F.43.3.1.0.5": {
+            "ID": 11594,
+            "SIC": "F.43.3.1.0.5",
+            "Category": "Plastering contractor"
+          },
+          "F.43.3.1.0.6": {
+            "ID": 11595,
+            "SIC": "F.43.3.1.0.6",
+            "Category": "Stucco application in buildings"
+          }
+        },
+        "F.43.3.2": {
+          "ID": 556,
+          "SIC": "F.43.3.2",
+          "Category": "Joinery installation",
+          "F.43.3.2.0.1": {
+            "ID": 11596,
+            "SIC": "F.43.3.2.0.1",
+            "Category": "Carpenter n.e.c."
+          },
+          "F.43.3.2.0.2": {
+            "ID": 11597,
+            "SIC": "F.43.3.2.0.2",
+            "Category": "Carpentry (not structural)"
+          },
+          "F.43.3.2.0.3": {
+            "ID": 11598,
+            "SIC": "F.43.3.2.0.3",
+            "Category": "Completion of ceilings"
+          },
+          "F.43.3.2.0.4": {
+            "ID": 11599,
+            "SIC": "F.43.3.2.0.4",
+            "Category": "Installation (erection) work of self-manufactured builders' ware of metal"
+          },
+          "F.43.3.2.0.5": {
+            "ID": 11600,
+            "SIC": "F.43.3.2.0.5",
+            "Category": "Installation (erection) work of self-manufactured builders' ware of plastic"
+          },
+          "F.43.3.2.0.6": {
+            "ID": 11601,
+            "SIC": "F.43.3.2.0.6",
+            "Category": "Installation (erection) work of self-manufactured builders' ware of wood"
+          },
+          "F.43.3.2.0.7": {
+            "ID": 11602,
+            "SIC": "F.43.3.2.0.7",
+            "Category": "Installation of built-in furniture"
+          },
+          "F.43.3.2.0.8": {
+            "ID": 11603,
+            "SIC": "F.43.3.2.0.8",
+            "Category": "Installation of ceilings"
+          },
+          "F.43.3.2.0.9": {
+            "ID": 11604,
+            "SIC": "F.43.3.2.0.9",
+            "Category": "Installation of doors"
+          },
+          "F.43.3.2.0.10": {
+            "ID": 11605,
+            "SIC": "F.43.3.2.0.10",
+            "Category": "Installation of furniture"
+          },
+          "F.43.3.2.0.11": {
+            "ID": 11606,
+            "SIC": "F.43.3.2.0.11",
+            "Category": "Installation of joinery"
+          },
+          "F.43.3.2.0.12": {
+            "ID": 11607,
+            "SIC": "F.43.3.2.0.12",
+            "Category": "Installation of metal grilles and gates"
+          },
+          "F.43.3.2.0.13": {
+            "ID": 11608,
+            "SIC": "F.43.3.2.0.13",
+            "Category": "Installation of metal partitioning"
+          },
+          "F.43.3.2.0.14": {
+            "ID": 11609,
+            "SIC": "F.43.3.2.0.14",
+            "Category": "Installation of metal shutters"
+          },
+          "F.43.3.2.0.15": {
+            "ID": 11610,
+            "SIC": "F.43.3.2.0.15",
+            "Category": "Installation of movable wooden partitions"
+          },
+          "F.43.3.2.0.16": {
+            "ID": 11611,
+            "SIC": "F.43.3.2.0.16",
+            "Category": "Installation of suspended ceilings"
+          },
+          "F.43.3.2.0.17": {
+            "ID": 11612,
+            "SIC": "F.43.3.2.0.17",
+            "Category": "Installation of windows made of any material"
+          },
+          "F.43.3.2.0.18": {
+            "ID": 11613,
+            "SIC": "F.43.3.2.0.18",
+            "Category": "Installation of wooden door-frames"
+          },
+          "F.43.3.2.0.19": {
+            "ID": 11614,
+            "SIC": "F.43.3.2.0.19",
+            "Category": "Installation of wooden fitted kitchens"
+          },
+          "F.43.3.2.0.20": {
+            "ID": 11615,
+            "SIC": "F.43.3.2.0.20",
+            "Category": "Installation of wooden shop fittings"
+          },
+          "F.43.3.2.0.21": {
+            "ID": 11616,
+            "SIC": "F.43.3.2.0.21",
+            "Category": "Installation of wooden staircases"
+          },
+          "F.43.3.2.0.22": {
+            "ID": 11617,
+            "SIC": "F.43.3.2.0.22",
+            "Category": "Installation of wooden wall coverings"
+          },
+          "F.43.3.2.0.23": {
+            "ID": 11618,
+            "SIC": "F.43.3.2.0.23",
+            "Category": "Joiner (consruction)"
+          },
+          "F.43.3.2.0.24": {
+            "ID": 11619,
+            "SIC": "F.43.3.2.0.24",
+            "Category": "Metal window fixing"
+          },
+          "F.43.3.2.0.25": {
+            "ID": 11620,
+            "SIC": "F.43.3.2.0.25",
+            "Category": "Shop fitter"
+          }
+        },
+        "F.43.3.3": {
+          "ID": 557,
+          "SIC": "F.43.3.3",
+          "Category": "Floor and wall covering",
+          "F.43.3.3.0.1": {
+            "ID": 11621,
+            "SIC": "F.43.3.3.0.1",
+            "Category": "Carpet fitter"
+          },
+          "F.43.3.3.0.2": {
+            "ID": 11622,
+            "SIC": "F.43.3.3.0.2",
+            "Category": "Ceramic stove fitting"
+          },
+          "F.43.3.3.0.3": {
+            "ID": 11623,
+            "SIC": "F.43.3.3.0.3",
+            "Category": "Floor covering laying"
+          },
+          "F.43.3.3.0.4": {
+            "ID": 11624,
+            "SIC": "F.43.3.3.0.4",
+            "Category": "Flooring contractor"
+          },
+          "F.43.3.3.0.5": {
+            "ID": 11625,
+            "SIC": "F.43.3.3.0.5",
+            "Category": "Hanging or fitting wooden wall coverings"
+          },
+          "F.43.3.3.0.6": {
+            "ID": 11626,
+            "SIC": "F.43.3.3.0.6",
+            "Category": "Installation of false floors and computer floors"
+          },
+          "F.43.3.3.0.7": {
+            "ID": 11627,
+            "SIC": "F.43.3.3.0.7",
+            "Category": "Laying or fitting carpets and linoleum floor coverings including of rubber or plastic"
+          },
+          "F.43.3.3.0.8": {
+            "ID": 11628,
+            "SIC": "F.43.3.3.0.8",
+            "Category": "Laying or fitting other wooden floor coverings"
+          },
+          "F.43.3.3.0.9": {
+            "ID": 11629,
+            "SIC": "F.43.3.3.0.9",
+            "Category": "Laying, tiling, hanging or fitting ceramic wall or floor tiles"
+          },
+          "F.43.3.3.0.10": {
+            "ID": 11630,
+            "SIC": "F.43.3.3.0.10",
+            "Category": "Laying, tiling, hanging or fitting concrete stone wall or floor tiles"
+          },
+          "F.43.3.3.0.11": {
+            "ID": 11631,
+            "SIC": "F.43.3.3.0.11",
+            "Category": "Laying, tiling, hanging or fitting cut stone wall or floor tiles"
+          },
+          "F.43.3.3.0.12": {
+            "ID": 11632,
+            "SIC": "F.43.3.3.0.12",
+            "Category": "Laying, tiling, hanging or fitting floor and wall covering"
+          },
+          "F.43.3.3.0.13": {
+            "ID": 11633,
+            "SIC": "F.43.3.3.0.13",
+            "Category": "Laying tiling or fitting marble, granite or slate floor coverings"
+          },
+          "F.43.3.3.0.14": {
+            "ID": 11634,
+            "SIC": "F.43.3.3.0.14",
+            "Category": "Laying tiling or fitting terrazzo, marble, granite or slate wall coverings"
+          },
+          "F.43.3.3.0.15": {
+            "ID": 11635,
+            "SIC": "F.43.3.3.0.15",
+            "Category": "Linoleum laying"
+          },
+          "F.43.3.3.0.16": {
+            "ID": 11636,
+            "SIC": "F.43.3.3.0.16",
+            "Category": "Paperhanging"
+          },
+          "F.43.3.3.0.17": {
+            "ID": 11637,
+            "SIC": "F.43.3.3.0.17",
+            "Category": "Parquet floor laying (not by manufacturer)"
+          },
+          "F.43.3.3.0.18": {
+            "ID": 11638,
+            "SIC": "F.43.3.3.0.18",
+            "Category": "Terrazzo work (building)"
+          },
+          "F.43.3.3.0.19": {
+            "ID": 11639,
+            "SIC": "F.43.3.3.0.19",
+            "Category": "Tiles laying or fitting"
+          },
+          "F.43.3.3.0.20": {
+            "ID": 11640,
+            "SIC": "F.43.3.3.0.20",
+            "Category": "Tiling contractor (floors and walls)"
+          },
+          "F.43.3.3.0.21": {
+            "ID": 11641,
+            "SIC": "F.43.3.3.0.21",
+            "Category": "Wall covering"
+          },
+          "F.43.3.3.0.22": {
+            "ID": 11642,
+            "SIC": "F.43.3.3.0.22",
+            "Category": "Wallpaper hanging"
+          }
+        },
+        "F.43.3.4": {
+          "ID": 558,
+          "SIC": "F.43.3.4",
+          "Category": "Painting and glazing",
+          "F.43.3.4.1": {
+            "ID": 559,
+            "SIC": "F.43.3.4.1",
+            "Category": "Painting",
+            "F.43.3.4.1.1": {
+              "ID": 11643,
+              "SIC": "F.43.3.4.1.1",
+              "Category": "Anti-corrosive coatings application work"
+            },
+            "F.43.3.4.1.2": {
+              "ID": 11644,
+              "SIC": "F.43.3.4.1.2",
+              "Category": "Buildings painting"
+            },
+            "F.43.3.4.1.3": {
+              "ID": 11645,
+              "SIC": "F.43.3.4.1.3",
+              "Category": "Civil engineering structure painting"
+            },
+            "F.43.3.4.1.4": {
+              "ID": 11646,
+              "SIC": "F.43.3.4.1.4",
+              "Category": "Exterior painting of buildings"
+            },
+            "F.43.3.4.1.5": {
+              "ID": 11647,
+              "SIC": "F.43.3.4.1.5",
+              "Category": "Interior painting of buildings"
+            },
+            "F.43.3.4.1.6": {
+              "ID": 11648,
+              "SIC": "F.43.3.4.1.6",
+              "Category": "Non-specialised painting of metal structures (including ships)"
+            },
+            "F.43.3.4.1.7": {
+              "ID": 11649,
+              "SIC": "F.43.3.4.1.7",
+              "Category": "Painting contractor"
+            },
+            "F.43.3.4.1.8": {
+              "ID": 11650,
+              "SIC": "F.43.3.4.1.8",
+              "Category": "Protective coatings application work"
+            }
+          },
+          "F.43.3.4.2": {
+            "ID": 560,
+            "SIC": "F.43.3.4.2",
+            "Category": "Glazing",
+            "F.43.3.4.2.1": {
+              "ID": 11651,
+              "SIC": "F.43.3.4.2.1",
+              "Category": "Glazing"
+            },
+            "F.43.3.4.2.2": {
+              "ID": 11652,
+              "SIC": "F.43.3.4.2.2",
+              "Category": "Glazing contractor"
+            },
+            "F.43.3.4.2.3": {
+              "ID": 11653,
+              "SIC": "F.43.3.4.2.3",
+              "Category": "Installation of glass"
+            },
+            "F.43.3.4.2.4": {
+              "ID": 11654,
+              "SIC": "F.43.3.4.2.4",
+              "Category": "Installation of mirrors"
+            },
+            "F.43.3.4.2.5": {
+              "ID": 11655,
+              "SIC": "F.43.3.4.2.5",
+              "Category": "Installation of window or door glazing"
+            }
+          }
+        },
+        "F.43.3.9": {
+          "ID": 561,
+          "SIC": "F.43.3.9",
+          "Category": "Other building completion and finishing",
+          "F.43.3.9.0.1": {
+            "ID": 11656,
+            "SIC": "F.43.3.9.0.1",
+            "Category": "Building completion work"
+          },
+          "F.43.3.9.0.2": {
+            "ID": 11657,
+            "SIC": "F.43.3.9.0.2",
+            "Category": "Installation of sun filter mounting on buildings"
+          },
+          "F.43.3.9.0.3": {
+            "ID": 11658,
+            "SIC": "F.43.3.9.0.3",
+            "Category": "Installation of window sun filters on buildings"
+          },
+          "F.43.3.9.0.4": {
+            "ID": 11659,
+            "SIC": "F.43.3.9.0.4",
+            "Category": "Ornamentation fitting work"
+          }
+        }
+      },
+      "F.43.9": {
+        "ID": 562,
+        "SIC": "F.43.9",
+        "Category": "Other specialised construction activities",
+        "F.43.9.1": {
+          "ID": 563,
+          "SIC": "F.43.9.1",
+          "Category": "Roofing activities",
+          "F.43.9.1.0.1": {
+            "ID": 11660,
+            "SIC": "F.43.9.1.0.1",
+            "Category": "Erection of roofs"
+          },
+          "F.43.9.1.0.2": {
+            "ID": 11661,
+            "SIC": "F.43.9.1.0.2",
+            "Category": "Installation of roofing frames"
+          },
+          "F.43.9.1.0.3": {
+            "ID": 11662,
+            "SIC": "F.43.9.1.0.3",
+            "Category": "Roof covering"
+          },
+          "F.43.9.1.0.4": {
+            "ID": 11663,
+            "SIC": "F.43.9.1.0.4",
+            "Category": "Roof covering erection"
+          },
+          "F.43.9.1.0.5": {
+            "ID": 11664,
+            "SIC": "F.43.9.1.0.5",
+            "Category": "Roofing contractor"
+          },
+          "F.43.9.1.0.6": {
+            "ID": 11665,
+            "SIC": "F.43.9.1.0.6",
+            "Category": "Thatching"
+          }
+        },
+        "F.43.9.9": {
+          "ID": 564,
+          "SIC": "F.43.9.9",
+          "Category": "Other specialised construction activities n.e.c.",
+          "F.43.9.9.1": {
+            "ID": 565,
+            "SIC": "F.43.9.9.1",
+            "Category": "Scaffold erection",
+            "F.43.9.9.1.1": {
+              "ID": 11666,
+              "SIC": "F.43.9.9.1.1",
+              "Category": "Renting of scaffolds and work platforms with erection and dismantling"
+            },
+            "F.43.9.9.1.2": {
+              "ID": 11667,
+              "SIC": "F.43.9.9.1.2",
+              "Category": "Scaffolding hiring and erecting"
+            },
+            "F.43.9.9.1.3": {
+              "ID": 11668,
+              "SIC": "F.43.9.9.1.3",
+              "Category": "Scaffolds and work platform erecting and dismantling"
+            }
+          },
+          "F.43.9.9.9": {
+            "ID": 566,
+            "SIC": "F.43.9.9.9",
+            "Category": "Specialised construction activities (other than scaffold erection) n.e.c.",
+            "F.43.9.9.9.1": {
+              "ID": 11669,
+              "SIC": "F.43.9.9.9.1",
+              "Category": "Aerial mast (self supporting) erection"
+            },
+            "F.43.9.9.9.2": {
+              "ID": 11670,
+              "SIC": "F.43.9.9.9.2",
+              "Category": "Boring (civil engineering)"
+            },
+            "F.43.9.9.9.3": {
+              "ID": 11671,
+              "SIC": "F.43.9.9.9.3",
+              "Category": "Brick furnace construction"
+            },
+            "F.43.9.9.9.4": {
+              "ID": 11672,
+              "SIC": "F.43.9.9.9.4",
+              "Category": "Brick kiln construction"
+            },
+            "F.43.9.9.9.5": {
+              "ID": 11673,
+              "SIC": "F.43.9.9.9.5",
+              "Category": "Bricklaying"
+            },
+            "F.43.9.9.9.6": {
+              "ID": 11674,
+              "SIC": "F.43.9.9.9.6",
+              "Category": "Carpentry (structural)"
+            },
+            "F.43.9.9.9.7": {
+              "ID": 11675,
+              "SIC": "F.43.9.9.9.7",
+              "Category": "Chimney construction"
+            },
+            "F.43.9.9.9.8": {
+              "ID": 11676,
+              "SIC": "F.43.9.9.9.8",
+              "Category": "Concrete work (building)"
+            },
+            "F.43.9.9.9.9": {
+              "ID": 11677,
+              "SIC": "F.43.9.9.9.9",
+              "Category": "Construction machinery and equipment rental with operator"
+            },
+            "F.43.9.9.9.10": {
+              "ID": 11678,
+              "SIC": "F.43.9.9.9.10",
+              "Category": "Construction of outdoor swimming pools"
+            },
+            "F.43.9.9.9.11": {
+              "ID": 11679,
+              "SIC": "F.43.9.9.9.11",
+              "Category": "Damp proofing of buildings"
+            },
+            "F.43.9.9.9.12": {
+              "ID": 11680,
+              "SIC": "F.43.9.9.9.12",
+              "Category": "De-humidification of buildings"
+            },
+            "F.43.9.9.9.13": {
+              "ID": 11681,
+              "SIC": "F.43.9.9.9.13",
+              "Category": "Demolition equipment rental with operator"
+            },
+            "F.43.9.9.9.14": {
+              "ID": 11682,
+              "SIC": "F.43.9.9.9.14",
+              "Category": "Diamond drilling of concrete and asphalt"
+            },
+            "F.43.9.9.9.15": {
+              "ID": 11683,
+              "SIC": "F.43.9.9.9.15",
+              "Category": "Drying out of buildings (incl. Water damage)"
+            },
+            "F.43.9.9.9.16": {
+              "ID": 11684,
+              "SIC": "F.43.9.9.9.16",
+              "Category": "Earth moving equipment rental with operator"
+            },
+            "F.43.9.9.9.17": {
+              "ID": 11685,
+              "SIC": "F.43.9.9.9.17",
+              "Category": "Ferro concrete bar bending and fixing contractor"
+            },
+            "F.43.9.9.9.18": {
+              "ID": 11686,
+              "SIC": "F.43.9.9.9.18",
+              "Category": "Flare stack and flareboom erection work"
+            },
+            "F.43.9.9.9.19": {
+              "ID": 11687,
+              "SIC": "F.43.9.9.9.19",
+              "Category": "Floor screeding"
+            },
+            "F.43.9.9.9.20": {
+              "ID": 11688,
+              "SIC": "F.43.9.9.9.20",
+              "Category": "Formwork (civil engineering)"
+            },
+            "F.43.9.9.9.21": {
+              "ID": 11689,
+              "SIC": "F.43.9.9.9.21",
+              "Category": "Foundations construction"
+            },
+            "F.43.9.9.9.22": {
+              "ID": 11690,
+              "SIC": "F.43.9.9.9.22",
+              "Category": "Grouting contractor"
+            },
+            "F.43.9.9.9.23": {
+              "ID": 11691,
+              "SIC": "F.43.9.9.9.23",
+              "Category": "Hydraulic construction (subsurface work)"
+            },
+            "F.43.9.9.9.24": {
+              "ID": 11692,
+              "SIC": "F.43.9.9.9.24",
+              "Category": "Industrial ovens erection"
+            },
+            "F.43.9.9.9.25": {
+              "ID": 11693,
+              "SIC": "F.43.9.9.9.25",
+              "Category": "Mason (building)"
+            },
+            "F.43.9.9.9.26": {
+              "ID": 11694,
+              "SIC": "F.43.9.9.9.26",
+              "Category": "Mine sinking"
+            },
+            "F.43.9.9.9.27": {
+              "ID": 11695,
+              "SIC": "F.43.9.9.9.27",
+              "Category": "Oil production platform (fixed concrete or composite steel/concrete) construction"
+            },
+            "F.43.9.9.9.28": {
+              "ID": 11696,
+              "SIC": "F.43.9.9.9.28",
+              "Category": "Outdoor private swimming pools"
+            },
+            "F.43.9.9.9.29": {
+              "ID": 11697,
+              "SIC": "F.43.9.9.9.29",
+              "Category": "Pile driving"
+            },
+            "F.43.9.9.9.30": {
+              "ID": 11698,
+              "SIC": "F.43.9.9.9.30",
+              "Category": "Piling (building)"
+            },
+            "F.43.9.9.9.31": {
+              "ID": 11699,
+              "SIC": "F.43.9.9.9.31",
+              "Category": "Piling contractor (civil engineering)"
+            },
+            "F.43.9.9.9.32": {
+              "ID": 11700,
+              "SIC": "F.43.9.9.9.32",
+              "Category": "Plant hire for construction rental with operator"
+            },
+            "F.43.9.9.9.33": {
+              "ID": 11701,
+              "SIC": "F.43.9.9.9.33",
+              "Category": "Pylon erection"
+            },
+            "F.43.9.9.9.34": {
+              "ID": 11702,
+              "SIC": "F.43.9.9.9.34",
+              "Category": "Reinforced concrete engineer (civil engineering)"
+            },
+            "F.43.9.9.9.35": {
+              "ID": 11703,
+              "SIC": "F.43.9.9.9.35",
+              "Category": "Renting of cranes with operator"
+            },
+            "F.43.9.9.9.36": {
+              "ID": 11704,
+              "SIC": "F.43.9.9.9.36",
+              "Category": "Renting of other building equipment with operator"
+            },
+            "F.43.9.9.9.37": {
+              "ID": 11705,
+              "SIC": "F.43.9.9.9.37",
+              "Category": "Sand blasting for building exteriors"
+            },
+            "F.43.9.9.9.38": {
+              "ID": 11706,
+              "SIC": "F.43.9.9.9.38",
+              "Category": "Screed laying"
+            },
+            "F.43.9.9.9.39": {
+              "ID": 11707,
+              "SIC": "F.43.9.9.9.39",
+              "Category": "Shaft drilling (civil engineering)"
+            },
+            "F.43.9.9.9.40": {
+              "ID": 11708,
+              "SIC": "F.43.9.9.9.40",
+              "Category": "Shaft sinking"
+            },
+            "F.43.9.9.9.41": {
+              "ID": 11709,
+              "SIC": "F.43.9.9.9.41",
+              "Category": "Shotblasting of buildings"
+            },
+            "F.43.9.9.9.42": {
+              "ID": 11710,
+              "SIC": "F.43.9.9.9.42",
+              "Category": "Steam cleaning for building exteriors"
+            },
+            "F.43.9.9.9.43": {
+              "ID": 11711,
+              "SIC": "F.43.9.9.9.43",
+              "Category": "Steel bending"
+            },
+            "F.43.9.9.9.44": {
+              "ID": 11712,
+              "SIC": "F.43.9.9.9.44",
+              "Category": "Steel elements (not self-manufactured) erection"
+            },
+            "F.43.9.9.9.45": {
+              "ID": 11713,
+              "SIC": "F.43.9.9.9.45",
+              "Category": "Steelwork erection (building)"
+            },
+            "F.43.9.9.9.46": {
+              "ID": 11714,
+              "SIC": "F.43.9.9.9.46",
+              "Category": "Steelwork erection (civil engineering)"
+            },
+            "F.43.9.9.9.47": {
+              "ID": 11715,
+              "SIC": "F.43.9.9.9.47",
+              "Category": "Steeplejacking"
+            },
+            "F.43.9.9.9.48": {
+              "ID": 11716,
+              "SIC": "F.43.9.9.9.48",
+              "Category": "Stone carving"
+            },
+            "F.43.9.9.9.49": {
+              "ID": 11717,
+              "SIC": "F.43.9.9.9.49",
+              "Category": "Stone setting"
+            },
+            "F.43.9.9.9.50": {
+              "ID": 11718,
+              "SIC": "F.43.9.9.9.50",
+              "Category": "Stone walling"
+            },
+            "F.43.9.9.9.51": {
+              "ID": 11719,
+              "SIC": "F.43.9.9.9.51",
+              "Category": "Stonemasonry (building)"
+            },
+            "F.43.9.9.9.52": {
+              "ID": 11720,
+              "SIC": "F.43.9.9.9.52",
+              "Category": "Structural steelwork erection (building)"
+            },
+            "F.43.9.9.9.53": {
+              "ID": 11721,
+              "SIC": "F.43.9.9.9.53",
+              "Category": "Structural steelwork erection (civil engineering)"
+            },
+            "F.43.9.9.9.54": {
+              "ID": 11722,
+              "SIC": "F.43.9.9.9.54",
+              "Category": "Subsurface work"
+            },
+            "F.43.9.9.9.55": {
+              "ID": 11723,
+              "SIC": "F.43.9.9.9.55",
+              "Category": "Waterproofing of buildings"
+            },
+            "F.43.9.9.9.56": {
+              "ID": 11724,
+              "SIC": "F.43.9.9.9.56",
+              "Category": "Well sinking (except gas or oil)"
+            },
+            "F.43.9.9.9.57": {
+              "ID": 11725,
+              "SIC": "F.43.9.9.9.57",
+              "Category": "Work with specialist access requirements necessitating climbing skills and related equipment"
+            }
+          }
+        }
+      }
+    }
+  }
+}

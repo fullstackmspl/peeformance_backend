@@ -1,0 +1,2832 @@
+{
+  "A": {
+    "ID": 1,
+    "SIC": "A",
+    "Category": "AGRICULTURE, FORESTRY AND FISHING",
+    "A.01": {
+      "ID": 2,
+      "SIC": "A.01",
+      "Category": "Crop and animal production, hunting and related service activities",
+      "A.01.1": {
+        "ID": 3,
+        "SIC": "A.01.1",
+        "Category": "Growing of non-perennial crops",
+        "A.01.1.1": {
+          "ID": 4,
+          "SIC": "A.01.1.1",
+          "Category": "Growing of cereals (except rice), leguminous crops and oil seeds",
+          "A.01.1.1.0.1": {
+            "ID": 1188,
+            "SIC": "A.01.1.1.0.1",
+            "Category": "Barley growing"
+          },
+          "A.01.1.1.0.2": {
+            "ID": 1189,
+            "SIC": "A.01.1.1.0.2",
+            "Category": "Bean growing"
+          },
+          "A.01.1.1.0.3": {
+            "ID": 1190,
+            "SIC": "A.01.1.1.0.3",
+            "Category": "Broad bean growing"
+          },
+          "A.01.1.1.0.4": {
+            "ID": 1191,
+            "SIC": "A.01.1.1.0.4",
+            "Category": "Castor bean growing"
+          },
+          "A.01.1.1.0.5": {
+            "ID": 1192,
+            "SIC": "A.01.1.1.0.5",
+            "Category": "Cereal grains growing, except rice"
+          },
+          "A.01.1.1.0.6": {
+            "ID": 1193,
+            "SIC": "A.01.1.1.0.6",
+            "Category": "Chick pea growing"
+          },
+          "A.01.1.1.0.7": {
+            "ID": 1194,
+            "SIC": "A.01.1.1.0.7",
+            "Category": "Colza growing"
+          },
+          "A.01.1.1.0.8": {
+            "ID": 1195,
+            "SIC": "A.01.1.1.0.8",
+            "Category": "Cottonseed growing"
+          },
+          "A.01.1.1.0.9": {
+            "ID": 1196,
+            "SIC": "A.01.1.1.0.9",
+            "Category": "Cow pea growing"
+          },
+          "A.01.1.1.0.10": {
+            "ID": 1197,
+            "SIC": "A.01.1.1.0.10",
+            "Category": "Dried leguminous vegetables growing"
+          },
+          "A.01.1.1.0.11": {
+            "ID": 1198,
+            "SIC": "A.01.1.1.0.11",
+            "Category": "Grain maize growing"
+          },
+          "A.01.1.1.0.12": {
+            "ID": 1199,
+            "SIC": "A.01.1.1.0.12",
+            "Category": "Groundnut growing"
+          },
+          "A.01.1.1.0.13": {
+            "ID": 1200,
+            "SIC": "A.01.1.1.0.13",
+            "Category": "Leguminous crops growing"
+          },
+          "A.01.1.1.0.14": {
+            "ID": 1201,
+            "SIC": "A.01.1.1.0.14",
+            "Category": "Lentil growing"
+          },
+          "A.01.1.1.0.15": {
+            "ID": 1202,
+            "SIC": "A.01.1.1.0.15",
+            "Category": "Linseed growing"
+          },
+          "A.01.1.1.0.16": {
+            "ID": 1203,
+            "SIC": "A.01.1.1.0.16",
+            "Category": "Lupin growing"
+          },
+          "A.01.1.1.0.17": {
+            "ID": 1204,
+            "SIC": "A.01.1.1.0.17",
+            "Category": "Millet growing"
+          },
+          "A.01.1.1.0.18": {
+            "ID": 1205,
+            "SIC": "A.01.1.1.0.18",
+            "Category": "Mustard seed growing"
+          },
+          "A.01.1.1.0.19": {
+            "ID": 1206,
+            "SIC": "A.01.1.1.0.19",
+            "Category": "Niger seed growing"
+          },
+          "A.01.1.1.0.20": {
+            "ID": 1207,
+            "SIC": "A.01.1.1.0.20",
+            "Category": "Oats growing"
+          },
+          "A.01.1.1.0.21": {
+            "ID": 1208,
+            "SIC": "A.01.1.1.0.21",
+            "Category": "Oil seeds growing"
+          },
+          "A.01.1.1.0.22": {
+            "ID": 1209,
+            "SIC": "A.01.1.1.0.22",
+            "Category": "Pea growing"
+          },
+          "A.01.1.1.0.23": {
+            "ID": 1210,
+            "SIC": "A.01.1.1.0.23",
+            "Category": "Peanut growing"
+          },
+          "A.01.1.1.0.24": {
+            "ID": 1211,
+            "SIC": "A.01.1.1.0.24",
+            "Category": "Pigeon pea growing"
+          },
+          "A.01.1.1.0.25": {
+            "ID": 1212,
+            "SIC": "A.01.1.1.0.25",
+            "Category": "Rape growing"
+          },
+          "A.01.1.1.0.26": {
+            "ID": 1213,
+            "SIC": "A.01.1.1.0.26",
+            "Category": "Rye growing"
+          },
+          "A.01.1.1.0.27": {
+            "ID": 1214,
+            "SIC": "A.01.1.1.0.27",
+            "Category": "Safflower seed growing"
+          },
+          "A.01.1.1.0.28": {
+            "ID": 1215,
+            "SIC": "A.01.1.1.0.28",
+            "Category": "Sesame seed growing"
+          },
+          "A.01.1.1.0.29": {
+            "ID": 1216,
+            "SIC": "A.01.1.1.0.29",
+            "Category": "Sorghum growing"
+          },
+          "A.01.1.1.0.30": {
+            "ID": 1217,
+            "SIC": "A.01.1.1.0.30",
+            "Category": "Soya bean growing"
+          },
+          "A.01.1.1.0.31": {
+            "ID": 1218,
+            "SIC": "A.01.1.1.0.31",
+            "Category": "Sunflower seed growing"
+          },
+          "A.01.1.1.0.32": {
+            "ID": 1219,
+            "SIC": "A.01.1.1.0.32",
+            "Category": "Sunflower seed production"
+          },
+          "A.01.1.1.0.33": {
+            "ID": 1220,
+            "SIC": "A.01.1.1.0.33",
+            "Category": "Wheat growing"
+          }
+        },
+        "A.01.1.2": {
+          "ID": 5,
+          "SIC": "A.01.1.2",
+          "Category": "Growing of rice",
+          "A.01.1.2.0.1": {
+            "ID": 1221,
+            "SIC": "A.01.1.2.0.1",
+            "Category": "Rice growing"
+          }
+        },
+        "A.01.1.3": {
+          "ID": 6,
+          "SIC": "A.01.1.3",
+          "Category": "Growing of vegetables and melons, roots and tubers",
+          "A.01.1.3.0.1": {
+            "ID": 1222,
+            "SIC": "A.01.1.3.0.1",
+            "Category": "Alliaceous vegetable growing"
+          },
+          "A.01.1.3.0.2": {
+            "ID": 1223,
+            "SIC": "A.01.1.3.0.2",
+            "Category": "Artichoke growing"
+          },
+          "A.01.1.3.0.3": {
+            "ID": 1224,
+            "SIC": "A.01.1.3.0.3",
+            "Category": "Asparagus growing"
+          },
+          "A.01.1.3.0.4": {
+            "ID": 1225,
+            "SIC": "A.01.1.3.0.4",
+            "Category": "Aubergine (egg-plant) growing"
+          },
+          "A.01.1.3.0.5": {
+            "ID": 1226,
+            "SIC": "A.01.1.3.0.5",
+            "Category": "Beetroot growing"
+          },
+          "A.01.1.3.0.6": {
+            "ID": 1227,
+            "SIC": "A.01.1.3.0.6",
+            "Category": "Broccoli growing"
+          },
+          "A.01.1.3.0.7": {
+            "ID": 1228,
+            "SIC": "A.01.1.3.0.7",
+            "Category": "Brussel sprout growing"
+          },
+          "A.01.1.3.0.8": {
+            "ID": 1229,
+            "SIC": "A.01.1.3.0.8",
+            "Category": "Cabbage growing"
+          },
+          "A.01.1.3.0.9": {
+            "ID": 1230,
+            "SIC": "A.01.1.3.0.9",
+            "Category": "Cantaloupe growing"
+          },
+          "A.01.1.3.0.10": {
+            "ID": 1231,
+            "SIC": "A.01.1.3.0.10",
+            "Category": "Capers growing"
+          },
+          "A.01.1.3.0.11": {
+            "ID": 1232,
+            "SIC": "A.01.1.3.0.11",
+            "Category": "Carrot growing"
+          },
+          "A.01.1.3.0.12": {
+            "ID": 1233,
+            "SIC": "A.01.1.3.0.12",
+            "Category": "Cassava growing"
+          },
+          "A.01.1.3.0.13": {
+            "ID": 1234,
+            "SIC": "A.01.1.3.0.13",
+            "Category": "Cauliflower growing"
+          },
+          "A.01.1.3.0.14": {
+            "ID": 1235,
+            "SIC": "A.01.1.3.0.14",
+            "Category": "Chervil growing"
+          },
+          "A.01.1.3.0.15": {
+            "ID": 1236,
+            "SIC": "A.01.1.3.0.15",
+            "Category": "Chicory growing"
+          },
+          "A.01.1.3.0.16": {
+            "ID": 1237,
+            "SIC": "A.01.1.3.0.16",
+            "Category": "Courgette growing"
+          },
+          "A.01.1.3.0.17": {
+            "ID": 1238,
+            "SIC": "A.01.1.3.0.17",
+            "Category": "Cress growing"
+          },
+          "A.01.1.3.0.18": {
+            "ID": 1239,
+            "SIC": "A.01.1.3.0.18",
+            "Category": "Cucumber growing"
+          },
+          "A.01.1.3.0.19": {
+            "ID": 1240,
+            "SIC": "A.01.1.3.0.19",
+            "Category": "Eggplant growing"
+          },
+          "A.01.1.3.0.20": {
+            "ID": 1241,
+            "SIC": "A.01.1.3.0.20",
+            "Category": "Fennel (vegetable) growing"
+          },
+          "A.01.1.3.0.21": {
+            "ID": 1242,
+            "SIC": "A.01.1.3.0.21",
+            "Category": "Fruit bearing vegetables growing"
+          },
+          "A.01.1.3.0.22": {
+            "ID": 1243,
+            "SIC": "A.01.1.3.0.22",
+            "Category": "Garlic growing"
+          },
+          "A.01.1.3.0.23": {
+            "ID": 1244,
+            "SIC": "A.01.1.3.0.23",
+            "Category": "Gherkin growing"
+          },
+          "A.01.1.3.0.24": {
+            "ID": 1245,
+            "SIC": "A.01.1.3.0.24",
+            "Category": "Jerusalem artichoke growing"
+          },
+          "A.01.1.3.0.25": {
+            "ID": 1246,
+            "SIC": "A.01.1.3.0.25",
+            "Category": "Leafy or stem vegetables growing"
+          },
+          "A.01.1.3.0.26": {
+            "ID": 1247,
+            "SIC": "A.01.1.3.0.26",
+            "Category": "Leek growing"
+          },
+          "A.01.1.3.0.27": {
+            "ID": 1248,
+            "SIC": "A.01.1.3.0.27",
+            "Category": "Lettuce growing"
+          },
+          "A.01.1.3.0.28": {
+            "ID": 1249,
+            "SIC": "A.01.1.3.0.28",
+            "Category": "Melon growing"
+          },
+          "A.01.1.3.0.29": {
+            "ID": 1250,
+            "SIC": "A.01.1.3.0.29",
+            "Category": "Mushroom growing (cultivated)"
+          },
+          "A.01.1.3.0.30": {
+            "ID": 1251,
+            "SIC": "A.01.1.3.0.30",
+            "Category": "Onion growing"
+          },
+          "A.01.1.3.0.31": {
+            "ID": 1252,
+            "SIC": "A.01.1.3.0.31",
+            "Category": "Parsley growing"
+          },
+          "A.01.1.3.0.32": {
+            "ID": 1253,
+            "SIC": "A.01.1.3.0.32",
+            "Category": "Parsnip growing"
+          },
+          "A.01.1.3.0.33": {
+            "ID": 1254,
+            "SIC": "A.01.1.3.0.33",
+            "Category": "Potato growing"
+          },
+          "A.01.1.3.0.34": {
+            "ID": 1255,
+            "SIC": "A.01.1.3.0.34",
+            "Category": "Root vegetable growing"
+          },
+          "A.01.1.3.0.35": {
+            "ID": 1256,
+            "SIC": "A.01.1.3.0.35",
+            "Category": "Roots and tubers with a high starch or inulin content"
+          },
+          "A.01.1.3.0.36": {
+            "ID": 1257,
+            "SIC": "A.01.1.3.0.36",
+            "Category": "Shallot growing"
+          },
+          "A.01.1.3.0.37": {
+            "ID": 1258,
+            "SIC": "A.01.1.3.0.37",
+            "Category": "Spinach growing"
+          },
+          "A.01.1.3.0.38": {
+            "ID": 1259,
+            "SIC": "A.01.1.3.0.38",
+            "Category": "Sugar beet growing"
+          },
+          "A.01.1.3.0.39": {
+            "ID": 1260,
+            "SIC": "A.01.1.3.0.39",
+            "Category": "Sugar beet seed production"
+          },
+          "A.01.1.3.0.40": {
+            "ID": 1261,
+            "SIC": "A.01.1.3.0.40",
+            "Category": "Swede growing (cultivated)"
+          },
+          "A.01.1.3.0.41": {
+            "ID": 1262,
+            "SIC": "A.01.1.3.0.41",
+            "Category": "Sweet potato growing"
+          },
+          "A.01.1.3.0.42": {
+            "ID": 1263,
+            "SIC": "A.01.1.3.0.42",
+            "Category": "Tomato growing"
+          },
+          "A.01.1.3.0.43": {
+            "ID": 1264,
+            "SIC": "A.01.1.3.0.43",
+            "Category": "Truffles growing"
+          },
+          "A.01.1.3.0.44": {
+            "ID": 1265,
+            "SIC": "A.01.1.3.0.44",
+            "Category": "Tuberous vegetable growing"
+          },
+          "A.01.1.3.0.45": {
+            "ID": 1266,
+            "SIC": "A.01.1.3.0.45",
+            "Category": "Turnip growing"
+          },
+          "A.01.1.3.0.46": {
+            "ID": 1267,
+            "SIC": "A.01.1.3.0.46",
+            "Category": "Vegetable bulb growing"
+          },
+          "A.01.1.3.0.47": {
+            "ID": 1268,
+            "SIC": "A.01.1.3.0.47",
+            "Category": "Watercress growing"
+          },
+          "A.01.1.3.0.48": {
+            "ID": 1269,
+            "SIC": "A.01.1.3.0.48",
+            "Category": "Watermelon growing"
+          },
+          "A.01.1.3.0.49": {
+            "ID": 1270,
+            "SIC": "A.01.1.3.0.49",
+            "Category": "Yam growing"
+          }
+        },
+        "A.01.1.4": {
+          "ID": 7,
+          "SIC": "A.01.1.4",
+          "Category": "Growing of sugar cane",
+          "A.01.1.4.0.1": {
+            "ID": 1271,
+            "SIC": "A.01.1.4.0.1",
+            "Category": "Sugar cane growing"
+          }
+        },
+        "A.01.1.5": {
+          "ID": 8,
+          "SIC": "A.01.1.5",
+          "Category": "Growing of tobacco",
+          "A.01.1.5.0.1": {
+            "ID": 1272,
+            "SIC": "A.01.1.5.0.1",
+            "Category": "Tobacco growing"
+          }
+        },
+        "A.01.1.6": {
+          "ID": 9,
+          "SIC": "A.01.1.6",
+          "Category": "Growing of fibre crops",
+          "A.01.1.6.0.1": {
+            "ID": 1273,
+            "SIC": "A.01.1.6.0.1",
+            "Category": "Abaca and other vegetable textile fibre growing"
+          },
+          "A.01.1.6.0.2": {
+            "ID": 1274,
+            "SIC": "A.01.1.6.0.2",
+            "Category": "Cotton growing"
+          },
+          "A.01.1.6.0.3": {
+            "ID": 1275,
+            "SIC": "A.01.1.6.0.3",
+            "Category": "Fibre crop growing"
+          },
+          "A.01.1.6.0.4": {
+            "ID": 1276,
+            "SIC": "A.01.1.6.0.4",
+            "Category": "Flax growing"
+          },
+          "A.01.1.6.0.5": {
+            "ID": 1277,
+            "SIC": "A.01.1.6.0.5",
+            "Category": "Jute textile bast fibre growing"
+          },
+          "A.01.1.6.0.6": {
+            "ID": 1278,
+            "SIC": "A.01.1.6.0.6",
+            "Category": "Kenaf and other textile bast fibre growing"
+          },
+          "A.01.1.6.0.7": {
+            "ID": 1279,
+            "SIC": "A.01.1.6.0.7",
+            "Category": "Plants bearing vegetable fibres, retting of"
+          },
+          "A.01.1.6.0.8": {
+            "ID": 1280,
+            "SIC": "A.01.1.6.0.8",
+            "Category": "Ramie and other vegetable textile fibre growing"
+          },
+          "A.01.1.6.0.9": {
+            "ID": 1281,
+            "SIC": "A.01.1.6.0.9",
+            "Category": "Sisal growing and other textile fibre of the genus agave growing"
+          },
+          "A.01.1.6.0.10": {
+            "ID": 1282,
+            "SIC": "A.01.1.6.0.10",
+            "Category": "Textile plants growing"
+          },
+          "A.01.1.6.0.11": {
+            "ID": 1283,
+            "SIC": "A.01.1.6.0.11",
+            "Category": "True hemp growing"
+          }
+        },
+        "A.01.1.9": {
+          "ID": 10,
+          "SIC": "A.01.1.9",
+          "Category": "Growing of other non-perennial crops",
+          "A.01.1.9.0.1": {
+            "ID": 1284,
+            "SIC": "A.01.1.9.0.1",
+            "Category": "Alfalfa growing"
+          },
+          "A.01.1.9.0.2": {
+            "ID": 1285,
+            "SIC": "A.01.1.9.0.2",
+            "Category": "Beet seed growing"
+          },
+          "A.01.1.9.0.3": {
+            "ID": 1286,
+            "SIC": "A.01.1.9.0.3",
+            "Category": "Clover growing"
+          },
+          "A.01.1.9.0.4": {
+            "ID": 1287,
+            "SIC": "A.01.1.9.0.4",
+            "Category": "Cut flowers and flower bud production"
+          },
+          "A.01.1.9.0.5": {
+            "ID": 1288,
+            "SIC": "A.01.1.9.0.5",
+            "Category": "Flower growing"
+          },
+          "A.01.1.9.0.6": {
+            "ID": 1289,
+            "SIC": "A.01.1.9.0.6",
+            "Category": "Flower seed growing"
+          },
+          "A.01.1.9.0.7": {
+            "ID": 1290,
+            "SIC": "A.01.1.9.0.7",
+            "Category": "Flowers grown for drying"
+          },
+          "A.01.1.9.0.8": {
+            "ID": 1291,
+            "SIC": "A.01.1.9.0.8",
+            "Category": "Fodder maize and other grass growing"
+          },
+          "A.01.1.9.0.9": {
+            "ID": 1292,
+            "SIC": "A.01.1.9.0.9",
+            "Category": "Fodder root growing"
+          },
+          "A.01.1.9.0.10": {
+            "ID": 1293,
+            "SIC": "A.01.1.9.0.10",
+            "Category": "Forage kale and similar forage products growing"
+          },
+          "A.01.1.9.0.11": {
+            "ID": 1294,
+            "SIC": "A.01.1.9.0.11",
+            "Category": "Forage plants seed production including grasses"
+          },
+          "A.01.1.9.0.12": {
+            "ID": 1295,
+            "SIC": "A.01.1.9.0.12",
+            "Category": "Mangold growing"
+          },
+          "A.01.1.9.0.13": {
+            "ID": 1296,
+            "SIC": "A.01.1.9.0.13",
+            "Category": "Sainfoin growing"
+          },
+          "A.01.1.9.0.14": {
+            "ID": 1297,
+            "SIC": "A.01.1.9.0.14",
+            "Category": "Swede growing (fodder)"
+          }
+        }
+      },
+      "A.01.2": {
+        "ID": 11,
+        "SIC": "A.01.2",
+        "Category": "Growing of perennial crops",
+        "A.01.2.1": {
+          "ID": 12,
+          "SIC": "A.01.2.1",
+          "Category": "Growing of grapes",
+          "A.01.2.1.0.1": {
+            "ID": 1298,
+            "SIC": "A.01.2.1.0.1",
+            "Category": "Grape production"
+          },
+          "A.01.2.1.0.2": {
+            "ID": 1299,
+            "SIC": "A.01.2.1.0.2",
+            "Category": "Vineyards"
+          }
+        },
+        "A.01.2.2": {
+          "ID": 13,
+          "SIC": "A.01.2.2",
+          "Category": "Growing of tropical and subtropical fruits",
+          "A.01.2.2.0.1": {
+            "ID": 1300,
+            "SIC": "A.01.2.2.0.1",
+            "Category": "Avocado growing"
+          },
+          "A.01.2.2.0.2": {
+            "ID": 1301,
+            "SIC": "A.01.2.2.0.2",
+            "Category": "Bananas and plantain growing"
+          },
+          "A.01.2.2.0.3": {
+            "ID": 1302,
+            "SIC": "A.01.2.2.0.3",
+            "Category": "Dates growing"
+          },
+          "A.01.2.2.0.4": {
+            "ID": 1303,
+            "SIC": "A.01.2.2.0.4",
+            "Category": "Fig growing"
+          },
+          "A.01.2.2.0.5": {
+            "ID": 1304,
+            "SIC": "A.01.2.2.0.5",
+            "Category": "Mango growing"
+          },
+          "A.01.2.2.0.6": {
+            "ID": 1305,
+            "SIC": "A.01.2.2.0.6",
+            "Category": "Other tropical and subtropical fruit growing"
+          },
+          "A.01.2.2.0.7": {
+            "ID": 1306,
+            "SIC": "A.01.2.2.0.7",
+            "Category": "Papaya growing"
+          },
+          "A.01.2.2.0.8": {
+            "ID": 1307,
+            "SIC": "A.01.2.2.0.8",
+            "Category": "Pineapple growing"
+          }
+        },
+        "A.01.2.3": {
+          "ID": 14,
+          "SIC": "A.01.2.3",
+          "Category": "Growing of citrus fruits",
+          "A.01.2.3.0.1": {
+            "ID": 1308,
+            "SIC": "A.01.2.3.0.1",
+            "Category": "Clementine growing"
+          },
+          "A.01.2.3.0.2": {
+            "ID": 1309,
+            "SIC": "A.01.2.3.0.2",
+            "Category": "Grapefruit growing"
+          },
+          "A.01.2.3.0.3": {
+            "ID": 1310,
+            "SIC": "A.01.2.3.0.3",
+            "Category": "Growing of citrus fruits"
+          },
+          "A.01.2.3.0.4": {
+            "ID": 1311,
+            "SIC": "A.01.2.3.0.4",
+            "Category": "Lemon growing"
+          },
+          "A.01.2.3.0.5": {
+            "ID": 1312,
+            "SIC": "A.01.2.3.0.5",
+            "Category": "Lime growing"
+          },
+          "A.01.2.3.0.6": {
+            "ID": 1313,
+            "SIC": "A.01.2.3.0.6",
+            "Category": "Mandarin growing"
+          },
+          "A.01.2.3.0.7": {
+            "ID": 1314,
+            "SIC": "A.01.2.3.0.7",
+            "Category": "Orange growing"
+          },
+          "A.01.2.3.0.8": {
+            "ID": 1315,
+            "SIC": "A.01.2.3.0.8",
+            "Category": "Pomelo growing"
+          },
+          "A.01.2.3.0.9": {
+            "ID": 1316,
+            "SIC": "A.01.2.3.0.9",
+            "Category": "Tangerine growing"
+          }
+        },
+        "A.01.2.4": {
+          "ID": 15,
+          "SIC": "A.01.2.4",
+          "Category": "Growing of pome fruits and stone fruits",
+          "A.01.2.4.0.1": {
+            "ID": 1317,
+            "SIC": "A.01.2.4.0.1",
+            "Category": "Apple growing"
+          },
+          "A.01.2.4.0.2": {
+            "ID": 1318,
+            "SIC": "A.01.2.4.0.2",
+            "Category": "Apricot growing"
+          },
+          "A.01.2.4.0.3": {
+            "ID": 1319,
+            "SIC": "A.01.2.4.0.3",
+            "Category": "Cherry growing"
+          },
+          "A.01.2.4.0.4": {
+            "ID": 1320,
+            "SIC": "A.01.2.4.0.4",
+            "Category": "Cider apple growing"
+          },
+          "A.01.2.4.0.5": {
+            "ID": 1321,
+            "SIC": "A.01.2.4.0.5",
+            "Category": "Nectarine growing"
+          },
+          "A.01.2.4.0.6": {
+            "ID": 1322,
+            "SIC": "A.01.2.4.0.6",
+            "Category": "Peach growing"
+          },
+          "A.01.2.4.0.7": {
+            "ID": 1323,
+            "SIC": "A.01.2.4.0.7",
+            "Category": "Pear growing"
+          },
+          "A.01.2.4.0.8": {
+            "ID": 1324,
+            "SIC": "A.01.2.4.0.8",
+            "Category": "Plum growing"
+          },
+          "A.01.2.4.0.9": {
+            "ID": 1325,
+            "SIC": "A.01.2.4.0.9",
+            "Category": "Pome fruit growing"
+          },
+          "A.01.2.4.0.10": {
+            "ID": 1326,
+            "SIC": "A.01.2.4.0.10",
+            "Category": "Quince growing"
+          },
+          "A.01.2.4.0.11": {
+            "ID": 1327,
+            "SIC": "A.01.2.4.0.11",
+            "Category": "Sloe growing"
+          },
+          "A.01.2.4.0.12": {
+            "ID": 1328,
+            "SIC": "A.01.2.4.0.12",
+            "Category": "Sour cherry growing"
+          },
+          "A.01.2.4.0.13": {
+            "ID": 1329,
+            "SIC": "A.01.2.4.0.13",
+            "Category": "Stone fruit growing"
+          }
+        },
+        "A.01.2.5": {
+          "ID": 16,
+          "SIC": "A.01.2.5",
+          "Category": "Growing of other tree and bush fruits and nuts",
+          "A.01.2.5.0.1": {
+            "ID": 1330,
+            "SIC": "A.01.2.5.0.1",
+            "Category": "Almond growing"
+          },
+          "A.01.2.5.0.2": {
+            "ID": 1331,
+            "SIC": "A.01.2.5.0.2",
+            "Category": "Blackberry (cultivated) growing"
+          },
+          "A.01.2.5.0.3": {
+            "ID": 1332,
+            "SIC": "A.01.2.5.0.3",
+            "Category": "Blackcurrant growing"
+          },
+          "A.01.2.5.0.4": {
+            "ID": 1333,
+            "SIC": "A.01.2.5.0.4",
+            "Category": "Blueberry growing"
+          },
+          "A.01.2.5.0.5": {
+            "ID": 1334,
+            "SIC": "A.01.2.5.0.5",
+            "Category": "Cashew nut growing"
+          },
+          "A.01.2.5.0.6": {
+            "ID": 1335,
+            "SIC": "A.01.2.5.0.6",
+            "Category": "Chestnut growing"
+          },
+          "A.01.2.5.0.7": {
+            "ID": 1336,
+            "SIC": "A.01.2.5.0.7",
+            "Category": "Currant growing"
+          },
+          "A.01.2.5.0.8": {
+            "ID": 1337,
+            "SIC": "A.01.2.5.0.8",
+            "Category": "Edible nuts growing"
+          },
+          "A.01.2.5.0.9": {
+            "ID": 1338,
+            "SIC": "A.01.2.5.0.9",
+            "Category": "Fruit seed growing"
+          },
+          "A.01.2.5.0.10": {
+            "ID": 1339,
+            "SIC": "A.01.2.5.0.10",
+            "Category": "Gooseberry growing"
+          },
+          "A.01.2.5.0.11": {
+            "ID": 1340,
+            "SIC": "A.01.2.5.0.11",
+            "Category": "Growing of berries"
+          },
+          "A.01.2.5.0.12": {
+            "ID": 1341,
+            "SIC": "A.01.2.5.0.12",
+            "Category": "Hazelnut growing"
+          },
+          "A.01.2.5.0.13": {
+            "ID": 1342,
+            "SIC": "A.01.2.5.0.13",
+            "Category": "Kiwi fruit growing"
+          },
+          "A.01.2.5.0.14": {
+            "ID": 1343,
+            "SIC": "A.01.2.5.0.14",
+            "Category": "Locust bean growing"
+          },
+          "A.01.2.5.0.15": {
+            "ID": 1344,
+            "SIC": "A.01.2.5.0.15",
+            "Category": "Loganberry growing"
+          },
+          "A.01.2.5.0.16": {
+            "ID": 1345,
+            "SIC": "A.01.2.5.0.16",
+            "Category": "Mulberry growing"
+          },
+          "A.01.2.5.0.17": {
+            "ID": 1346,
+            "SIC": "A.01.2.5.0.17",
+            "Category": "Pistachio growing"
+          },
+          "A.01.2.5.0.18": {
+            "ID": 1347,
+            "SIC": "A.01.2.5.0.18",
+            "Category": "Raspberry growing"
+          },
+          "A.01.2.5.0.19": {
+            "ID": 1348,
+            "SIC": "A.01.2.5.0.19",
+            "Category": "Redcurrant growing"
+          },
+          "A.01.2.5.0.20": {
+            "ID": 1349,
+            "SIC": "A.01.2.5.0.20",
+            "Category": "Strawberry growing"
+          },
+          "A.01.2.5.0.21": {
+            "ID": 1350,
+            "SIC": "A.01.2.5.0.21",
+            "Category": "Walnut growing"
+          },
+          "A.01.2.5.0.22": {
+            "ID": 1351,
+            "SIC": "A.01.2.5.0.22",
+            "Category": "White currant growing"
+          }
+        },
+        "A.01.2.6": {
+          "ID": 17,
+          "SIC": "A.01.2.6",
+          "Category": "Growing of oleaginous fruits",
+          "A.01.2.6.0.1": {
+            "ID": 1352,
+            "SIC": "A.01.2.6.0.1",
+            "Category": "Coconut growing"
+          },
+          "A.01.2.6.0.2": {
+            "ID": 1353,
+            "SIC": "A.01.2.6.0.2",
+            "Category": "Oil palms growing"
+          },
+          "A.01.2.6.0.3": {
+            "ID": 1354,
+            "SIC": "A.01.2.6.0.3",
+            "Category": "Olive growing"
+          }
+        },
+        "A.01.2.7": {
+          "ID": 18,
+          "SIC": "A.01.2.7",
+          "Category": "Growing of beverage crops",
+          "A.01.2.7.0.1": {
+            "ID": 1355,
+            "SIC": "A.01.2.7.0.1",
+            "Category": "Cocoa growing"
+          },
+          "A.01.2.7.0.2": {
+            "ID": 1356,
+            "SIC": "A.01.2.7.0.2",
+            "Category": "Coffee growing"
+          },
+          "A.01.2.7.0.3": {
+            "ID": 1357,
+            "SIC": "A.01.2.7.0.3",
+            "Category": "Mat"
+          },
+          "A.01.2.7.0.4": {
+            "ID": 1358,
+            "SIC": "A.01.2.7.0.4",
+            "Category": "Tea growing"
+          }
+        },
+        "A.01.2.8": {
+          "ID": 19,
+          "SIC": "A.01.2.8",
+          "Category": "Growing of spices, aromatic, drug and pharmaceutical crops",
+          "A.01.2.8.0.1": {
+            "ID": 1359,
+            "SIC": "A.01.2.8.0.1",
+            "Category": "Anise growing"
+          },
+          "A.01.2.8.0.2": {
+            "ID": 1360,
+            "SIC": "A.01.2.8.0.2",
+            "Category": "Aromatic crops growing"
+          },
+          "A.01.2.8.0.3": {
+            "ID": 1361,
+            "SIC": "A.01.2.8.0.3",
+            "Category": "Badian growing"
+          },
+          "A.01.2.8.0.4": {
+            "ID": 1362,
+            "SIC": "A.01.2.8.0.4",
+            "Category": "Basil growing"
+          },
+          "A.01.2.8.0.5": {
+            "ID": 1363,
+            "SIC": "A.01.2.8.0.5",
+            "Category": "Bay growing"
+          },
+          "A.01.2.8.0.6": {
+            "ID": 1364,
+            "SIC": "A.01.2.8.0.6",
+            "Category": "Chilli growing"
+          },
+          "A.01.2.8.0.7": {
+            "ID": 1365,
+            "SIC": "A.01.2.8.0.7",
+            "Category": "Chillies and peppers capsicum sop. Growing"
+          },
+          "A.01.2.8.0.8": {
+            "ID": 1366,
+            "SIC": "A.01.2.8.0.8",
+            "Category": "Cinnamon growing"
+          },
+          "A.01.2.8.0.9": {
+            "ID": 1367,
+            "SIC": "A.01.2.8.0.9",
+            "Category": "Clove growing"
+          },
+          "A.01.2.8.0.10": {
+            "ID": 1368,
+            "SIC": "A.01.2.8.0.10",
+            "Category": "Coriander growing"
+          },
+          "A.01.2.8.0.11": {
+            "ID": 1369,
+            "SIC": "A.01.2.8.0.11",
+            "Category": "Drug and narcotic crops growing"
+          },
+          "A.01.2.8.0.12": {
+            "ID": 1370,
+            "SIC": "A.01.2.8.0.12",
+            "Category": "Fennel seed growing"
+          },
+          "A.01.2.8.0.13": {
+            "ID": 1371,
+            "SIC": "A.01.2.8.0.13",
+            "Category": "Ginger growing"
+          },
+          "A.01.2.8.0.14": {
+            "ID": 1372,
+            "SIC": "A.01.2.8.0.14",
+            "Category": "Hop cones growing"
+          },
+          "A.01.2.8.0.15": {
+            "ID": 1373,
+            "SIC": "A.01.2.8.0.15",
+            "Category": "Nutmeg, mace and cardamoms growing"
+          },
+          "A.01.2.8.0.16": {
+            "ID": 1374,
+            "SIC": "A.01.2.8.0.16",
+            "Category": "Pepper growing"
+          },
+          "A.01.2.8.0.17": {
+            "ID": 1375,
+            "SIC": "A.01.2.8.0.17",
+            "Category": "Pharmaceutical crops growing"
+          },
+          "A.01.2.8.0.18": {
+            "ID": 1376,
+            "SIC": "A.01.2.8.0.18",
+            "Category": "Plants used chiefly in pharmacy or for insecticidal, fungicidal or similar purposes"
+          },
+          "A.01.2.8.0.19": {
+            "ID": 1377,
+            "SIC": "A.01.2.8.0.19",
+            "Category": "Spice crops growing"
+          },
+          "A.01.2.8.0.20": {
+            "ID": 1378,
+            "SIC": "A.01.2.8.0.20",
+            "Category": "Sweet marjoram growing"
+          },
+          "A.01.2.8.0.21": {
+            "ID": 1379,
+            "SIC": "A.01.2.8.0.21",
+            "Category": "Tarragon growing"
+          },
+          "A.01.2.8.0.22": {
+            "ID": 1380,
+            "SIC": "A.01.2.8.0.22",
+            "Category": "Vanilla growing"
+          }
+        },
+        "A.01.2.9": {
+          "ID": 20,
+          "SIC": "A.01.2.9",
+          "Category": "Growing of other perennial crops",
+          "A.01.2.9.0.1": {
+            "ID": 1381,
+            "SIC": "A.01.2.9.0.1",
+            "Category": "Christmas tree growing"
+          },
+          "A.01.2.9.0.2": {
+            "ID": 1382,
+            "SIC": "A.01.2.9.0.2",
+            "Category": "Rubber trees growing for harvesting of latex"
+          },
+          "A.01.2.9.0.3": {
+            "ID": 1383,
+            "SIC": "A.01.2.9.0.3",
+            "Category": "Tree growing for extraction of sap"
+          },
+          "A.01.2.9.0.4": {
+            "ID": 1384,
+            "SIC": "A.01.2.9.0.4",
+            "Category": "Vegetable plaiting material growing"
+          }
+        }
+      },
+      "A.01.3": {
+        "ID": 21,
+        "SIC": "A.01.3",
+        "Category": "Plant propagation",
+        "A.01.3.0": {
+          "ID": 22,
+          "SIC": "A.01.3.0",
+          "Category": "Plant propagation",
+          "A.01.3.0.0.1": {
+            "ID": 1385,
+            "SIC": "A.01.3.0.0.1",
+            "Category": "Mushroom spawn growing"
+          },
+          "A.01.3.0.0.2": {
+            "ID": 1386,
+            "SIC": "A.01.3.0.0.2",
+            "Category": "Nursery (horticulture)"
+          },
+          "A.01.3.0.0.3": {
+            "ID": 1387,
+            "SIC": "A.01.3.0.0.3",
+            "Category": "Ornamental tree and shrub growing"
+          },
+          "A.01.3.0.0.4": {
+            "ID": 1388,
+            "SIC": "A.01.3.0.0.4",
+            "Category": "Plant growing for bulbs"
+          },
+          "A.01.3.0.0.5": {
+            "ID": 1389,
+            "SIC": "A.01.3.0.0.5",
+            "Category": "Plant growing for cuttings and slips"
+          },
+          "A.01.3.0.0.6": {
+            "ID": 1390,
+            "SIC": "A.01.3.0.0.6",
+            "Category": "Plant growing for roots"
+          },
+          "A.01.3.0.0.7": {
+            "ID": 1391,
+            "SIC": "A.01.3.0.0.7",
+            "Category": "Plant growing for tubers"
+          },
+          "A.01.3.0.0.8": {
+            "ID": 1392,
+            "SIC": "A.01.3.0.0.8",
+            "Category": "Plant propagation"
+          },
+          "A.01.3.0.0.9": {
+            "ID": 1393,
+            "SIC": "A.01.3.0.0.9",
+            "Category": "Plants for planting or ornamental purposes"
+          },
+          "A.01.3.0.0.10": {
+            "ID": 1394,
+            "SIC": "A.01.3.0.0.10",
+            "Category": "Tree nurseries (Except forest tree nurseries)"
+          },
+          "A.01.3.0.0.11": {
+            "ID": 1395,
+            "SIC": "A.01.3.0.0.11",
+            "Category": "Tree seedling raising"
+          },
+          "A.01.3.0.0.12": {
+            "ID": 1396,
+            "SIC": "A.01.3.0.0.12",
+            "Category": "Turf for transplanting"
+          }
+        }
+      },
+      "A.01.4": {
+        "ID": 23,
+        "SIC": "A.01.4",
+        "Category": "Animal production",
+        "A.01.4.1": {
+          "ID": 24,
+          "SIC": "A.01.4.1",
+          "Category": "Raising of dairy cattle",
+          "A.01.4.1.0.1": {
+            "ID": 1397,
+            "SIC": "A.01.4.1.0.1",
+            "Category": "Buffalo milk, raw"
+          },
+          "A.01.4.1.0.2": {
+            "ID": 1398,
+            "SIC": "A.01.4.1.0.2",
+            "Category": "Cows' milk (raw) production"
+          },
+          "A.01.4.1.0.3": {
+            "ID": 1399,
+            "SIC": "A.01.4.1.0.3",
+            "Category": "Dairy farming"
+          }
+        },
+        "A.01.4.2": {
+          "ID": 25,
+          "SIC": "A.01.4.2",
+          "Category": "Raising of other cattle and buffaloes",
+          "A.01.4.2.0.1": {
+            "ID": 1400,
+            "SIC": "A.01.4.2.0.1",
+            "Category": "Bovine semen production"
+          },
+          "A.01.4.2.0.2": {
+            "ID": 1401,
+            "SIC": "A.01.4.2.0.2",
+            "Category": "Buffalo raising and breeding for meat"
+          },
+          "A.01.4.2.0.3": {
+            "ID": 1402,
+            "SIC": "A.01.4.2.0.3",
+            "Category": "Cattle raising and breeding for meat"
+          }
+        },
+        "A.01.4.3": {
+          "ID": 26,
+          "SIC": "A.01.4.3",
+          "Category": "Raising of horses and other equines",
+          "A.01.4.3.0.1": {
+            "ID": 1403,
+            "SIC": "A.01.4.3.0.1",
+            "Category": "Animal hair (not carded or combed) including horsehair production"
+          },
+          "A.01.4.3.0.2": {
+            "ID": 1404,
+            "SIC": "A.01.4.3.0.2",
+            "Category": "Ass farming and breeding"
+          },
+          "A.01.4.3.0.3": {
+            "ID": 1405,
+            "SIC": "A.01.4.3.0.3",
+            "Category": "Hinny farming and breeding"
+          },
+          "A.01.4.3.0.4": {
+            "ID": 1406,
+            "SIC": "A.01.4.3.0.4",
+            "Category": "Horse farming and breeding"
+          },
+          "A.01.4.3.0.5": {
+            "ID": 1407,
+            "SIC": "A.01.4.3.0.5",
+            "Category": "Mule farming and breeding"
+          },
+          "A.01.4.3.0.6": {
+            "ID": 1408,
+            "SIC": "A.01.4.3.0.6",
+            "Category": "Stud farming"
+          }
+        },
+        "A.01.4.4": {
+          "ID": 27,
+          "SIC": "A.01.4.4",
+          "Category": "Raising of camels and camelids",
+          "A.01.4.4.0.1": {
+            "ID": 1409,
+            "SIC": "A.01.4.4.0.1",
+            "Category": "Camelid raising and breeding"
+          },
+          "A.01.4.4.0.2": {
+            "ID": 1410,
+            "SIC": "A.01.4.4.0.2",
+            "Category": "Camels (dromedary) raising and breeding"
+          }
+        },
+        "A.01.4.5": {
+          "ID": 28,
+          "SIC": "A.01.4.5",
+          "Category": "Raising of sheep and goats",
+          "A.01.4.5.0.1": {
+            "ID": 1411,
+            "SIC": "A.01.4.5.0.1",
+            "Category": "Goat farming"
+          },
+          "A.01.4.5.0.2": {
+            "ID": 1412,
+            "SIC": "A.01.4.5.0.2",
+            "Category": "Goat milk (raw) production"
+          },
+          "A.01.4.5.0.3": {
+            "ID": 1413,
+            "SIC": "A.01.4.5.0.3",
+            "Category": "Goat raising and breeding"
+          },
+          "A.01.4.5.0.4": {
+            "ID": 1414,
+            "SIC": "A.01.4.5.0.4",
+            "Category": "Sheep farming"
+          },
+          "A.01.4.5.0.5": {
+            "ID": 1415,
+            "SIC": "A.01.4.5.0.5",
+            "Category": "Sheep milk (raw) production"
+          },
+          "A.01.4.5.0.6": {
+            "ID": 1416,
+            "SIC": "A.01.4.5.0.6",
+            "Category": "Sheep raising and breeding"
+          },
+          "A.01.4.5.0.7": {
+            "ID": 1417,
+            "SIC": "A.01.4.5.0.7",
+            "Category": "Wool (raw) production"
+          }
+        },
+        "A.01.4.6": {
+          "ID": 29,
+          "SIC": "A.01.4.6",
+          "Category": "Raising of swine/pigs"
+        },
+        "A.01.4.7": {
+          "ID": 30,
+          "SIC": "A.01.4.7",
+          "Category": "Raising of poultry",
+          "A.01.4.7.0.1": {
+            "ID": 1418,
+            "SIC": "A.01.4.7.0.1",
+            "Category": "Chicken farm (battery rearing)"
+          },
+          "A.01.4.7.0.2": {
+            "ID": 1419,
+            "SIC": "A.01.4.7.0.2",
+            "Category": "Chicken raising and breeding"
+          },
+          "A.01.4.7.0.3": {
+            "ID": 1420,
+            "SIC": "A.01.4.7.0.3",
+            "Category": "Duck farming"
+          },
+          "A.01.4.7.0.4": {
+            "ID": 1421,
+            "SIC": "A.01.4.7.0.4",
+            "Category": "Duck raising and breeding"
+          },
+          "A.01.4.7.0.5": {
+            "ID": 1422,
+            "SIC": "A.01.4.7.0.5",
+            "Category": "Egg hatchery"
+          },
+          "A.01.4.7.0.6": {
+            "ID": 1423,
+            "SIC": "A.01.4.7.0.6",
+            "Category": "Egg production"
+          },
+          "A.01.4.7.0.7": {
+            "ID": 1424,
+            "SIC": "A.01.4.7.0.7",
+            "Category": "Egg production from poultry"
+          },
+          "A.01.4.7.0.8": {
+            "ID": 1425,
+            "SIC": "A.01.4.7.0.8",
+            "Category": "Geese farming"
+          },
+          "A.01.4.7.0.9": {
+            "ID": 1426,
+            "SIC": "A.01.4.7.0.9",
+            "Category": "Goose raising and breeding"
+          },
+          "A.01.4.7.0.10": {
+            "ID": 1427,
+            "SIC": "A.01.4.7.0.10",
+            "Category": "Guinea fowl production"
+          },
+          "A.01.4.7.0.11": {
+            "ID": 1428,
+            "SIC": "A.01.4.7.0.11",
+            "Category": "Guinea fowl raising and breeding"
+          },
+          "A.01.4.7.0.12": {
+            "ID": 1429,
+            "SIC": "A.01.4.7.0.12",
+            "Category": "Poultry farming"
+          },
+          "A.01.4.7.0.13": {
+            "ID": 1430,
+            "SIC": "A.01.4.7.0.13",
+            "Category": "Poultry hatcheries"
+          },
+          "A.01.4.7.0.14": {
+            "ID": 1431,
+            "SIC": "A.01.4.7.0.14",
+            "Category": "Poultry raising and breeding"
+          },
+          "A.01.4.7.0.15": {
+            "ID": 1432,
+            "SIC": "A.01.4.7.0.15",
+            "Category": "Turkey farming"
+          },
+          "A.01.4.7.0.16": {
+            "ID": 1433,
+            "SIC": "A.01.4.7.0.16",
+            "Category": "Turkey raising and breeding"
+          }
+        },
+        "A.01.4.9": {
+          "ID": 31,
+          "SIC": "A.01.4.9",
+          "Category": "Raising of other animals",
+          "A.01.4.9.0.1": {
+            "ID": 1434,
+            "SIC": "A.01.4.9.0.1",
+            "Category": "Angora rabbit breeding"
+          },
+          "A.01.4.9.0.2": {
+            "ID": 1435,
+            "SIC": "A.01.4.9.0.2",
+            "Category": "Animal rearing for medical research"
+          },
+          "A.01.4.9.0.3": {
+            "ID": 1436,
+            "SIC": "A.01.4.9.0.3",
+            "Category": "Bee keeping"
+          },
+          "A.01.4.9.0.4": {
+            "ID": 1437,
+            "SIC": "A.01.4.9.0.4",
+            "Category": "Bird raising, other than poultry"
+          },
+          "A.01.4.9.0.5": {
+            "ID": 1438,
+            "SIC": "A.01.4.9.0.5",
+            "Category": "Bird skin production from ranching operation"
+          },
+          "A.01.4.9.0.6": {
+            "ID": 1439,
+            "SIC": "A.01.4.9.0.6",
+            "Category": "Cat and dog raising and breeding"
+          },
+          "A.01.4.9.0.7": {
+            "ID": 1440,
+            "SIC": "A.01.4.9.0.7",
+            "Category": "Emu raising and breeding"
+          },
+          "A.01.4.9.0.8": {
+            "ID": 1441,
+            "SIC": "A.01.4.9.0.8",
+            "Category": "Fine or coarse animal hair, not including sheep or goats wool"
+          },
+          "A.01.4.9.0.9": {
+            "ID": 1442,
+            "SIC": "A.01.4.9.0.9",
+            "Category": "Fur animal raising"
+          },
+          "A.01.4.9.0.10": {
+            "ID": 1443,
+            "SIC": "A.01.4.9.0.10",
+            "Category": "Fur farming"
+          },
+          "A.01.4.9.0.11": {
+            "ID": 1444,
+            "SIC": "A.01.4.9.0.11",
+            "Category": "Fur skin production from ranching operation"
+          },
+          "A.01.4.9.0.12": {
+            "ID": 1445,
+            "SIC": "A.01.4.9.0.12",
+            "Category": "Game bird egg production"
+          },
+          "A.01.4.9.0.13": {
+            "ID": 1446,
+            "SIC": "A.01.4.9.0.13",
+            "Category": "Game bird farming"
+          },
+          "A.01.4.9.0.14": {
+            "ID": 1447,
+            "SIC": "A.01.4.9.0.14",
+            "Category": "Hamster raising and breeding"
+          },
+          "A.01.4.9.0.15": {
+            "ID": 1448,
+            "SIC": "A.01.4.9.0.15",
+            "Category": "Honey and beeswax production"
+          },
+          "A.01.4.9.0.16": {
+            "ID": 1449,
+            "SIC": "A.01.4.9.0.16",
+            "Category": "Honey processing and packing"
+          },
+          "A.01.4.9.0.17": {
+            "ID": 1450,
+            "SIC": "A.01.4.9.0.17",
+            "Category": "Insect raising"
+          },
+          "A.01.4.9.0.18": {
+            "ID": 1451,
+            "SIC": "A.01.4.9.0.18",
+            "Category": "Maggot breeding"
+          },
+          "A.01.4.9.0.19": {
+            "ID": 1452,
+            "SIC": "A.01.4.9.0.19",
+            "Category": "Mollusc farming, except aquatic molluscs "
+          },
+          "A.01.4.9.0.20": {
+            "ID": 1453,
+            "SIC": "A.01.4.9.0.20",
+            "Category": "Ostriches raising and breeding"
+          },
+          "A.01.4.9.0.21": {
+            "ID": 1454,
+            "SIC": "A.01.4.9.0.21",
+            "Category": "Pet animal breeding, other than fish"
+          },
+          "A.01.4.9.0.22": {
+            "ID": 1455,
+            "SIC": "A.01.4.9.0.22",
+            "Category": "Pet bird raising and breeding"
+          },
+          "A.01.4.9.0.23": {
+            "ID": 1456,
+            "SIC": "A.01.4.9.0.23",
+            "Category": "Quail egg production"
+          },
+          "A.01.4.9.0.24": {
+            "ID": 1457,
+            "SIC": "A.01.4.9.0.24",
+            "Category": "Rabbit and other fur animal raising n.e.c"
+          },
+          "A.01.4.9.0.25": {
+            "ID": 1458,
+            "SIC": "A.01.4.9.0.25",
+            "Category": "Rabbit breeding"
+          },
+          "A.01.4.9.0.26": {
+            "ID": 1459,
+            "SIC": "A.01.4.9.0.26",
+            "Category": "Rabbit skin sorting"
+          },
+          "A.01.4.9.0.27": {
+            "ID": 1460,
+            "SIC": "A.01.4.9.0.27",
+            "Category": "Raw fur skin production"
+          },
+          "A.01.4.9.0.28": {
+            "ID": 1461,
+            "SIC": "A.01.4.9.0.28",
+            "Category": "Reptile skin production from ranching operation"
+          },
+          "A.01.4.9.0.29": {
+            "ID": 1462,
+            "SIC": "A.01.4.9.0.29",
+            "Category": "Silk worm cocoon production"
+          },
+          "A.01.4.9.0.30": {
+            "ID": 1463,
+            "SIC": "A.01.4.9.0.30",
+            "Category": "Silk worm raising"
+          },
+          "A.01.4.9.0.31": {
+            "ID": 1464,
+            "SIC": "A.01.4.9.0.31",
+            "Category": "Snail farming"
+          },
+          "A.01.4.9.0.32": {
+            "ID": 1465,
+            "SIC": "A.01.4.9.0.32",
+            "Category": "Worm (other than marine) farming"
+          }
+        }
+      },
+      "A.01.5": {
+        "ID": 32,
+        "SIC": "A.01.5",
+        "Category": "Mixed farming",
+        "A.01.5.0": {
+          "ID": 33,
+          "SIC": "A.01.5.0",
+          "Category": "Mixed farming",
+          "A.01.5.0.0.1": {
+            "ID": 1466,
+            "SIC": "A.01.5.0.0.1",
+            "Category": "Crop growing in combination with farming of livestock"
+          },
+          "A.01.5.0.0.2": {
+            "ID": 1467,
+            "SIC": "A.01.5.0.0.2",
+            "Category": "Mixed farming"
+          }
+        }
+      },
+      "A.01.6": {
+        "ID": 34,
+        "SIC": "A.01.6",
+        "Category": "Support activities to agriculture and post-harvest crop activities",
+        "A.01.6.1": {
+          "ID": 35,
+          "SIC": "A.01.6.1",
+          "Category": "Support activities for crop production",
+          "A.01.6.1.0.1": {
+            "ID": 1468,
+            "SIC": "A.01.6.1.0.1",
+            "Category": "Agricultural contracting"
+          },
+          "A.01.6.1.0.2": {
+            "ID": 1469,
+            "SIC": "A.01.6.1.0.2",
+            "Category": "Agricultural land maintenance in good agricultural and environmental condition"
+          },
+          "A.01.6.1.0.3": {
+            "ID": 1470,
+            "SIC": "A.01.6.1.0.3",
+            "Category": "Agricultural machinery and equipment rental with operator"
+          },
+          "A.01.6.1.0.4": {
+            "ID": 1471,
+            "SIC": "A.01.6.1.0.4",
+            "Category": "Beet thinning on a fee or contract basis"
+          },
+          "A.01.6.1.0.5": {
+            "ID": 1472,
+            "SIC": "A.01.6.1.0.5",
+            "Category": "Crop establishing for subsequent crop production, on a fee or contract basis"
+          },
+          "A.01.6.1.0.6": {
+            "ID": 1473,
+            "SIC": "A.01.6.1.0.6",
+            "Category": "Crop harvesting and preparation"
+          },
+          "A.01.6.1.0.7": {
+            "ID": 1474,
+            "SIC": "A.01.6.1.0.7",
+            "Category": "Crop production support activities"
+          },
+          "A.01.6.1.0.8": {
+            "ID": 1475,
+            "SIC": "A.01.6.1.0.8",
+            "Category": "Crop spraying on a fee or contract basis"
+          },
+          "A.01.6.1.0.9": {
+            "ID": 1476,
+            "SIC": "A.01.6.1.0.9",
+            "Category": "Crop treatment on a fee or contract basis"
+          },
+          "A.01.6.1.0.10": {
+            "ID": 1477,
+            "SIC": "A.01.6.1.0.10",
+            "Category": "Fencing by agricultural contractor"
+          },
+          "A.01.6.1.0.11": {
+            "ID": 1478,
+            "SIC": "A.01.6.1.0.11",
+            "Category": "Field preparation on a fee or contract basis"
+          },
+          "A.01.6.1.0.12": {
+            "ID": 1479,
+            "SIC": "A.01.6.1.0.12",
+            "Category": "Fruit tree and vine trimming, on a fee or contract basis"
+          },
+          "A.01.6.1.0.13": {
+            "ID": 1480,
+            "SIC": "A.01.6.1.0.13",
+            "Category": "Irrigation systems operation on a fee or contract basis"
+          },
+          "A.01.6.1.0.14": {
+            "ID": 1481,
+            "SIC": "A.01.6.1.0.14",
+            "Category": "Mole catching contractors on agricultural land"
+          },
+          "A.01.6.1.0.15": {
+            "ID": 1482,
+            "SIC": "A.01.6.1.0.15",
+            "Category": "Pest control in connection with agriculture"
+          },
+          "A.01.6.1.0.16": {
+            "ID": 1483,
+            "SIC": "A.01.6.1.0.16",
+            "Category": "Rabbit destroying and trapping on agricultural land"
+          },
+          "A.01.6.1.0.17": {
+            "ID": 1484,
+            "SIC": "A.01.6.1.0.17",
+            "Category": "Rat destroying and trapping on agricultural land"
+          },
+          "A.01.6.1.0.18": {
+            "ID": 1485,
+            "SIC": "A.01.6.1.0.18",
+            "Category": "Rice transplanting"
+          },
+          "A.01.6.1.0.19": {
+            "ID": 1486,
+            "SIC": "A.01.6.1.0.19",
+            "Category": "Rice transplanting, on a fee or contract basis"
+          },
+          "A.01.6.1.0.20": {
+            "ID": 1487,
+            "SIC": "A.01.6.1.0.20",
+            "Category": "Rodent destroying and trapping on agricultural land"
+          },
+          "A.01.6.1.0.21": {
+            "ID": 1488,
+            "SIC": "A.01.6.1.0.21",
+            "Category": "Threshing by contractor"
+          },
+          "A.01.6.1.0.22": {
+            "ID": 1489,
+            "SIC": "A.01.6.1.0.22",
+            "Category": "Vermin destroying and trapping on agricultural land"
+          }
+        },
+        "A.01.6.2": {
+          "ID": 36,
+          "SIC": "A.01.6.2",
+          "Category": "Support activities for animal production",
+          "A.01.6.2.1": {
+            "ID": 37,
+            "SIC": "A.01.6.2.1",
+            "Category": "Farm animal boarding and care",
+            "A.01.6.2.1.1": {
+              "ID": 1490,
+              "SIC": "A.01.6.2.1.1",
+              "Category": "Farm animal boarding and care (except pets)"
+            }
+          },
+          "A.01.6.2.9": {
+            "ID": 38,
+            "SIC": "A.01.6.2.9",
+            "Category": "Support activities for animal production (other than farm animal boarding and care) n.e.c.",
+            "A.01.6.2.9.1": {
+              "ID": 1491,
+              "SIC": "A.01.6.2.9.1",
+              "Category": "Agistment services on a fee or contract basis"
+            },
+            "A.01.6.2.9.2": {
+              "ID": 1492,
+              "SIC": "A.01.6.2.9.2",
+              "Category": "Animal production support activities other than farm animal boarding and care"
+            },
+            "A.01.6.2.9.3": {
+              "ID": 1493,
+              "SIC": "A.01.6.2.9.3",
+              "Category": "Animal propagation, growth and output - activities to promote these, on a fee or contract basis"
+            },
+            "A.01.6.2.9.4": {
+              "ID": 1494,
+              "SIC": "A.01.6.2.9.4",
+              "Category": "Animal rearing for production of serum"
+            },
+            "A.01.6.2.9.5": {
+              "ID": 1495,
+              "SIC": "A.01.6.2.9.5",
+              "Category": "Artificial insemination activities on a fee or contract basis"
+            },
+            "A.01.6.2.9.6": {
+              "ID": 1496,
+              "SIC": "A.01.6.2.9.6",
+              "Category": "Coop cleaning"
+            },
+            "A.01.6.2.9.7": {
+              "ID": 1497,
+              "SIC": "A.01.6.2.9.7",
+              "Category": "Droving services"
+            },
+            "A.01.6.2.9.8": {
+              "ID": 1498,
+              "SIC": "A.01.6.2.9.8",
+              "Category": "Farriers, on a fee or contract basis"
+            },
+            "A.01.6.2.9.9": {
+              "ID": 1499,
+              "SIC": "A.01.6.2.9.9",
+              "Category": "Grazing"
+            },
+            "A.01.6.2.9.10": {
+              "ID": 1500,
+              "SIC": "A.01.6.2.9.10",
+              "Category": "Herd testing services"
+            },
+            "A.01.6.2.9.11": {
+              "ID": 1501,
+              "SIC": "A.01.6.2.9.11",
+              "Category": "Poultry caponising"
+            },
+            "A.01.6.2.9.12": {
+              "ID": 1502,
+              "SIC": "A.01.6.2.9.12",
+              "Category": "Poultry egg hatching (automated)"
+            },
+            "A.01.6.2.9.13": {
+              "ID": 1503,
+              "SIC": "A.01.6.2.9.13",
+              "Category": "Propagation, growth and output of animals, promotion service activities"
+            },
+            "A.01.6.2.9.14": {
+              "ID": 1504,
+              "SIC": "A.01.6.2.9.14",
+              "Category": "Sheep agisting (grazing)"
+            },
+            "A.01.6.2.9.15": {
+              "ID": 1505,
+              "SIC": "A.01.6.2.9.15",
+              "Category": "Sheep shearing on a fee or contract basis"
+            },
+            "A.01.6.2.9.16": {
+              "ID": 1506,
+              "SIC": "A.01.6.2.9.16",
+              "Category": "Stud services on a fee or contract basis"
+            }
+          }
+        },
+        "A.01.6.3": {
+          "ID": 39,
+          "SIC": "A.01.6.3",
+          "Category": "Post-harvest crop activities",
+          "A.01.6.3.0.1": {
+            "ID": 1507,
+            "SIC": "A.01.6.3.0.1",
+            "Category": "Cocoa beans, peeling and preparation "
+          },
+          "A.01.6.3.0.2": {
+            "ID": 1508,
+            "SIC": "A.01.6.3.0.2",
+            "Category": "Cooling and bulk packing of crops for primary market"
+          },
+          "A.01.6.3.0.3": {
+            "ID": 1509,
+            "SIC": "A.01.6.3.0.3",
+            "Category": "Cotton ginning"
+          },
+          "A.01.6.3.0.4": {
+            "ID": 1510,
+            "SIC": "A.01.6.3.0.4",
+            "Category": "Crop and grass drying plant operation by contractor"
+          },
+          "A.01.6.3.0.5": {
+            "ID": 1511,
+            "SIC": "A.01.6.3.0.5",
+            "Category": "Crop drying and disinfecting for primary market"
+          },
+          "A.01.6.3.0.6": {
+            "ID": 1512,
+            "SIC": "A.01.6.3.0.6",
+            "Category": "Crop preparation for primary market (cleaning, trimming, grading, etc.)"
+          },
+          "A.01.6.3.0.7": {
+            "ID": 1513,
+            "SIC": "A.01.6.3.0.7",
+            "Category": "Crop wax covering, polishing and wrapping for primary market"
+          },
+          "A.01.6.3.0.8": {
+            "ID": 1514,
+            "SIC": "A.01.6.3.0.8",
+            "Category": "Fruit packing, for primary market"
+          },
+          "A.01.6.3.0.9": {
+            "ID": 1515,
+            "SIC": "A.01.6.3.0.9",
+            "Category": "Fruit waxing"
+          },
+          "A.01.6.3.0.10": {
+            "ID": 1516,
+            "SIC": "A.01.6.3.0.10",
+            "Category": "Grain drying"
+          },
+          "A.01.6.3.0.11": {
+            "ID": 1517,
+            "SIC": "A.01.6.3.0.11",
+            "Category": "Post-harvest crop activities"
+          },
+          "A.01.6.3.0.12": {
+            "ID": 1518,
+            "SIC": "A.01.6.3.0.12",
+            "Category": "Sun drying of herbs and spices"
+          },
+          "A.01.6.3.0.13": {
+            "ID": 1519,
+            "SIC": "A.01.6.3.0.13",
+            "Category": "Sun drying of tobacco"
+          },
+          "A.01.6.3.0.14": {
+            "ID": 1520,
+            "SIC": "A.01.6.3.0.14",
+            "Category": "Tobacco leaves, drying and preparation "
+          }
+        },
+        "A.01.6.4": {
+          "ID": 40,
+          "SIC": "A.01.6.4",
+          "Category": "Seed processing for propagation",
+          "A.01.6.4.0.1": {
+            "ID": 1521,
+            "SIC": "A.01.6.4.0.1",
+            "Category": "Seed cleaning and treating (cereals and other crops)"
+          },
+          "A.01.6.4.0.2": {
+            "ID": 1522,
+            "SIC": "A.01.6.4.0.2",
+            "Category": "Seed cleaning and treating (fee or contract basis)"
+          },
+          "A.01.6.4.0.3": {
+            "ID": 1523,
+            "SIC": "A.01.6.4.0.3",
+            "Category": "Seed cleaning and treating (fruit, nuts, beverage and spice crops)"
+          },
+          "A.01.6.4.0.4": {
+            "ID": 1524,
+            "SIC": "A.01.6.4.0.4",
+            "Category": "Seed cleaning and treating (vegetables, horticultural specialties and other nursery products)"
+          },
+          "A.01.6.4.0.5": {
+            "ID": 1525,
+            "SIC": "A.01.6.4.0.5",
+            "Category": "Seed drying (cereals and other crops)"
+          },
+          "A.01.6.4.0.6": {
+            "ID": 1526,
+            "SIC": "A.01.6.4.0.6",
+            "Category": "Seed drying (fee or contract basis)"
+          },
+          "A.01.6.4.0.7": {
+            "ID": 1527,
+            "SIC": "A.01.6.4.0.7",
+            "Category": "Seed drying (fruit, nuts, beverage and spice crops)"
+          },
+          "A.01.6.4.0.8": {
+            "ID": 1528,
+            "SIC": "A.01.6.4.0.8",
+            "Category": "Seed drying (vegetables, horticultural specialties and other nursery products)"
+          },
+          "A.01.6.4.0.9": {
+            "ID": 1529,
+            "SIC": "A.01.6.4.0.9",
+            "Category": "Seed genetically modified, treatment of these (cereals and other crops)"
+          },
+          "A.01.6.4.0.10": {
+            "ID": 1530,
+            "SIC": "A.01.6.4.0.10",
+            "Category": "Seed genetically modified, treatment of these (fee or contract basis)"
+          },
+          "A.01.6.4.0.11": {
+            "ID": 1531,
+            "SIC": "A.01.6.4.0.11",
+            "Category": "Seed genetically modified, treatment of these (fruit, nuts, beverage and spice crops)"
+          },
+          "A.01.6.4.0.12": {
+            "ID": 1532,
+            "SIC": "A.01.6.4.0.12",
+            "Category": "Seed genetically modified, treatment of these (vegetables, horticultural and other nursery products)"
+          },
+          "A.01.6.4.0.13": {
+            "ID": 1533,
+            "SIC": "A.01.6.4.0.13",
+            "Category": "Seed grading (cereals and other crops)"
+          },
+          "A.01.6.4.0.14": {
+            "ID": 1534,
+            "SIC": "A.01.6.4.0.14",
+            "Category": "Seed grading (fee or contract basis)"
+          },
+          "A.01.6.4.0.15": {
+            "ID": 1535,
+            "SIC": "A.01.6.4.0.15",
+            "Category": "Seed grading (fruit, nuts, beverage and spice crops)"
+          },
+          "A.01.6.4.0.16": {
+            "ID": 1536,
+            "SIC": "A.01.6.4.0.16",
+            "Category": "Seed grading (vegetables, horticultural specialties and other nursery products)"
+          },
+          "A.01.6.4.0.17": {
+            "ID": 1537,
+            "SIC": "A.01.6.4.0.17",
+            "Category": "Seed post harvest processing (cereals and other crops)"
+          },
+          "A.01.6.4.0.18": {
+            "ID": 1538,
+            "SIC": "A.01.6.4.0.18",
+            "Category": "Seed post harvest processing (fee or contract basis)"
+          },
+          "A.01.6.4.0.19": {
+            "ID": 1539,
+            "SIC": "A.01.6.4.0.19",
+            "Category": "Seed post harvest processing (fruit, nuts, beverage and spice crops)"
+          },
+          "A.01.6.4.0.20": {
+            "ID": 1540,
+            "SIC": "A.01.6.4.0.20",
+            "Category": "Seed post harvest processing (vegetables, horticultural specialties and other nursery products)"
+          },
+          "A.01.6.4.0.21": {
+            "ID": 1541,
+            "SIC": "A.01.6.4.0.21",
+            "Category": "Seed processing for propagation (cereals and other crops)"
+          },
+          "A.01.6.4.0.22": {
+            "ID": 1542,
+            "SIC": "A.01.6.4.0.22",
+            "Category": "Seed processing for propagation (fee or contract basis)"
+          },
+          "A.01.6.4.0.23": {
+            "ID": 1543,
+            "SIC": "A.01.6.4.0.23",
+            "Category": "Seed processing for propagation (fruit, nuts, beverage and spice crops)"
+          },
+          "A.01.6.4.0.24": {
+            "ID": 1544,
+            "SIC": "A.01.6.4.0.24",
+            "Category": "Seed processing for propagation (vegetables, horticultural specialties and other nursery products)"
+          }
+        }
+      },
+      "A.01.7": {
+        "ID": 41,
+        "SIC": "A.01.7",
+        "Category": "Hunting, trapping and related service activities",
+        "A.01.7.0": {
+          "ID": 42,
+          "SIC": "A.01.7.0",
+          "Category": "Hunting, trapping and related service activities",
+          "A.01.7.0.0.1": {
+            "ID": 1545,
+            "SIC": "A.01.7.0.0.1",
+            "Category": "Animal hunting and trapping"
+          },
+          "A.01.7.0.0.2": {
+            "ID": 1546,
+            "SIC": "A.01.7.0.0.2",
+            "Category": "Bird skin production (from hunting)"
+          },
+          "A.01.7.0.0.3": {
+            "ID": 1547,
+            "SIC": "A.01.7.0.0.3",
+            "Category": "Furskin production (from hunting)"
+          },
+          "A.01.7.0.0.4": {
+            "ID": 1548,
+            "SIC": "A.01.7.0.0.4",
+            "Category": "Hunting or trapping of animals for food"
+          },
+          "A.01.7.0.0.5": {
+            "ID": 1549,
+            "SIC": "A.01.7.0.0.5",
+            "Category": "Hunting or trapping of animals for fur"
+          },
+          "A.01.7.0.0.6": {
+            "ID": 1550,
+            "SIC": "A.01.7.0.0.6",
+            "Category": "Hunting or trapping of animals for pets"
+          },
+          "A.01.7.0.0.7": {
+            "ID": 1551,
+            "SIC": "A.01.7.0.0.7",
+            "Category": "Hunting or trapping of animals for skin"
+          },
+          "A.01.7.0.0.8": {
+            "ID": 1552,
+            "SIC": "A.01.7.0.0.8",
+            "Category": "Hunting or trapping of animals for use in research"
+          },
+          "A.01.7.0.0.9": {
+            "ID": 1553,
+            "SIC": "A.01.7.0.0.9",
+            "Category": "Hunting or trapping of animals for use in zoos"
+          },
+          "A.01.7.0.0.10": {
+            "ID": 1554,
+            "SIC": "A.01.7.0.0.10",
+            "Category": "Hunting, trapping and related service activities"
+          },
+          "A.01.7.0.0.11": {
+            "ID": 1555,
+            "SIC": "A.01.7.0.0.11",
+            "Category": "Reptile skin production (from hunting)"
+          },
+          "A.01.7.0.0.12": {
+            "ID": 1556,
+            "SIC": "A.01.7.0.0.12",
+            "Category": "Sea mammal catching (land-based)"
+          },
+          "A.01.7.0.0.13": {
+            "ID": 1557,
+            "SIC": "A.01.7.0.0.13",
+            "Category": "Seal catching (land-based)"
+          },
+          "A.01.7.0.0.14": {
+            "ID": 1558,
+            "SIC": "A.01.7.0.0.14",
+            "Category": "Walrus catching (land-based)"
+          },
+          "A.01.7.0.0.15": {
+            "ID": 1559,
+            "SIC": "A.01.7.0.0.15",
+            "Category": "Wild frog catching"
+          }
+        }
+      }
+    },
+    "A.02": {
+      "ID": 43,
+      "SIC": "A.02",
+      "Category": "Forestry and logging",
+      "A.02.1": {
+        "ID": 44,
+        "SIC": "A.02.1",
+        "Category": "Silviculture and other forestry activities",
+        "A.02.1.0": {
+          "ID": 45,
+          "SIC": "A.02.1.0",
+          "Category": "Silviculture and other forestry activities",
+          "A.02.1.0.0.1": {
+            "ID": 1560,
+            "SIC": "A.02.1.0.0.1",
+            "Category": "Coppice and pulpwood growing"
+          },
+          "A.02.1.0.0.2": {
+            "ID": 1561,
+            "SIC": "A.02.1.0.0.2",
+            "Category": "Forest tree nursery operation"
+          },
+          "A.02.1.0.0.3": {
+            "ID": 1562,
+            "SIC": "A.02.1.0.0.3",
+            "Category": "Forests and timber tract planting, replanting, transplanting, thinning and conservation"
+          },
+          "A.02.1.0.0.4": {
+            "ID": 1563,
+            "SIC": "A.02.1.0.0.4",
+            "Category": "Fuel wood production"
+          },
+          "A.02.1.0.0.5": {
+            "ID": 1564,
+            "SIC": "A.02.1.0.0.5",
+            "Category": "Furze collecting, cutting or gathering"
+          },
+          "A.02.1.0.0.6": {
+            "ID": 1565,
+            "SIC": "A.02.1.0.0.6",
+            "Category": "Growing of forest tree seeds"
+          },
+          "A.02.1.0.0.7": {
+            "ID": 1566,
+            "SIC": "A.02.1.0.0.7",
+            "Category": "Heath collecting, cutting or gathering"
+          },
+          "A.02.1.0.0.8": {
+            "ID": 1567,
+            "SIC": "A.02.1.0.0.8",
+            "Category": "Hoopwood production"
+          },
+          "A.02.1.0.0.9": {
+            "ID": 1568,
+            "SIC": "A.02.1.0.0.9",
+            "Category": "Osier growing for fuel"
+          },
+          "A.02.1.0.0.10": {
+            "ID": 1569,
+            "SIC": "A.02.1.0.0.10",
+            "Category": "Paulownia growing"
+          },
+          "A.02.1.0.0.11": {
+            "ID": 1570,
+            "SIC": "A.02.1.0.0.11",
+            "Category": "Pulpwood production"
+          },
+          "A.02.1.0.0.12": {
+            "ID": 1571,
+            "SIC": "A.02.1.0.0.12",
+            "Category": "Silviculture and other forestry activities"
+          },
+          "A.02.1.0.0.13": {
+            "ID": 1572,
+            "SIC": "A.02.1.0.0.13",
+            "Category": "Timber growing"
+          },
+          "A.02.1.0.0.14": {
+            "ID": 1573,
+            "SIC": "A.02.1.0.0.14",
+            "Category": "Tree nursery (not fruit or ornamental trees)"
+          },
+          "A.02.1.0.0.15": {
+            "ID": 1574,
+            "SIC": "A.02.1.0.0.15",
+            "Category": "Vegetable materials used for plaiting growing"
+          },
+          "A.02.1.0.0.16": {
+            "ID": 1575,
+            "SIC": "A.02.1.0.0.16",
+            "Category": "Willow growing"
+          },
+          "A.02.1.0.0.17": {
+            "ID": 1576,
+            "SIC": "A.02.1.0.0.17",
+            "Category": "Withy growing"
+          }
+        }
+      },
+      "A.02.2": {
+        "ID": 46,
+        "SIC": "A.02.2",
+        "Category": "Logging",
+        "A.02.2.0": {
+          "ID": 47,
+          "SIC": "A.02.2.0",
+          "Category": "Logging",
+          "A.02.2.0.0.1": {
+            "ID": 1577,
+            "SIC": "A.02.2.0.0.1",
+            "Category": "Charcoal production in the forest using traditional methods"
+          },
+          "A.02.2.0.0.2": {
+            "ID": 1578,
+            "SIC": "A.02.2.0.0.2",
+            "Category": "Forest harvesting residues, gathering of these for energy"
+          },
+          "A.02.2.0.0.3": {
+            "ID": 1579,
+            "SIC": "A.02.2.0.0.3",
+            "Category": "Logging"
+          },
+          "A.02.2.0.0.4": {
+            "ID": 1580,
+            "SIC": "A.02.2.0.0.4",
+            "Category": "Pale fencing production (unprocessed form)"
+          },
+          "A.02.2.0.0.5": {
+            "ID": 1581,
+            "SIC": "A.02.2.0.0.5",
+            "Category": "Pickets (of wood) production (unprocessed form)"
+          },
+          "A.02.2.0.0.6": {
+            "ID": 1582,
+            "SIC": "A.02.2.0.0.6",
+            "Category": "Pilings (of wood) production (uprocessed form)"
+          },
+          "A.02.2.0.0.7": {
+            "ID": 1583,
+            "SIC": "A.02.2.0.0.7",
+            "Category": "Pit props (of wood) production (unprocessed form)"
+          },
+          "A.02.2.0.0.8": {
+            "ID": 1584,
+            "SIC": "A.02.2.0.0.8",
+            "Category": "Poles (of wood) production (unprocessed form)"
+          },
+          "A.02.2.0.0.9": {
+            "ID": 1585,
+            "SIC": "A.02.2.0.0.9",
+            "Category": "Roundwood production for forest-based manufacturing industries (unprocessed form)"
+          },
+          "A.02.2.0.0.10": {
+            "ID": 1586,
+            "SIC": "A.02.2.0.0.10",
+            "Category": "Roundwood production (unprocessed form)"
+          },
+          "A.02.2.0.0.11": {
+            "ID": 1587,
+            "SIC": "A.02.2.0.0.11",
+            "Category": "Sawlog production"
+          },
+          "A.02.2.0.0.12": {
+            "ID": 1588,
+            "SIC": "A.02.2.0.0.12",
+            "Category": "Split pole production (unprocessed form)"
+          },
+          "A.02.2.0.0.13": {
+            "ID": 1589,
+            "SIC": "A.02.2.0.0.13",
+            "Category": "Splitwood production (unprocessed form)"
+          },
+          "A.02.2.0.0.14": {
+            "ID": 1590,
+            "SIC": "A.02.2.0.0.14",
+            "Category": "Stakes (of wood) production (unprocessed form)"
+          },
+          "A.02.2.0.0.15": {
+            "ID": 1591,
+            "SIC": "A.02.2.0.0.15",
+            "Category": "Wood gathering and production, for energy"
+          },
+          "A.02.2.0.0.16": {
+            "ID": 1592,
+            "SIC": "A.02.2.0.0.16",
+            "Category": "Wood in the rough production (untreated)"
+          },
+          "A.02.2.0.0.17": {
+            "ID": 1593,
+            "SIC": "A.02.2.0.0.17",
+            "Category": "Wood logging, etc. within forestry site"
+          }
+        }
+      },
+      "A.02.3": {
+        "ID": 48,
+        "SIC": "A.02.3",
+        "Category": "Gathering of wild growing non-wood products",
+        "A.02.3.0": {
+          "ID": 49,
+          "SIC": "A.02.3.0",
+          "Category": "Gathering of wild growing non-wood products",
+          "A.02.3.0.0.1": {
+            "ID": 1594,
+            "SIC": "A.02.3.0.0.1",
+            "Category": "Acorn gathering"
+          },
+          "A.02.3.0.0.2": {
+            "ID": 1595,
+            "SIC": "A.02.3.0.0.2",
+            "Category": "Balata gathering"
+          },
+          "A.02.3.0.0.3": {
+            "ID": 1596,
+            "SIC": "A.02.3.0.0.3",
+            "Category": "Balsam gathering"
+          },
+          "A.02.3.0.0.4": {
+            "ID": 1597,
+            "SIC": "A.02.3.0.0.4",
+            "Category": "Berries, gathering from the wild "
+          },
+          "A.02.3.0.0.5": {
+            "ID": 1598,
+            "SIC": "A.02.3.0.0.5",
+            "Category": "Cork, gathering from the wild "
+          },
+          "A.02.3.0.0.6": {
+            "ID": 1599,
+            "SIC": "A.02.3.0.0.6",
+            "Category": "Eelgrass gathering"
+          },
+          "A.02.3.0.0.7": {
+            "ID": 1600,
+            "SIC": "A.02.3.0.0.7",
+            "Category": "Fern collecting, cutting, gathering"
+          },
+          "A.02.3.0.0.8": {
+            "ID": 1601,
+            "SIC": "A.02.3.0.0.8",
+            "Category": "Growing materials, gathering from the wild "
+          },
+          "A.02.3.0.0.9": {
+            "ID": 1602,
+            "SIC": "A.02.3.0.0.9",
+            "Category": "Horse chestnut gathering"
+          },
+          "A.02.3.0.0.10": {
+            "ID": 1603,
+            "SIC": "A.02.3.0.0.10",
+            "Category": "Lac gathering"
+          },
+          "A.02.3.0.0.11": {
+            "ID": 1604,
+            "SIC": "A.02.3.0.0.11",
+            "Category": "Lichen gathering"
+          },
+          "A.02.3.0.0.12": {
+            "ID": 1605,
+            "SIC": "A.02.3.0.0.12",
+            "Category": "Moss gathering"
+          },
+          "A.02.3.0.0.13": {
+            "ID": 1606,
+            "SIC": "A.02.3.0.0.13",
+            "Category": "Mushroom (wild) gathering"
+          },
+          "A.02.3.0.0.14": {
+            "ID": 1607,
+            "SIC": "A.02.3.0.0.14",
+            "Category": "Non-wood products, gathering from the wild "
+          },
+          "A.02.3.0.0.15": {
+            "ID": 1608,
+            "SIC": "A.02.3.0.0.15",
+            "Category": "Nuts, gathering from the wild "
+          },
+          "A.02.3.0.0.16": {
+            "ID": 1609,
+            "SIC": "A.02.3.0.0.16",
+            "Category": "Reed collecting, cutting and gathering"
+          },
+          "A.02.3.0.0.17": {
+            "ID": 1610,
+            "SIC": "A.02.3.0.0.17",
+            "Category": "Resin gathering"
+          },
+          "A.02.3.0.0.18": {
+            "ID": 1611,
+            "SIC": "A.02.3.0.0.18",
+            "Category": "Teasel growing"
+          },
+          "A.02.3.0.0.19": {
+            "ID": 1612,
+            "SIC": "A.02.3.0.0.19",
+            "Category": "Truffles, gathering from the wild "
+          },
+          "A.02.3.0.0.20": {
+            "ID": 1613,
+            "SIC": "A.02.3.0.0.20",
+            "Category": "Vegetable hair gathering"
+          }
+        }
+      },
+      "A.02.4": {
+        "ID": 50,
+        "SIC": "A.02.4",
+        "Category": "Support services to forestry",
+        "A.02.4.0": {
+          "ID": 51,
+          "SIC": "A.02.4.0",
+          "Category": "Support services to forestry",
+          "A.02.4.0.0.1": {
+            "ID": 1614,
+            "SIC": "A.02.4.0.0.1",
+            "Category": "Forest management consulting services"
+          },
+          "A.02.4.0.0.2": {
+            "ID": 1615,
+            "SIC": "A.02.4.0.0.2",
+            "Category": "Forest pest control"
+          },
+          "A.02.4.0.0.3": {
+            "ID": 1616,
+            "SIC": "A.02.4.0.0.3",
+            "Category": "Forestry fire protection"
+          },
+          "A.02.4.0.0.4": {
+            "ID": 1617,
+            "SIC": "A.02.4.0.0.4",
+            "Category": "Forestry inventories"
+          },
+          "A.02.4.0.0.5": {
+            "ID": 1618,
+            "SIC": "A.02.4.0.0.5",
+            "Category": "Log transport within the forest"
+          },
+          "A.02.4.0.0.6": {
+            "ID": 1619,
+            "SIC": "A.02.4.0.0.6",
+            "Category": "Timber evaluation"
+          },
+          "A.02.4.0.0.7": {
+            "ID": 1620,
+            "SIC": "A.02.4.0.0.7",
+            "Category": "Timber felling on a fee or contract basis"
+          },
+          "A.02.4.0.0.8": {
+            "ID": 1621,
+            "SIC": "A.02.4.0.0.8",
+            "Category": "Tree felling on a fee or contract basis"
+          }
+        }
+      }
+    },
+    "A.03": {
+      "ID": 52,
+      "SIC": "A.03",
+      "Category": "Fishing and aquaculture",
+      "A.03.1": {
+        "ID": 53,
+        "SIC": "A.03.1",
+        "Category": "Fishing",
+        "A.03.1.1": {
+          "ID": 54,
+          "SIC": "A.03.1.1",
+          "Category": "Marine fishing",
+          "A.03.1.1.0.1": {
+            "ID": 1622,
+            "SIC": "A.03.1.1.0.1",
+            "Category": "Algae gathering"
+          },
+          "A.03.1.1.0.2": {
+            "ID": 1623,
+            "SIC": "A.03.1.1.0.2",
+            "Category": "Cockle gathering"
+          },
+          "A.03.1.1.0.3": {
+            "ID": 1624,
+            "SIC": "A.03.1.1.0.3",
+            "Category": "Coral gathering"
+          },
+          "A.03.1.1.0.4": {
+            "ID": 1625,
+            "SIC": "A.03.1.1.0.4",
+            "Category": "Fishing by line, except for recreation and sport (marine)"
+          },
+          "A.03.1.1.0.5": {
+            "ID": 1626,
+            "SIC": "A.03.1.1.0.5",
+            "Category": "Fishing for shellfish (marine)"
+          },
+          "A.03.1.1.0.6": {
+            "ID": 1627,
+            "SIC": "A.03.1.1.0.6",
+            "Category": "Fishing in ocean, sea, coastal or inland waters (commercial)"
+          },
+          "A.03.1.1.0.7": {
+            "ID": 1628,
+            "SIC": "A.03.1.1.0.7",
+            "Category": "Fishing on a commercial basis in ocean and coastal waters"
+          },
+          "A.03.1.1.0.8": {
+            "ID": 1629,
+            "SIC": "A.03.1.1.0.8",
+            "Category": "Kelp collecting, cutting and gathering (uncultivated)"
+          },
+          "A.03.1.1.0.9": {
+            "ID": 1630,
+            "SIC": "A.03.1.1.0.9",
+            "Category": "Marine crustacean and mollusc gathering"
+          },
+          "A.03.1.1.0.10": {
+            "ID": 1631,
+            "SIC": "A.03.1.1.0.10",
+            "Category": "Marine fishing"
+          },
+          "A.03.1.1.0.11": {
+            "ID": 1632,
+            "SIC": "A.03.1.1.0.11",
+            "Category": "Marine fishing vessels engaged in processing and preserving of fish"
+          },
+          "A.03.1.1.0.12": {
+            "ID": 1633,
+            "SIC": "A.03.1.1.0.12",
+            "Category": "Mussel gathering"
+          },
+          "A.03.1.1.0.13": {
+            "ID": 1634,
+            "SIC": "A.03.1.1.0.13",
+            "Category": "Natural pearls gathering of"
+          },
+          "A.03.1.1.0.14": {
+            "ID": 1635,
+            "SIC": "A.03.1.1.0.14",
+            "Category": "Pearl gathering"
+          },
+          "A.03.1.1.0.15": {
+            "ID": 1636,
+            "SIC": "A.03.1.1.0.15",
+            "Category": "Periwinkle gathering"
+          },
+          "A.03.1.1.0.16": {
+            "ID": 1637,
+            "SIC": "A.03.1.1.0.16",
+            "Category": "Salmon netting (marine)"
+          },
+          "A.03.1.1.0.17": {
+            "ID": 1638,
+            "SIC": "A.03.1.1.0.17",
+            "Category": "Sea urchin hunting"
+          },
+          "A.03.1.1.0.18": {
+            "ID": 1639,
+            "SIC": "A.03.1.1.0.18",
+            "Category": "Sea-squirt hunting"
+          },
+          "A.03.1.1.0.19": {
+            "ID": 1640,
+            "SIC": "A.03.1.1.0.19",
+            "Category": "Seaweed collecting, cutting and gathering (uncultivated)"
+          },
+          "A.03.1.1.0.20": {
+            "ID": 1641,
+            "SIC": "A.03.1.1.0.20",
+            "Category": "Shrimping"
+          },
+          "A.03.1.1.0.21": {
+            "ID": 1642,
+            "SIC": "A.03.1.1.0.21",
+            "Category": "Sponge gathering"
+          },
+          "A.03.1.1.0.22": {
+            "ID": 1643,
+            "SIC": "A.03.1.1.0.22",
+            "Category": "Tunicate hunting"
+          },
+          "A.03.1.1.0.23": {
+            "ID": 1644,
+            "SIC": "A.03.1.1.0.23",
+            "Category": "Turtle hunting"
+          },
+          "A.03.1.1.0.24": {
+            "ID": 1645,
+            "SIC": "A.03.1.1.0.24",
+            "Category": "Whaling"
+          },
+          "A.03.1.1.0.25": {
+            "ID": 1646,
+            "SIC": "A.03.1.1.0.25",
+            "Category": "Winkle gathering"
+          }
+        },
+        "A.03.1.2": {
+          "ID": 55,
+          "SIC": "A.03.1.2",
+          "Category": "Freshwater fishing",
+          "A.03.1.2.0.1": {
+            "ID": 1647,
+            "SIC": "A.03.1.2.0.1",
+            "Category": "Fishing on a commercial basis in inland waters"
+          },
+          "A.03.1.2.0.2": {
+            "ID": 1648,
+            "SIC": "A.03.1.2.0.2",
+            "Category": "Freshwater aquatic animal taking"
+          },
+          "A.03.1.2.0.3": {
+            "ID": 1649,
+            "SIC": "A.03.1.2.0.3",
+            "Category": "Freshwater crustacean and mollusc taking"
+          },
+          "A.03.1.2.0.4": {
+            "ID": 1650,
+            "SIC": "A.03.1.2.0.4",
+            "Category": "Freshwater crustaceans and molluscs gathering"
+          },
+          "A.03.1.2.0.5": {
+            "ID": 1651,
+            "SIC": "A.03.1.2.0.5",
+            "Category": "Freshwater fishing"
+          },
+          "A.03.1.2.0.6": {
+            "ID": 1652,
+            "SIC": "A.03.1.2.0.6",
+            "Category": "Freshwater materials gathering"
+          }
+        }
+      },
+      "A.03.2": {
+        "ID": 56,
+        "SIC": "A.03.2",
+        "Category": "Aquaculture",
+        "A.03.2.1": {
+          "ID": 57,
+          "SIC": "A.03.2.1",
+          "Category": "Marine aquaculture",
+          "A.03.2.1.0.1": {
+            "ID": 1653,
+            "SIC": "A.03.2.1.0.1",
+            "Category": "Aquaculture in salt water filled tanks or reservoirs"
+          },
+          "A.03.2.1.0.2": {
+            "ID": 1654,
+            "SIC": "A.03.2.1.0.2",
+            "Category": "Aquaculture in sea or brackish waters"
+          },
+          "A.03.2.1.0.3": {
+            "ID": 1655,
+            "SIC": "A.03.2.1.0.3",
+            "Category": "Bait digging (marine)"
+          },
+          "A.03.2.1.0.4": {
+            "ID": 1656,
+            "SIC": "A.03.2.1.0.4",
+            "Category": "Bait production (marine)"
+          },
+          "A.03.2.1.0.5": {
+            "ID": 1657,
+            "SIC": "A.03.2.1.0.5",
+            "Category": "Bivalves cultured in sea water"
+          },
+          "A.03.2.1.0.6": {
+            "ID": 1658,
+            "SIC": "A.03.2.1.0.6",
+            "Category": "Crustaceans cultured in sea water"
+          },
+          "A.03.2.1.0.7": {
+            "ID": 1659,
+            "SIC": "A.03.2.1.0.7",
+            "Category": "Edible seaweed growing"
+          },
+          "A.03.2.1.0.8": {
+            "ID": 1660,
+            "SIC": "A.03.2.1.0.8",
+            "Category": "Fingerling production, marine"
+          },
+          "A.03.2.1.0.9": {
+            "ID": 1661,
+            "SIC": "A.03.2.1.0.9",
+            "Category": "Fish breeding, marine"
+          },
+          "A.03.2.1.0.10": {
+            "ID": 1662,
+            "SIC": "A.03.2.1.0.10",
+            "Category": "Fish farming, marine"
+          },
+          "A.03.2.1.0.11": {
+            "ID": 1663,
+            "SIC": "A.03.2.1.0.11",
+            "Category": "Fish fry production, marine"
+          },
+          "A.03.2.1.0.12": {
+            "ID": 1664,
+            "SIC": "A.03.2.1.0.12",
+            "Category": "Fish hatcheries and farms service activities, marine"
+          },
+          "A.03.2.1.0.13": {
+            "ID": 1665,
+            "SIC": "A.03.2.1.0.13",
+            "Category": "Fish hatcheries, marine"
+          },
+          "A.03.2.1.0.14": {
+            "ID": 1666,
+            "SIC": "A.03.2.1.0.14",
+            "Category": "Laver gathering (cultivated)"
+          },
+          "A.03.2.1.0.15": {
+            "ID": 1667,
+            "SIC": "A.03.2.1.0.15",
+            "Category": "Laver growing"
+          },
+          "A.03.2.1.0.16": {
+            "ID": 1668,
+            "SIC": "A.03.2.1.0.16",
+            "Category": "Lobsterling production, marine"
+          },
+          "A.03.2.1.0.17": {
+            "ID": 1669,
+            "SIC": "A.03.2.1.0.17",
+            "Category": "Marine aquaculture"
+          },
+          "A.03.2.1.0.18": {
+            "ID": 1670,
+            "SIC": "A.03.2.1.0.18",
+            "Category": "Molluscs and other aquatic animals cultured in sea water"
+          },
+          "A.03.2.1.0.19": {
+            "ID": 1671,
+            "SIC": "A.03.2.1.0.19",
+            "Category": "Mussel production, marine"
+          },
+          "A.03.2.1.0.20": {
+            "ID": 1672,
+            "SIC": "A.03.2.1.0.20",
+            "Category": "Ornamental fish farming, marine"
+          },
+          "A.03.2.1.0.21": {
+            "ID": 1673,
+            "SIC": "A.03.2.1.0.21",
+            "Category": "Oyster cultivation, marine"
+          },
+          "A.03.2.1.0.22": {
+            "ID": 1674,
+            "SIC": "A.03.2.1.0.22",
+            "Category": "Oyster fishery, marine"
+          },
+          "A.03.2.1.0.23": {
+            "ID": 1675,
+            "SIC": "A.03.2.1.0.23",
+            "Category": "Oyster spat production, marine"
+          },
+          "A.03.2.1.0.24": {
+            "ID": 1676,
+            "SIC": "A.03.2.1.0.24",
+            "Category": "Salmon and trout fishery (hatchery), marine"
+          },
+          "A.03.2.1.0.25": {
+            "ID": 1677,
+            "SIC": "A.03.2.1.0.25",
+            "Category": "Shrimp production (post-larvae), marine"
+          },
+          "A.03.2.1.0.26": {
+            "ID": 1678,
+            "SIC": "A.03.2.1.0.26",
+            "Category": "Worm farms, marine"
+          }
+        },
+        "A.03.2.2": {
+          "ID": 58,
+          "SIC": "A.03.2.2",
+          "Category": "Freshwater aquaculture",
+          "A.03.2.2.0.1": {
+            "ID": 1679,
+            "SIC": "A.03.2.2.0.1",
+            "Category": "Aquaculture, freshwater "
+          },
+          "A.03.2.2.0.2": {
+            "ID": 1680,
+            "SIC": "A.03.2.2.0.2",
+            "Category": "Crayfish production, freshwater"
+          },
+          "A.03.2.2.0.3": {
+            "ID": 1681,
+            "SIC": "A.03.2.2.0.3",
+            "Category": "Fingerling production, freshwater"
+          },
+          "A.03.2.2.0.4": {
+            "ID": 1682,
+            "SIC": "A.03.2.2.0.4",
+            "Category": "Fish breeding, freshwater"
+          },
+          "A.03.2.2.0.5": {
+            "ID": 1683,
+            "SIC": "A.03.2.2.0.5",
+            "Category": "Fish farming in fresh water, including farming of freshwater ornamental fish"
+          },
+          "A.03.2.2.0.6": {
+            "ID": 1684,
+            "SIC": "A.03.2.2.0.6",
+            "Category": "Fish fry production, freshwater"
+          },
+          "A.03.2.2.0.7": {
+            "ID": 1685,
+            "SIC": "A.03.2.2.0.7",
+            "Category": "Fish hatcheries and farms service activities, freshwater"
+          },
+          "A.03.2.2.0.8": {
+            "ID": 1686,
+            "SIC": "A.03.2.2.0.8",
+            "Category": "Fish hatcheries, freshwater"
+          },
+          "A.03.2.2.0.9": {
+            "ID": 1687,
+            "SIC": "A.03.2.2.0.9",
+            "Category": "Freshwater crustaceans, bivalves, other molluscs and other aquatic animals, culture of"
+          },
+          "A.03.2.2.0.10": {
+            "ID": 1688,
+            "SIC": "A.03.2.2.0.10",
+            "Category": "Frog farming (freshwater)"
+          },
+          "A.03.2.2.0.11": {
+            "ID": 1689,
+            "SIC": "A.03.2.2.0.11",
+            "Category": "Mussel production, freshwater"
+          },
+          "A.03.2.2.0.12": {
+            "ID": 1690,
+            "SIC": "A.03.2.2.0.12",
+            "Category": "Ornamental fish farming, freshwater"
+          },
+          "A.03.2.2.0.13": {
+            "ID": 1691,
+            "SIC": "A.03.2.2.0.13",
+            "Category": "Oyster cultivation, freshwater"
+          },
+          "A.03.2.2.0.14": {
+            "ID": 1692,
+            "SIC": "A.03.2.2.0.14",
+            "Category": "Oyster fishery, freshwater"
+          },
+          "A.03.2.2.0.15": {
+            "ID": 1693,
+            "SIC": "A.03.2.2.0.15",
+            "Category": "Oyster spat production, freshwater"
+          },
+          "A.03.2.2.0.16": {
+            "ID": 1694,
+            "SIC": "A.03.2.2.0.16",
+            "Category": "Salmon and trout fishery (hatchery), freshwater"
+          },
+          "A.03.2.2.0.17": {
+            "ID": 1695,
+            "SIC": "A.03.2.2.0.17",
+            "Category": "Shrimp production (post-larvae), freshwater"
+          }
+        }
+      }
+    }
+  }
+}

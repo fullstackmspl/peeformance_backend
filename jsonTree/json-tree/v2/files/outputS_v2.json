@@ -1,0 +1,2292 @@
+{
+  "S": {
+    "ID": 1146,
+    "SIC": "S",
+    "Category": "OTHER SERVICE ACTIVITIES",
+    "S.94": {
+      "ID": 1147,
+      "SIC": "S.94",
+      "Category": "Activities of membership organisations",
+      "S.94.1": {
+        "ID": 1148,
+        "SIC": "S.94.1",
+        "Category": "Activities of business, employers and professional membership organisations",
+        "S.94.1.1": {
+          "ID": 1149,
+          "SIC": "S.94.1.1",
+          "Category": "Activities of business and employers membership organisations",
+          "S.94.1.1.0.1": {
+            "ID": 16250,
+            "SIC": "S.94.1.1.0.1",
+            "Category": "Business and employers membership organisations"
+          },
+          "S.94.1.1.0.2": {
+            "ID": 16251,
+            "SIC": "S.94.1.1.0.2",
+            "Category": "Business organisations"
+          },
+          "S.94.1.1.0.3": {
+            "ID": 16252,
+            "SIC": "S.94.1.1.0.3",
+            "Category": "Chamber of agriculture"
+          },
+          "S.94.1.1.0.4": {
+            "ID": 16253,
+            "SIC": "S.94.1.1.0.4",
+            "Category": "Chambers of commerce organisations"
+          },
+          "S.94.1.1.0.5": {
+            "ID": 16254,
+            "SIC": "S.94.1.1.0.5",
+            "Category": "City guild (goldsmiths' company, stationers' company, etc.)"
+          },
+          "S.94.1.1.0.6": {
+            "ID": 16255,
+            "SIC": "S.94.1.1.0.6",
+            "Category": "Confederation of British industry"
+          },
+          "S.94.1.1.0.7": {
+            "ID": 16256,
+            "SIC": "S.94.1.1.0.7",
+            "Category": "Employers organisations"
+          },
+          "S.94.1.1.0.8": {
+            "ID": 16257,
+            "SIC": "S.94.1.1.0.8",
+            "Category": "Federations of business and employers' membership organisations"
+          },
+          "S.94.1.1.0.9": {
+            "ID": 16258,
+            "SIC": "S.94.1.1.0.9",
+            "Category": "Guilds and similar organisations"
+          },
+          "S.94.1.1.0.10": {
+            "ID": 16259,
+            "SIC": "S.94.1.1.0.10",
+            "Category": "Joint organisation of employers and trade unions"
+          },
+          "S.94.1.1.0.11": {
+            "ID": 16260,
+            "SIC": "S.94.1.1.0.11",
+            "Category": "Negotiations of business and employer organisations"
+          },
+          "S.94.1.1.0.12": {
+            "ID": 16261,
+            "SIC": "S.94.1.1.0.12",
+            "Category": "Property owners' association"
+          },
+          "S.94.1.1.0.13": {
+            "ID": 16262,
+            "SIC": "S.94.1.1.0.13",
+            "Category": "Trade association"
+          }
+        },
+        "S.94.1.2": {
+          "ID": 1150,
+          "SIC": "S.94.1.2",
+          "Category": "Activities of professional membership organisations",
+          "S.94.1.2.0.1": {
+            "ID": 16263,
+            "SIC": "S.94.1.2.0.1",
+            "Category": "Academic organisations"
+          },
+          "S.94.1.2.0.2": {
+            "ID": 16264,
+            "SIC": "S.94.1.2.0.2",
+            "Category": "Accounting associations"
+          },
+          "S.94.1.2.0.3": {
+            "ID": 16265,
+            "SIC": "S.94.1.2.0.3",
+            "Category": "Architects associations"
+          },
+          "S.94.1.2.0.4": {
+            "ID": 16266,
+            "SIC": "S.94.1.2.0.4",
+            "Category": "Association of corporate and certified accountants"
+          },
+          "S.94.1.2.0.5": {
+            "ID": 16267,
+            "SIC": "S.94.1.2.0.5",
+            "Category": "British Association for the Advancement of Science"
+          },
+          "S.94.1.2.0.6": {
+            "ID": 16268,
+            "SIC": "S.94.1.2.0.6",
+            "Category": "British Computer Society"
+          },
+          "S.94.1.2.0.7": {
+            "ID": 16269,
+            "SIC": "S.94.1.2.0.7",
+            "Category": "British Dental Association"
+          },
+          "S.94.1.2.0.8": {
+            "ID": 16270,
+            "SIC": "S.94.1.2.0.8",
+            "Category": "British Medical Association"
+          },
+          "S.94.1.2.0.9": {
+            "ID": 16271,
+            "SIC": "S.94.1.2.0.9",
+            "Category": "Central midwives board"
+          },
+          "S.94.1.2.0.10": {
+            "ID": 16272,
+            "SIC": "S.94.1.2.0.10",
+            "Category": "Chartered accountants institutes"
+          },
+          "S.94.1.2.0.11": {
+            "ID": 16273,
+            "SIC": "S.94.1.2.0.11",
+            "Category": "Chartered institute of secretaries"
+          },
+          "S.94.1.2.0.12": {
+            "ID": 16274,
+            "SIC": "S.94.1.2.0.12",
+            "Category": "Copyright protection society"
+          },
+          "S.94.1.2.0.13": {
+            "ID": 16275,
+            "SIC": "S.94.1.2.0.13",
+            "Category": "Cultural associations"
+          },
+          "S.94.1.2.0.14": {
+            "ID": 16276,
+            "SIC": "S.94.1.2.0.14",
+            "Category": "Cultural organisation (professional)"
+          },
+          "S.94.1.2.0.15": {
+            "ID": 16277,
+            "SIC": "S.94.1.2.0.15",
+            "Category": "Educational association"
+          },
+          "S.94.1.2.0.16": {
+            "ID": 16278,
+            "SIC": "S.94.1.2.0.16",
+            "Category": "Engineering associations"
+          },
+          "S.94.1.2.0.17": {
+            "ID": 16279,
+            "SIC": "S.94.1.2.0.17",
+            "Category": "Faculty of actuaries"
+          },
+          "S.94.1.2.0.18": {
+            "ID": 16280,
+            "SIC": "S.94.1.2.0.18",
+            "Category": "General Council of the Bar"
+          },
+          "S.94.1.2.0.19": {
+            "ID": 16281,
+            "SIC": "S.94.1.2.0.19",
+            "Category": "General Medical Council"
+          },
+          "S.94.1.2.0.20": {
+            "ID": 16282,
+            "SIC": "S.94.1.2.0.20",
+            "Category": "General Nursing Council"
+          },
+          "S.94.1.2.0.21": {
+            "ID": 16283,
+            "SIC": "S.94.1.2.0.21",
+            "Category": "Inns of Court"
+          },
+          "S.94.1.2.0.22": {
+            "ID": 16284,
+            "SIC": "S.94.1.2.0.22",
+            "Category": "Institute of Actuaries"
+          },
+          "S.94.1.2.0.23": {
+            "ID": 16285,
+            "SIC": "S.94.1.2.0.23",
+            "Category": "Institute of British Water Colour Painters"
+          },
+          "S.94.1.2.0.24": {
+            "ID": 16286,
+            "SIC": "S.94.1.2.0.24",
+            "Category": "Institute of Civil Engineers"
+          },
+          "S.94.1.2.0.25": {
+            "ID": 16287,
+            "SIC": "S.94.1.2.0.25",
+            "Category": "Institute of Cost and Management Accountants"
+          },
+          "S.94.1.2.0.26": {
+            "ID": 16288,
+            "SIC": "S.94.1.2.0.26",
+            "Category": "Institute of Hygiene"
+          },
+          "S.94.1.2.0.27": {
+            "ID": 16289,
+            "SIC": "S.94.1.2.0.27",
+            "Category": "Institute of Incorporated Photographers"
+          },
+          "S.94.1.2.0.28": {
+            "ID": 16290,
+            "SIC": "S.94.1.2.0.28",
+            "Category": "Institute of Mechanical Engineers"
+          },
+          "S.94.1.2.0.29": {
+            "ID": 16291,
+            "SIC": "S.94.1.2.0.29",
+            "Category": "Journalists associations"
+          },
+          "S.94.1.2.0.30": {
+            "ID": 16292,
+            "SIC": "S.94.1.2.0.30",
+            "Category": "Law Society"
+          },
+          "S.94.1.2.0.31": {
+            "ID": 16293,
+            "SIC": "S.94.1.2.0.31",
+            "Category": "Learned societies"
+          },
+          "S.94.1.2.0.32": {
+            "ID": 16294,
+            "SIC": "S.94.1.2.0.32",
+            "Category": "Legal associations"
+          },
+          "S.94.1.2.0.33": {
+            "ID": 16295,
+            "SIC": "S.94.1.2.0.33",
+            "Category": "Maritime board"
+          },
+          "S.94.1.2.0.34": {
+            "ID": 16296,
+            "SIC": "S.94.1.2.0.34",
+            "Category": "Medical associations"
+          },
+          "S.94.1.2.0.35": {
+            "ID": 16297,
+            "SIC": "S.94.1.2.0.35",
+            "Category": "Nursing society"
+          },
+          "S.94.1.2.0.36": {
+            "ID": 16298,
+            "SIC": "S.94.1.2.0.36",
+            "Category": "Painters and other artists associations"
+          },
+          "S.94.1.2.0.37": {
+            "ID": 16299,
+            "SIC": "S.94.1.2.0.37",
+            "Category": "Performers associations"
+          },
+          "S.94.1.2.0.38": {
+            "ID": 16300,
+            "SIC": "S.94.1.2.0.38",
+            "Category": "Performing Rights Society (PRS)"
+          },
+          "S.94.1.2.0.39": {
+            "ID": 16301,
+            "SIC": "S.94.1.2.0.39",
+            "Category": "Pharmaceutical society"
+          },
+          "S.94.1.2.0.40": {
+            "ID": 16302,
+            "SIC": "S.94.1.2.0.40",
+            "Category": "Professional organisations"
+          },
+          "S.94.1.2.0.41": {
+            "ID": 16303,
+            "SIC": "S.94.1.2.0.41",
+            "Category": "Royal Academy of Arts"
+          },
+          "S.94.1.2.0.42": {
+            "ID": 16304,
+            "SIC": "S.94.1.2.0.42",
+            "Category": "Royal Aeronautical Society"
+          },
+          "S.94.1.2.0.43": {
+            "ID": 16305,
+            "SIC": "S.94.1.2.0.43",
+            "Category": "Royal Agricultural Society of England"
+          },
+          "S.94.1.2.0.44": {
+            "ID": 16306,
+            "SIC": "S.94.1.2.0.44",
+            "Category": "Royal College of Midwives"
+          },
+          "S.94.1.2.0.45": {
+            "ID": 16307,
+            "SIC": "S.94.1.2.0.45",
+            "Category": "Royal College of Nursing"
+          },
+          "S.94.1.2.0.46": {
+            "ID": 16308,
+            "SIC": "S.94.1.2.0.46",
+            "Category": "Royal College of Physicians"
+          },
+          "S.94.1.2.0.47": {
+            "ID": 16309,
+            "SIC": "S.94.1.2.0.47",
+            "Category": "Royal College of Surgeons"
+          },
+          "S.94.1.2.0.48": {
+            "ID": 16310,
+            "SIC": "S.94.1.2.0.48",
+            "Category": "Royal Geographical Society"
+          },
+          "S.94.1.2.0.49": {
+            "ID": 16311,
+            "SIC": "S.94.1.2.0.49",
+            "Category": "Royal Institute of Chartered Surveyors"
+          },
+          "S.94.1.2.0.50": {
+            "ID": 16312,
+            "SIC": "S.94.1.2.0.50",
+            "Category": "Royal Institute of Public Health"
+          },
+          "S.94.1.2.0.51": {
+            "ID": 16313,
+            "SIC": "S.94.1.2.0.51",
+            "Category": "Royal Society"
+          },
+          "S.94.1.2.0.52": {
+            "ID": 16314,
+            "SIC": "S.94.1.2.0.52",
+            "Category": "Royal Society for Health"
+          },
+          "S.94.1.2.0.53": {
+            "ID": 16315,
+            "SIC": "S.94.1.2.0.53",
+            "Category": "Royal Society of Medicine"
+          },
+          "S.94.1.2.0.54": {
+            "ID": 16316,
+            "SIC": "S.94.1.2.0.54",
+            "Category": "Royal Statistical Society"
+          },
+          "S.94.1.2.0.55": {
+            "ID": 16317,
+            "SIC": "S.94.1.2.0.55",
+            "Category": "Royal United Services Institution"
+          },
+          "S.94.1.2.0.56": {
+            "ID": 16318,
+            "SIC": "S.94.1.2.0.56",
+            "Category": "Scientific organisation"
+          },
+          "S.94.1.2.0.57": {
+            "ID": 16319,
+            "SIC": "S.94.1.2.0.57",
+            "Category": "Society of Apothecaries"
+          },
+          "S.94.1.2.0.58": {
+            "ID": 16320,
+            "SIC": "S.94.1.2.0.58",
+            "Category": "Society of Arts"
+          },
+          "S.94.1.2.0.59": {
+            "ID": 16321,
+            "SIC": "S.94.1.2.0.59",
+            "Category": "Teachers' Registration Council"
+          },
+          "S.94.1.2.0.60": {
+            "ID": 16322,
+            "SIC": "S.94.1.2.0.60",
+            "Category": "Technical organisations"
+          },
+          "S.94.1.2.0.61": {
+            "ID": 16323,
+            "SIC": "S.94.1.2.0.61",
+            "Category": "Writers associations"
+          }
+        }
+      },
+      "S.94.2": {
+        "ID": 1151,
+        "SIC": "S.94.2",
+        "Category": "Activities of trade unions",
+        "S.94.2.0": {
+          "ID": 1152,
+          "SIC": "S.94.2.0",
+          "Category": "Activities of trade unions",
+          "S.94.2.0.0.1": {
+            "ID": 16324,
+            "SIC": "S.94.2.0.0.1",
+            "Category": "Labour organisations"
+          },
+          "S.94.2.0.0.2": {
+            "ID": 16325,
+            "SIC": "S.94.2.0.0.2",
+            "Category": "Trade unions"
+          },
+          "S.94.2.0.0.3": {
+            "ID": 16326,
+            "SIC": "S.94.2.0.0.3",
+            "Category": "Trades union congress"
+          }
+        }
+      },
+      "S.94.9": {
+        "ID": 1153,
+        "SIC": "S.94.9",
+        "Category": "Activities of other membership organisations",
+        "S.94.9.1": {
+          "ID": 1154,
+          "SIC": "S.94.9.1",
+          "Category": "Activities of religious organisations",
+          "S.94.9.1.0.1": {
+            "ID": 16327,
+            "SIC": "S.94.9.1.0.1",
+            "Category": "Army scripture readers association"
+          },
+          "S.94.9.1.0.2": {
+            "ID": 16328,
+            "SIC": "S.94.9.1.0.2",
+            "Category": "Baptist church"
+          },
+          "S.94.9.1.0.3": {
+            "ID": 16329,
+            "SIC": "S.94.9.1.0.3",
+            "Category": "Bible society"
+          },
+          "S.94.9.1.0.4": {
+            "ID": 16330,
+            "SIC": "S.94.9.1.0.4",
+            "Category": "Calvinistic Methodist Church"
+          },
+          "S.94.9.1.0.5": {
+            "ID": 16331,
+            "SIC": "S.94.9.1.0.5",
+            "Category": "Catholic Apostolic Church"
+          },
+          "S.94.9.1.0.6": {
+            "ID": 16332,
+            "SIC": "S.94.9.1.0.6",
+            "Category": "Christian associations"
+          },
+          "S.94.9.1.0.7": {
+            "ID": 16333,
+            "SIC": "S.94.9.1.0.7",
+            "Category": "Church Army"
+          },
+          "S.94.9.1.0.8": {
+            "ID": 16334,
+            "SIC": "S.94.9.1.0.8",
+            "Category": "Church Commission"
+          },
+          "S.94.9.1.0.9": {
+            "ID": 16335,
+            "SIC": "S.94.9.1.0.9",
+            "Category": "Church in Wales"
+          },
+          "S.94.9.1.0.10": {
+            "ID": 16336,
+            "SIC": "S.94.9.1.0.10",
+            "Category": "Church Missionary Society"
+          },
+          "S.94.9.1.0.11": {
+            "ID": 16337,
+            "SIC": "S.94.9.1.0.11",
+            "Category": "Church of Christ Scientist"
+          },
+          "S.94.9.1.0.12": {
+            "ID": 16338,
+            "SIC": "S.94.9.1.0.12",
+            "Category": "Church of England"
+          },
+          "S.94.9.1.0.13": {
+            "ID": 16339,
+            "SIC": "S.94.9.1.0.13",
+            "Category": "Church of Ireland"
+          },
+          "S.94.9.1.0.14": {
+            "ID": 16340,
+            "SIC": "S.94.9.1.0.14",
+            "Category": "Church of Scotland"
+          },
+          "S.94.9.1.0.15": {
+            "ID": 16341,
+            "SIC": "S.94.9.1.0.15",
+            "Category": "City mission"
+          },
+          "S.94.9.1.0.16": {
+            "ID": 16342,
+            "SIC": "S.94.9.1.0.16",
+            "Category": "Convent (not school or orphanage)"
+          },
+          "S.94.9.1.0.17": {
+            "ID": 16343,
+            "SIC": "S.94.9.1.0.17",
+            "Category": "Episcopal Church in Scotland"
+          },
+          "S.94.9.1.0.18": {
+            "ID": 16344,
+            "SIC": "S.94.9.1.0.18",
+            "Category": "Evangelists Society"
+          },
+          "S.94.9.1.0.19": {
+            "ID": 16345,
+            "SIC": "S.94.9.1.0.19",
+            "Category": "Humanist associations"
+          },
+          "S.94.9.1.0.20": {
+            "ID": 16346,
+            "SIC": "S.94.9.1.0.20",
+            "Category": "Jewish associations"
+          },
+          "S.94.9.1.0.21": {
+            "ID": 16347,
+            "SIC": "S.94.9.1.0.21",
+            "Category": "Jewish synagogue"
+          },
+          "S.94.9.1.0.22": {
+            "ID": 16348,
+            "SIC": "S.94.9.1.0.22",
+            "Category": "Methodist Church"
+          },
+          "S.94.9.1.0.23": {
+            "ID": 16349,
+            "SIC": "S.94.9.1.0.23",
+            "Category": "Missionary Society"
+          },
+          "S.94.9.1.0.24": {
+            "ID": 16350,
+            "SIC": "S.94.9.1.0.24",
+            "Category": "Monastery"
+          },
+          "S.94.9.1.0.25": {
+            "ID": 16351,
+            "SIC": "S.94.9.1.0.25",
+            "Category": "Mosque"
+          },
+          "S.94.9.1.0.26": {
+            "ID": 16352,
+            "SIC": "S.94.9.1.0.26",
+            "Category": "Presbyterian Church"
+          },
+          "S.94.9.1.0.27": {
+            "ID": 16353,
+            "SIC": "S.94.9.1.0.27",
+            "Category": "Presbyterian Church of Wales"
+          },
+          "S.94.9.1.0.28": {
+            "ID": 16354,
+            "SIC": "S.94.9.1.0.28",
+            "Category": "Quakers associations"
+          },
+          "S.94.9.1.0.29": {
+            "ID": 16355,
+            "SIC": "S.94.9.1.0.29",
+            "Category": "Religious funeral service activities"
+          },
+          "S.94.9.1.0.30": {
+            "ID": 16356,
+            "SIC": "S.94.9.1.0.30",
+            "Category": "Religious organisations"
+          },
+          "S.94.9.1.0.31": {
+            "ID": 16357,
+            "SIC": "S.94.9.1.0.31",
+            "Category": "Religious retreat activities"
+          },
+          "S.94.9.1.0.32": {
+            "ID": 16358,
+            "SIC": "S.94.9.1.0.32",
+            "Category": "Roman Catholic Church"
+          },
+          "S.94.9.1.0.33": {
+            "ID": 16359,
+            "SIC": "S.94.9.1.0.33",
+            "Category": "Salvation army"
+          },
+          "S.94.9.1.0.34": {
+            "ID": 16360,
+            "SIC": "S.94.9.1.0.34",
+            "Category": "Spiritualist church"
+          },
+          "S.94.9.1.0.35": {
+            "ID": 16361,
+            "SIC": "S.94.9.1.0.35",
+            "Category": "Student Christian Movement"
+          },
+          "S.94.9.1.0.36": {
+            "ID": 16362,
+            "SIC": "S.94.9.1.0.36",
+            "Category": "Synagogue"
+          },
+          "S.94.9.1.0.37": {
+            "ID": 16363,
+            "SIC": "S.94.9.1.0.37",
+            "Category": "Temple (for worship)"
+          },
+          "S.94.9.1.0.38": {
+            "ID": 16364,
+            "SIC": "S.94.9.1.0.38",
+            "Category": "Theosophical Society"
+          },
+          "S.94.9.1.0.39": {
+            "ID": 16365,
+            "SIC": "S.94.9.1.0.39",
+            "Category": "Unitarian Church"
+          },
+          "S.94.9.1.0.40": {
+            "ID": 16366,
+            "SIC": "S.94.9.1.0.40",
+            "Category": "United Reform Church"
+          },
+          "S.94.9.1.0.41": {
+            "ID": 16367,
+            "SIC": "S.94.9.1.0.41",
+            "Category": "United Society for Christian Literature"
+          },
+          "S.94.9.1.0.42": {
+            "ID": 16368,
+            "SIC": "S.94.9.1.0.42",
+            "Category": "Wesleyan reform union"
+          }
+        },
+        "S.94.9.2": {
+          "ID": 1155,
+          "SIC": "S.94.9.2",
+          "Category": "Activities of political organisations",
+          "S.94.9.2.0.1": {
+            "ID": 16369,
+            "SIC": "S.94.9.2.0.1",
+            "Category": "Conservative and Unionist Party"
+          },
+          "S.94.9.2.0.2": {
+            "ID": 16370,
+            "SIC": "S.94.9.2.0.2",
+            "Category": "Conservative Association"
+          },
+          "S.94.9.2.0.3": {
+            "ID": 16371,
+            "SIC": "S.94.9.2.0.3",
+            "Category": "Fabian Society"
+          },
+          "S.94.9.2.0.4": {
+            "ID": 16372,
+            "SIC": "S.94.9.2.0.4",
+            "Category": "Labour party"
+          },
+          "S.94.9.2.0.5": {
+            "ID": 16373,
+            "SIC": "S.94.9.2.0.5",
+            "Category": "Liberal democrat party"
+          },
+          "S.94.9.2.0.6": {
+            "ID": 16374,
+            "SIC": "S.94.9.2.0.6",
+            "Category": "Plaid Cymru"
+          },
+          "S.94.9.2.0.7": {
+            "ID": 16375,
+            "SIC": "S.94.9.2.0.7",
+            "Category": "Political organisations"
+          },
+          "S.94.9.2.0.8": {
+            "ID": 16376,
+            "SIC": "S.94.9.2.0.8",
+            "Category": "Scottish Nationalist Party"
+          },
+          "S.94.9.2.0.9": {
+            "ID": 16377,
+            "SIC": "S.94.9.2.0.9",
+            "Category": "Social Democratic and Labour Party"
+          },
+          "S.94.9.2.0.10": {
+            "ID": 16378,
+            "SIC": "S.94.9.2.0.10",
+            "Category": "Unionist parties"
+          },
+          "S.94.9.2.0.11": {
+            "ID": 16379,
+            "SIC": "S.94.9.2.0.11",
+            "Category": "Young people's auxiliaries associated with a political party"
+          }
+        },
+        "S.94.9.9": {
+          "ID": 1156,
+          "SIC": "S.94.9.9",
+          "Category": "Activities of other membership organisations n.e.c.",
+          "S.94.9.9.0.1": {
+            "ID": 16380,
+            "SIC": "S.94.9.9.0.1",
+            "Category": "Animal protection organisations"
+          },
+          "S.94.9.9.0.2": {
+            "ID": 16381,
+            "SIC": "S.94.9.9.0.2",
+            "Category": "Art clubs"
+          },
+          "S.94.9.9.0.3": {
+            "ID": 16382,
+            "SIC": "S.94.9.9.0.3",
+            "Category": "Associations for the pursuit of a cultural or recreational activity or hobby"
+          },
+          "S.94.9.9.0.4": {
+            "ID": 16383,
+            "SIC": "S.94.9.9.0.4",
+            "Category": "Automobile association"
+          },
+          "S.94.9.9.0.5": {
+            "ID": 16384,
+            "SIC": "S.94.9.9.0.5",
+            "Category": "Bishopsgate Institute"
+          },
+          "S.94.9.9.0.6": {
+            "ID": 16385,
+            "SIC": "S.94.9.9.0.6",
+            "Category": "Boy scouts"
+          },
+          "S.94.9.9.0.7": {
+            "ID": 16386,
+            "SIC": "S.94.9.9.0.7",
+            "Category": "Boys brigade"
+          },
+          "S.94.9.9.0.8": {
+            "ID": 16387,
+            "SIC": "S.94.9.9.0.8",
+            "Category": "Breed society"
+          },
+          "S.94.9.9.0.9": {
+            "ID": 16388,
+            "SIC": "S.94.9.9.0.9",
+            "Category": "British Board of Film Classifications"
+          },
+          "S.94.9.9.0.10": {
+            "ID": 16389,
+            "SIC": "S.94.9.9.0.10",
+            "Category": "British Legion (other than social clubs)"
+          },
+          "S.94.9.9.0.11": {
+            "ID": 16390,
+            "SIC": "S.94.9.9.0.11",
+            "Category": "British Safety Council"
+          },
+          "S.94.9.9.0.12": {
+            "ID": 16391,
+            "SIC": "S.94.9.9.0.12",
+            "Category": "Carnival clubs"
+          },
+          "S.94.9.9.0.13": {
+            "ID": 16392,
+            "SIC": "S.94.9.9.0.13",
+            "Category": "Church Lads' Brigade"
+          },
+          "S.94.9.9.0.14": {
+            "ID": 16393,
+            "SIC": "S.94.9.9.0.14",
+            "Category": "Citizens initiative or protest movements"
+          },
+          "S.94.9.9.0.15": {
+            "ID": 16394,
+            "SIC": "S.94.9.9.0.15",
+            "Category": "Civic associations"
+          },
+          "S.94.9.9.0.16": {
+            "ID": 16395,
+            "SIC": "S.94.9.9.0.16",
+            "Category": "Civil liberty organisations"
+          },
+          "S.94.9.9.0.17": {
+            "ID": 16396,
+            "SIC": "S.94.9.9.0.17",
+            "Category": "Community centre"
+          },
+          "S.94.9.9.0.18": {
+            "ID": 16397,
+            "SIC": "S.94.9.9.0.18",
+            "Category": "Community organisations"
+          },
+          "S.94.9.9.0.19": {
+            "ID": 16398,
+            "SIC": "S.94.9.9.0.19",
+            "Category": "Conservation and Preservation Society"
+          },
+          "S.94.9.9.0.20": {
+            "ID": 16399,
+            "SIC": "S.94.9.9.0.20",
+            "Category": "Consumer associations"
+          },
+          "S.94.9.9.0.21": {
+            "ID": 16400,
+            "SIC": "S.94.9.9.0.21",
+            "Category": "Craft and collectors' clubs"
+          },
+          "S.94.9.9.0.22": {
+            "ID": 16401,
+            "SIC": "S.94.9.9.0.22",
+            "Category": "Cultural organisations (hobby)"
+          },
+          "S.94.9.9.0.23": {
+            "ID": 16402,
+            "SIC": "S.94.9.9.0.23",
+            "Category": "Ecological movements"
+          },
+          "S.94.9.9.0.24": {
+            "ID": 16403,
+            "SIC": "S.94.9.9.0.24",
+            "Category": "Environmental movements"
+          },
+          "S.94.9.9.0.25": {
+            "ID": 16404,
+            "SIC": "S.94.9.9.0.25",
+            "Category": "Ethnic and minority group organisations"
+          },
+          "S.94.9.9.0.26": {
+            "ID": 16405,
+            "SIC": "S.94.9.9.0.26",
+            "Category": "Film and photo clubs"
+          },
+          "S.94.9.9.0.27": {
+            "ID": 16406,
+            "SIC": "S.94.9.9.0.27",
+            "Category": "Fraternities"
+          },
+          "S.94.9.9.0.28": {
+            "ID": 16407,
+            "SIC": "S.94.9.9.0.28",
+            "Category": "Freemasons"
+          },
+          "S.94.9.9.0.29": {
+            "ID": 16408,
+            "SIC": "S.94.9.9.0.29",
+            "Category": "Gardening clubs"
+          },
+          "S.94.9.9.0.30": {
+            "ID": 16409,
+            "SIC": "S.94.9.9.0.30",
+            "Category": "Girl Guides Association"
+          },
+          "S.94.9.9.0.31": {
+            "ID": 16410,
+            "SIC": "S.94.9.9.0.31",
+            "Category": "Girls' Brigade"
+          },
+          "S.94.9.9.0.32": {
+            "ID": 16411,
+            "SIC": "S.94.9.9.0.32",
+            "Category": "Girls' Friendly Society"
+          },
+          "S.94.9.9.0.33": {
+            "ID": 16412,
+            "SIC": "S.94.9.9.0.33",
+            "Category": "Grant giving activities by membership organisations or others"
+          },
+          "S.94.9.9.0.34": {
+            "ID": 16413,
+            "SIC": "S.94.9.9.0.34",
+            "Category": "Grant giving foundations"
+          },
+          "S.94.9.9.0.35": {
+            "ID": 16414,
+            "SIC": "S.94.9.9.0.35",
+            "Category": "Historical club"
+          },
+          "S.94.9.9.0.36": {
+            "ID": 16415,
+            "SIC": "S.94.9.9.0.36",
+            "Category": "Horse breeding associations"
+          },
+          "S.94.9.9.0.37": {
+            "ID": 16416,
+            "SIC": "S.94.9.9.0.37",
+            "Category": "Hunting and trapping (commercial) promotion activities"
+          },
+          "S.94.9.9.0.38": {
+            "ID": 16417,
+            "SIC": "S.94.9.9.0.38",
+            "Category": "Legal Aid Society"
+          },
+          "S.94.9.9.0.39": {
+            "ID": 16418,
+            "SIC": "S.94.9.9.0.39",
+            "Category": "Literature and book club"
+          },
+          "S.94.9.9.0.40": {
+            "ID": 16419,
+            "SIC": "S.94.9.9.0.40",
+            "Category": "Lodge activities"
+          },
+          "S.94.9.9.0.41": {
+            "ID": 16420,
+            "SIC": "S.94.9.9.0.41",
+            "Category": "Membership organisations n.e.c."
+          },
+          "S.94.9.9.0.42": {
+            "ID": 16421,
+            "SIC": "S.94.9.9.0.42",
+            "Category": "Motorists' organisation (not road patrol or touring service)"
+          },
+          "S.94.9.9.0.43": {
+            "ID": 16422,
+            "SIC": "S.94.9.9.0.43",
+            "Category": "Music club"
+          },
+          "S.94.9.9.0.44": {
+            "ID": 16423,
+            "SIC": "S.94.9.9.0.44",
+            "Category": "National trust (the)"
+          },
+          "S.94.9.9.0.45": {
+            "ID": 16424,
+            "SIC": "S.94.9.9.0.45",
+            "Category": "National union of students (not trading activities)"
+          },
+          "S.94.9.9.0.46": {
+            "ID": 16425,
+            "SIC": "S.94.9.9.0.46",
+            "Category": "Poetry club"
+          },
+          "S.94.9.9.0.47": {
+            "ID": 16426,
+            "SIC": "S.94.9.9.0.47",
+            "Category": "Protest movement activities"
+          },
+          "S.94.9.9.0.48": {
+            "ID": 16427,
+            "SIC": "S.94.9.9.0.48",
+            "Category": "Recreational organisations"
+          },
+          "S.94.9.9.0.49": {
+            "ID": 16428,
+            "SIC": "S.94.9.9.0.49",
+            "Category": "Rotary clubs"
+          },
+          "S.94.9.9.0.50": {
+            "ID": 16429,
+            "SIC": "S.94.9.9.0.50",
+            "Category": "Round Table"
+          },
+          "S.94.9.9.0.51": {
+            "ID": 16430,
+            "SIC": "S.94.9.9.0.51",
+            "Category": "Royal Automobile Club headquarters"
+          },
+          "S.94.9.9.0.52": {
+            "ID": 16431,
+            "SIC": "S.94.9.9.0.52",
+            "Category": "Royal Horticultural Society"
+          },
+          "S.94.9.9.0.53": {
+            "ID": 16432,
+            "SIC": "S.94.9.9.0.53",
+            "Category": "Royal Scottish Automobile Club"
+          },
+          "S.94.9.9.0.54": {
+            "ID": 16433,
+            "SIC": "S.94.9.9.0.54",
+            "Category": "Royal Society for the Prevention of Accidents"
+          },
+          "S.94.9.9.0.55": {
+            "ID": 16434,
+            "SIC": "S.94.9.9.0.55",
+            "Category": "Royal Society for the Prevention of Cruelty to Animals (not animal hospitals or homes)"
+          },
+          "S.94.9.9.0.56": {
+            "ID": 16435,
+            "SIC": "S.94.9.9.0.56",
+            "Category": "Scout Association"
+          },
+          "S.94.9.9.0.57": {
+            "ID": 16436,
+            "SIC": "S.94.9.9.0.57",
+            "Category": "Sea scout association"
+          },
+          "S.94.9.9.0.58": {
+            "ID": 16437,
+            "SIC": "S.94.9.9.0.58",
+            "Category": "Shire Horse Association"
+          },
+          "S.94.9.9.0.59": {
+            "ID": 16438,
+            "SIC": "S.94.9.9.0.59",
+            "Category": "Social club (not licensed to sell alcohol)"
+          },
+          "S.94.9.9.0.60": {
+            "ID": 16439,
+            "SIC": "S.94.9.9.0.60",
+            "Category": "Student associations"
+          },
+          "S.94.9.9.0.61": {
+            "ID": 16440,
+            "SIC": "S.94.9.9.0.61",
+            "Category": "Student Union"
+          },
+          "S.94.9.9.0.62": {
+            "ID": 16441,
+            "SIC": "S.94.9.9.0.62",
+            "Category": "Touring clubs"
+          },
+          "S.94.9.9.0.63": {
+            "ID": 16442,
+            "SIC": "S.94.9.9.0.63",
+            "Category": "United Nations associations"
+          },
+          "S.94.9.9.0.64": {
+            "ID": 16443,
+            "SIC": "S.94.9.9.0.64",
+            "Category": "War veterans' associations"
+          },
+          "S.94.9.9.0.65": {
+            "ID": 16444,
+            "SIC": "S.94.9.9.0.65",
+            "Category": "Working men's club (not licensed to sell alcohol)"
+          },
+          "S.94.9.9.0.66": {
+            "ID": 16445,
+            "SIC": "S.94.9.9.0.66",
+            "Category": "YMCA (not hostel)"
+          },
+          "S.94.9.9.0.67": {
+            "ID": 16446,
+            "SIC": "S.94.9.9.0.67",
+            "Category": "Young persons associations"
+          },
+          "S.94.9.9.0.68": {
+            "ID": 16447,
+            "SIC": "S.94.9.9.0.68",
+            "Category": "Youth centre"
+          },
+          "S.94.9.9.0.69": {
+            "ID": 16448,
+            "SIC": "S.94.9.9.0.69",
+            "Category": "Youth club"
+          },
+          "S.94.9.9.0.70": {
+            "ID": 16449,
+            "SIC": "S.94.9.9.0.70",
+            "Category": "Zionist organisation"
+          }
+        }
+      }
+    },
+    "S.95": {
+      "ID": 1157,
+      "SIC": "S.95",
+      "Category": "Repair of computers and personal and household goods",
+      "S.95.1": {
+        "ID": 1158,
+        "SIC": "S.95.1",
+        "Category": "Repair of computers and communication equipment",
+        "S.95.1.1": {
+          "ID": 1159,
+          "SIC": "S.95.1.1",
+          "Category": "Repair of computers and peripheral equipment",
+          "S.95.1.1.0.1": {
+            "ID": 16450,
+            "SIC": "S.95.1.1.0.1",
+            "Category": "Repair and maintenance of automatic teller machines (ATMs)"
+          },
+          "S.95.1.1.0.2": {
+            "ID": 16451,
+            "SIC": "S.95.1.1.0.2",
+            "Category": "Repair and maintenance of bar code scanners"
+          },
+          "S.95.1.1.0.3": {
+            "ID": 16452,
+            "SIC": "S.95.1.1.0.3",
+            "Category": "Repair and maintenance of CDs and DVDs"
+          },
+          "S.95.1.1.0.4": {
+            "ID": 16453,
+            "SIC": "S.95.1.1.0.4",
+            "Category": "Repair and maintenance of computer monitors"
+          },
+          "S.95.1.1.0.5": {
+            "ID": 16454,
+            "SIC": "S.95.1.1.0.5",
+            "Category": "Repair and maintenance of computer projectors"
+          },
+          "S.95.1.1.0.6": {
+            "ID": 16455,
+            "SIC": "S.95.1.1.0.6",
+            "Category": "Repair and maintenance of computer servers"
+          },
+          "S.95.1.1.0.7": {
+            "ID": 16456,
+            "SIC": "S.95.1.1.0.7",
+            "Category": "Repair and maintenance of computing machinery"
+          },
+          "S.95.1.1.0.8": {
+            "ID": 16457,
+            "SIC": "S.95.1.1.0.8",
+            "Category": "Repair and maintenance of dedicated computer terminals"
+          },
+          "S.95.1.1.0.9": {
+            "ID": 16458,
+            "SIC": "S.95.1.1.0.9",
+            "Category": "Repair and maintenance of desktop computers"
+          },
+          "S.95.1.1.0.10": {
+            "ID": 16459,
+            "SIC": "S.95.1.1.0.10",
+            "Category": "Repair and maintenance of hand-held computers (PDA's)"
+          },
+          "S.95.1.1.0.11": {
+            "ID": 16460,
+            "SIC": "S.95.1.1.0.11",
+            "Category": "Repair and maintenance of internal and external computer modems"
+          },
+          "S.95.1.1.0.12": {
+            "ID": 16461,
+            "SIC": "S.95.1.1.0.12",
+            "Category": "Repair and maintenance of keyboards"
+          },
+          "S.95.1.1.0.13": {
+            "ID": 16462,
+            "SIC": "S.95.1.1.0.13",
+            "Category": "Repair and maintenance of laptop computers"
+          },
+          "S.95.1.1.0.14": {
+            "ID": 16463,
+            "SIC": "S.95.1.1.0.14",
+            "Category": "Repair and maintenance of magnetic disk drives"
+          },
+          "S.95.1.1.0.15": {
+            "ID": 16464,
+            "SIC": "S.95.1.1.0.15",
+            "Category": "Repair and maintenance of magnetic flash drives and other storage devices"
+          },
+          "S.95.1.1.0.16": {
+            "ID": 16465,
+            "SIC": "S.95.1.1.0.16",
+            "Category": "Repair and maintenance of mice, joysticks, and trackball accessories"
+          },
+          "S.95.1.1.0.17": {
+            "ID": 16466,
+            "SIC": "S.95.1.1.0.17",
+            "Category": "Repair and maintenance of optical disk drives (CD-RW, CD-ROM, DVD-ROM, DVD-RW)"
+          },
+          "S.95.1.1.0.18": {
+            "ID": 16467,
+            "SIC": "S.95.1.1.0.18",
+            "Category": "Repair and maintenance of point-of-sale (pos) terminals,"
+          },
+          "S.95.1.1.0.19": {
+            "ID": 16468,
+            "SIC": "S.95.1.1.0.19",
+            "Category": "Repair and maintenance of printers"
+          },
+          "S.95.1.1.0.20": {
+            "ID": 16469,
+            "SIC": "S.95.1.1.0.20",
+            "Category": "Repair and maintenance of scanners"
+          },
+          "S.95.1.1.0.21": {
+            "ID": 16470,
+            "SIC": "S.95.1.1.0.21",
+            "Category": "Repair and maintenance of smart card readers"
+          },
+          "S.95.1.1.0.22": {
+            "ID": 16471,
+            "SIC": "S.95.1.1.0.22",
+            "Category": "Repair and maintenance of virtual reality helmets"
+          },
+          "S.95.1.1.0.23": {
+            "ID": 16472,
+            "SIC": "S.95.1.1.0.23",
+            "Category": "Repair of computers and peripheral equipment"
+          }
+        },
+        "S.95.1.2": {
+          "ID": 1160,
+          "SIC": "S.95.1.2",
+          "Category": "Repair of communication equipment",
+          "S.95.1.2.0.1": {
+            "ID": 16473,
+            "SIC": "S.95.1.2.0.1",
+            "Category": "Repair and maintenance of carrier equipment modems"
+          },
+          "S.95.1.2.0.2": {
+            "ID": 16474,
+            "SIC": "S.95.1.2.0.2",
+            "Category": "Repair and maintenance of cellular telephones"
+          },
+          "S.95.1.2.0.3": {
+            "ID": 16475,
+            "SIC": "S.95.1.2.0.3",
+            "Category": "Repair and maintenance of commercial TV cameras"
+          },
+          "S.95.1.2.0.4": {
+            "ID": 16476,
+            "SIC": "S.95.1.2.0.4",
+            "Category": "Repair and maintenance of commercial video cameras"
+          },
+          "S.95.1.2.0.5": {
+            "ID": 16477,
+            "SIC": "S.95.1.2.0.5",
+            "Category": "Repair and maintenance of communications transmission bridges"
+          },
+          "S.95.1.2.0.6": {
+            "ID": 16478,
+            "SIC": "S.95.1.2.0.6",
+            "Category": "Repair and maintenance of communications transmission modems"
+          },
+          "S.95.1.2.0.7": {
+            "ID": 16479,
+            "SIC": "S.95.1.2.0.7",
+            "Category": "Repair and maintenance of communications transmission routers"
+          },
+          "S.95.1.2.0.8": {
+            "ID": 16480,
+            "SIC": "S.95.1.2.0.8",
+            "Category": "Repair and maintenance of fax machines"
+          },
+          "S.95.1.2.0.9": {
+            "ID": 16481,
+            "SIC": "S.95.1.2.0.9",
+            "Category": "Repair and maintenance of professional radio, television, sound and video equipment"
+          },
+          "S.95.1.2.0.10": {
+            "ID": 16482,
+            "SIC": "S.95.1.2.0.10",
+            "Category": "Repair and maintenance of radio and television transmitters"
+          },
+          "S.95.1.2.0.11": {
+            "ID": 16483,
+            "SIC": "S.95.1.2.0.11",
+            "Category": "Repair and maintenance of radio telephony apparatus"
+          },
+          "S.95.1.2.0.12": {
+            "ID": 16484,
+            "SIC": "S.95.1.2.0.12",
+            "Category": "Repair and maintenance of telephone answering machines"
+          },
+          "S.95.1.2.0.13": {
+            "ID": 16485,
+            "SIC": "S.95.1.2.0.13",
+            "Category": "Repair and maintenance of telephone sets"
+          },
+          "S.95.1.2.0.14": {
+            "ID": 16486,
+            "SIC": "S.95.1.2.0.14",
+            "Category": "Repair and maintenance of telex machines and other line telephony or telegraphy equipment"
+          },
+          "S.95.1.2.0.15": {
+            "ID": 16487,
+            "SIC": "S.95.1.2.0.15",
+            "Category": "Repair and maintenance of two-way radios"
+          },
+          "S.95.1.2.0.16": {
+            "ID": 16488,
+            "SIC": "S.95.1.2.0.16",
+            "Category": "Repair of cordless telephones"
+          },
+          "S.95.1.2.0.17": {
+            "ID": 16489,
+            "SIC": "S.95.1.2.0.17",
+            "Category": "Repair of mobile telephones"
+          }
+        }
+      },
+      "S.95.2": {
+        "ID": 1161,
+        "SIC": "S.95.2",
+        "Category": "Repair of personal and household goods",
+        "S.95.2.1": {
+          "ID": 1162,
+          "SIC": "S.95.2.1",
+          "Category": "Repair of consumer electronics",
+          "S.95.2.1.0.1": {
+            "ID": 16490,
+            "SIC": "S.95.2.1.0.1",
+            "Category": "Repair of CD players"
+          },
+          "S.95.2.1.0.2": {
+            "ID": 16491,
+            "SIC": "S.95.2.1.0.2",
+            "Category": "Repair of consumer electronics"
+          },
+          "S.95.2.1.0.3": {
+            "ID": 16492,
+            "SIC": "S.95.2.1.0.3",
+            "Category": "Repair of domestic audio and video equipment"
+          },
+          "S.95.2.1.0.4": {
+            "ID": 16493,
+            "SIC": "S.95.2.1.0.4",
+            "Category": "Repair of dvd players"
+          },
+          "S.95.2.1.0.5": {
+            "ID": 16494,
+            "SIC": "S.95.2.1.0.5",
+            "Category": "Repair of household-type video cameras"
+          },
+          "S.95.2.1.0.6": {
+            "ID": 16495,
+            "SIC": "S.95.2.1.0.6",
+            "Category": "Repair of radios"
+          },
+          "S.95.2.1.0.7": {
+            "ID": 16496,
+            "SIC": "S.95.2.1.0.7",
+            "Category": "Repair of televisions"
+          },
+          "S.95.2.1.0.8": {
+            "ID": 16497,
+            "SIC": "S.95.2.1.0.8",
+            "Category": "Repair of video cassette recorders (VCR)"
+          }
+        },
+        "S.95.2.2": {
+          "ID": 1163,
+          "SIC": "S.95.2.2",
+          "Category": "Repair of household appliances and home and garden equipment",
+          "S.95.2.2.0.1": {
+            "ID": 16498,
+            "SIC": "S.95.2.2.0.1",
+            "Category": "Repair and maintenance of domestic cookers"
+          },
+          "S.95.2.2.0.2": {
+            "ID": 16499,
+            "SIC": "S.95.2.2.0.2",
+            "Category": "Repair and maintenance of domestic ovens"
+          },
+          "S.95.2.2.0.3": {
+            "ID": 16500,
+            "SIC": "S.95.2.2.0.3",
+            "Category": "Repair and maintenance of domestic ranges"
+          },
+          "S.95.2.2.0.4": {
+            "ID": 16501,
+            "SIC": "S.95.2.2.0.4",
+            "Category": "Repair of clothes dryers"
+          },
+          "S.95.2.2.0.5": {
+            "ID": 16502,
+            "SIC": "S.95.2.2.0.5",
+            "Category": "Repair of domestic electrical appliances"
+          },
+          "S.95.2.2.0.6": {
+            "ID": 16503,
+            "SIC": "S.95.2.2.0.6",
+            "Category": "Repair of garden edger"
+          },
+          "S.95.2.2.0.7": {
+            "ID": 16504,
+            "SIC": "S.95.2.2.0.7",
+            "Category": "Repair of garden trimmers"
+          },
+          "S.95.2.2.0.8": {
+            "ID": 16505,
+            "SIC": "S.95.2.2.0.8",
+            "Category": "Repair of lawnmowers"
+          },
+          "S.95.2.2.0.9": {
+            "ID": 16506,
+            "SIC": "S.95.2.2.0.9",
+            "Category": "Repair of refrigerators"
+          },
+          "S.95.2.2.0.10": {
+            "ID": 16507,
+            "SIC": "S.95.2.2.0.10",
+            "Category": "Repair of room air conditioners"
+          },
+          "S.95.2.2.0.11": {
+            "ID": 16508,
+            "SIC": "S.95.2.2.0.11",
+            "Category": "Repair of snow and leaf blowers"
+          },
+          "S.95.2.2.0.12": {
+            "ID": 16509,
+            "SIC": "S.95.2.2.0.12",
+            "Category": "Repair of stoves"
+          },
+          "S.95.2.2.0.13": {
+            "ID": 16510,
+            "SIC": "S.95.2.2.0.13",
+            "Category": "Repair of washing machines"
+          },
+          "S.95.2.2.0.14": {
+            "ID": 16511,
+            "SIC": "S.95.2.2.0.14",
+            "Category": "Servicing of clothes dryers"
+          },
+          "S.95.2.2.0.15": {
+            "ID": 16512,
+            "SIC": "S.95.2.2.0.15",
+            "Category": "Servicing of domestic electrical appliances"
+          },
+          "S.95.2.2.0.16": {
+            "ID": 16513,
+            "SIC": "S.95.2.2.0.16",
+            "Category": "Servicing of garden edger"
+          },
+          "S.95.2.2.0.17": {
+            "ID": 16514,
+            "SIC": "S.95.2.2.0.17",
+            "Category": "Servicing of garden trimmers"
+          },
+          "S.95.2.2.0.18": {
+            "ID": 16515,
+            "SIC": "S.95.2.2.0.18",
+            "Category": "Servicing of lawnmowers"
+          },
+          "S.95.2.2.0.19": {
+            "ID": 16516,
+            "SIC": "S.95.2.2.0.19",
+            "Category": "Servicing of refrigerators"
+          },
+          "S.95.2.2.0.20": {
+            "ID": 16517,
+            "SIC": "S.95.2.2.0.20",
+            "Category": "Servicing of room air conditioners"
+          },
+          "S.95.2.2.0.21": {
+            "ID": 16518,
+            "SIC": "S.95.2.2.0.21",
+            "Category": "Servicing of snow and leaf blowers"
+          },
+          "S.95.2.2.0.22": {
+            "ID": 16519,
+            "SIC": "S.95.2.2.0.22",
+            "Category": "Servicing of stoves"
+          },
+          "S.95.2.2.0.23": {
+            "ID": 16520,
+            "SIC": "S.95.2.2.0.23",
+            "Category": "Servicing of washing machines"
+          }
+        },
+        "S.95.2.3": {
+          "ID": 1164,
+          "SIC": "S.95.2.3",
+          "Category": "Repair of footwear and leather goods",
+          "S.95.2.3.0.1": {
+            "ID": 16521,
+            "SIC": "S.95.2.3.0.1",
+            "Category": "Heel replacement services (while you wait)"
+          },
+          "S.95.2.3.0.2": {
+            "ID": 16522,
+            "SIC": "S.95.2.3.0.2",
+            "Category": "Repair of boots"
+          },
+          "S.95.2.3.0.3": {
+            "ID": 16523,
+            "SIC": "S.95.2.3.0.3",
+            "Category": "Repair of footwear and leather goods"
+          },
+          "S.95.2.3.0.4": {
+            "ID": 16524,
+            "SIC": "S.95.2.3.0.4",
+            "Category": "Repair of handbags"
+          },
+          "S.95.2.3.0.5": {
+            "ID": 16525,
+            "SIC": "S.95.2.3.0.5",
+            "Category": "Repair of luggage"
+          },
+          "S.95.2.3.0.6": {
+            "ID": 16526,
+            "SIC": "S.95.2.3.0.6",
+            "Category": "Repair of shoes"
+          }
+        },
+        "S.95.2.4": {
+          "ID": 1165,
+          "SIC": "S.95.2.4",
+          "Category": "Repair of furniture and home furnishings",
+          "S.95.2.4.0.1": {
+            "ID": 16527,
+            "SIC": "S.95.2.4.0.1",
+            "Category": "Repair and restoration of chairs and seats"
+          },
+          "S.95.2.4.0.2": {
+            "ID": 16528,
+            "SIC": "S.95.2.4.0.2",
+            "Category": "Repair and restoration of furniture n.e.c."
+          },
+          "S.95.2.4.0.3": {
+            "ID": 16529,
+            "SIC": "S.95.2.4.0.3",
+            "Category": "Repair and restoration of mattresses"
+          },
+          "S.95.2.4.0.4": {
+            "ID": 16530,
+            "SIC": "S.95.2.4.0.4",
+            "Category": "Repair and restoration of other kitchen furniture"
+          },
+          "S.95.2.4.0.5": {
+            "ID": 16531,
+            "SIC": "S.95.2.4.0.5",
+            "Category": "Repair and restoration of other office and shop furniture"
+          },
+          "S.95.2.4.0.6": {
+            "ID": 16532,
+            "SIC": "S.95.2.4.0.6",
+            "Category": "Upholsterer (repair and restoration)"
+          }
+        },
+        "S.95.2.5": {
+          "ID": 1166,
+          "SIC": "S.95.2.5",
+          "Category": "Repair of watches, clocks and jewellery",
+          "S.95.2.5.0.1": {
+            "ID": 16533,
+            "SIC": "S.95.2.5.0.1",
+            "Category": "Repair of clock cases and housings of all materials"
+          },
+          "S.95.2.5.0.2": {
+            "ID": 16534,
+            "SIC": "S.95.2.5.0.2",
+            "Category": "Repair of clock movements and chronometers"
+          },
+          "S.95.2.5.0.3": {
+            "ID": 16535,
+            "SIC": "S.95.2.5.0.3",
+            "Category": "Repair of clocks"
+          },
+          "S.95.2.5.0.4": {
+            "ID": 16536,
+            "SIC": "S.95.2.5.0.4",
+            "Category": "Repair of jewellery"
+          },
+          "S.95.2.5.0.5": {
+            "ID": 16537,
+            "SIC": "S.95.2.5.0.5",
+            "Category": "Repair of watch cases and housings of all materials"
+          },
+          "S.95.2.5.0.6": {
+            "ID": 16538,
+            "SIC": "S.95.2.5.0.6",
+            "Category": "Repair of watches and clocks"
+          }
+        },
+        "S.95.2.9": {
+          "ID": 1167,
+          "SIC": "S.95.2.9",
+          "Category": "Repair of other personal and household goods",
+          "S.95.2.9.0.1": {
+            "ID": 16539,
+            "SIC": "S.95.2.9.0.1",
+            "Category": "Invisible mending"
+          },
+          "S.95.2.9.0.2": {
+            "ID": 16540,
+            "SIC": "S.95.2.9.0.2",
+            "Category": "Key cutting services (while you wait)"
+          },
+          "S.95.2.9.0.3": {
+            "ID": 16541,
+            "SIC": "S.95.2.9.0.3",
+            "Category": "Organ tuning (manufacture)"
+          },
+          "S.95.2.9.0.4": {
+            "ID": 16542,
+            "SIC": "S.95.2.9.0.4",
+            "Category": "Piano tuning"
+          },
+          "S.95.2.9.0.5": {
+            "ID": 16543,
+            "SIC": "S.95.2.9.0.5",
+            "Category": "Plastic coating services of identity cards, etc. (while you wait)"
+          },
+          "S.95.2.9.0.6": {
+            "ID": 16544,
+            "SIC": "S.95.2.9.0.6",
+            "Category": "Renovating of hats"
+          },
+          "S.95.2.9.0.7": {
+            "ID": 16545,
+            "SIC": "S.95.2.9.0.7",
+            "Category": "Repair and alteration of clothing"
+          },
+          "S.95.2.9.0.8": {
+            "ID": 16546,
+            "SIC": "S.95.2.9.0.8",
+            "Category": "Repair and reconditioning of musical instruments (except organs and historical musical instruments)"
+          },
+          "S.95.2.9.0.9": {
+            "ID": 16547,
+            "SIC": "S.95.2.9.0.9",
+            "Category": "Repair of bicycles"
+          },
+          "S.95.2.9.0.10": {
+            "ID": 16548,
+            "SIC": "S.95.2.9.0.10",
+            "Category": "Repair of books"
+          },
+          "S.95.2.9.0.11": {
+            "ID": 16549,
+            "SIC": "S.95.2.9.0.11",
+            "Category": "Repair of camping equipment including tents"
+          },
+          "S.95.2.9.0.12": {
+            "ID": 16550,
+            "SIC": "S.95.2.9.0.12",
+            "Category": "Repair of dental plates"
+          },
+          "S.95.2.9.0.13": {
+            "ID": 16551,
+            "SIC": "S.95.2.9.0.13",
+            "Category": "Repair of domestic lighting articles"
+          },
+          "S.95.2.9.0.14": {
+            "ID": 16552,
+            "SIC": "S.95.2.9.0.14",
+            "Category": "Repair of household textile articles"
+          },
+          "S.95.2.9.0.15": {
+            "ID": 16553,
+            "SIC": "S.95.2.9.0.15",
+            "Category": "Repair of non-professional photographic equipment"
+          },
+          "S.95.2.9.0.16": {
+            "ID": 16554,
+            "SIC": "S.95.2.9.0.16",
+            "Category": "Repair of orthopaedic and prosthetic devices"
+          },
+          "S.95.2.9.0.17": {
+            "ID": 16555,
+            "SIC": "S.95.2.9.0.17",
+            "Category": "Repair of sporting equipment"
+          },
+          "S.95.2.9.0.18": {
+            "ID": 16556,
+            "SIC": "S.95.2.9.0.18",
+            "Category": "Repair of toys"
+          },
+          "S.95.2.9.0.19": {
+            "ID": 16557,
+            "SIC": "S.95.2.9.0.19",
+            "Category": "Repair of umbrellas"
+          },
+          "S.95.2.9.0.20": {
+            "ID": 16558,
+            "SIC": "S.95.2.9.0.20",
+            "Category": "Tuning of musical instruments"
+          },
+          "S.95.2.9.0.21": {
+            "ID": 16559,
+            "SIC": "S.95.2.9.0.21",
+            "Category": "'While-you-wait' printing of textile articles (manufacture)"
+          }
+        }
+      }
+    },
+    "S.96": {
+      "ID": 1168,
+      "SIC": "S.96",
+      "Category": "Other personal service activities",
+      "S.96.0": {
+        "ID": 1169,
+        "SIC": "S.96.0",
+        "Category": "Other personal service activities",
+        "S.96.0.1": {
+          "ID": 1170,
+          "SIC": "S.96.0.1",
+          "Category": "Washing and (dry-)cleaning of textile and fur products",
+          "S.96.0.1.0.1": {
+            "ID": 16560,
+            "SIC": "S.96.0.1.0.1",
+            "Category": "Carpet cleaning"
+          },
+          "S.96.0.1.0.2": {
+            "ID": 16561,
+            "SIC": "S.96.0.1.0.2",
+            "Category": "Clean towel company"
+          },
+          "S.96.0.1.0.3": {
+            "ID": 16562,
+            "SIC": "S.96.0.1.0.3",
+            "Category": "Curtain cleaning"
+          },
+          "S.96.0.1.0.4": {
+            "ID": 16563,
+            "SIC": "S.96.0.1.0.4",
+            "Category": "Curtain cleaning (not lace dressing)"
+          },
+          "S.96.0.1.0.5": {
+            "ID": 16564,
+            "SIC": "S.96.0.1.0.5",
+            "Category": "Diaper supply services"
+          },
+          "S.96.0.1.0.6": {
+            "ID": 16565,
+            "SIC": "S.96.0.1.0.6",
+            "Category": "Drapery cleaning"
+          },
+          "S.96.0.1.0.7": {
+            "ID": 16566,
+            "SIC": "S.96.0.1.0.7",
+            "Category": "Dry cleaner"
+          },
+          "S.96.0.1.0.8": {
+            "ID": 16567,
+            "SIC": "S.96.0.1.0.8",
+            "Category": "Dyer and cleaner"
+          },
+          "S.96.0.1.0.9": {
+            "ID": 16568,
+            "SIC": "S.96.0.1.0.9",
+            "Category": "Glove cleaning"
+          },
+          "S.96.0.1.0.10": {
+            "ID": 16569,
+            "SIC": "S.96.0.1.0.10",
+            "Category": "Hospital laundry"
+          },
+          "S.96.0.1.0.11": {
+            "ID": 16570,
+            "SIC": "S.96.0.1.0.11",
+            "Category": "Industrial clothing hire from laundries"
+          },
+          "S.96.0.1.0.12": {
+            "ID": 16571,
+            "SIC": "S.96.0.1.0.12",
+            "Category": "Job dyeing"
+          },
+          "S.96.0.1.0.13": {
+            "ID": 16572,
+            "SIC": "S.96.0.1.0.13",
+            "Category": "Lace cleaning and mending (not net mending)"
+          },
+          "S.96.0.1.0.14": {
+            "ID": 16573,
+            "SIC": "S.96.0.1.0.14",
+            "Category": "Launderette"
+          },
+          "S.96.0.1.0.15": {
+            "ID": 16574,
+            "SIC": "S.96.0.1.0.15",
+            "Category": "Laundry"
+          },
+          "S.96.0.1.0.16": {
+            "ID": 16575,
+            "SIC": "S.96.0.1.0.16",
+            "Category": "Laundry receiving office"
+          },
+          "S.96.0.1.0.17": {
+            "ID": 16576,
+            "SIC": "S.96.0.1.0.17",
+            "Category": "Linen hire (associated with laundry service)"
+          },
+          "S.96.0.1.0.18": {
+            "ID": 16577,
+            "SIC": "S.96.0.1.0.18",
+            "Category": "Pressing and valeting"
+          },
+          "S.96.0.1.0.19": {
+            "ID": 16578,
+            "SIC": "S.96.0.1.0.19",
+            "Category": "Pressing of wearing apparel on a fee or contract basis"
+          },
+          "S.96.0.1.0.20": {
+            "ID": 16579,
+            "SIC": "S.96.0.1.0.20",
+            "Category": "Rug shampooing"
+          },
+          "S.96.0.1.0.21": {
+            "ID": 16580,
+            "SIC": "S.96.0.1.0.21",
+            "Category": "Shirt and collar pressing"
+          },
+          "S.96.0.1.0.22": {
+            "ID": 16581,
+            "SIC": "S.96.0.1.0.22",
+            "Category": "Towel hire"
+          },
+          "S.96.0.1.0.23": {
+            "ID": 16582,
+            "SIC": "S.96.0.1.0.23",
+            "Category": "Towel supply company"
+          },
+          "S.96.0.1.0.24": {
+            "ID": 16583,
+            "SIC": "S.96.0.1.0.24",
+            "Category": "Valet service"
+          },
+          "S.96.0.1.0.25": {
+            "ID": 16584,
+            "SIC": "S.96.0.1.0.25",
+            "Category": "Washing and cleaning of fur products"
+          },
+          "S.96.0.1.0.26": {
+            "ID": 16585,
+            "SIC": "S.96.0.1.0.26",
+            "Category": "Washing and dry cleaning of clothing"
+          },
+          "S.96.0.1.0.27": {
+            "ID": 16586,
+            "SIC": "S.96.0.1.0.27",
+            "Category": "Washing and dry cleaning of textile products"
+          },
+          "S.96.0.1.0.28": {
+            "ID": 16587,
+            "SIC": "S.96.0.1.0.28",
+            "Category": "Work uniforms rental from laundries"
+          }
+        },
+        "S.96.0.2": {
+          "ID": 1171,
+          "SIC": "S.96.0.2",
+          "Category": "Hairdressing and other beauty treatment",
+          "S.96.0.2.0.1": {
+            "ID": 16588,
+            "SIC": "S.96.0.2.0.1",
+            "Category": "Barber"
+          },
+          "S.96.0.2.0.2": {
+            "ID": 16589,
+            "SIC": "S.96.0.2.0.2",
+            "Category": "Beard trimming"
+          },
+          "S.96.0.2.0.3": {
+            "ID": 16590,
+            "SIC": "S.96.0.2.0.3",
+            "Category": "Beauty parlour"
+          },
+          "S.96.0.2.0.4": {
+            "ID": 16591,
+            "SIC": "S.96.0.2.0.4",
+            "Category": "Beauty specialist"
+          },
+          "S.96.0.2.0.5": {
+            "ID": 16592,
+            "SIC": "S.96.0.2.0.5",
+            "Category": "Beauty treatment activities"
+          },
+          "S.96.0.2.0.6": {
+            "ID": 16593,
+            "SIC": "S.96.0.2.0.6",
+            "Category": "Coiffeur"
+          },
+          "S.96.0.2.0.7": {
+            "ID": 16594,
+            "SIC": "S.96.0.2.0.7",
+            "Category": "Electrolysis specialist"
+          },
+          "S.96.0.2.0.8": {
+            "ID": 16595,
+            "SIC": "S.96.0.2.0.8",
+            "Category": "Facial massage"
+          },
+          "S.96.0.2.0.9": {
+            "ID": 16596,
+            "SIC": "S.96.0.2.0.9",
+            "Category": "Hair design"
+          },
+          "S.96.0.2.0.10": {
+            "ID": 16597,
+            "SIC": "S.96.0.2.0.10",
+            "Category": "Hairdressing activities"
+          },
+          "S.96.0.2.0.11": {
+            "ID": 16598,
+            "SIC": "S.96.0.2.0.11",
+            "Category": "Make-up and beauty treatment"
+          },
+          "S.96.0.2.0.12": {
+            "ID": 16599,
+            "SIC": "S.96.0.2.0.12",
+            "Category": "Manicurist"
+          },
+          "S.96.0.2.0.13": {
+            "ID": 16600,
+            "SIC": "S.96.0.2.0.13",
+            "Category": "Pedicure"
+          },
+          "S.96.0.2.0.14": {
+            "ID": 16601,
+            "SIC": "S.96.0.2.0.14",
+            "Category": "Permanent make-up application"
+          },
+          "S.96.0.2.0.15": {
+            "ID": 16602,
+            "SIC": "S.96.0.2.0.15",
+            "Category": "Trichologist"
+          }
+        },
+        "S.96.0.3": {
+          "ID": 1172,
+          "SIC": "S.96.0.3",
+          "Category": "Funeral and related activities",
+          "S.96.0.3.0.1": {
+            "ID": 16603,
+            "SIC": "S.96.0.3.0.1",
+            "Category": "Burial services"
+          },
+          "S.96.0.3.0.2": {
+            "ID": 16604,
+            "SIC": "S.96.0.3.0.2",
+            "Category": "Cemetery"
+          },
+          "S.96.0.3.0.3": {
+            "ID": 16605,
+            "SIC": "S.96.0.3.0.3",
+            "Category": "Cremation board"
+          },
+          "S.96.0.3.0.4": {
+            "ID": 16606,
+            "SIC": "S.96.0.3.0.4",
+            "Category": "Cremation services"
+          },
+          "S.96.0.3.0.5": {
+            "ID": 16607,
+            "SIC": "S.96.0.3.0.5",
+            "Category": "Crematorium"
+          },
+          "S.96.0.3.0.6": {
+            "ID": 16608,
+            "SIC": "S.96.0.3.0.6",
+            "Category": "Funeral and related activities"
+          },
+          "S.96.0.3.0.7": {
+            "ID": 16609,
+            "SIC": "S.96.0.3.0.7",
+            "Category": "Funeral direction"
+          },
+          "S.96.0.3.0.8": {
+            "ID": 16610,
+            "SIC": "S.96.0.3.0.8",
+            "Category": "Funeral furnishing"
+          },
+          "S.96.0.3.0.9": {
+            "ID": 16611,
+            "SIC": "S.96.0.3.0.9",
+            "Category": "Human or animal corpse burial or incineration"
+          },
+          "S.96.0.3.0.10": {
+            "ID": 16612,
+            "SIC": "S.96.0.3.0.10",
+            "Category": "Laying out the dead"
+          },
+          "S.96.0.3.0.11": {
+            "ID": 16613,
+            "SIC": "S.96.0.3.0.11",
+            "Category": "Local authority cemeteries"
+          },
+          "S.96.0.3.0.12": {
+            "ID": 16614,
+            "SIC": "S.96.0.3.0.12",
+            "Category": "Local authority crematoriums"
+          },
+          "S.96.0.3.0.13": {
+            "ID": 16615,
+            "SIC": "S.96.0.3.0.13",
+            "Category": "Local authority funeral services"
+          },
+          "S.96.0.3.0.14": {
+            "ID": 16616,
+            "SIC": "S.96.0.3.0.14",
+            "Category": "Maintenance of graves"
+          },
+          "S.96.0.3.0.15": {
+            "ID": 16617,
+            "SIC": "S.96.0.3.0.15",
+            "Category": "Maintenance of mausoleums"
+          },
+          "S.96.0.3.0.16": {
+            "ID": 16618,
+            "SIC": "S.96.0.3.0.16",
+            "Category": "Mortuary"
+          },
+          "S.96.0.3.0.17": {
+            "ID": 16619,
+            "SIC": "S.96.0.3.0.17",
+            "Category": "Preparing the dead for burial or cremation"
+          },
+          "S.96.0.3.0.18": {
+            "ID": 16620,
+            "SIC": "S.96.0.3.0.18",
+            "Category": "Sale of graves"
+          },
+          "S.96.0.3.0.19": {
+            "ID": 16621,
+            "SIC": "S.96.0.3.0.19",
+            "Category": "Undertaking"
+          }
+        },
+        "S.96.0.4": {
+          "ID": 1173,
+          "SIC": "S.96.0.4",
+          "Category": "Physical well-being activities",
+          "S.96.0.4.0.1": {
+            "ID": 16622,
+            "SIC": "S.96.0.4.0.1",
+            "Category": "Health farm"
+          },
+          "S.96.0.4.0.2": {
+            "ID": 16623,
+            "SIC": "S.96.0.4.0.2",
+            "Category": "Local authority baths (hot water and sauna)"
+          },
+          "S.96.0.4.0.3": {
+            "ID": 16624,
+            "SIC": "S.96.0.4.0.3",
+            "Category": "Massage salons"
+          },
+          "S.96.0.4.0.4": {
+            "ID": 16625,
+            "SIC": "S.96.0.4.0.4",
+            "Category": "Physical well-being activities"
+          },
+          "S.96.0.4.0.5": {
+            "ID": 16626,
+            "SIC": "S.96.0.4.0.5",
+            "Category": "Public baths"
+          },
+          "S.96.0.4.0.6": {
+            "ID": 16627,
+            "SIC": "S.96.0.4.0.6",
+            "Category": "Reducing and slimming salon activities"
+          },
+          "S.96.0.4.0.7": {
+            "ID": 16628,
+            "SIC": "S.96.0.4.0.7",
+            "Category": "Russian baths"
+          },
+          "S.96.0.4.0.8": {
+            "ID": 16629,
+            "SIC": "S.96.0.4.0.8",
+            "Category": "Saunas"
+          },
+          "S.96.0.4.0.9": {
+            "ID": 16630,
+            "SIC": "S.96.0.4.0.9",
+            "Category": "Solariums"
+          },
+          "S.96.0.4.0.10": {
+            "ID": 16631,
+            "SIC": "S.96.0.4.0.10",
+            "Category": "Spas"
+          },
+          "S.96.0.4.0.11": {
+            "ID": 16632,
+            "SIC": "S.96.0.4.0.11",
+            "Category": "Steam baths"
+          },
+          "S.96.0.4.0.12": {
+            "ID": 16633,
+            "SIC": "S.96.0.4.0.12",
+            "Category": "Turkish baths"
+          }
+        },
+        "S.96.0.9": {
+          "ID": 1174,
+          "SIC": "S.96.0.9",
+          "Category": "Other personal service activities n.e.c.",
+          "S.96.0.9.0.1": {
+            "ID": 16634,
+            "SIC": "S.96.0.9.0.1",
+            "Category": "Artists' model"
+          },
+          "S.96.0.9.0.2": {
+            "ID": 16635,
+            "SIC": "S.96.0.9.0.2",
+            "Category": "Astrologer"
+          },
+          "S.96.0.9.0.3": {
+            "ID": 16636,
+            "SIC": "S.96.0.9.0.3",
+            "Category": "Blood pressure machine operation (coin operated)"
+          },
+          "S.96.0.9.0.4": {
+            "ID": 16637,
+            "SIC": "S.96.0.9.0.4",
+            "Category": "Boarding of pet animals"
+          },
+          "S.96.0.9.0.5": {
+            "ID": 16638,
+            "SIC": "S.96.0.9.0.5",
+            "Category": "Body piercing studios"
+          },
+          "S.96.0.9.0.6": {
+            "ID": 16639,
+            "SIC": "S.96.0.9.0.6",
+            "Category": "Bootblack"
+          },
+          "S.96.0.9.0.7": {
+            "ID": 16640,
+            "SIC": "S.96.0.9.0.7",
+            "Category": "Cats' home"
+          },
+          "S.96.0.9.0.8": {
+            "ID": 16641,
+            "SIC": "S.96.0.9.0.8",
+            "Category": "Clairvoyant"
+          },
+          "S.96.0.9.0.9": {
+            "ID": 16642,
+            "SIC": "S.96.0.9.0.9",
+            "Category": "Cloakroom (not railway, etc.)"
+          },
+          "S.96.0.9.0.10": {
+            "ID": 16643,
+            "SIC": "S.96.0.9.0.10",
+            "Category": "Computer dating agency"
+          },
+          "S.96.0.9.0.11": {
+            "ID": 16644,
+            "SIC": "S.96.0.9.0.11",
+            "Category": "Dating and other speed networking agency"
+          },
+          "S.96.0.9.0.12": {
+            "ID": 16645,
+            "SIC": "S.96.0.9.0.12",
+            "Category": "Dating services"
+          },
+          "S.96.0.9.0.13": {
+            "ID": 16646,
+            "SIC": "S.96.0.9.0.13",
+            "Category": "Dogs' home"
+          },
+          "S.96.0.9.0.14": {
+            "ID": 16647,
+            "SIC": "S.96.0.9.0.14",
+            "Category": "Escort agency"
+          },
+          "S.96.0.9.0.15": {
+            "ID": 16648,
+            "SIC": "S.96.0.9.0.15",
+            "Category": "Fortune telling (not fairground)"
+          },
+          "S.96.0.9.0.16": {
+            "ID": 16649,
+            "SIC": "S.96.0.9.0.16",
+            "Category": "Genealogical organisation services"
+          },
+          "S.96.0.9.0.17": {
+            "ID": 16650,
+            "SIC": "S.96.0.9.0.17",
+            "Category": "Genealogist"
+          },
+          "S.96.0.9.0.18": {
+            "ID": 16651,
+            "SIC": "S.96.0.9.0.18",
+            "Category": "Graphologist"
+          },
+          "S.96.0.9.0.19": {
+            "ID": 16652,
+            "SIC": "S.96.0.9.0.19",
+            "Category": "Grooming of pet animals"
+          },
+          "S.96.0.9.0.20": {
+            "ID": 16653,
+            "SIC": "S.96.0.9.0.20",
+            "Category": "Guide (other than tourist)"
+          },
+          "S.96.0.9.0.21": {
+            "ID": 16654,
+            "SIC": "S.96.0.9.0.21",
+            "Category": "Horse clipping"
+          },
+          "S.96.0.9.0.22": {
+            "ID": 16655,
+            "SIC": "S.96.0.9.0.22",
+            "Category": "Horse whisperer"
+          },
+          "S.96.0.9.0.23": {
+            "ID": 16656,
+            "SIC": "S.96.0.9.0.23",
+            "Category": "Housesitting"
+          },
+          "S.96.0.9.0.24": {
+            "ID": 16657,
+            "SIC": "S.96.0.9.0.24",
+            "Category": "Jobbing waiter"
+          },
+          "S.96.0.9.0.25": {
+            "ID": 16658,
+            "SIC": "S.96.0.9.0.25",
+            "Category": "Kennels (not racing)"
+          },
+          "S.96.0.9.0.26": {
+            "ID": 16659,
+            "SIC": "S.96.0.9.0.26",
+            "Category": "Knifegrinder (travelling)"
+          },
+          "S.96.0.9.0.27": {
+            "ID": 16660,
+            "SIC": "S.96.0.9.0.27",
+            "Category": "Licensed porter"
+          },
+          "S.96.0.9.0.28": {
+            "ID": 16661,
+            "SIC": "S.96.0.9.0.28",
+            "Category": "Marriage bureau"
+          },
+          "S.96.0.9.0.29": {
+            "ID": 16662,
+            "SIC": "S.96.0.9.0.29",
+            "Category": "Master of Ceremonies"
+          },
+          "S.96.0.9.0.30": {
+            "ID": 16663,
+            "SIC": "S.96.0.9.0.30",
+            "Category": "Outside porter"
+          },
+          "S.96.0.9.0.31": {
+            "ID": 16664,
+            "SIC": "S.96.0.9.0.31",
+            "Category": "Palmist"
+          },
+          "S.96.0.9.0.32": {
+            "ID": 16665,
+            "SIC": "S.96.0.9.0.32",
+            "Category": "Pavement artist"
+          },
+          "S.96.0.9.0.33": {
+            "ID": 16666,
+            "SIC": "S.96.0.9.0.33",
+            "Category": "Pet sitting services"
+          },
+          "S.96.0.9.0.34": {
+            "ID": 16667,
+            "SIC": "S.96.0.9.0.34",
+            "Category": "Photographic machines (coin-operated)"
+          },
+          "S.96.0.9.0.35": {
+            "ID": 16668,
+            "SIC": "S.96.0.9.0.35",
+            "Category": "Poodle clipping"
+          },
+          "S.96.0.9.0.36": {
+            "ID": 16669,
+            "SIC": "S.96.0.9.0.36",
+            "Category": "Porters"
+          },
+          "S.96.0.9.0.37": {
+            "ID": 16670,
+            "SIC": "S.96.0.9.0.37",
+            "Category": "Salvation army emigration department"
+          },
+          "S.96.0.9.0.38": {
+            "ID": 16671,
+            "SIC": "S.96.0.9.0.38",
+            "Category": "Shoe shiners"
+          },
+          "S.96.0.9.0.39": {
+            "ID": 16672,
+            "SIC": "S.96.0.9.0.39",
+            "Category": "Spiritualists' activities"
+          },
+          "S.96.0.9.0.40": {
+            "ID": 16673,
+            "SIC": "S.96.0.9.0.40",
+            "Category": "Tattooist"
+          },
+          "S.96.0.9.0.41": {
+            "ID": 16674,
+            "SIC": "S.96.0.9.0.41",
+            "Category": "Toastmaster"
+          },
+          "S.96.0.9.0.42": {
+            "ID": 16675,
+            "SIC": "S.96.0.9.0.42",
+            "Category": "Town crier"
+          },
+          "S.96.0.9.0.43": {
+            "ID": 16676,
+            "SIC": "S.96.0.9.0.43",
+            "Category": "Training of pet animals"
+          },
+          "S.96.0.9.0.44": {
+            "ID": 16677,
+            "SIC": "S.96.0.9.0.44",
+            "Category": "Valet car parkers"
+          },
+          "S.96.0.9.0.45": {
+            "ID": 16678,
+            "SIC": "S.96.0.9.0.45",
+            "Category": "Weighing machine operation (coin operated)"
+          }
+        }
+      }
+    }
+  }
+}

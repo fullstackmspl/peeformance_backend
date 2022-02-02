@@ -1,0 +1,742 @@
+{
+  "E": {
+    "ID": 506,
+    "SIC": "E",
+    "Category": "WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",
+    "E.36": {
+      "ID": 507,
+      "SIC": "E.36",
+      "Category": "Water collection, treatment and supply",
+      "E.36.0": {
+        "ID": 508,
+        "SIC": "E.36.0",
+        "Category": "Water collection, treatment and supply",
+        "E.36.0.0": {
+          "ID": 509,
+          "SIC": "E.36.0.0",
+          "Category": "Water collection, treatment and supply",
+          "E.36.0.0.0.1": {
+            "ID": 11185,
+            "SIC": "E.36.0.0.0.1",
+            "Category": "Collection of rain water"
+          },
+          "E.36.0.0.0.2": {
+            "ID": 11186,
+            "SIC": "E.36.0.0.0.2",
+            "Category": "Collection of water from rivers, lakes, wells"
+          },
+          "E.36.0.0.0.3": {
+            "ID": 11187,
+            "SIC": "E.36.0.0.0.3",
+            "Category": "Desalting of sea or ground water to produce water"
+          },
+          "E.36.0.0.0.4": {
+            "ID": 11188,
+            "SIC": "E.36.0.0.0.4",
+            "Category": "Distribution of water through mains, by trucks or other means "
+          },
+          "E.36.0.0.0.5": {
+            "ID": 11189,
+            "SIC": "E.36.0.0.0.5",
+            "Category": "Operation of irrigation canals"
+          },
+          "E.36.0.0.0.6": {
+            "ID": 11190,
+            "SIC": "E.36.0.0.0.6",
+            "Category": "Sea water desalination"
+          },
+          "E.36.0.0.0.7": {
+            "ID": 11191,
+            "SIC": "E.36.0.0.0.7",
+            "Category": "Treatment of water for industrial and other purposes"
+          },
+          "E.36.0.0.0.8": {
+            "ID": 11192,
+            "SIC": "E.36.0.0.0.8",
+            "Category": "Water authority (headquarters and water supply)"
+          },
+          "E.36.0.0.0.9": {
+            "ID": 11193,
+            "SIC": "E.36.0.0.0.9",
+            "Category": "Water collection, purification and distribution"
+          },
+          "E.36.0.0.0.10": {
+            "ID": 11194,
+            "SIC": "E.36.0.0.0.10",
+            "Category": "Water company"
+          },
+          "E.36.0.0.0.11": {
+            "ID": 11195,
+            "SIC": "E.36.0.0.0.11",
+            "Category": "Water conservation"
+          }
+        }
+      }
+    },
+    "E.37": {
+      "ID": 510,
+      "SIC": "E.37",
+      "Category": "Sewerage",
+      "E.37.0": {
+        "ID": 511,
+        "SIC": "E.37.0",
+        "Category": "Sewerage",
+        "E.37.0.0": {
+          "ID": 512,
+          "SIC": "E.37.0.0",
+          "Category": "Sewerage",
+          "E.37.0.0.0.1": {
+            "ID": 11196,
+            "SIC": "E.37.0.0.0.1",
+            "Category": "Cesspools emptying and cleaning"
+          },
+          "E.37.0.0.0.2": {
+            "ID": 11197,
+            "SIC": "E.37.0.0.0.2",
+            "Category": "Chemical toilets servicing"
+          },
+          "E.37.0.0.0.3": {
+            "ID": 11198,
+            "SIC": "E.37.0.0.0.3",
+            "Category": "Drains maintenance"
+          },
+          "E.37.0.0.0.4": {
+            "ID": 11199,
+            "SIC": "E.37.0.0.0.4",
+            "Category": "Human waste water collection and transport by sewers, collectors, tanks and other means of transport"
+          },
+          "E.37.0.0.0.5": {
+            "ID": 11200,
+            "SIC": "E.37.0.0.0.5",
+            "Category": "Local authority drainage services"
+          },
+          "E.37.0.0.0.6": {
+            "ID": 11201,
+            "SIC": "E.37.0.0.0.6",
+            "Category": "Local authority sewage services"
+          },
+          "E.37.0.0.0.7": {
+            "ID": 11202,
+            "SIC": "E.37.0.0.0.7",
+            "Category": "Rain water collection and transportation by sewers, collectors, tanks and other means of transport"
+          },
+          "E.37.0.0.0.8": {
+            "ID": 11203,
+            "SIC": "E.37.0.0.0.8",
+            "Category": "Septic tanks emptying and cleaning"
+          },
+          "E.37.0.0.0.9": {
+            "ID": 11204,
+            "SIC": "E.37.0.0.0.9",
+            "Category": "Sewage farm"
+          },
+          "E.37.0.0.0.10": {
+            "ID": 11205,
+            "SIC": "E.37.0.0.0.10",
+            "Category": "Sewage works"
+          },
+          "E.37.0.0.0.11": {
+            "ID": 11206,
+            "SIC": "E.37.0.0.0.11",
+            "Category": "Sewerage system maintenance and operation"
+          },
+          "E.37.0.0.0.12": {
+            "ID": 11207,
+            "SIC": "E.37.0.0.0.12",
+            "Category": "Treatment of human waste water by means of physical, chemical and biological processes "
+          },
+          "E.37.0.0.0.13": {
+            "ID": 11208,
+            "SIC": "E.37.0.0.0.13",
+            "Category": "Treatment of waste water (human, industrial, from swimming pools etc.) by various processes."
+          }
+        }
+      }
+    },
+    "E.38": {
+      "ID": 513,
+      "SIC": "E.38",
+      "Category": "Waste collection, treatment and disposal activities; materials recovery",
+      "E.38.1": {
+        "ID": 514,
+        "SIC": "E.38.1",
+        "Category": "Waste collection",
+        "E.38.1.1": {
+          "ID": 515,
+          "SIC": "E.38.1.1",
+          "Category": "Collection of non-hazardous waste",
+          "E.38.1.1.0.1": {
+            "ID": 11209,
+            "SIC": "E.38.1.1.0.1",
+            "Category": "Building debris removal"
+          },
+          "E.38.1.1.0.2": {
+            "ID": 11210,
+            "SIC": "E.38.1.1.0.2",
+            "Category": "Collection and removal of non hazardous debris and rubble"
+          },
+          "E.38.1.1.0.3": {
+            "ID": 11211,
+            "SIC": "E.38.1.1.0.3",
+            "Category": "Collection of non hazardous construction and demolition waste"
+          },
+          "E.38.1.1.0.4": {
+            "ID": 11212,
+            "SIC": "E.38.1.1.0.4",
+            "Category": "Collection of non hazardous recyclable materials"
+          },
+          "E.38.1.1.0.5": {
+            "ID": 11213,
+            "SIC": "E.38.1.1.0.5",
+            "Category": "Collection of non hazardous waste output of textile mills"
+          },
+          "E.38.1.1.0.6": {
+            "ID": 11214,
+            "SIC": "E.38.1.1.0.6",
+            "Category": "Collection of refuse in litter bins in public places"
+          },
+          "E.38.1.1.0.7": {
+            "ID": 11215,
+            "SIC": "E.38.1.1.0.7",
+            "Category": "Construction and demolition waste collection"
+          },
+          "E.38.1.1.0.8": {
+            "ID": 11216,
+            "SIC": "E.38.1.1.0.8",
+            "Category": "Dustman"
+          },
+          "E.38.1.1.0.9": {
+            "ID": 11217,
+            "SIC": "E.38.1.1.0.9",
+            "Category": "Garbage collection"
+          },
+          "E.38.1.1.0.10": {
+            "ID": 11218,
+            "SIC": "E.38.1.1.0.10",
+            "Category": "Litter box refuse collection (public)"
+          },
+          "E.38.1.1.0.11": {
+            "ID": 11219,
+            "SIC": "E.38.1.1.0.11",
+            "Category": "Operation of waste transfer facilities for non-hazardous waste"
+          },
+          "E.38.1.1.0.12": {
+            "ID": 11220,
+            "SIC": "E.38.1.1.0.12",
+            "Category": "Recycling centres for non-hazardous waste"
+          },
+          "E.38.1.1.0.13": {
+            "ID": 11221,
+            "SIC": "E.38.1.1.0.13",
+            "Category": "Recycling centres for non-hazardous waste"
+          },
+          "E.38.1.1.0.14": {
+            "ID": 11222,
+            "SIC": "E.38.1.1.0.14",
+            "Category": "Refuse collection by local authority cleansing department"
+          },
+          "E.38.1.1.0.15": {
+            "ID": 11223,
+            "SIC": "E.38.1.1.0.15",
+            "Category": "Rubbish collection"
+          },
+          "E.38.1.1.0.16": {
+            "ID": 11224,
+            "SIC": "E.38.1.1.0.16",
+            "Category": "Skip hire (waste transportation)"
+          },
+          "E.38.1.1.0.17": {
+            "ID": 11225,
+            "SIC": "E.38.1.1.0.17",
+            "Category": "Trash collection"
+          },
+          "E.38.1.1.0.18": {
+            "ID": 11226,
+            "SIC": "E.38.1.1.0.18",
+            "Category": "Waste collection"
+          },
+          "E.38.1.1.0.19": {
+            "ID": 11227,
+            "SIC": "E.38.1.1.0.19",
+            "Category": "Waste collection centre"
+          }
+        },
+        "E.38.1.2": {
+          "ID": 516,
+          "SIC": "E.38.1.2",
+          "Category": "Collection of hazardous waste",
+          "E.38.1.2.0.1": {
+            "ID": 11228,
+            "SIC": "E.38.1.2.0.1",
+            "Category": "Collection and treatment of radioactive nuclear waste"
+          },
+          "E.38.1.2.0.2": {
+            "ID": 11229,
+            "SIC": "E.38.1.2.0.2",
+            "Category": "Collection and treatment of spent (irradiated) fuel elements (cartridges) from nuclear reactors"
+          },
+          "E.38.1.2.0.3": {
+            "ID": 11230,
+            "SIC": "E.38.1.2.0.3",
+            "Category": "Collection of bio-hazardous waste"
+          },
+          "E.38.1.2.0.4": {
+            "ID": 11231,
+            "SIC": "E.38.1.2.0.4",
+            "Category": "Collection of nuclear waste"
+          },
+          "E.38.1.2.0.5": {
+            "ID": 11232,
+            "SIC": "E.38.1.2.0.5",
+            "Category": "Collection of used oil from shipment or garages"
+          },
+          "E.38.1.2.0.6": {
+            "ID": 11233,
+            "SIC": "E.38.1.2.0.6",
+            "Category": "Hazardous waste collection (e.g. Batteries, used cooking oils, etc.)"
+          },
+          "E.38.1.2.0.7": {
+            "ID": 11234,
+            "SIC": "E.38.1.2.0.7",
+            "Category": "Operation of waste transfer stations for hazardous waste"
+          }
+        }
+      },
+      "E.38.2": {
+        "ID": 517,
+        "SIC": "E.38.2",
+        "Category": "Waste treatment and disposal",
+        "E.38.2.1": {
+          "ID": 518,
+          "SIC": "E.38.2.1",
+          "Category": "Treatment and disposal of non-hazardous waste",
+          "E.38.2.1.0.1": {
+            "ID": 11235,
+            "SIC": "E.38.2.1.0.1",
+            "Category": "Ashes and residues of incineration of mining and quarrying waste"
+          },
+          "E.38.2.1.0.2": {
+            "ID": 11236,
+            "SIC": "E.38.2.1.0.2",
+            "Category": "Disposal of non-hazardous waste by combustion or incineration or other methods"
+          },
+          "E.38.2.1.0.3": {
+            "ID": 11237,
+            "SIC": "E.38.2.1.0.3",
+            "Category": "Landfill for the disposal of refuse and waste"
+          },
+          "E.38.2.1.0.4": {
+            "ID": 11238,
+            "SIC": "E.38.2.1.0.4",
+            "Category": "Local authority refuse disposal"
+          },
+          "E.38.2.1.0.5": {
+            "ID": 11239,
+            "SIC": "E.38.2.1.0.5",
+            "Category": "Operation of landfills for the disposal of non-hazardous waste"
+          },
+          "E.38.2.1.0.6": {
+            "ID": 11240,
+            "SIC": "E.38.2.1.0.6",
+            "Category": "Production of compost from organic waste"
+          },
+          "E.38.2.1.0.7": {
+            "ID": 11241,
+            "SIC": "E.38.2.1.0.7",
+            "Category": "Refuse disposal plant or tip (local authority or municipally owned)"
+          },
+          "E.38.2.1.0.8": {
+            "ID": 11242,
+            "SIC": "E.38.2.1.0.8",
+            "Category": "Refuse disposal tip operator"
+          },
+          "E.38.2.1.0.9": {
+            "ID": 11243,
+            "SIC": "E.38.2.1.0.9",
+            "Category": "Treatment and disposal of non-hazardous waste"
+          },
+          "E.38.2.1.0.10": {
+            "ID": 11244,
+            "SIC": "E.38.2.1.0.10",
+            "Category": "Treatment of organic waste for disposal"
+          },
+          "E.38.2.1.0.11": {
+            "ID": 11245,
+            "SIC": "E.38.2.1.0.11",
+            "Category": "Waste disposal (non hazardous)"
+          },
+          "E.38.2.1.0.12": {
+            "ID": 11246,
+            "SIC": "E.38.2.1.0.12",
+            "Category": "Waste incineration (non hazardous)"
+          },
+          "E.38.2.1.0.13": {
+            "ID": 11247,
+            "SIC": "E.38.2.1.0.13",
+            "Category": "Waste treatment by composting of plant materials"
+          }
+        },
+        "E.38.2.2": {
+          "ID": 519,
+          "SIC": "E.38.2.2",
+          "Category": "Treatment and disposal of hazardous waste",
+          "E.38.2.2.0.1": {
+            "ID": 11248,
+            "SIC": "E.38.2.2.0.1",
+            "Category": "Disposal of nuclear waste"
+          },
+          "E.38.2.2.0.2": {
+            "ID": 11249,
+            "SIC": "E.38.2.2.0.2",
+            "Category": "Disposal of sick or dead animals (toxic)"
+          },
+          "E.38.2.2.0.3": {
+            "ID": 11250,
+            "SIC": "E.38.2.2.0.3",
+            "Category": "Disposal of used goods such as refrigerators to eliminate harmful waste"
+          },
+          "E.38.2.2.0.4": {
+            "ID": 11251,
+            "SIC": "E.38.2.2.0.4",
+            "Category": "Encapsulation, preparation and other treatment of nuclear waste for storage"
+          },
+          "E.38.2.2.0.5": {
+            "ID": 11252,
+            "SIC": "E.38.2.2.0.5",
+            "Category": "Incineration of hazardous waste"
+          },
+          "E.38.2.2.0.6": {
+            "ID": 11253,
+            "SIC": "E.38.2.2.0.6",
+            "Category": "Operation of facilities for treatment of hazardous waste"
+          },
+          "E.38.2.2.0.7": {
+            "ID": 11254,
+            "SIC": "E.38.2.2.0.7",
+            "Category": "Toxic waste treatment service"
+          },
+          "E.38.2.2.0.8": {
+            "ID": 11255,
+            "SIC": "E.38.2.2.0.8",
+            "Category": "Treatment and disposal of foul liquids (e.g. Leachate)"
+          },
+          "E.38.2.2.0.9": {
+            "ID": 11256,
+            "SIC": "E.38.2.2.0.9",
+            "Category": "Treatment and disposal of hazardous waste"
+          },
+          "E.38.2.2.0.10": {
+            "ID": 11257,
+            "SIC": "E.38.2.2.0.10",
+            "Category": "Treatment and disposal of nuclear waste"
+          },
+          "E.38.2.2.0.11": {
+            "ID": 11258,
+            "SIC": "E.38.2.2.0.11",
+            "Category": "Treatment and disposal of radioactive waste from hospitals, etc."
+          },
+          "E.38.2.2.0.12": {
+            "ID": 11259,
+            "SIC": "E.38.2.2.0.12",
+            "Category": "Treatment and disposal of toxic live or dead animals and other contaminated waste"
+          },
+          "E.38.2.2.0.13": {
+            "ID": 11260,
+            "SIC": "E.38.2.2.0.13",
+            "Category": "Treatment and disposal of transition radioactive waste"
+          },
+          "E.38.2.2.0.14": {
+            "ID": 11261,
+            "SIC": "E.38.2.2.0.14",
+            "Category": "Treatment, disposal and storage of radioactive nuclear waste "
+          }
+        }
+      },
+      "E.38.3": {
+        "ID": 520,
+        "SIC": "E.38.3",
+        "Category": "Materials recovery",
+        "E.38.3.1": {
+          "ID": 521,
+          "SIC": "E.38.3.1",
+          "Category": "Dismantling of wrecks",
+          "E.38.3.1.0.1": {
+            "ID": 11262,
+            "SIC": "E.38.3.1.0.1",
+            "Category": "Dismantling of automobile wrecks for materials recovery"
+          },
+          "E.38.3.1.0.2": {
+            "ID": 11263,
+            "SIC": "E.38.3.1.0.2",
+            "Category": "Dismantling of computers for materials recovery"
+          },
+          "E.38.3.1.0.3": {
+            "ID": 11264,
+            "SIC": "E.38.3.1.0.3",
+            "Category": "Dismantling of ship wrecks for materials recovery"
+          },
+          "E.38.3.1.0.4": {
+            "ID": 11265,
+            "SIC": "E.38.3.1.0.4",
+            "Category": "Dismantling of televisions for materials recovery"
+          },
+          "E.38.3.1.0.5": {
+            "ID": 11266,
+            "SIC": "E.38.3.1.0.5",
+            "Category": "Dismantling of wrecks for materials recovery"
+          }
+        },
+        "E.38.3.2": {
+          "ID": 522,
+          "SIC": "E.38.3.2",
+          "Category": "Recovery of sorted materials",
+          "E.38.3.2.0.1": {
+            "ID": 11267,
+            "SIC": "E.38.3.2.0.1",
+            "Category": "Cleaning and devulcanising of waste rubber"
+          },
+          "E.38.3.2.0.2": {
+            "ID": 11268,
+            "SIC": "E.38.3.2.0.2",
+            "Category": "Crushing, cleaning and sorting of demolition waste to obtain secondary raw materials"
+          },
+          "E.38.3.2.0.3": {
+            "ID": 11269,
+            "SIC": "E.38.3.2.0.3",
+            "Category": "Crushing, cleaning and sorting of glass"
+          },
+          "E.38.3.2.0.4": {
+            "ID": 11270,
+            "SIC": "E.38.3.2.0.4",
+            "Category": "Crushing, cleaning and sorting of glass to produce secondary raw materials"
+          },
+          "E.38.3.2.0.5": {
+            "ID": 11271,
+            "SIC": "E.38.3.2.0.5",
+            "Category": "Disposal of waste oil"
+          },
+          "E.38.3.2.0.6": {
+            "ID": 11272,
+            "SIC": "E.38.3.2.0.6",
+            "Category": "Disposal of waste oil"
+          },
+          "E.38.3.2.0.7": {
+            "ID": 11273,
+            "SIC": "E.38.3.2.0.7",
+            "Category": "Extraction of silver from waste"
+          },
+          "E.38.3.2.0.8": {
+            "ID": 11274,
+            "SIC": "E.38.3.2.0.8",
+            "Category": "Extraction of silver from waste"
+          },
+          "E.38.3.2.0.9": {
+            "ID": 11275,
+            "SIC": "E.38.3.2.0.9",
+            "Category": "Mechanical crushing of metal waste (cars, washing machines, etc.) With sorting and separation"
+          },
+          "E.38.3.2.0.10": {
+            "ID": 11276,
+            "SIC": "E.38.3.2.0.10",
+            "Category": "Mechanical crushing of metal waste from used bikes"
+          },
+          "E.38.3.2.0.11": {
+            "ID": 11277,
+            "SIC": "E.38.3.2.0.11",
+            "Category": "Mechanical reduction of large iron pieces such as railway wagons into secondary raw materials"
+          },
+          "E.38.3.2.0.12": {
+            "ID": 11278,
+            "SIC": "E.38.3.2.0.12",
+            "Category": "Non-metal waste and scrap recycling into secondary raw materials"
+          },
+          "E.38.3.2.0.13": {
+            "ID": 11279,
+            "SIC": "E.38.3.2.0.13",
+            "Category": "Processing cleaning, melting, grinding of plastic or rubber waste to granulates"
+          },
+          "E.38.3.2.0.14": {
+            "ID": 11280,
+            "SIC": "E.38.3.2.0.14",
+            "Category": "Processing of food, beverage and tobacco waste and residual substances into secondary raw materials"
+          },
+          "E.38.3.2.0.15": {
+            "ID": 11281,
+            "SIC": "E.38.3.2.0.15",
+            "Category": "Processing of used cooking oils and fats into secondary raw materials"
+          },
+          "E.38.3.2.0.16": {
+            "ID": 11282,
+            "SIC": "E.38.3.2.0.16",
+            "Category": "Reclaiming metals out of photographic waste, e.g. Fixer solution or photographic films and paper "
+          },
+          "E.38.3.2.0.17": {
+            "ID": 11283,
+            "SIC": "E.38.3.2.0.17",
+            "Category": "Reclaiming of rubber to produce secondary raw materials"
+          },
+          "E.38.3.2.0.18": {
+            "ID": 11284,
+            "SIC": "E.38.3.2.0.18",
+            "Category": "Recovery of waste oil"
+          },
+          "E.38.3.2.0.19": {
+            "ID": 11285,
+            "SIC": "E.38.3.2.0.19",
+            "Category": "Recovery of waste oil"
+          },
+          "E.38.3.2.0.20": {
+            "ID": 11286,
+            "SIC": "E.38.3.2.0.20",
+            "Category": "Rubber powder from waste"
+          },
+          "E.38.3.2.0.21": {
+            "ID": 11287,
+            "SIC": "E.38.3.2.0.21",
+            "Category": "Rubber powder from waste"
+          },
+          "E.38.3.2.0.22": {
+            "ID": 11288,
+            "SIC": "E.38.3.2.0.22",
+            "Category": "Scrap metal recycling into new raw materials (except remelting of ferrous waste and scrap)"
+          },
+          "E.38.3.2.0.23": {
+            "ID": 11289,
+            "SIC": "E.38.3.2.0.23",
+            "Category": "Shredding of metal waste, end-of-life vehicles "
+          },
+          "E.38.3.2.0.24": {
+            "ID": 11290,
+            "SIC": "E.38.3.2.0.24",
+            "Category": "Sorting and pelleting of plastics to produce secondary raw material for tubes, flower pots, pallets "
+          },
+          "E.38.3.2.0.25": {
+            "ID": 11291,
+            "SIC": "E.38.3.2.0.25",
+            "Category": "Sorting and pelleting of plastics to produce secondary raw materials"
+          },
+          "E.38.3.2.0.26": {
+            "ID": 11292,
+            "SIC": "E.38.3.2.0.26",
+            "Category": "Treatment of waste oil"
+          },
+          "E.38.3.2.0.27": {
+            "ID": 11293,
+            "SIC": "E.38.3.2.0.27",
+            "Category": "Treatment of waste oil"
+          }
+        }
+      }
+    },
+    "E.39": {
+      "ID": 523,
+      "SIC": "E.39",
+      "Category": "Remediation activities and other waste management services.",
+      "E.39.0": {
+        "ID": 524,
+        "SIC": "E.39.0",
+        "Category": "Remediation activities and other waste management services",
+        "E.39.0.0": {
+          "ID": 525,
+          "SIC": "E.39.0.0",
+          "Category": "Remediation activities and other waste management services",
+          "E.39.0.0.0.1": {
+            "ID": 11294,
+            "SIC": "E.39.0.0.0.1",
+            "Category": "Asbestos, lead paint, and other toxic material abatement"
+          },
+          "E.39.0.0.0.2": {
+            "ID": 11295,
+            "SIC": "E.39.0.0.0.2",
+            "Category": "Asbestos removal work"
+          },
+          "E.39.0.0.0.3": {
+            "ID": 11296,
+            "SIC": "E.39.0.0.0.3",
+            "Category": "Cleaning up oil spills and other pollutions in ocean and seas including coastal areas"
+          },
+          "E.39.0.0.0.4": {
+            "ID": 11297,
+            "SIC": "E.39.0.0.0.4",
+            "Category": "Cleaning up oil spills and other pollutions in surface water"
+          },
+          "E.39.0.0.0.5": {
+            "ID": 11298,
+            "SIC": "E.39.0.0.0.5",
+            "Category": "Cleaning up oil spills and other pollutions on land"
+          },
+          "E.39.0.0.0.6": {
+            "ID": 11299,
+            "SIC": "E.39.0.0.0.6",
+            "Category": "Decontamination and cleaning up of surface water following accidental pollution"
+          },
+          "E.39.0.0.0.7": {
+            "ID": 11300,
+            "SIC": "E.39.0.0.0.7",
+            "Category": "Decontamination of industrial plants or sites"
+          },
+          "E.39.0.0.0.8": {
+            "ID": 11301,
+            "SIC": "E.39.0.0.0.8",
+            "Category": "Decontamination of nuclear plants and sites"
+          },
+          "E.39.0.0.0.9": {
+            "ID": 11302,
+            "SIC": "E.39.0.0.0.9",
+            "Category": "Decontamination of soil and groundwater"
+          },
+          "E.39.0.0.0.10": {
+            "ID": 11303,
+            "SIC": "E.39.0.0.0.10",
+            "Category": "Decontamination of soils and groundwater at the place of pollution using biological methods"
+          },
+          "E.39.0.0.0.11": {
+            "ID": 11304,
+            "SIC": "E.39.0.0.0.11",
+            "Category": "Decontamination of soils and groundwater at the place of pollution using chemical methods"
+          },
+          "E.39.0.0.0.12": {
+            "ID": 11305,
+            "SIC": "E.39.0.0.0.12",
+            "Category": "Decontamination of soils and groundwater at the place of pollution using mechanical methods"
+          },
+          "E.39.0.0.0.13": {
+            "ID": 11306,
+            "SIC": "E.39.0.0.0.13",
+            "Category": "Decontamination of surface water"
+          },
+          "E.39.0.0.0.14": {
+            "ID": 11307,
+            "SIC": "E.39.0.0.0.14",
+            "Category": "Minefield clearance"
+          },
+          "E.39.0.0.0.15": {
+            "ID": 11308,
+            "SIC": "E.39.0.0.0.15",
+            "Category": "Oil spill clearance on land"
+          },
+          "E.39.0.0.0.16": {
+            "ID": 11309,
+            "SIC": "E.39.0.0.0.16",
+            "Category": "Oil spill pollution control services"
+          },
+          "E.39.0.0.0.17": {
+            "ID": 11310,
+            "SIC": "E.39.0.0.0.17",
+            "Category": "Oil spills at sea containment, dispersion and clean up services"
+          },
+          "E.39.0.0.0.18": {
+            "ID": 11311,
+            "SIC": "E.39.0.0.0.18",
+            "Category": "Remediation activities and other waste management services"
+          },
+          "E.39.0.0.0.19": {
+            "ID": 11312,
+            "SIC": "E.39.0.0.0.19",
+            "Category": "Specialised pollution control activities"
+          }
+        }
+      }
+    }
+  }
+}

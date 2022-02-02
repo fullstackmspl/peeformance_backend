@@ -1,0 +1,48 @@
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78', 'N', 'Employment activities', 2);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1', 'N.78', 'Activities of employment placement agencies', 3);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.1', 'N.78.1', 'Executive Search', 4);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2', 'N.78.1', 'Traditional Recruitment', 4);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.1', 'N.78.1.2', 'Accounting & Finance', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.10', 'N.78.1.2', 'Industrial & Cleaning', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.11', 'N.78.1.2', 'Technology', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.12', 'N.78.1.2', 'Manufacturing & Production', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.13', 'N.78.1.2', 'Retail', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.14', 'N.78.1.2', 'Security', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.15', 'N.78.1.2', 'Social Care', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.2', 'N.78.1.2', 'Admin', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.3', 'N.78.1.2', 'Agriculture', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.4', 'N.78.1.2', 'Catering & Hospitality', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.5', 'N.78.1.2', 'Construction', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.6', 'N.78.1.2', 'Driving', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.7', 'N.78.1.2', 'Education', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.8', 'N.78.1.2', 'Engineering', 6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level) VALUES('N.78.1.2.0.9', 'N.78.1.2', 'Health Care', 6);
+
+--- ---
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.1','N.78.1.1','Agribusiness',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.2','N.78.1.1','Aviation',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.3','N.78.1.1','Aerospace & Defense',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.4','N.78.1.1','Automotive',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.5','N.78.1.1','Chemicals & Materials',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.6','N.78.1.1','Consumer and Commercial Financial Services',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.7','N.78.1.1','Consumer Products',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.8','N.78.1.1','Corporate & Investment Banking / Global Markets',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.9','N.78.1.1','Energy & Natural Resources',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.10','N.78.1.1','Financial Services',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.11','N.78.1.1','Healthcare',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.12','N.78.1.1','High Technology & Semiconductors',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.13','N.78.1.1','Infrastructure',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.14','N.78.1.1','Insurance',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.15','N.78.1.1','Investment Management',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.16','N.78.1.1','Life Sciences',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.17','N.78.1.1','Manufacturing',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.18','N.78.1.1','Media & Entertainment',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.19','N.78.1.1','Private Equity',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.20','N.78.1.1','Professional Services',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.21','N.78.1.1','Public Sector',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.22','N.78.1.1','Real Estate',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.23','N.78.1.1','Software & Platforms',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.24','N.78.1.1','Sports',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.25','N.78.1.1','Technology',6);
+INSERT INTO PEERFORMANCE.Categories (SIC,ParentSIC, Category, Level ) VALUES('N.78.1.1.0.26','N.78.1.1','Telecommunications',6);
+

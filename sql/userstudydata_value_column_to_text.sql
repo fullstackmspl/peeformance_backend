@@ -1,0 +1,1 @@
+ALTER TABLE peerformance.userstudydata MODIFY COLUMN Value TEXT NOT NULL;

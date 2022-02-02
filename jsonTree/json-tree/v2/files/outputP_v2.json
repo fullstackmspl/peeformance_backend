@@ -1,0 +1,847 @@
+{
+  "P": {
+    "ID": 1069,
+    "SIC": "P",
+    "Category": "EDUCATION",
+    "P.85": {
+      "ID": 1070,
+      "SIC": "P.85",
+      "Category": "Education",
+      "P.85.1": {
+        "ID": 1071,
+        "SIC": "P.85.1",
+        "Category": "Pre-primary education",
+        "P.85.1.0": {
+          "ID": 1072,
+          "SIC": "P.85.1.0",
+          "Category": "Pre-primary education",
+          "P.85.1.0.0.1": {
+            "ID": 15429,
+            "SIC": "P.85.1.0.0.1",
+            "Category": "Church schools at nursery and primary level"
+          },
+          "P.85.1.0.0.2": {
+            "ID": 15430,
+            "SIC": "P.85.1.0.0.2",
+            "Category": "Hospital schools at nursery and primary level"
+          },
+          "P.85.1.0.0.3": {
+            "ID": 15431,
+            "SIC": "P.85.1.0.0.3",
+            "Category": "Kindergartens"
+          },
+          "P.85.1.0.0.4": {
+            "ID": 15432,
+            "SIC": "P.85.1.0.0.4",
+            "Category": "Nursery schools"
+          },
+          "P.85.1.0.0.5": {
+            "ID": 15433,
+            "SIC": "P.85.1.0.0.5",
+            "Category": "Pre-primary education"
+          }
+        }
+      },
+      "P.85.2": {
+        "ID": 1073,
+        "SIC": "P.85.2",
+        "Category": "Primary education",
+        "P.85.2.0": {
+          "ID": 1074,
+          "SIC": "P.85.2.0",
+          "Category": "Primary education",
+          "P.85.2.0.0.1": {
+            "ID": 15434,
+            "SIC": "P.85.2.0.0.1",
+            "Category": "Infant schools"
+          },
+          "P.85.2.0.0.2": {
+            "ID": 15435,
+            "SIC": "P.85.2.0.0.2",
+            "Category": "Junior schools"
+          },
+          "P.85.2.0.0.3": {
+            "ID": 15436,
+            "SIC": "P.85.2.0.0.3",
+            "Category": "Middle schools deemed primary"
+          },
+          "P.85.2.0.0.4": {
+            "ID": 15437,
+            "SIC": "P.85.2.0.0.4",
+            "Category": "Preparatory schools"
+          },
+          "P.85.2.0.0.5": {
+            "ID": 15438,
+            "SIC": "P.85.2.0.0.5",
+            "Category": "Primary and pre-primary education"
+          },
+          "P.85.2.0.0.6": {
+            "ID": 15439,
+            "SIC": "P.85.2.0.0.6",
+            "Category": "Primary education"
+          },
+          "P.85.2.0.0.7": {
+            "ID": 15440,
+            "SIC": "P.85.2.0.0.7",
+            "Category": "Primary schools"
+          },
+          "P.85.2.0.0.8": {
+            "ID": 15441,
+            "SIC": "P.85.2.0.0.8",
+            "Category": "Special schools at primary and pre-primary level"
+          }
+        }
+      },
+      "P.85.3": {
+        "ID": 1075,
+        "SIC": "P.85.3",
+        "Category": "Secondary education",
+        "P.85.3.1": {
+          "ID": 1076,
+          "SIC": "P.85.3.1",
+          "Category": "General secondary education",
+          "P.85.3.1.0.1": {
+            "ID": 15442,
+            "SIC": "P.85.3.1.0.1",
+            "Category": "Church schools at secondary level"
+          },
+          "P.85.3.1.0.2": {
+            "ID": 15443,
+            "SIC": "P.85.3.1.0.2",
+            "Category": "Comprehensive schools"
+          },
+          "P.85.3.1.0.3": {
+            "ID": 15444,
+            "SIC": "P.85.3.1.0.3",
+            "Category": "Convent schools at secondary level"
+          },
+          "P.85.3.1.0.4": {
+            "ID": 15445,
+            "SIC": "P.85.3.1.0.4",
+            "Category": "Grammar schools"
+          },
+          "P.85.3.1.0.5": {
+            "ID": 15446,
+            "SIC": "P.85.3.1.0.5",
+            "Category": "Hospital schools at secondary level"
+          },
+          "P.85.3.1.0.6": {
+            "ID": 15447,
+            "SIC": "P.85.3.1.0.6",
+            "Category": "Public schools"
+          },
+          "P.85.3.1.0.7": {
+            "ID": 15448,
+            "SIC": "P.85.3.1.0.7",
+            "Category": "School examination board"
+          },
+          "P.85.3.1.0.8": {
+            "ID": 15449,
+            "SIC": "P.85.3.1.0.8",
+            "Category": "Secondary level education"
+          },
+          "P.85.3.1.0.9": {
+            "ID": 15450,
+            "SIC": "P.85.3.1.0.9",
+            "Category": "Secondary modern schools"
+          },
+          "P.85.3.1.0.10": {
+            "ID": 15451,
+            "SIC": "P.85.3.1.0.10",
+            "Category": "Secondary schools"
+          },
+          "P.85.3.1.0.11": {
+            "ID": 15452,
+            "SIC": "P.85.3.1.0.11",
+            "Category": "Sixth form colleges"
+          },
+          "P.85.3.1.0.12": {
+            "ID": 15453,
+            "SIC": "P.85.3.1.0.12",
+            "Category": "Special schools at secondary level"
+          }
+        },
+        "P.85.3.2": {
+          "ID": 1077,
+          "SIC": "P.85.3.2",
+          "Category": "Technical and vocational secondary education",
+          "P.85.3.2.0.1": {
+            "ID": 15454,
+            "SIC": "P.85.3.2.0.1",
+            "Category": "Agricultural college"
+          },
+          "P.85.3.2.0.2": {
+            "ID": 15455,
+            "SIC": "P.85.3.2.0.2",
+            "Category": "Apprentice school"
+          },
+          "P.85.3.2.0.3": {
+            "ID": 15456,
+            "SIC": "P.85.3.2.0.3",
+            "Category": "Arts and crafts school"
+          },
+          "P.85.3.2.0.4": {
+            "ID": 15457,
+            "SIC": "P.85.3.2.0.4",
+            "Category": "Ballet school"
+          },
+          "P.85.3.2.0.5": {
+            "ID": 15458,
+            "SIC": "P.85.3.2.0.5",
+            "Category": "City and Guilds of London Institute"
+          },
+          "P.85.3.2.0.6": {
+            "ID": 15459,
+            "SIC": "P.85.3.2.0.6",
+            "Category": "Civil service college"
+          },
+          "P.85.3.2.0.7": {
+            "ID": 15460,
+            "SIC": "P.85.3.2.0.7",
+            "Category": "College of art"
+          },
+          "P.85.3.2.0.8": {
+            "ID": 15461,
+            "SIC": "P.85.3.2.0.8",
+            "Category": "College of music"
+          },
+          "P.85.3.2.0.9": {
+            "ID": 15462,
+            "SIC": "P.85.3.2.0.9",
+            "Category": "College of technology"
+          },
+          "P.85.3.2.0.10": {
+            "ID": 15463,
+            "SIC": "P.85.3.2.0.10",
+            "Category": "Commercial school"
+          },
+          "P.85.3.2.0.11": {
+            "ID": 15464,
+            "SIC": "P.85.3.2.0.11",
+            "Category": "Computer repair training"
+          },
+          "P.85.3.2.0.12": {
+            "ID": 15465,
+            "SIC": "P.85.3.2.0.12",
+            "Category": "Cosmetology and barber schools"
+          },
+          "P.85.3.2.0.13": {
+            "ID": 15466,
+            "SIC": "P.85.3.2.0.13",
+            "Category": "Driving schools for occupational drivers e.g. Of trucks, buses, coaches"
+          },
+          "P.85.3.2.0.14": {
+            "ID": 15467,
+            "SIC": "P.85.3.2.0.14",
+            "Category": "Flying school (for airline pilots)"
+          },
+          "P.85.3.2.0.15": {
+            "ID": 15468,
+            "SIC": "P.85.3.2.0.15",
+            "Category": "Flying schools for commercial airline pilots"
+          },
+          "P.85.3.2.0.16": {
+            "ID": 15469,
+            "SIC": "P.85.3.2.0.16",
+            "Category": "Flying training for professional pilots"
+          },
+          "P.85.3.2.0.17": {
+            "ID": 15470,
+            "SIC": "P.85.3.2.0.17",
+            "Category": "Government training centre"
+          },
+          "P.85.3.2.0.18": {
+            "ID": 15471,
+            "SIC": "P.85.3.2.0.18",
+            "Category": "Instruction for chefs, hoteliers and restaurateurs"
+          },
+          "P.85.3.2.0.19": {
+            "ID": 15472,
+            "SIC": "P.85.3.2.0.19",
+            "Category": "Management training establishment"
+          },
+          "P.85.3.2.0.20": {
+            "ID": 15473,
+            "SIC": "P.85.3.2.0.20",
+            "Category": "Military school"
+          },
+          "P.85.3.2.0.21": {
+            "ID": 15474,
+            "SIC": "P.85.3.2.0.21",
+            "Category": "Music teacher (own account)"
+          },
+          "P.85.3.2.0.22": {
+            "ID": 15475,
+            "SIC": "P.85.3.2.0.22",
+            "Category": "Nautical school"
+          },
+          "P.85.3.2.0.23": {
+            "ID": 15476,
+            "SIC": "P.85.3.2.0.23",
+            "Category": "Royal Academy of Dramatic Art"
+          },
+          "P.85.3.2.0.24": {
+            "ID": 15477,
+            "SIC": "P.85.3.2.0.24",
+            "Category": "School of arts and crafts"
+          },
+          "P.85.3.2.0.25": {
+            "ID": 15478,
+            "SIC": "P.85.3.2.0.25",
+            "Category": "School of speech and drama"
+          },
+          "P.85.3.2.0.26": {
+            "ID": 15479,
+            "SIC": "P.85.3.2.0.26",
+            "Category": "Secretarial college"
+          },
+          "P.85.3.2.0.27": {
+            "ID": 15480,
+            "SIC": "P.85.3.2.0.27",
+            "Category": "Seminary"
+          },
+          "P.85.3.2.0.28": {
+            "ID": 15481,
+            "SIC": "P.85.3.2.0.28",
+            "Category": "Technical and vocational adult education (excl. cultural, sports, recreation education and the like)"
+          },
+          "P.85.3.2.0.29": {
+            "ID": 15482,
+            "SIC": "P.85.3.2.0.29",
+            "Category": "Technical and vocational education"
+          },
+          "P.85.3.2.0.30": {
+            "ID": 15483,
+            "SIC": "P.85.3.2.0.30",
+            "Category": "Technical and vocational secondary education"
+          },
+          "P.85.3.2.0.31": {
+            "ID": 15484,
+            "SIC": "P.85.3.2.0.31",
+            "Category": "Technical college"
+          },
+          "P.85.3.2.0.32": {
+            "ID": 15485,
+            "SIC": "P.85.3.2.0.32",
+            "Category": "Tertiary college"
+          },
+          "P.85.3.2.0.33": {
+            "ID": 15486,
+            "SIC": "P.85.3.2.0.33",
+            "Category": "Tourist guide instruction"
+          },
+          "P.85.3.2.0.34": {
+            "ID": 15487,
+            "SIC": "P.85.3.2.0.34",
+            "Category": "Tuition for ships' licences for commercial certificates and permits"
+          }
+        }
+      },
+      "P.85.4": {
+        "ID": 1078,
+        "SIC": "P.85.4",
+        "Category": "Higher education",
+        "P.85.4.1": {
+          "ID": 1079,
+          "SIC": "P.85.4.1",
+          "Category": "Post-secondary non-tertiary education",
+          "P.85.4.1.0.1": {
+            "ID": 15488,
+            "SIC": "P.85.4.1.0.1",
+            "Category": "College of nursing"
+          },
+          "P.85.4.1.0.2": {
+            "ID": 15489,
+            "SIC": "P.85.4.1.0.2",
+            "Category": "Higher education (sub degree level)"
+          },
+          "P.85.4.1.0.3": {
+            "ID": 15490,
+            "SIC": "P.85.4.1.0.3",
+            "Category": "Post-secondary non-tertiary vocational education"
+          },
+          "P.85.4.1.0.4": {
+            "ID": 15491,
+            "SIC": "P.85.4.1.0.4",
+            "Category": "School of languages"
+          },
+          "P.85.4.1.0.5": {
+            "ID": 15492,
+            "SIC": "P.85.4.1.0.5",
+            "Category": "Vocational education at post-secondary non-tertial level"
+          }
+        },
+        "P.85.4.2": {
+          "ID": 1080,
+          "SIC": "P.85.4.2",
+          "Category": "Tertiary education",
+          "P.85.4.2.1": {
+            "ID": 1081,
+            "SIC": "P.85.4.2.1",
+            "Category": "First-degree level higher education",
+            "P.85.4.2.1.1": {
+              "ID": 15493,
+              "SIC": "P.85.4.2.1.1",
+              "Category": "College of higher education (degree level)"
+            },
+            "P.85.4.2.1.2": {
+              "ID": 15494,
+              "SIC": "P.85.4.2.1.2",
+              "Category": "Correspondence college specialising in higher education courses (degree level)"
+            },
+            "P.85.4.2.1.3": {
+              "ID": 15495,
+              "SIC": "P.85.4.2.1.3",
+              "Category": "Dental college or school"
+            },
+            "P.85.4.2.1.4": {
+              "ID": 15496,
+              "SIC": "P.85.4.2.1.4",
+              "Category": "First-degree level higher education"
+            },
+            "P.85.4.2.1.5": {
+              "ID": 15497,
+              "SIC": "P.85.4.2.1.5",
+              "Category": "Graduate school for business studies"
+            },
+            "P.85.4.2.1.6": {
+              "ID": 15498,
+              "SIC": "P.85.4.2.1.6",
+              "Category": "Higher education at the first degree level"
+            },
+            "P.85.4.2.1.7": {
+              "ID": 15499,
+              "SIC": "P.85.4.2.1.7",
+              "Category": "Law college"
+            },
+            "P.85.4.2.1.8": {
+              "ID": 15500,
+              "SIC": "P.85.4.2.1.8",
+              "Category": "Medical school"
+            },
+            "P.85.4.2.1.9": {
+              "ID": 15501,
+              "SIC": "P.85.4.2.1.9",
+              "Category": "Military college"
+            },
+            "P.85.4.2.1.10": {
+              "ID": 15502,
+              "SIC": "P.85.4.2.1.10",
+              "Category": "Open University"
+            },
+            "P.85.4.2.1.11": {
+              "ID": 15503,
+              "SIC": "P.85.4.2.1.11",
+              "Category": "Performing arts schools providing tertiary education"
+            },
+            "P.85.4.2.1.12": {
+              "ID": 15504,
+              "SIC": "P.85.4.2.1.12",
+              "Category": "Polytechnics"
+            },
+            "P.85.4.2.1.13": {
+              "ID": 15505,
+              "SIC": "P.85.4.2.1.13",
+              "Category": "Study leading to a one year post graduate certificate of education (PGCE)"
+            },
+            "P.85.4.2.1.14": {
+              "ID": 15506,
+              "SIC": "P.85.4.2.1.14",
+              "Category": "Theological college specialising in higher education course"
+            },
+            "P.85.4.2.1.15": {
+              "ID": 15507,
+              "SIC": "P.85.4.2.1.15",
+              "Category": "Universities and Colleges Admissions Service"
+            },
+            "P.85.4.2.1.16": {
+              "ID": 15508,
+              "SIC": "P.85.4.2.1.16",
+              "Category": "University"
+            },
+            "P.85.4.2.1.17": {
+              "ID": 15509,
+              "SIC": "P.85.4.2.1.17",
+              "Category": "University college"
+            },
+            "P.85.4.2.1.18": {
+              "ID": 15510,
+              "SIC": "P.85.4.2.1.18",
+              "Category": "University medical or dental school"
+            }
+          },
+          "P.85.4.2.2": {
+            "ID": 1082,
+            "SIC": "P.85.4.2.2",
+            "Category": "Post-graduate level higher education",
+            "P.85.4.2.2.1": {
+              "ID": 15511,
+              "SIC": "P.85.4.2.2.1",
+              "Category": "Higher education at post-graduate level"
+            },
+            "P.85.4.2.2.2": {
+              "ID": 15512,
+              "SIC": "P.85.4.2.2.2",
+              "Category": "Post-graduate college"
+            }
+          }
+        }
+      },
+      "P.85.5": {
+        "ID": 1083,
+        "SIC": "P.85.5",
+        "Category": "Other education",
+        "P.85.5.1": {
+          "ID": 1084,
+          "SIC": "P.85.5.1",
+          "Category": "Sports and recreation education",
+          "P.85.5.1.0.1": {
+            "ID": 15513,
+            "SIC": "P.85.5.1.0.1",
+            "Category": "Bridge instructor"
+          },
+          "P.85.5.1.0.2": {
+            "ID": 15514,
+            "SIC": "P.85.5.1.0.2",
+            "Category": "Card game instruction"
+          },
+          "P.85.5.1.0.3": {
+            "ID": 15515,
+            "SIC": "P.85.5.1.0.3",
+            "Category": "Chess instructor"
+          },
+          "P.85.5.1.0.4": {
+            "ID": 15516,
+            "SIC": "P.85.5.1.0.4",
+            "Category": "Coaches of sport"
+          },
+          "P.85.5.1.0.5": {
+            "ID": 15517,
+            "SIC": "P.85.5.1.0.5",
+            "Category": "Gymnastics instruction"
+          },
+          "P.85.5.1.0.6": {
+            "ID": 15518,
+            "SIC": "P.85.5.1.0.6",
+            "Category": "Instructors of sport"
+          },
+          "P.85.5.1.0.7": {
+            "ID": 15519,
+            "SIC": "P.85.5.1.0.7",
+            "Category": "Martial arts instruction"
+          },
+          "P.85.5.1.0.8": {
+            "ID": 15520,
+            "SIC": "P.85.5.1.0.8",
+            "Category": "Riding school"
+          },
+          "P.85.5.1.0.9": {
+            "ID": 15521,
+            "SIC": "P.85.5.1.0.9",
+            "Category": "Ski instructor (own account)"
+          },
+          "P.85.5.1.0.10": {
+            "ID": 15522,
+            "SIC": "P.85.5.1.0.10",
+            "Category": "Sport and game schools"
+          },
+          "P.85.5.1.0.11": {
+            "ID": 15523,
+            "SIC": "P.85.5.1.0.11",
+            "Category": "Sports and recreation education"
+          },
+          "P.85.5.1.0.12": {
+            "ID": 15524,
+            "SIC": "P.85.5.1.0.12",
+            "Category": "Swimming instruction"
+          },
+          "P.85.5.1.0.13": {
+            "ID": 15525,
+            "SIC": "P.85.5.1.0.13",
+            "Category": "Teachers of sport"
+          },
+          "P.85.5.1.0.14": {
+            "ID": 15526,
+            "SIC": "P.85.5.1.0.14",
+            "Category": "Yoga instruction"
+          }
+        },
+        "P.85.5.2": {
+          "ID": 1085,
+          "SIC": "P.85.5.2",
+          "Category": "Cultural education",
+          "P.85.5.2.0.1": {
+            "ID": 15527,
+            "SIC": "P.85.5.2.0.1",
+            "Category": "Art instruction"
+          },
+          "P.85.5.2.0.2": {
+            "ID": 15528,
+            "SIC": "P.85.5.2.0.2",
+            "Category": "Cultural education"
+          },
+          "P.85.5.2.0.3": {
+            "ID": 15529,
+            "SIC": "P.85.5.2.0.3",
+            "Category": "Dancing academy (ballroom)"
+          },
+          "P.85.5.2.0.4": {
+            "ID": 15530,
+            "SIC": "P.85.5.2.0.4",
+            "Category": "Dancing master"
+          },
+          "P.85.5.2.0.5": {
+            "ID": 15531,
+            "SIC": "P.85.5.2.0.5",
+            "Category": "Dancing school"
+          },
+          "P.85.5.2.0.6": {
+            "ID": 15532,
+            "SIC": "P.85.5.2.0.6",
+            "Category": "Dancing schools and dance instructor activities"
+          },
+          "P.85.5.2.0.7": {
+            "ID": 15533,
+            "SIC": "P.85.5.2.0.7",
+            "Category": "Fine arts schools (except academic)"
+          },
+          "P.85.5.2.0.8": {
+            "ID": 15534,
+            "SIC": "P.85.5.2.0.8",
+            "Category": "Performing arts schools (except academic)"
+          },
+          "P.85.5.2.0.9": {
+            "ID": 15535,
+            "SIC": "P.85.5.2.0.9",
+            "Category": "Photography schools (except commercial)"
+          },
+          "P.85.5.2.0.10": {
+            "ID": 15536,
+            "SIC": "P.85.5.2.0.10",
+            "Category": "Piano teachers and other music instruction"
+          }
+        },
+        "P.85.5.3": {
+          "ID": 1086,
+          "SIC": "P.85.5.3",
+          "Category": "Driving school activities",
+          "P.85.5.3.0.1": {
+            "ID": 15537,
+            "SIC": "P.85.5.3.0.1",
+            "Category": "Driving instruction"
+          },
+          "P.85.5.3.0.2": {
+            "ID": 15538,
+            "SIC": "P.85.5.3.0.2",
+            "Category": "Driving school activities"
+          },
+          "P.85.5.3.0.3": {
+            "ID": 15539,
+            "SIC": "P.85.5.3.0.3",
+            "Category": "Flying school activities (not type rating)"
+          },
+          "P.85.5.3.0.4": {
+            "ID": 15540,
+            "SIC": "P.85.5.3.0.4",
+            "Category": "Flying schools not issuing commercial certificates and permits"
+          },
+          "P.85.5.3.0.5": {
+            "ID": 15541,
+            "SIC": "P.85.5.3.0.5",
+            "Category": "Sailing schools not issuing commercial certificates and permits"
+          },
+          "P.85.5.3.0.6": {
+            "ID": 15542,
+            "SIC": "P.85.5.3.0.6",
+            "Category": "School of motoring"
+          },
+          "P.85.5.3.0.7": {
+            "ID": 15543,
+            "SIC": "P.85.5.3.0.7",
+            "Category": "Ship licence tuition (not commercial certificates)"
+          },
+          "P.85.5.3.0.8": {
+            "ID": 15544,
+            "SIC": "P.85.5.3.0.8",
+            "Category": "Shipping schools not issuing commercial certificates and permits"
+          }
+        },
+        "P.85.5.9": {
+          "ID": 1087,
+          "SIC": "P.85.5.9",
+          "Category": "Other education n.e.c.",
+          "P.85.5.9.0.1": {
+            "ID": 15545,
+            "SIC": "P.85.5.9.0.1",
+            "Category": "Academic tutoring"
+          },
+          "P.85.5.9.0.2": {
+            "ID": 15546,
+            "SIC": "P.85.5.9.0.2",
+            "Category": "Adult education centre"
+          },
+          "P.85.5.9.0.3": {
+            "ID": 15547,
+            "SIC": "P.85.5.9.0.3",
+            "Category": "Adult education residential college"
+          },
+          "P.85.5.9.0.4": {
+            "ID": 15548,
+            "SIC": "P.85.5.9.0.4",
+            "Category": "Adult training for the intellectually disabled"
+          },
+          "P.85.5.9.0.5": {
+            "ID": 15549,
+            "SIC": "P.85.5.9.0.5",
+            "Category": "Computer training"
+          },
+          "P.85.5.9.0.6": {
+            "ID": 15550,
+            "SIC": "P.85.5.9.0.6",
+            "Category": "Continuation school"
+          },
+          "P.85.5.9.0.7": {
+            "ID": 15551,
+            "SIC": "P.85.5.9.0.7",
+            "Category": "Correspondence college (not leading to degree level qualifications)"
+          },
+          "P.85.5.9.0.8": {
+            "ID": 15552,
+            "SIC": "P.85.5.9.0.8",
+            "Category": "Day continuation school"
+          },
+          "P.85.5.9.0.9": {
+            "ID": 15553,
+            "SIC": "P.85.5.9.0.9",
+            "Category": "Language instruction and conversational skills instruction"
+          },
+          "P.85.5.9.0.10": {
+            "ID": 15554,
+            "SIC": "P.85.5.9.0.10",
+            "Category": "Learning centres offering remedial courses"
+          },
+          "P.85.5.9.0.11": {
+            "ID": 15555,
+            "SIC": "P.85.5.9.0.11",
+            "Category": "Lifeguard training"
+          },
+          "P.85.5.9.0.12": {
+            "ID": 15556,
+            "SIC": "P.85.5.9.0.12",
+            "Category": "National institute for adult continuing education"
+          },
+          "P.85.5.9.0.13": {
+            "ID": 15557,
+            "SIC": "P.85.5.9.0.13",
+            "Category": "Open and Distance Learning Quality Council"
+          },
+          "P.85.5.9.0.14": {
+            "ID": 15558,
+            "SIC": "P.85.5.9.0.14",
+            "Category": "Other adult and other education n.e.c."
+          },
+          "P.85.5.9.0.15": {
+            "ID": 15559,
+            "SIC": "P.85.5.9.0.15",
+            "Category": "Private training providers"
+          },
+          "P.85.5.9.0.16": {
+            "ID": 15560,
+            "SIC": "P.85.5.9.0.16",
+            "Category": "Professional examination review courses"
+          },
+          "P.85.5.9.0.17": {
+            "ID": 15561,
+            "SIC": "P.85.5.9.0.17",
+            "Category": "Public speaking training"
+          },
+          "P.85.5.9.0.18": {
+            "ID": 15562,
+            "SIC": "P.85.5.9.0.18",
+            "Category": "Religious instruction"
+          },
+          "P.85.5.9.0.19": {
+            "ID": 15563,
+            "SIC": "P.85.5.9.0.19",
+            "Category": "Speed reading instruction"
+          },
+          "P.85.5.9.0.20": {
+            "ID": 15564,
+            "SIC": "P.85.5.9.0.20",
+            "Category": "Survival training"
+          },
+          "P.85.5.9.0.21": {
+            "ID": 15565,
+            "SIC": "P.85.5.9.0.21",
+            "Category": "Teacher n.e.c."
+          },
+          "P.85.5.9.0.22": {
+            "ID": 15566,
+            "SIC": "P.85.5.9.0.22",
+            "Category": "Workers' Educational Association"
+          },
+          "P.85.5.9.0.23": {
+            "ID": 15567,
+            "SIC": "P.85.5.9.0.23",
+            "Category": "Workplace training"
+          }
+        }
+      },
+      "P.85.6": {
+        "ID": 1088,
+        "SIC": "P.85.6",
+        "Category": "Educational support activities",
+        "P.85.6.0": {
+          "ID": 1089,
+          "SIC": "P.85.6.0",
+          "Category": "Educational support activities",
+          "P.85.6.0.0.1": {
+            "ID": 15568,
+            "SIC": "P.85.6.0.0.1",
+            "Category": "Education agent"
+          },
+          "P.85.6.0.0.2": {
+            "ID": 15569,
+            "SIC": "P.85.6.0.0.2",
+            "Category": "Educational consulting"
+          },
+          "P.85.6.0.0.3": {
+            "ID": 15570,
+            "SIC": "P.85.6.0.0.3",
+            "Category": "Educational guidance counselling activities"
+          },
+          "P.85.6.0.0.4": {
+            "ID": 15571,
+            "SIC": "P.85.6.0.0.4",
+            "Category": "Educational support activities"
+          },
+          "P.85.6.0.0.5": {
+            "ID": 15572,
+            "SIC": "P.85.6.0.0.5",
+            "Category": "Educational testing activities"
+          },
+          "P.85.6.0.0.6": {
+            "ID": 15573,
+            "SIC": "P.85.6.0.0.6",
+            "Category": "Educational testing evaluation activities"
+          },
+          "P.85.6.0.0.7": {
+            "ID": 15574,
+            "SIC": "P.85.6.0.0.7",
+            "Category": "Organisation of student exchange programmes"
+          },
+          "P.85.6.0.0.8": {
+            "ID": 15575,
+            "SIC": "P.85.6.0.0.8",
+            "Category": "Pilot testing and certification"
+          },
+          "P.85.6.0.0.9": {
+            "ID": 15576,
+            "SIC": "P.85.6.0.0.9",
+            "Category": "Scholastic agent"
+          }
+        }
+      }
+    }
+  }
+}

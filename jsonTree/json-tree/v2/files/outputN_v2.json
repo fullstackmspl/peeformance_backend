@@ -1,0 +1,2392 @@
+{
+  "N": {
+    "ID": 976,
+    "SIC": "N",
+    "Category": "ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES",
+    "N.77": {
+      "ID": 977,
+      "SIC": "N.77",
+      "Category": "Rental and leasing activities",
+      "N.77.1": {
+        "ID": 978,
+        "SIC": "N.77.1",
+        "Category": "Renting and leasing of motor vehicles",
+        "N.77.1.1": {
+          "ID": 979,
+          "SIC": "N.77.1.1",
+          "Category": "Renting and leasing of cars and light motor vehicles",
+          "N.77.1.1.0.1": {
+            "ID": 14865,
+            "SIC": "N.77.1.1.0.1",
+            "Category": "Automobile rental (self drive)"
+          },
+          "N.77.1.1.0.2": {
+            "ID": 14866,
+            "SIC": "N.77.1.1.0.2",
+            "Category": "Car hire (self drive)"
+          },
+          "N.77.1.1.0.3": {
+            "ID": 14867,
+            "SIC": "N.77.1.1.0.3",
+            "Category": "Car leasing"
+          },
+          "N.77.1.1.0.4": {
+            "ID": 14868,
+            "SIC": "N.77.1.1.0.4",
+            "Category": "Car rental (self drive)"
+          },
+          "N.77.1.1.0.5": {
+            "ID": 14869,
+            "SIC": "N.77.1.1.0.5",
+            "Category": "Contract car hire (self drive)"
+          },
+          "N.77.1.1.0.6": {
+            "ID": 14870,
+            "SIC": "N.77.1.1.0.6",
+            "Category": "Light motor vehicle (not exceeding 3.5 tonnes) renting or leasing"
+          },
+          "N.77.1.1.0.7": {
+            "ID": 14871,
+            "SIC": "N.77.1.1.0.7",
+            "Category": "Van rental (self drive not exceeding 3.5 tonnes)"
+          }
+        },
+        "N.77.1.2": {
+          "ID": 980,
+          "SIC": "N.77.1.2",
+          "Category": "Renting and leasing of trucks",
+          "N.77.1.2.0.1": {
+            "ID": 14872,
+            "SIC": "N.77.1.2.0.1",
+            "Category": "Commercial vehicle (light) hire (without driver)"
+          },
+          "N.77.1.2.0.2": {
+            "ID": 14873,
+            "SIC": "N.77.1.2.0.2",
+            "Category": "Commercial vehicle (medium and heavy type) contract hire (without driver)"
+          },
+          "N.77.1.2.0.3": {
+            "ID": 14874,
+            "SIC": "N.77.1.2.0.3",
+            "Category": "Commercial vehicle (medium and heavy type) hire (without driver)"
+          },
+          "N.77.1.2.0.4": {
+            "ID": 14875,
+            "SIC": "N.77.1.2.0.4",
+            "Category": "Haulage tractors rental (without driver)"
+          },
+          "N.77.1.2.0.5": {
+            "ID": 14876,
+            "SIC": "N.77.1.2.0.5",
+            "Category": "Recreational vehicles renting and leasing"
+          },
+          "N.77.1.2.0.6": {
+            "ID": 14877,
+            "SIC": "N.77.1.2.0.6",
+            "Category": "Road trailer hire"
+          },
+          "N.77.1.2.0.7": {
+            "ID": 14878,
+            "SIC": "N.77.1.2.0.7",
+            "Category": "Trailers and semi-trailers rental"
+          },
+          "N.77.1.2.0.8": {
+            "ID": 14879,
+            "SIC": "N.77.1.2.0.8",
+            "Category": "Truck rental (without driver)"
+          },
+          "N.77.1.2.0.9": {
+            "ID": 14880,
+            "SIC": "N.77.1.2.0.9",
+            "Category": "Trucks and other heavy vehicles exceeding 3.5 tonnes renting and leasing"
+          },
+          "N.77.1.2.0.10": {
+            "ID": 14881,
+            "SIC": "N.77.1.2.0.10",
+            "Category": "Van hire (exceeding 3.5 tonnes without driver)"
+          }
+        }
+      },
+      "N.77.2": {
+        "ID": 981,
+        "SIC": "N.77.2",
+        "Category": "Renting and leasing of personal and household goods",
+        "N.77.2.1": {
+          "ID": 982,
+          "SIC": "N.77.2.1",
+          "Category": "Renting and leasing of recreational and sports goods",
+          "N.77.2.1.0.1": {
+            "ID": 14882,
+            "SIC": "N.77.2.1.0.1",
+            "Category": "Beach chairs and umbrellas renting and leasing"
+          },
+          "N.77.2.1.0.2": {
+            "ID": 14883,
+            "SIC": "N.77.2.1.0.2",
+            "Category": "Bicycle hire"
+          },
+          "N.77.2.1.0.3": {
+            "ID": 14884,
+            "SIC": "N.77.2.1.0.3",
+            "Category": "Camera hire"
+          },
+          "N.77.2.1.0.4": {
+            "ID": 14885,
+            "SIC": "N.77.2.1.0.4",
+            "Category": "Canoes and sailboats renting and leasing"
+          },
+          "N.77.2.1.0.5": {
+            "ID": 14886,
+            "SIC": "N.77.2.1.0.5",
+            "Category": "Fancy dress hire"
+          },
+          "N.77.2.1.0.6": {
+            "ID": 14887,
+            "SIC": "N.77.2.1.0.6",
+            "Category": "Photographic equipment hire"
+          },
+          "N.77.2.1.0.7": {
+            "ID": 14888,
+            "SIC": "N.77.2.1.0.7",
+            "Category": "Pleasure boats rental"
+          },
+          "N.77.2.1.0.8": {
+            "ID": 14889,
+            "SIC": "N.77.2.1.0.8",
+            "Category": "Recreational and sports goods renting and leasing"
+          },
+          "N.77.2.1.0.9": {
+            "ID": 14890,
+            "SIC": "N.77.2.1.0.9",
+            "Category": "Rental of yachts without operator"
+          },
+          "N.77.2.1.0.10": {
+            "ID": 14891,
+            "SIC": "N.77.2.1.0.10",
+            "Category": "Scenery rental"
+          },
+          "N.77.2.1.0.11": {
+            "ID": 14892,
+            "SIC": "N.77.2.1.0.11",
+            "Category": "Skis renting and leasing"
+          },
+          "N.77.2.1.0.12": {
+            "ID": 14893,
+            "SIC": "N.77.2.1.0.12",
+            "Category": "Sound equipment rental"
+          },
+          "N.77.2.1.0.13": {
+            "ID": 14894,
+            "SIC": "N.77.2.1.0.13",
+            "Category": "Sports equipment rental"
+          },
+          "N.77.2.1.0.14": {
+            "ID": 14895,
+            "SIC": "N.77.2.1.0.14",
+            "Category": "Theatrical costumes rental"
+          }
+        },
+        "N.77.2.2": {
+          "ID": 983,
+          "SIC": "N.77.2.2",
+          "Category": "Renting of video tapes and disks",
+          "N.77.2.2.0.1": {
+            "ID": 14896,
+            "SIC": "N.77.2.2.0.1",
+            "Category": "CDs and disks rental"
+          },
+          "N.77.2.2.0.2": {
+            "ID": 14897,
+            "SIC": "N.77.2.2.0.2",
+            "Category": "DVD rental"
+          },
+          "N.77.2.2.0.3": {
+            "ID": 14898,
+            "SIC": "N.77.2.2.0.3",
+            "Category": "Records rental"
+          },
+          "N.77.2.2.0.4": {
+            "ID": 14899,
+            "SIC": "N.77.2.2.0.4",
+            "Category": "Video tape rental"
+          }
+        },
+        "N.77.2.9": {
+          "ID": 984,
+          "SIC": "N.77.2.9",
+          "Category": "Renting and leasing of other personal and household goods",
+          "N.77.2.9.1": {
+            "ID": 985,
+            "SIC": "N.77.2.9.1",
+            "Category": "Renting and leasing of media entertainment equipment",
+            "N.77.2.9.1.1": {
+              "ID": 14900,
+              "SIC": "N.77.2.9.1.1",
+              "Category": "Juke boxes leasing"
+            },
+            "N.77.2.9.1.2": {
+              "ID": 14901,
+              "SIC": "N.77.2.9.1.2",
+              "Category": "Media entertainment equipment renting and leasing"
+            },
+            "N.77.2.9.1.3": {
+              "ID": 14902,
+              "SIC": "N.77.2.9.1.3",
+              "Category": "Radio (domestic) hire"
+            },
+            "N.77.2.9.1.4": {
+              "ID": 14903,
+              "SIC": "N.77.2.9.1.4",
+              "Category": "Television (domestic) hire"
+            },
+            "N.77.2.9.1.5": {
+              "ID": 14904,
+              "SIC": "N.77.2.9.1.5",
+              "Category": "Video recorder/player (domestic) hire"
+            }
+          },
+          "N.77.2.9.9": {
+            "ID": 986,
+            "SIC": "N.77.2.9.9",
+            "Category": "Renting and leasing of other personal and household goods (other than media entertainment equipment)",
+            "N.77.2.9.9.1": {
+              "ID": 14905,
+              "SIC": "N.77.2.9.9.1",
+              "Category": "Book rental"
+            },
+            "N.77.2.9.9.2": {
+              "ID": 14906,
+              "SIC": "N.77.2.9.9.2",
+              "Category": "Books, journals and magazine renting and leasing "
+            },
+            "N.77.2.9.9.3": {
+              "ID": 14907,
+              "SIC": "N.77.2.9.9.3",
+              "Category": "Clothes hire"
+            },
+            "N.77.2.9.9.4": {
+              "ID": 14908,
+              "SIC": "N.77.2.9.9.4",
+              "Category": "Crockery hire"
+            },
+            "N.77.2.9.9.5": {
+              "ID": 14909,
+              "SIC": "N.77.2.9.9.5",
+              "Category": "Cutlery hire"
+            },
+            "N.77.2.9.9.6": {
+              "ID": 14910,
+              "SIC": "N.77.2.9.9.6",
+              "Category": "Do-it-yourself machinery and equipment hire"
+            },
+            "N.77.2.9.9.7": {
+              "ID": 14911,
+              "SIC": "N.77.2.9.9.7",
+              "Category": "Electrical domestic appliance rental and leasing"
+            },
+            "N.77.2.9.9.8": {
+              "ID": 14912,
+              "SIC": "N.77.2.9.9.8",
+              "Category": "Electronic equipment for household use renting leasing (excluding media entertainment equipment)"
+            },
+            "N.77.2.9.9.9": {
+              "ID": 14913,
+              "SIC": "N.77.2.9.9.9",
+              "Category": "Flowers and plants rental and leasing"
+            },
+            "N.77.2.9.9.10": {
+              "ID": 14914,
+              "SIC": "N.77.2.9.9.10",
+              "Category": "Footwear rental and leasing"
+            },
+            "N.77.2.9.9.11": {
+              "ID": 14915,
+              "SIC": "N.77.2.9.9.11",
+              "Category": "Furniture rental and leasing"
+            },
+            "N.77.2.9.9.12": {
+              "ID": 14916,
+              "SIC": "N.77.2.9.9.12",
+              "Category": "Garden tool hire"
+            },
+            "N.77.2.9.9.13": {
+              "ID": 14917,
+              "SIC": "N.77.2.9.9.13",
+              "Category": "Glass rental and leasing"
+            },
+            "N.77.2.9.9.14": {
+              "ID": 14918,
+              "SIC": "N.77.2.9.9.14",
+              "Category": "Household goods hire"
+            },
+            "N.77.2.9.9.15": {
+              "ID": 14919,
+              "SIC": "N.77.2.9.9.15",
+              "Category": "Housewares rental and leasing"
+            },
+            "N.77.2.9.9.16": {
+              "ID": 14920,
+              "SIC": "N.77.2.9.9.16",
+              "Category": "Jewellery rental and leasing"
+            },
+            "N.77.2.9.9.17": {
+              "ID": 14921,
+              "SIC": "N.77.2.9.9.17",
+              "Category": "Journal rental"
+            },
+            "N.77.2.9.9.18": {
+              "ID": 14922,
+              "SIC": "N.77.2.9.9.18",
+              "Category": "Kitchenware rental and leasing"
+            },
+            "N.77.2.9.9.19": {
+              "ID": 14923,
+              "SIC": "N.77.2.9.9.19",
+              "Category": "Machinery and equipment used by amateurs or as a hobby e.g. Home repair tools rental and leasing"
+            },
+            "N.77.2.9.9.20": {
+              "ID": 14924,
+              "SIC": "N.77.2.9.9.20",
+              "Category": "Magazines rental"
+            },
+            "N.77.2.9.9.21": {
+              "ID": 14925,
+              "SIC": "N.77.2.9.9.21",
+              "Category": "Medical and paramedical equipment (e.g. Crutches) rental and leasing"
+            },
+            "N.77.2.9.9.22": {
+              "ID": 14926,
+              "SIC": "N.77.2.9.9.22",
+              "Category": "Musical instrument rental"
+            },
+            "N.77.2.9.9.23": {
+              "ID": 14927,
+              "SIC": "N.77.2.9.9.23",
+              "Category": "Musical instruments rental and leasing"
+            },
+            "N.77.2.9.9.24": {
+              "ID": 14928,
+              "SIC": "N.77.2.9.9.24",
+              "Category": "Piano hire"
+            },
+            "N.77.2.9.9.25": {
+              "ID": 14929,
+              "SIC": "N.77.2.9.9.25",
+              "Category": "Pottery rental and leasing"
+            },
+            "N.77.2.9.9.26": {
+              "ID": 14930,
+              "SIC": "N.77.2.9.9.26",
+              "Category": "Tableware rental and leasing"
+            },
+            "N.77.2.9.9.27": {
+              "ID": 14931,
+              "SIC": "N.77.2.9.9.27",
+              "Category": "Textiles rental and leasing"
+            },
+            "N.77.2.9.9.28": {
+              "ID": 14932,
+              "SIC": "N.77.2.9.9.28",
+              "Category": "Theatrical costumes leasing"
+            },
+            "N.77.2.9.9.29": {
+              "ID": 14933,
+              "SIC": "N.77.2.9.9.29",
+              "Category": "Theatrical scenery leasing"
+            },
+            "N.77.2.9.9.30": {
+              "ID": 14934,
+              "SIC": "N.77.2.9.9.30",
+              "Category": "Wearing apparel rental and leasing"
+            }
+          }
+        }
+      },
+      "N.77.3": {
+        "ID": 987,
+        "SIC": "N.77.3",
+        "Category": "Renting and leasing of other machinery, equipment and tangible goods",
+        "N.77.3.1": {
+          "ID": 988,
+          "SIC": "N.77.3.1",
+          "Category": "Renting and leasing of agricultural machinery and equipment",
+          "N.77.3.1.0.1": {
+            "ID": 14935,
+            "SIC": "N.77.3.1.0.1",
+            "Category": "Agricultural and forestry machinery and equipment operational leasing (without operator)"
+          },
+          "N.77.3.1.0.2": {
+            "ID": 14936,
+            "SIC": "N.77.3.1.0.2",
+            "Category": "Agricultural machinery and equipment rental and leasing (without operator)"
+          },
+          "N.77.3.1.0.3": {
+            "ID": 14937,
+            "SIC": "N.77.3.1.0.3",
+            "Category": "Agricultural machinery hire (without operator)"
+          },
+          "N.77.3.1.0.4": {
+            "ID": 14938,
+            "SIC": "N.77.3.1.0.4",
+            "Category": "Forestry machinery and equipment rental and leasing (without operator)"
+          },
+          "N.77.3.1.0.5": {
+            "ID": 14939,
+            "SIC": "N.77.3.1.0.5",
+            "Category": "Horticultural machinery hire (without operator)"
+          },
+          "N.77.3.1.0.6": {
+            "ID": 14940,
+            "SIC": "N.77.3.1.0.6",
+            "Category": "Tractor hire for agriculture (without driver)"
+          }
+        },
+        "N.77.3.2": {
+          "ID": 989,
+          "SIC": "N.77.3.2",
+          "Category": "Renting and leasing of construction and civil engineering machinery and equipment",
+          "N.77.3.2.0.1": {
+            "ID": 14941,
+            "SIC": "N.77.3.2.0.1",
+            "Category": "Civil engineering machinery and equipment rental (without operator)"
+          },
+          "N.77.3.2.0.2": {
+            "ID": 14942,
+            "SIC": "N.77.3.2.0.2",
+            "Category": "Construction machinery and equipment rental (without operator)"
+          },
+          "N.77.3.2.0.3": {
+            "ID": 14943,
+            "SIC": "N.77.3.2.0.3",
+            "Category": "Crane hire (without operator)"
+          },
+          "N.77.3.2.0.4": {
+            "ID": 14944,
+            "SIC": "N.77.3.2.0.4",
+            "Category": "Crane lorries rental (without operator)"
+          },
+          "N.77.3.2.0.5": {
+            "ID": 14945,
+            "SIC": "N.77.3.2.0.5",
+            "Category": "Earthmoving equipment hire (without operator)"
+          },
+          "N.77.3.2.0.6": {
+            "ID": 14946,
+            "SIC": "N.77.3.2.0.6",
+            "Category": "Hazard warning lamp hire"
+          },
+          "N.77.3.2.0.7": {
+            "ID": 14947,
+            "SIC": "N.77.3.2.0.7",
+            "Category": "Ladder hire"
+          },
+          "N.77.3.2.0.8": {
+            "ID": 14948,
+            "SIC": "N.77.3.2.0.8",
+            "Category": "Plant hire for construction rental (without operator)"
+          },
+          "N.77.3.2.0.9": {
+            "ID": 14949,
+            "SIC": "N.77.3.2.0.9",
+            "Category": "Portable road sign hire for construction"
+          },
+          "N.77.3.2.0.10": {
+            "ID": 14950,
+            "SIC": "N.77.3.2.0.10",
+            "Category": "Scaffolding hire (without staff)"
+          },
+          "N.77.3.2.0.11": {
+            "ID": 14951,
+            "SIC": "N.77.3.2.0.11",
+            "Category": "Tools for construction hire (without operator)"
+          },
+          "N.77.3.2.0.12": {
+            "ID": 14952,
+            "SIC": "N.77.3.2.0.12",
+            "Category": "Work platform rental without erection and dismantling"
+          }
+        },
+        "N.77.3.3": {
+          "ID": 990,
+          "SIC": "N.77.3.3",
+          "Category": "Renting and leasing of office machinery and equipment (including computers)",
+          "N.77.3.3.0.1": {
+            "ID": 14953,
+            "SIC": "N.77.3.3.0.1",
+            "Category": "Accounting machinery and equipment rental and operating leasing"
+          },
+          "N.77.3.3.0.2": {
+            "ID": 14954,
+            "SIC": "N.77.3.3.0.2",
+            "Category": "Automatic data processing equipment hire"
+          },
+          "N.77.3.3.0.3": {
+            "ID": 14955,
+            "SIC": "N.77.3.3.0.3",
+            "Category": "Cash register hire"
+          },
+          "N.77.3.3.0.4": {
+            "ID": 14956,
+            "SIC": "N.77.3.3.0.4",
+            "Category": "Computing machinery and equipment rental and operating leasing"
+          },
+          "N.77.3.3.0.5": {
+            "ID": 14957,
+            "SIC": "N.77.3.3.0.5",
+            "Category": "Duplicating machines rental and operating leasing"
+          },
+          "N.77.3.3.0.6": {
+            "ID": 14958,
+            "SIC": "N.77.3.3.0.6",
+            "Category": "Office equipment hire"
+          },
+          "N.77.3.3.0.7": {
+            "ID": 14959,
+            "SIC": "N.77.3.3.0.7",
+            "Category": "Office furniture hire"
+          },
+          "N.77.3.3.0.8": {
+            "ID": 14960,
+            "SIC": "N.77.3.3.0.8",
+            "Category": "Office machinery and equipment leasing"
+          },
+          "N.77.3.3.0.9": {
+            "ID": 14961,
+            "SIC": "N.77.3.3.0.9",
+            "Category": "Office machinery and equipment rental and operating leasing"
+          },
+          "N.77.3.3.0.10": {
+            "ID": 14962,
+            "SIC": "N.77.3.3.0.10",
+            "Category": "Ticket machine hire"
+          },
+          "N.77.3.3.0.11": {
+            "ID": 14963,
+            "SIC": "N.77.3.3.0.11",
+            "Category": "Typewriter rental and operating leasing"
+          },
+          "N.77.3.3.0.12": {
+            "ID": 14964,
+            "SIC": "N.77.3.3.0.12",
+            "Category": "Word processing machines rental and operating leasing"
+          }
+        },
+        "N.77.3.4": {
+          "ID": 991,
+          "SIC": "N.77.3.4",
+          "Category": "Renting and leasing of water transport equipment",
+          "N.77.3.4.1": {
+            "ID": 992,
+            "SIC": "N.77.3.4.1",
+            "Category": "Renting and leasing of passenger water transport equipment",
+            "N.77.3.4.1.1": {
+              "ID": 14965,
+              "SIC": "N.77.3.4.1.1",
+              "Category": "Boat hire for passengers (without crew) (not linked with recreational service)"
+            },
+            "N.77.3.4.1.2": {
+              "ID": 14966,
+              "SIC": "N.77.3.4.1.2",
+              "Category": "Passenger water transport equipment leasing (without operator)"
+            },
+            "N.77.3.4.1.3": {
+              "ID": 14967,
+              "SIC": "N.77.3.4.1.3",
+              "Category": "Ship hire for passengers (without crew)"
+            },
+            "N.77.3.4.1.4": {
+              "ID": 14968,
+              "SIC": "N.77.3.4.1.4",
+              "Category": "Ship rental for passengers (without operator)"
+            },
+            "N.77.3.4.1.5": {
+              "ID": 14969,
+              "SIC": "N.77.3.4.1.5",
+              "Category": "Water passenger transport equipment rental (without operator)"
+            }
+          },
+          "N.77.3.4.2": {
+            "ID": 993,
+            "SIC": "N.77.3.4.2",
+            "Category": "Renting and leasing of freight water transport equipment",
+            "N.77.3.4.2.1": {
+              "ID": 14970,
+              "SIC": "N.77.3.4.2.1",
+              "Category": "Boat hire for freight (without crew)"
+            },
+            "N.77.3.4.2.2": {
+              "ID": 14971,
+              "SIC": "N.77.3.4.2.2",
+              "Category": "Freight water transport equipment leasing (without operator)"
+            },
+            "N.77.3.4.2.3": {
+              "ID": 14972,
+              "SIC": "N.77.3.4.2.3",
+              "Category": "Ship hire for freight (without crew)"
+            },
+            "N.77.3.4.2.4": {
+              "ID": 14973,
+              "SIC": "N.77.3.4.2.4",
+              "Category": "Water freight transport equipment rental (without operator)"
+            }
+          }
+        },
+        "N.77.3.5": {
+          "ID": 994,
+          "SIC": "N.77.3.5",
+          "Category": "Renting and leasing of air transport equipment",
+          "N.77.3.5.1": {
+            "ID": 995,
+            "SIC": "N.77.3.5.1",
+            "Category": "Renting and leasing of passenger air transport equipment",
+            "N.77.3.5.1.1": {
+              "ID": 14974,
+              "SIC": "N.77.3.5.1.1",
+              "Category": "Air passenger transport equipment rental and leasing without operator"
+            }
+          },
+          "N.77.3.5.2": {
+            "ID": 996,
+            "SIC": "N.77.3.5.2",
+            "Category": "Renting and leasing of freight air transport equipment",
+            "N.77.3.5.2.1": {
+              "ID": 14975,
+              "SIC": "N.77.3.5.2.1",
+              "Category": "Air transport equipment for freight rental (without operator)"
+            },
+            "N.77.3.5.2.2": {
+              "ID": 14976,
+              "SIC": "N.77.3.5.2.2",
+              "Category": "Aircraft hire for freight (without crew)"
+            },
+            "N.77.3.5.2.3": {
+              "ID": 14977,
+              "SIC": "N.77.3.5.2.3",
+              "Category": "Freight air transport equipment operational leasing (without operator)"
+            }
+          }
+        },
+        "N.77.3.9": {
+          "ID": 997,
+          "SIC": "N.77.3.9",
+          "Category": "Renting and leasing of other machinery, equipment and tangible goods n.e.c.",
+          "N.77.3.9.0.1": {
+            "ID": 14978,
+            "SIC": "N.77.3.9.0.1",
+            "Category": "Accommodation container renting"
+          },
+          "N.77.3.9.0.2": {
+            "ID": 14979,
+            "SIC": "N.77.3.9.0.2",
+            "Category": "Amusement machine hire"
+          },
+          "N.77.3.9.0.3": {
+            "ID": 14980,
+            "SIC": "N.77.3.9.0.3",
+            "Category": "Animal rental (herds, racehorses) "
+          },
+          "N.77.3.9.0.4": {
+            "ID": 14981,
+            "SIC": "N.77.3.9.0.4",
+            "Category": "Audio/visual equipment for professional use hire"
+          },
+          "N.77.3.9.0.5": {
+            "ID": 14982,
+            "SIC": "N.77.3.9.0.5",
+            "Category": "Barrow hiring"
+          },
+          "N.77.3.9.0.6": {
+            "ID": 14983,
+            "SIC": "N.77.3.9.0.6",
+            "Category": "Burglar alarm hire (without monitoring)"
+          },
+          "N.77.3.9.0.7": {
+            "ID": 14984,
+            "SIC": "N.77.3.9.0.7",
+            "Category": "Campers (transport) rental (self drive)"
+          },
+          "N.77.3.9.0.8": {
+            "ID": 14985,
+            "SIC": "N.77.3.9.0.8",
+            "Category": "Caravans (touring) rental"
+          },
+          "N.77.3.9.0.9": {
+            "ID": 14986,
+            "SIC": "N.77.3.9.0.9",
+            "Category": "Catering equipment hire"
+          },
+          "N.77.3.9.0.10": {
+            "ID": 14987,
+            "SIC": "N.77.3.9.0.10",
+            "Category": "Cereal milling and working machinery renting (non agricultural)"
+          },
+          "N.77.3.9.0.11": {
+            "ID": 14988,
+            "SIC": "N.77.3.9.0.11",
+            "Category": "Circus tent rental"
+          },
+          "N.77.3.9.0.12": {
+            "ID": 14989,
+            "SIC": "N.77.3.9.0.12",
+            "Category": "Commercial machinery rental and operating leasing"
+          },
+          "N.77.3.9.0.13": {
+            "ID": 14990,
+            "SIC": "N.77.3.9.0.13",
+            "Category": "Communication equipment rental and operating leasing"
+          },
+          "N.77.3.9.0.14": {
+            "ID": 14991,
+            "SIC": "N.77.3.9.0.14",
+            "Category": "Container rental"
+          },
+          "N.77.3.9.0.15": {
+            "ID": 14992,
+            "SIC": "N.77.3.9.0.15",
+            "Category": "Dairy machinery rental (non agricultural)"
+          },
+          "N.77.3.9.0.16": {
+            "ID": 14993,
+            "SIC": "N.77.3.9.0.16",
+            "Category": "Engine rental and operating leasing"
+          },
+          "N.77.3.9.0.17": {
+            "ID": 14994,
+            "SIC": "N.77.3.9.0.17",
+            "Category": "Fire alarm hire (without monitoring)"
+          },
+          "N.77.3.9.0.18": {
+            "ID": 14995,
+            "SIC": "N.77.3.9.0.18",
+            "Category": "Floor cleaning equipment for industrial use leasing"
+          },
+          "N.77.3.9.0.19": {
+            "ID": 14996,
+            "SIC": "N.77.3.9.0.19",
+            "Category": "Freight container hire"
+          },
+          "N.77.3.9.0.20": {
+            "ID": 14997,
+            "SIC": "N.77.3.9.0.20",
+            "Category": "Fuel bunkers leasing"
+          },
+          "N.77.3.9.0.21": {
+            "ID": 14998,
+            "SIC": "N.77.3.9.0.21",
+            "Category": "Gaming machine hire"
+          },
+          "N.77.3.9.0.22": {
+            "ID": 14999,
+            "SIC": "N.77.3.9.0.22",
+            "Category": "Hand cart hire"
+          },
+          "N.77.3.9.0.23": {
+            "ID": 15000,
+            "SIC": "N.77.3.9.0.23",
+            "Category": "Herd leasing"
+          },
+          "N.77.3.9.0.24": {
+            "ID": 15001,
+            "SIC": "N.77.3.9.0.24",
+            "Category": "Machine tools rental and operating leasing"
+          },
+          "N.77.3.9.0.25": {
+            "ID": 15002,
+            "SIC": "N.77.3.9.0.25",
+            "Category": "Machinery for industrial use rental and operating leasing"
+          },
+          "N.77.3.9.0.26": {
+            "ID": 15003,
+            "SIC": "N.77.3.9.0.26",
+            "Category": "Marquee hire"
+          },
+          "N.77.3.9.0.27": {
+            "ID": 15004,
+            "SIC": "N.77.3.9.0.27",
+            "Category": "Measuring and controlling equipment rental and operating leasing"
+          },
+          "N.77.3.9.0.28": {
+            "ID": 15005,
+            "SIC": "N.77.3.9.0.28",
+            "Category": "Mining equipment rental and operating leasing"
+          },
+          "N.77.3.9.0.29": {
+            "ID": 15006,
+            "SIC": "N.77.3.9.0.29",
+            "Category": "Motion picture production equipment rental and leasing"
+          },
+          "N.77.3.9.0.30": {
+            "ID": 15007,
+            "SIC": "N.77.3.9.0.30",
+            "Category": "Motorcycle hire"
+          },
+          "N.77.3.9.0.31": {
+            "ID": 15008,
+            "SIC": "N.77.3.9.0.31",
+            "Category": "Motorcycle rental"
+          },
+          "N.77.3.9.0.32": {
+            "ID": 15009,
+            "SIC": "N.77.3.9.0.32",
+            "Category": "Office container renting"
+          },
+          "N.77.3.9.0.33": {
+            "ID": 15010,
+            "SIC": "N.77.3.9.0.33",
+            "Category": "Oil field equipment rental and operating leasing"
+          },
+          "N.77.3.9.0.34": {
+            "ID": 15011,
+            "SIC": "N.77.3.9.0.34",
+            "Category": "Packaging machinery leasing"
+          },
+          "N.77.3.9.0.35": {
+            "ID": 15012,
+            "SIC": "N.77.3.9.0.35",
+            "Category": "Pallet rental"
+          },
+          "N.77.3.9.0.36": {
+            "ID": 15013,
+            "SIC": "N.77.3.9.0.36",
+            "Category": "Passenger land transport equipment self drive rental (other than motor vehicles)"
+          },
+          "N.77.3.9.0.37": {
+            "ID": 15014,
+            "SIC": "N.77.3.9.0.37",
+            "Category": "Plant and equipment for industrial use hire"
+          },
+          "N.77.3.9.0.38": {
+            "ID": 15015,
+            "SIC": "N.77.3.9.0.38",
+            "Category": "Radio equipment for professional use, rental and operating leasing"
+          },
+          "N.77.3.9.0.39": {
+            "ID": 15016,
+            "SIC": "N.77.3.9.0.39",
+            "Category": "Railroad passenger vehicles rental"
+          },
+          "N.77.3.9.0.40": {
+            "ID": 15017,
+            "SIC": "N.77.3.9.0.40",
+            "Category": "Railway freight vehicle hire"
+          },
+          "N.77.3.9.0.41": {
+            "ID": 15018,
+            "SIC": "N.77.3.9.0.41",
+            "Category": "Railway passenger vehicle hire"
+          },
+          "N.77.3.9.0.42": {
+            "ID": 15019,
+            "SIC": "N.77.3.9.0.42",
+            "Category": "Scientific machinery rental and operating leasing"
+          },
+          "N.77.3.9.0.43": {
+            "ID": 15020,
+            "SIC": "N.77.3.9.0.43",
+            "Category": "Slot machine rental"
+          },
+          "N.77.3.9.0.44": {
+            "ID": 15021,
+            "SIC": "N.77.3.9.0.44",
+            "Category": "Telephone hire (other than by public telephone undertakings)"
+          },
+          "N.77.3.9.0.45": {
+            "ID": 15022,
+            "SIC": "N.77.3.9.0.45",
+            "Category": "Television equipment (not domestic) rental and operating leasing"
+          },
+          "N.77.3.9.0.46": {
+            "ID": 15023,
+            "SIC": "N.77.3.9.0.46",
+            "Category": "Tools for mechanics or engineers hire"
+          },
+          "N.77.3.9.0.47": {
+            "ID": 15024,
+            "SIC": "N.77.3.9.0.47",
+            "Category": "Turbine rental and operating leasing"
+          },
+          "N.77.3.9.0.48": {
+            "ID": 15025,
+            "SIC": "N.77.3.9.0.48",
+            "Category": "Wheelbarrow hire"
+          }
+        }
+      },
+      "N.77.4": {
+        "ID": 998,
+        "SIC": "N.77.4",
+        "Category": "Leasing of intellectual property and similar products, except copyrighted works",
+        "N.77.4.0": {
+          "ID": 999,
+          "SIC": "N.77.4.0",
+          "Category": "Leasing of intellectual property and similar products, except copyrighted works",
+          "N.77.4.0.0.1": {
+            "ID": 15026,
+            "SIC": "N.77.4.0.0.1",
+            "Category": "Leasing of intellectual property and the like (not copyrighted works e.g. Books and software)"
+          },
+          "N.77.4.0.0.2": {
+            "ID": 15027,
+            "SIC": "N.77.4.0.0.2",
+            "Category": "Leasing of non-financial intangible assets"
+          },
+          "N.77.4.0.0.3": {
+            "ID": 15028,
+            "SIC": "N.77.4.0.0.3",
+            "Category": "Receiving royalties or licensing fees for the use of brand names"
+          },
+          "N.77.4.0.0.4": {
+            "ID": 15029,
+            "SIC": "N.77.4.0.0.4",
+            "Category": "Receiving royalties or licensing fees for the use of franchise agreements"
+          },
+          "N.77.4.0.0.5": {
+            "ID": 15030,
+            "SIC": "N.77.4.0.0.5",
+            "Category": "Receiving royalties or licensing fees for the use of mineral exploration and evaluation"
+          },
+          "N.77.4.0.0.6": {
+            "ID": 15031,
+            "SIC": "N.77.4.0.0.6",
+            "Category": "Receiving royalties or licensing fees for the use of patented entities"
+          },
+          "N.77.4.0.0.7": {
+            "ID": 15032,
+            "SIC": "N.77.4.0.0.7",
+            "Category": "Receiving royalties or licensing fees for the use of trademarks or service marks"
+          },
+          "N.77.4.0.0.8": {
+            "ID": 15033,
+            "SIC": "N.77.4.0.0.8",
+            "Category": "Scientific search results (lease or sale)"
+          }
+        }
+      }
+    },
+    "N.78": {
+      "ID": 1000,
+      "SIC": "N.78",
+      "Category": "Employment activities",
+      "N.78.1": {
+        "ID": 1001,
+        "SIC": "N.78.1",
+        "Category": "Activities of employment placement agencies",
+        "N.78.1.0": {
+          "ID": 1002,
+          "SIC": "N.78.1.0",
+          "Category": "Activities of employment placement agencies",
+          "N.78.1.0.1": {
+            "ID": 1003,
+            "SIC": "N.78.1.0.1",
+            "Category": "Motion picture, television and other theatrical casting",
+            "N.78.1.0.1.1": {
+              "ID": 15034,
+              "SIC": "N.78.1.0.1.1",
+              "Category": "Casting activities for motion pictures, television and theatre"
+            },
+            "N.78.1.0.1.2": {
+              "ID": 15035,
+              "SIC": "N.78.1.0.1.2",
+              "Category": "Casting agencies and bureaux"
+            }
+          },
+          "N.78.1.0.9": {
+            "ID": 1004,
+            "SIC": "N.78.1.0.9",
+            "Category": "Activities of employment placement agencies (other than motion picture, television and other theatrical casting) n.e.c.",
+            "N.78.1.0.9.1": {
+              "ID": 15036,
+              "SIC": "N.78.1.0.9.1",
+              "Category": "Employment consultants"
+            },
+            "N.78.1.0.9.2": {
+              "ID": 15037,
+              "SIC": "N.78.1.0.9.2",
+              "Category": "Employment placement agencies"
+            },
+            "N.78.1.0.9.3": {
+              "ID": 15038,
+              "SIC": "N.78.1.0.9.3",
+              "Category": "Executive employment placement and search activities"
+            },
+            "N.78.1.0.9.4": {
+              "ID": 15039,
+              "SIC": "N.78.1.0.9.4",
+              "Category": "Executive recruitment consultant"
+            },
+            "N.78.1.0.9.5": {
+              "ID": 15040,
+              "SIC": "N.78.1.0.9.5",
+              "Category": "Labour recruitment"
+            },
+            "N.78.1.0.9.6": {
+              "ID": 15041,
+              "SIC": "N.78.1.0.9.6",
+              "Category": "On-line employment placement agencies"
+            },
+            "N.78.1.0.9.7": {
+              "ID": 15042,
+              "SIC": "N.78.1.0.9.7",
+              "Category": "Sales management recruitment consultant"
+            }
+          }
+        }
+      },
+      "N.78.2": {
+        "ID": 1005,
+        "SIC": "N.78.2",
+        "Category": "Temporary employment agency activities",
+        "N.78.2.0": {
+          "ID": 1006,
+          "SIC": "N.78.2.0",
+          "Category": "Temporary employment agency activities",
+          "N.78.2.0.0.1": {
+            "ID": 15043,
+            "SIC": "N.78.2.0.0.1",
+            "Category": "Commercial or industrial workers (supply) (temporary employment agency)"
+          },
+          "N.78.2.0.0.2": {
+            "ID": 15044,
+            "SIC": "N.78.2.0.0.2",
+            "Category": "Domestic agency (temporary employment agency)"
+          },
+          "N.78.2.0.0.3": {
+            "ID": 15045,
+            "SIC": "N.78.2.0.0.3",
+            "Category": "Employment agency (temporary)"
+          },
+          "N.78.2.0.0.4": {
+            "ID": 15046,
+            "SIC": "N.78.2.0.0.4",
+            "Category": "Executive personnel (supply) (temporary employment agency)"
+          },
+          "N.78.2.0.0.5": {
+            "ID": 15047,
+            "SIC": "N.78.2.0.0.5",
+            "Category": "Medical personnel (supply) (temporary employment agency)"
+          },
+          "N.78.2.0.0.6": {
+            "ID": 15048,
+            "SIC": "N.78.2.0.0.6",
+            "Category": "Nursing agency (supplying nurses) (temporary employment agency)"
+          },
+          "N.78.2.0.0.7": {
+            "ID": 15049,
+            "SIC": "N.78.2.0.0.7",
+            "Category": "Office support personnel (supply) (temporary employment agency)"
+          },
+          "N.78.2.0.0.8": {
+            "ID": 15050,
+            "SIC": "N.78.2.0.0.8",
+            "Category": "Personnel provision (temporary employment agency)"
+          },
+          "N.78.2.0.0.9": {
+            "ID": 15051,
+            "SIC": "N.78.2.0.0.9",
+            "Category": "Supply and provision of personnel (temporary employment agency)"
+          },
+          "N.78.2.0.0.10": {
+            "ID": 15052,
+            "SIC": "N.78.2.0.0.10",
+            "Category": "Teaching personnel (supply) (temporary employment agency)"
+          },
+          "N.78.2.0.0.11": {
+            "ID": 15053,
+            "SIC": "N.78.2.0.0.11",
+            "Category": "Temporary employment agency activities"
+          }
+        }
+      },
+      "N.78.3": {
+        "ID": 1007,
+        "SIC": "N.78.3",
+        "Category": "Other human resources provision",
+        "N.78.3.0": {
+          "ID": 1008,
+          "SIC": "N.78.3.0",
+          "Category": "Other human resources provision",
+          "N.78.3.0.0.1": {
+            "ID": 15054,
+            "SIC": "N.78.3.0.0.1",
+            "Category": "Human resources provision on a long term or permanent basis"
+          }
+        }
+      }
+    },
+    "N.79": {
+      "ID": 1009,
+      "SIC": "N.79",
+      "Category": "Travel agency, tour operator and other reservation service and related activities",
+      "N.79.1": {
+        "ID": 1010,
+        "SIC": "N.79.1",
+        "Category": "Travel agency and tour operator activities",
+        "N.79.1.1": {
+          "ID": 1011,
+          "SIC": "N.79.1.1",
+          "Category": "Travel agency activities",
+          "N.79.1.1.0.1": {
+            "ID": 15055,
+            "SIC": "N.79.1.1.0.1",
+            "Category": "Chartered rail travel"
+          },
+          "N.79.1.1.0.2": {
+            "ID": 15056,
+            "SIC": "N.79.1.1.0.2",
+            "Category": "Excursion agency"
+          },
+          "N.79.1.1.0.3": {
+            "ID": 15057,
+            "SIC": "N.79.1.1.0.3",
+            "Category": "Packaged tour sales"
+          },
+          "N.79.1.1.0.4": {
+            "ID": 15058,
+            "SIC": "N.79.1.1.0.4",
+            "Category": "Passage agent"
+          },
+          "N.79.1.1.0.5": {
+            "ID": 15059,
+            "SIC": "N.79.1.1.0.5",
+            "Category": "Passenger agent (not transport authority)"
+          },
+          "N.79.1.1.0.6": {
+            "ID": 15060,
+            "SIC": "N.79.1.1.0.6",
+            "Category": "Ticket agencies for travel"
+          },
+          "N.79.1.1.0.7": {
+            "ID": 15061,
+            "SIC": "N.79.1.1.0.7",
+            "Category": "Travel agency activities"
+          }
+        },
+        "N.79.1.2": {
+          "ID": 1012,
+          "SIC": "N.79.1.2",
+          "Category": "Tour operator activities",
+          "N.79.1.2.0.1": {
+            "ID": 15062,
+            "SIC": "N.79.1.2.0.1",
+            "Category": "Tour operator activities"
+          }
+        }
+      },
+      "N.79.9": {
+        "ID": 1013,
+        "SIC": "N.79.9",
+        "Category": "Other reservation service and related activities",
+        "N.79.9.0": {
+          "ID": 1014,
+          "SIC": "N.79.9.0",
+          "Category": "Other reservation service and related activities",
+          "N.79.9.0.1": {
+            "ID": 1015,
+            "SIC": "N.79.9.0.1",
+            "Category": "Activities of tourist guides",
+            "N.79.9.0.1.1": {
+              "ID": 15063,
+              "SIC": "N.79.9.0.1.1",
+              "Category": "Courier (travel)"
+            }
+          },
+          "N.79.9.0.9": {
+            "ID": 1016,
+            "SIC": "N.79.9.0.9",
+            "Category": "Other reservation service and related activities (not including activities of tourist guides)",
+            "N.79.9.0.9.1": {
+              "ID": 15064,
+              "SIC": "N.79.9.0.9.1",
+              "Category": "British Tourist Authority"
+            },
+            "N.79.9.0.9.2": {
+              "ID": 15065,
+              "SIC": "N.79.9.0.9.2",
+              "Category": "Holiday information centre"
+            },
+            "N.79.9.0.9.3": {
+              "ID": 15066,
+              "SIC": "N.79.9.0.9.3",
+              "Category": "Information bureau for tourists"
+            },
+            "N.79.9.0.9.4": {
+              "ID": 15067,
+              "SIC": "N.79.9.0.9.4",
+              "Category": "Theatre ticket agency"
+            },
+            "N.79.9.0.9.5": {
+              "ID": 15068,
+              "SIC": "N.79.9.0.9.5",
+              "Category": "Ticket agencies for other entertainment activities"
+            },
+            "N.79.9.0.9.6": {
+              "ID": 15069,
+              "SIC": "N.79.9.0.9.6",
+              "Category": "Ticket agencies for theatre"
+            },
+            "N.79.9.0.9.7": {
+              "ID": 15070,
+              "SIC": "N.79.9.0.9.7",
+              "Category": "Ticket sales activities for sports events"
+            },
+            "N.79.9.0.9.8": {
+              "ID": 15071,
+              "SIC": "N.79.9.0.9.8",
+              "Category": "Ticket sales for other recreational activities"
+            },
+            "N.79.9.0.9.9": {
+              "ID": 15072,
+              "SIC": "N.79.9.0.9.9",
+              "Category": "Time-share exchange services"
+            },
+            "N.79.9.0.9.10": {
+              "ID": 15073,
+              "SIC": "N.79.9.0.9.10",
+              "Category": "Tourism promotion activities"
+            },
+            "N.79.9.0.9.11": {
+              "ID": 15074,
+              "SIC": "N.79.9.0.9.11",
+              "Category": "Tourist assistance activities n.e.c."
+            },
+            "N.79.9.0.9.12": {
+              "ID": 15075,
+              "SIC": "N.79.9.0.9.12",
+              "Category": "Tourist board or information service"
+            },
+            "N.79.9.0.9.13": {
+              "ID": 15076,
+              "SIC": "N.79.9.0.9.13",
+              "Category": "Visitor assistance services"
+            }
+          }
+        }
+      }
+    },
+    "N.80": {
+      "ID": 1017,
+      "SIC": "N.80",
+      "Category": "Security and investigation activities",
+      "N.80.1": {
+        "ID": 1018,
+        "SIC": "N.80.1",
+        "Category": "Private security activities",
+        "N.80.1.0": {
+          "ID": 1019,
+          "SIC": "N.80.1.0",
+          "Category": "Private security activities",
+          "N.80.1.0.0.1": {
+            "ID": 15077,
+            "SIC": "N.80.1.0.0.1",
+            "Category": "Armoured car services"
+          },
+          "N.80.1.0.0.2": {
+            "ID": 15078,
+            "SIC": "N.80.1.0.0.2",
+            "Category": "Bodyguard activities"
+          },
+          "N.80.1.0.0.3": {
+            "ID": 15079,
+            "SIC": "N.80.1.0.0.3",
+            "Category": "Dog training for security purposes"
+          },
+          "N.80.1.0.0.4": {
+            "ID": 15080,
+            "SIC": "N.80.1.0.0.4",
+            "Category": "Fingerprinting services"
+          },
+          "N.80.1.0.0.5": {
+            "ID": 15081,
+            "SIC": "N.80.1.0.0.5",
+            "Category": "Guard activities"
+          },
+          "N.80.1.0.0.6": {
+            "ID": 15082,
+            "SIC": "N.80.1.0.0.6",
+            "Category": "Polygraph services"
+          },
+          "N.80.1.0.0.7": {
+            "ID": 15083,
+            "SIC": "N.80.1.0.0.7",
+            "Category": "Private security activities"
+          },
+          "N.80.1.0.0.8": {
+            "ID": 15084,
+            "SIC": "N.80.1.0.0.8",
+            "Category": "Security activities (not government)"
+          },
+          "N.80.1.0.0.9": {
+            "ID": 15085,
+            "SIC": "N.80.1.0.0.9",
+            "Category": "Security delivery of prisoners"
+          },
+          "N.80.1.0.0.10": {
+            "ID": 15086,
+            "SIC": "N.80.1.0.0.10",
+            "Category": "Security guard services"
+          },
+          "N.80.1.0.0.11": {
+            "ID": 15087,
+            "SIC": "N.80.1.0.0.11",
+            "Category": "Security shredding of information on any media"
+          },
+          "N.80.1.0.0.12": {
+            "ID": 15088,
+            "SIC": "N.80.1.0.0.12",
+            "Category": "Security support services for cash collection or deposit"
+          },
+          "N.80.1.0.0.13": {
+            "ID": 15089,
+            "SIC": "N.80.1.0.0.13",
+            "Category": "Security transport of valuables and money"
+          },
+          "N.80.1.0.0.14": {
+            "ID": 15090,
+            "SIC": "N.80.1.0.0.14",
+            "Category": "Store detective activities"
+          },
+          "N.80.1.0.0.15": {
+            "ID": 15091,
+            "SIC": "N.80.1.0.0.15",
+            "Category": "Street patrol"
+          },
+          "N.80.1.0.0.16": {
+            "ID": 15092,
+            "SIC": "N.80.1.0.0.16",
+            "Category": "Surveillance activities"
+          },
+          "N.80.1.0.0.17": {
+            "ID": 15093,
+            "SIC": "N.80.1.0.0.17",
+            "Category": "Watchman activities"
+          }
+        }
+      },
+      "N.80.2": {
+        "ID": 1020,
+        "SIC": "N.80.2",
+        "Category": "Security systems service activities",
+        "N.80.2.0": {
+          "ID": 1021,
+          "SIC": "N.80.2.0",
+          "Category": "Security systems service activities",
+          "N.80.2.0.0.1": {
+            "ID": 15094,
+            "SIC": "N.80.2.0.0.1",
+            "Category": "Alarm monitoring activities"
+          },
+          "N.80.2.0.0.2": {
+            "ID": 15095,
+            "SIC": "N.80.2.0.0.2",
+            "Category": "Burglar and fire alarm monitoring including installation and maintenance"
+          },
+          "N.80.2.0.0.3": {
+            "ID": 15096,
+            "SIC": "N.80.2.0.0.3",
+            "Category": "Installation and repair of electronic locking devices with monitoring"
+          },
+          "N.80.2.0.0.4": {
+            "ID": 15097,
+            "SIC": "N.80.2.0.0.4",
+            "Category": "Installation and repair of electronic safes security vaults with monitoring"
+          },
+          "N.80.2.0.0.5": {
+            "ID": 15098,
+            "SIC": "N.80.2.0.0.5",
+            "Category": "Installation and repair of mechanical locking devices with monitoring"
+          },
+          "N.80.2.0.0.6": {
+            "ID": 15099,
+            "SIC": "N.80.2.0.0.6",
+            "Category": "Installation and repair of mechanical safes and security vaults with monitoring"
+          },
+          "N.80.2.0.0.7": {
+            "ID": 15100,
+            "SIC": "N.80.2.0.0.7",
+            "Category": "Installation of fire and burglar alarm systems if together with monitoring of the same systems"
+          },
+          "N.80.2.0.0.8": {
+            "ID": 15101,
+            "SIC": "N.80.2.0.0.8",
+            "Category": "Monitoring activities by mechanical or electrical protective devices"
+          },
+          "N.80.2.0.0.9": {
+            "ID": 15102,
+            "SIC": "N.80.2.0.0.9",
+            "Category": "Monitoring of electronic security alarm systems"
+          },
+          "N.80.2.0.0.10": {
+            "ID": 15103,
+            "SIC": "N.80.2.0.0.10",
+            "Category": "Security systems service activities"
+          }
+        }
+      },
+      "N.80.3": {
+        "ID": 1022,
+        "SIC": "N.80.3",
+        "Category": "Investigation activities",
+        "N.80.3.0": {
+          "ID": 1023,
+          "SIC": "N.80.3.0",
+          "Category": "Investigation activities",
+          "N.80.3.0.0.1": {
+            "ID": 15104,
+            "SIC": "N.80.3.0.0.1",
+            "Category": "Enquiry agency"
+          },
+          "N.80.3.0.0.2": {
+            "ID": 15105,
+            "SIC": "N.80.3.0.0.2",
+            "Category": "Inquiry agency"
+          },
+          "N.80.3.0.0.3": {
+            "ID": 15106,
+            "SIC": "N.80.3.0.0.3",
+            "Category": "Internet abuse monitoring"
+          },
+          "N.80.3.0.0.4": {
+            "ID": 15107,
+            "SIC": "N.80.3.0.0.4",
+            "Category": "Investigation activities"
+          },
+          "N.80.3.0.0.5": {
+            "ID": 15108,
+            "SIC": "N.80.3.0.0.5",
+            "Category": "Private detective"
+          },
+          "N.80.3.0.0.6": {
+            "ID": 15109,
+            "SIC": "N.80.3.0.0.6",
+            "Category": "Private investigator activities"
+          }
+        }
+      }
+    },
+    "N.81": {
+      "ID": 1024,
+      "SIC": "N.81",
+      "Category": "Services to buildings and landscape activities",
+      "N.81.1": {
+        "ID": 1025,
+        "SIC": "N.81.1",
+        "Category": "Combined facilities support activities",
+        "N.81.1.0": {
+          "ID": 1026,
+          "SIC": "N.81.1.0",
+          "Category": "Combined facilities support activities",
+          "N.81.1.0.0.1": {
+            "ID": 15110,
+            "SIC": "N.81.1.0.0.1",
+            "Category": "Centralised supply and purchasing services (public sector)"
+          },
+          "N.81.1.0.0.2": {
+            "ID": 15111,
+            "SIC": "N.81.1.0.0.2",
+            "Category": "Combined facilities support activities"
+          },
+          "N.81.1.0.0.3": {
+            "ID": 15112,
+            "SIC": "N.81.1.0.0.3",
+            "Category": "Facilities management"
+          },
+          "N.81.1.0.0.4": {
+            "ID": 15113,
+            "SIC": "N.81.1.0.0.4",
+            "Category": "Operational services of government owned or occupied buildings (public sector)"
+          },
+          "N.81.1.0.0.5": {
+            "ID": 15114,
+            "SIC": "N.81.1.0.0.5",
+            "Category": "Residents' property management"
+          }
+        }
+      },
+      "N.81.2": {
+        "ID": 1027,
+        "SIC": "N.81.2",
+        "Category": "Cleaning activities",
+        "N.81.2.1": {
+          "ID": 1028,
+          "SIC": "N.81.2.1",
+          "Category": "General cleaning of buildings",
+          "N.81.2.1.0.1": {
+            "ID": 15115,
+            "SIC": "N.81.2.1.0.1",
+            "Category": "Building cleaning activities"
+          },
+          "N.81.2.1.0.2": {
+            "ID": 15116,
+            "SIC": "N.81.2.1.0.2",
+            "Category": "Cleaning service for factory, office or shop"
+          },
+          "N.81.2.1.0.3": {
+            "ID": 15117,
+            "SIC": "N.81.2.1.0.3",
+            "Category": "Commercial cleaner"
+          },
+          "N.81.2.1.0.4": {
+            "ID": 15118,
+            "SIC": "N.81.2.1.0.4",
+            "Category": "Contract cleaning service"
+          },
+          "N.81.2.1.0.5": {
+            "ID": 15119,
+            "SIC": "N.81.2.1.0.5",
+            "Category": "Factory cleaning contractor"
+          },
+          "N.81.2.1.0.6": {
+            "ID": 15120,
+            "SIC": "N.81.2.1.0.6",
+            "Category": "General cleaning of houses or apartments"
+          },
+          "N.81.2.1.0.7": {
+            "ID": 15121,
+            "SIC": "N.81.2.1.0.7",
+            "Category": "Industrial cleaning"
+          },
+          "N.81.2.1.0.8": {
+            "ID": 15122,
+            "SIC": "N.81.2.1.0.8",
+            "Category": "Janitorial services"
+          },
+          "N.81.2.1.0.9": {
+            "ID": 15123,
+            "SIC": "N.81.2.1.0.9",
+            "Category": "Office cleaning contractor"
+          }
+        },
+        "N.81.2.2": {
+          "ID": 1029,
+          "SIC": "N.81.2.2",
+          "Category": "Other building and industrial cleaning activities",
+          "N.81.2.2.1": {
+            "ID": 1030,
+            "SIC": "N.81.2.2.1",
+            "Category": "Window cleaning services",
+            "N.81.2.2.1.1": {
+              "ID": 15124,
+              "SIC": "N.81.2.2.1.1",
+              "Category": "Window cleaning"
+            }
+          },
+          "N.81.2.2.2": {
+            "ID": 1031,
+            "SIC": "N.81.2.2.2",
+            "Category": "Specialised cleaning services",
+            "N.81.2.2.2.1": {
+              "ID": 15125,
+              "SIC": "N.81.2.2.2.1",
+              "Category": "Cleaning of heat and air ducts"
+            },
+            "N.81.2.2.2.2": {
+              "ID": 15126,
+              "SIC": "N.81.2.2.2.2",
+              "Category": "Cleaning services for computer rooms"
+            },
+            "N.81.2.2.2.3": {
+              "ID": 15127,
+              "SIC": "N.81.2.2.2.3",
+              "Category": "Cleaning services for hospitals"
+            },
+            "N.81.2.2.2.4": {
+              "ID": 15128,
+              "SIC": "N.81.2.2.2.4",
+              "Category": "Decontamination services"
+            },
+            "N.81.2.2.2.5": {
+              "ID": 15129,
+              "SIC": "N.81.2.2.2.5",
+              "Category": "Reservoir and tank cleaning"
+            },
+            "N.81.2.2.2.6": {
+              "ID": 15130,
+              "SIC": "N.81.2.2.2.6",
+              "Category": "Specialised cleaning of tanks and reservoirs"
+            },
+            "N.81.2.2.2.7": {
+              "ID": 15131,
+              "SIC": "N.81.2.2.2.7",
+              "Category": "Sterilisation of objects or premises (e.g. Operating theatres)"
+            },
+            "N.81.2.2.2.8": {
+              "ID": 15132,
+              "SIC": "N.81.2.2.2.8",
+              "Category": "Telephone cleaning and sterilising service"
+            },
+            "N.81.2.2.2.9": {
+              "ID": 15133,
+              "SIC": "N.81.2.2.2.9",
+              "Category": "Telephone sterilising"
+            },
+            "N.81.2.2.2.10": {
+              "ID": 15134,
+              "SIC": "N.81.2.2.2.10",
+              "Category": "Ventilation ducts cleaning"
+            },
+            "N.81.2.2.2.11": {
+              "ID": 15135,
+              "SIC": "N.81.2.2.2.11",
+              "Category": "Water supply pipeline cleaning"
+            }
+          },
+          "N.81.2.2.3": {
+            "ID": 1032,
+            "SIC": "N.81.2.2.3",
+            "Category": "Furnace and chimney cleaning services",
+            "N.81.2.2.3.1": {
+              "ID": 15136,
+              "SIC": "N.81.2.2.3.1",
+              "Category": "Boiler cleaning and scaling"
+            },
+            "N.81.2.2.3.2": {
+              "ID": 15137,
+              "SIC": "N.81.2.2.3.2",
+              "Category": "Chimney cleaning"
+            },
+            "N.81.2.2.3.3": {
+              "ID": 15138,
+              "SIC": "N.81.2.2.3.3",
+              "Category": "Fire-places cleaning"
+            },
+            "N.81.2.2.3.4": {
+              "ID": 15139,
+              "SIC": "N.81.2.2.3.4",
+              "Category": "Furnace cleaning"
+            },
+            "N.81.2.2.3.5": {
+              "ID": 15140,
+              "SIC": "N.81.2.2.3.5",
+              "Category": "Incinerator cleaning"
+            },
+            "N.81.2.2.3.6": {
+              "ID": 15141,
+              "SIC": "N.81.2.2.3.6",
+              "Category": "Stove cleaning"
+            }
+          },
+          "N.81.2.2.9": {
+            "ID": 1033,
+            "SIC": "N.81.2.2.9",
+            "Category": "Building and industrial cleaning activities (other than window cleaning, specialised cleaning and furnace and chimney cleaning services) n.e.c.",
+            "N.81.2.2.9.1": {
+              "ID": 15142,
+              "SIC": "N.81.2.2.9.1",
+              "Category": "Cleaning of industrial machinery"
+            },
+            "N.81.2.2.9.2": {
+              "ID": 15143,
+              "SIC": "N.81.2.2.9.2",
+              "Category": "Exterior cleaning of buildings"
+            }
+          }
+        },
+        "N.81.2.9": {
+          "ID": 1034,
+          "SIC": "N.81.2.9",
+          "Category": "Other cleaning activities",
+          "N.81.2.9.1": {
+            "ID": 1035,
+            "SIC": "N.81.2.9.1",
+            "Category": "Disinfecting and extermination services",
+            "N.81.2.9.1.1": {
+              "ID": 15144,
+              "SIC": "N.81.2.9.1.1",
+              "Category": "Disinfecting of dwellings and other buildings"
+            },
+            "N.81.2.9.1.2": {
+              "ID": 15145,
+              "SIC": "N.81.2.9.1.2",
+              "Category": "Exterminating of insects, rodents and other pests (except agricultural)"
+            },
+            "N.81.2.9.1.3": {
+              "ID": 15146,
+              "SIC": "N.81.2.9.1.3",
+              "Category": "Fumigation services"
+            },
+            "N.81.2.9.1.4": {
+              "ID": 15147,
+              "SIC": "N.81.2.9.1.4",
+              "Category": "Local authority pest control department"
+            },
+            "N.81.2.9.1.5": {
+              "ID": 15148,
+              "SIC": "N.81.2.9.1.5",
+              "Category": "Pest control services (except agricultural)"
+            },
+            "N.81.2.9.1.6": {
+              "ID": 15149,
+              "SIC": "N.81.2.9.1.6",
+              "Category": "Pest destruction service (not especially for agriculture)"
+            },
+            "N.81.2.9.1.7": {
+              "ID": 15150,
+              "SIC": "N.81.2.9.1.7",
+              "Category": "Rat catcher (not especially for agriculture)"
+            },
+            "N.81.2.9.1.8": {
+              "ID": 15151,
+              "SIC": "N.81.2.9.1.8",
+              "Category": "Rodent destroying (not agricultural)"
+            },
+            "N.81.2.9.1.9": {
+              "ID": 15152,
+              "SIC": "N.81.2.9.1.9",
+              "Category": "Ship disinfecting and exterminating activities"
+            },
+            "N.81.2.9.1.10": {
+              "ID": 15153,
+              "SIC": "N.81.2.9.1.10",
+              "Category": "Ship fumigating and scrubbing"
+            },
+            "N.81.2.9.1.11": {
+              "ID": 15154,
+              "SIC": "N.81.2.9.1.11",
+              "Category": "Train disinfecting and exterminating activities"
+            },
+            "N.81.2.9.1.12": {
+              "ID": 15155,
+              "SIC": "N.81.2.9.1.12",
+              "Category": "Vermin destroying (not agricultural)"
+            },
+            "N.81.2.9.1.13": {
+              "ID": 15156,
+              "SIC": "N.81.2.9.1.13",
+              "Category": "Wood rot preventative treatment service"
+            },
+            "N.81.2.9.1.14": {
+              "ID": 15157,
+              "SIC": "N.81.2.9.1.14",
+              "Category": "Wood worm preventative treatment service"
+            }
+          },
+          "N.81.2.9.9": {
+            "ID": 1036,
+            "SIC": "N.81.2.9.9",
+            "Category": "Cleaning services (other than disinfecting and extermination services) n.e.c.",
+            "N.81.2.9.9.1": {
+              "ID": 15158,
+              "SIC": "N.81.2.9.9.1",
+              "Category": "Aeroplane cleaning (non-specialised)"
+            },
+            "N.81.2.9.9.2": {
+              "ID": 15159,
+              "SIC": "N.81.2.9.9.2",
+              "Category": "Airport runways clearing of snow and ice"
+            },
+            "N.81.2.9.9.3": {
+              "ID": 15160,
+              "SIC": "N.81.2.9.9.3",
+              "Category": "Bottle cleaning"
+            },
+            "N.81.2.9.9.4": {
+              "ID": 15161,
+              "SIC": "N.81.2.9.9.4",
+              "Category": "Bus cleaning (non- specialised)"
+            },
+            "N.81.2.9.9.5": {
+              "ID": 15162,
+              "SIC": "N.81.2.9.9.5",
+              "Category": "Cleaning of the inside of road and sea tankers"
+            },
+            "N.81.2.9.9.6": {
+              "ID": 15163,
+              "SIC": "N.81.2.9.9.6",
+              "Category": "Cleaning services n.e.c."
+            },
+            "N.81.2.9.9.7": {
+              "ID": 15164,
+              "SIC": "N.81.2.9.9.7",
+              "Category": "Highway cleaning of snow and ice"
+            },
+            "N.81.2.9.9.8": {
+              "ID": 15165,
+              "SIC": "N.81.2.9.9.8",
+              "Category": "Hygiene contracting"
+            },
+            "N.81.2.9.9.9": {
+              "ID": 15166,
+              "SIC": "N.81.2.9.9.9",
+              "Category": "Industrial equipment cleaning (non-specialised)"
+            },
+            "N.81.2.9.9.10": {
+              "ID": 15167,
+              "SIC": "N.81.2.9.9.10",
+              "Category": "Outdoor sweeping and watering of parking lots, streets, paths, public spaces etc."
+            },
+            "N.81.2.9.9.11": {
+              "ID": 15168,
+              "SIC": "N.81.2.9.9.11",
+              "Category": "Rental of lavatory cubicles"
+            },
+            "N.81.2.9.9.12": {
+              "ID": 15169,
+              "SIC": "N.81.2.9.9.12",
+              "Category": "Sanding or salting of highways, etc."
+            },
+            "N.81.2.9.9.13": {
+              "ID": 15170,
+              "SIC": "N.81.2.9.9.13",
+              "Category": "Snow and ice clearing of highways, etc."
+            },
+            "N.81.2.9.9.14": {
+              "ID": 15171,
+              "SIC": "N.81.2.9.9.14",
+              "Category": "Street cleaning and watering"
+            },
+            "N.81.2.9.9.15": {
+              "ID": 15172,
+              "SIC": "N.81.2.9.9.15",
+              "Category": "Swimming pool cleaning and maintenance activities"
+            },
+            "N.81.2.9.9.16": {
+              "ID": 15173,
+              "SIC": "N.81.2.9.9.16",
+              "Category": "Train cleaning (non-specialised)"
+            },
+            "N.81.2.9.9.17": {
+              "ID": 15174,
+              "SIC": "N.81.2.9.9.17",
+              "Category": "Transport equipment cleaning (non-specialised)"
+            },
+            "N.81.2.9.9.18": {
+              "ID": 15175,
+              "SIC": "N.81.2.9.9.18",
+              "Category": "Underground train cleaning (non-specialised)"
+            }
+          }
+        }
+      },
+      "N.81.3": {
+        "ID": 1037,
+        "SIC": "N.81.3",
+        "Category": "Landscape service activities",
+        "N.81.3.0": {
+          "ID": 1038,
+          "SIC": "N.81.3.0",
+          "Category": "Landscape service activities",
+          "N.81.3.0.0.1": {
+            "ID": 15176,
+            "SIC": "N.81.3.0.0.1",
+            "Category": "Gardens and sport installations, planting and maintenance on a fee or contract basis"
+          },
+          "N.81.3.0.0.2": {
+            "ID": 15177,
+            "SIC": "N.81.3.0.0.2",
+            "Category": "Hedge trimming on a fee or contract basis (except as an agricultural service activity)"
+          },
+          "N.81.3.0.0.3": {
+            "ID": 15178,
+            "SIC": "N.81.3.0.0.3",
+            "Category": "Landscape contracting"
+          },
+          "N.81.3.0.0.4": {
+            "ID": 15179,
+            "SIC": "N.81.3.0.0.4",
+            "Category": "Landscape gardening"
+          },
+          "N.81.3.0.0.5": {
+            "ID": 15180,
+            "SIC": "N.81.3.0.0.5",
+            "Category": "Landscape measures for protecting the environment"
+          },
+          "N.81.3.0.0.6": {
+            "ID": 15181,
+            "SIC": "N.81.3.0.0.6",
+            "Category": "Park laying out, planting and maintenance on a fee or contract basis"
+          },
+          "N.81.3.0.0.7": {
+            "ID": 15182,
+            "SIC": "N.81.3.0.0.7",
+            "Category": "Planting, laying out and maintenance of gardens, parks and green areas for sports installations"
+          },
+          "N.81.3.0.0.8": {
+            "ID": 15183,
+            "SIC": "N.81.3.0.0.8",
+            "Category": "Tree pruning, replanting, on a fee or contract basis (except as an agricultural service activity)"
+          }
+        }
+      }
+    },
+    "N.82": {
+      "ID": 1039,
+      "SIC": "N.82",
+      "Category": "Office administrative, office support and other business support activities",
+      "N.82.1": {
+        "ID": 1040,
+        "SIC": "N.82.1",
+        "Category": "Office administrative and support activities",
+        "N.82.1.1": {
+          "ID": 1041,
+          "SIC": "N.82.1.1",
+          "Category": "Combined office administrative service activities",
+          "N.82.1.1.0.1": {
+            "ID": 15184,
+            "SIC": "N.82.1.1.0.1",
+            "Category": "Combined office admin. Services (e.g. Reception, billing, record keeping, personnel, mail services)"
+          },
+          "N.82.1.1.0.2": {
+            "ID": 15185,
+            "SIC": "N.82.1.1.0.2",
+            "Category": "Combined secretarial activities"
+          }
+        },
+        "N.82.1.9": {
+          "ID": 1042,
+          "SIC": "N.82.1.9",
+          "Category": "Photocopying, document preparation and other specialised office support activities",
+          "N.82.1.9.0.1": {
+            "ID": 15186,
+            "SIC": "N.82.1.9.0.1",
+            "Category": "Blueprinting"
+          },
+          "N.82.1.9.0.2": {
+            "ID": 15187,
+            "SIC": "N.82.1.9.0.2",
+            "Category": "Circular addressing"
+          },
+          "N.82.1.9.0.3": {
+            "ID": 15188,
+            "SIC": "N.82.1.9.0.3",
+            "Category": "Direct mailing"
+          },
+          "N.82.1.9.0.4": {
+            "ID": 15189,
+            "SIC": "N.82.1.9.0.4",
+            "Category": "Document and image scanning"
+          },
+          "N.82.1.9.0.5": {
+            "ID": 15190,
+            "SIC": "N.82.1.9.0.5",
+            "Category": "Document copying service"
+          },
+          "N.82.1.9.0.6": {
+            "ID": 15191,
+            "SIC": "N.82.1.9.0.6",
+            "Category": "Document preparation"
+          },
+          "N.82.1.9.0.7": {
+            "ID": 15192,
+            "SIC": "N.82.1.9.0.7",
+            "Category": "Duplicating service"
+          },
+          "N.82.1.9.0.8": {
+            "ID": 15193,
+            "SIC": "N.82.1.9.0.8",
+            "Category": "Envelope addressing service"
+          },
+          "N.82.1.9.0.9": {
+            "ID": 15194,
+            "SIC": "N.82.1.9.0.9",
+            "Category": "Envelope stuffing, sealing and mailing service including for advertising"
+          },
+          "N.82.1.9.0.10": {
+            "ID": 15195,
+            "SIC": "N.82.1.9.0.10",
+            "Category": "Formatting of ebooks"
+          },
+          "N.82.1.9.0.11": {
+            "ID": 15196,
+            "SIC": "N.82.1.9.0.11",
+            "Category": "Letter or resume writing"
+          },
+          "N.82.1.9.0.12": {
+            "ID": 15197,
+            "SIC": "N.82.1.9.0.12",
+            "Category": "Mailbox rental"
+          },
+          "N.82.1.9.0.13": {
+            "ID": 15198,
+            "SIC": "N.82.1.9.0.13",
+            "Category": "Mailing pre-sorting"
+          },
+          "N.82.1.9.0.14": {
+            "ID": 15199,
+            "SIC": "N.82.1.9.0.14",
+            "Category": "Multigraphing"
+          },
+          "N.82.1.9.0.15": {
+            "ID": 15200,
+            "SIC": "N.82.1.9.0.15",
+            "Category": "Photocopying"
+          },
+          "N.82.1.9.0.16": {
+            "ID": 15201,
+            "SIC": "N.82.1.9.0.16",
+            "Category": "Preparation and archiving of documents"
+          },
+          "N.82.1.9.0.17": {
+            "ID": 15202,
+            "SIC": "N.82.1.9.0.17",
+            "Category": "Proof reading"
+          },
+          "N.82.1.9.0.18": {
+            "ID": 15203,
+            "SIC": "N.82.1.9.0.18",
+            "Category": "Reprographic activities (other than printing)"
+          },
+          "N.82.1.9.0.19": {
+            "ID": 15204,
+            "SIC": "N.82.1.9.0.19",
+            "Category": "Shorthand writing"
+          },
+          "N.82.1.9.0.20": {
+            "ID": 15205,
+            "SIC": "N.82.1.9.0.20",
+            "Category": "Transcription of documents, and other secretarial services "
+          },
+          "N.82.1.9.0.21": {
+            "ID": 15206,
+            "SIC": "N.82.1.9.0.21",
+            "Category": "Typing, word processing and desk top publication service"
+          }
+        }
+      },
+      "N.82.2": {
+        "ID": 1043,
+        "SIC": "N.82.2",
+        "Category": "Activities of call centres",
+        "N.82.2.0": {
+          "ID": 1044,
+          "SIC": "N.82.2.0",
+          "Category": "Activities of call centres",
+          "N.82.2.0.0.1": {
+            "ID": 15207,
+            "SIC": "N.82.2.0.0.1",
+            "Category": "Call centres undertaking market research or public opinion polling"
+          },
+          "N.82.2.0.0.2": {
+            "ID": 15208,
+            "SIC": "N.82.2.0.0.2",
+            "Category": "Call centres working on a fee or contract basis"
+          },
+          "N.82.2.0.0.3": {
+            "ID": 15209,
+            "SIC": "N.82.2.0.0.3",
+            "Category": "Inbound call centres"
+          },
+          "N.82.2.0.0.4": {
+            "ID": 15210,
+            "SIC": "N.82.2.0.0.4",
+            "Category": "Outbound call centres"
+          }
+        }
+      },
+      "N.82.3": {
+        "ID": 1045,
+        "SIC": "N.82.3",
+        "Category": "Organisation of conventions and trade shows",
+        "N.82.3.0": {
+          "ID": 1046,
+          "SIC": "N.82.3.0",
+          "Category": "Organisation of conventions and trade shows",
+          "N.82.3.0.1": {
+            "ID": 1047,
+            "SIC": "N.82.3.0.1",
+            "Category": "Activities of exhibition and fair organizers",
+            "N.82.3.0.1.1": {
+              "ID": 15211,
+              "SIC": "N.82.3.0.1.1",
+              "Category": "Exhibition contracting and organising"
+            },
+            "N.82.3.0.1.2": {
+              "ID": 15212,
+              "SIC": "N.82.3.0.1.2",
+              "Category": "Exhibition stand design"
+            },
+            "N.82.3.0.1.3": {
+              "ID": 15213,
+              "SIC": "N.82.3.0.1.3",
+              "Category": "Exhibition stand hire"
+            },
+            "N.82.3.0.1.4": {
+              "ID": 15214,
+              "SIC": "N.82.3.0.1.4",
+              "Category": "Fair organiser"
+            },
+            "N.82.3.0.1.5": {
+              "ID": 15215,
+              "SIC": "N.82.3.0.1.5",
+              "Category": "Trade centre"
+            },
+            "N.82.3.0.1.6": {
+              "ID": 15216,
+              "SIC": "N.82.3.0.1.6",
+              "Category": "Trades exhibition organiser"
+            }
+          },
+          "N.82.3.0.2": {
+            "ID": 1048,
+            "SIC": "N.82.3.0.2",
+            "Category": "Activities of conference organizers",
+            "N.82.3.0.2.1": {
+              "ID": 15217,
+              "SIC": "N.82.3.0.2.1",
+              "Category": "Conference organisers"
+            }
+          }
+        }
+      },
+      "N.82.9": {
+        "ID": 1049,
+        "SIC": "N.82.9",
+        "Category": "Business support service activities n.e.c.",
+        "N.82.9.1": {
+          "ID": 1050,
+          "SIC": "N.82.9.1",
+          "Category": "Activities of collection agencies and credit bureaus",
+          "N.82.9.1.1": {
+            "ID": 1051,
+            "SIC": "N.82.9.1.1",
+            "Category": "Activities of collection agencies",
+            "N.82.9.1.1.1": {
+              "ID": 15218,
+              "SIC": "N.82.9.1.1.1",
+              "Category": "Bill collecting"
+            },
+            "N.82.9.1.1.2": {
+              "ID": 15219,
+              "SIC": "N.82.9.1.1.2",
+              "Category": "Debt collector"
+            }
+          },
+          "N.82.9.1.2": {
+            "ID": 1052,
+            "SIC": "N.82.9.1.2",
+            "Category": "Activities of credit bureaus",
+            "N.82.9.1.2.1": {
+              "ID": 15220,
+              "SIC": "N.82.9.1.2.1",
+              "Category": "Compilation of credit score information"
+            },
+            "N.82.9.1.2.2": {
+              "ID": 15221,
+              "SIC": "N.82.9.1.2.2",
+              "Category": "Credit bureau"
+            },
+            "N.82.9.1.2.3": {
+              "ID": 15222,
+              "SIC": "N.82.9.1.2.3",
+              "Category": "Credit rating"
+            },
+            "N.82.9.1.2.4": {
+              "ID": 15223,
+              "SIC": "N.82.9.1.2.4",
+              "Category": "Financial and credit reporting"
+            }
+          }
+        },
+        "N.82.9.2": {
+          "ID": 1053,
+          "SIC": "N.82.9.2",
+          "Category": "Packaging activities",
+          "N.82.9.2.0.1": {
+            "ID": 15224,
+            "SIC": "N.82.9.2.0.1",
+            "Category": "Aerosol filling on a fee or contract basis"
+          },
+          "N.82.9.2.0.2": {
+            "ID": 15225,
+            "SIC": "N.82.9.2.0.2",
+            "Category": "Beverage bottling on a fee or contract basis"
+          },
+          "N.82.9.2.0.3": {
+            "ID": 15226,
+            "SIC": "N.82.9.2.0.3",
+            "Category": "Blister packaging foil-covered packaging"
+          },
+          "N.82.9.2.0.4": {
+            "ID": 15227,
+            "SIC": "N.82.9.2.0.4",
+            "Category": "Bottling on a fee or contract basis"
+          },
+          "N.82.9.2.0.5": {
+            "ID": 15228,
+            "SIC": "N.82.9.2.0.5",
+            "Category": "Food bottling and packaging on a fee or contract basis"
+          },
+          "N.82.9.2.0.6": {
+            "ID": 15229,
+            "SIC": "N.82.9.2.0.6",
+            "Category": "Labelling, stamping and imprinting on a fee or contract basis"
+          },
+          "N.82.9.2.0.7": {
+            "ID": 15230,
+            "SIC": "N.82.9.2.0.7",
+            "Category": "Liquids bottling on a fee or contract basis"
+          },
+          "N.82.9.2.0.8": {
+            "ID": 15231,
+            "SIC": "N.82.9.2.0.8",
+            "Category": "Packaging activities on a fee or contract basis"
+          },
+          "N.82.9.2.0.9": {
+            "ID": 15232,
+            "SIC": "N.82.9.2.0.9",
+            "Category": "Packaging of solids"
+          },
+          "N.82.9.2.0.10": {
+            "ID": 15233,
+            "SIC": "N.82.9.2.0.10",
+            "Category": "Packing of medicaments into edible capsules"
+          },
+          "N.82.9.2.0.11": {
+            "ID": 15234,
+            "SIC": "N.82.9.2.0.11",
+            "Category": "Parcel packing and gift wrapping on a fee or contract basis"
+          },
+          "N.82.9.2.0.12": {
+            "ID": 15235,
+            "SIC": "N.82.9.2.0.12",
+            "Category": "Potato powder/flake packing (inert atmosphere)"
+          },
+          "N.82.9.2.0.13": {
+            "ID": 15236,
+            "SIC": "N.82.9.2.0.13",
+            "Category": "Security packaging of pharmaceutical preparations"
+          }
+        },
+        "N.82.9.9": {
+          "ID": 1054,
+          "SIC": "N.82.9.9",
+          "Category": "Other business support service activities n.e.c.",
+          "N.82.9.9.0.1": {
+            "ID": 15237,
+            "SIC": "N.82.9.9.0.1",
+            "Category": "Agricultural showground"
+          },
+          "N.82.9.9.0.2": {
+            "ID": 15238,
+            "SIC": "N.82.9.9.0.2",
+            "Category": "Bar code imprinting services"
+          },
+          "N.82.9.9.0.3": {
+            "ID": 15239,
+            "SIC": "N.82.9.9.0.3",
+            "Category": "Broadcasting transmission rights agent"
+          },
+          "N.82.9.9.0.4": {
+            "ID": 15240,
+            "SIC": "N.82.9.9.0.4",
+            "Category": "Business activities n.e.c."
+          },
+          "N.82.9.9.0.5": {
+            "ID": 15241,
+            "SIC": "N.82.9.9.0.5",
+            "Category": "Charity crowd funding"
+          },
+          "N.82.9.9.0.6": {
+            "ID": 15242,
+            "SIC": "N.82.9.9.0.6",
+            "Category": "Court reporting services"
+          },
+          "N.82.9.9.0.7": {
+            "ID": 15243,
+            "SIC": "N.82.9.9.0.7",
+            "Category": "Crowd funding and crowd sourcing"
+          },
+          "N.82.9.9.0.8": {
+            "ID": 15244,
+            "SIC": "N.82.9.9.0.8",
+            "Category": "Fundraising organisation services on a contract or fee basis"
+          },
+          "N.82.9.9.0.9": {
+            "ID": 15245,
+            "SIC": "N.82.9.9.0.9",
+            "Category": "Gas, water and electricity meter reading"
+          },
+          "N.82.9.9.0.10": {
+            "ID": 15246,
+            "SIC": "N.82.9.9.0.10",
+            "Category": "Independent auctioneers"
+          },
+          "N.82.9.9.0.11": {
+            "ID": 15247,
+            "SIC": "N.82.9.9.0.11",
+            "Category": "Information bureau (not tourist)"
+          },
+          "N.82.9.9.0.12": {
+            "ID": 15248,
+            "SIC": "N.82.9.9.0.12",
+            "Category": "Leisure activities gift experience package administration"
+          },
+          "N.82.9.9.0.13": {
+            "ID": 15249,
+            "SIC": "N.82.9.9.0.13",
+            "Category": "Loyalty programme administration"
+          },
+          "N.82.9.9.0.14": {
+            "ID": 15250,
+            "SIC": "N.82.9.9.0.14",
+            "Category": "Luncheon voucher company"
+          },
+          "N.82.9.9.0.15": {
+            "ID": 15251,
+            "SIC": "N.82.9.9.0.15",
+            "Category": "Meter reading on a fee or contract basis"
+          },
+          "N.82.9.9.0.16": {
+            "ID": 15252,
+            "SIC": "N.82.9.9.0.16",
+            "Category": "Motor vehicle registration assistance"
+          },
+          "N.82.9.9.0.17": {
+            "ID": 15253,
+            "SIC": "N.82.9.9.0.17",
+            "Category": "Parking meter coin collection services"
+          },
+          "N.82.9.9.0.18": {
+            "ID": 15254,
+            "SIC": "N.82.9.9.0.18",
+            "Category": "Public record searching"
+          },
+          "N.82.9.9.0.19": {
+            "ID": 15255,
+            "SIC": "N.82.9.9.0.19",
+            "Category": "Public stenography services"
+          },
+          "N.82.9.9.0.20": {
+            "ID": 15256,
+            "SIC": "N.82.9.9.0.20",
+            "Category": "Real-time closed captioning"
+          },
+          "N.82.9.9.0.21": {
+            "ID": 15257,
+            "SIC": "N.82.9.9.0.21",
+            "Category": "Relocation service"
+          },
+          "N.82.9.9.0.22": {
+            "ID": 15258,
+            "SIC": "N.82.9.9.0.22",
+            "Category": "Repossession services"
+          },
+          "N.82.9.9.0.23": {
+            "ID": 15259,
+            "SIC": "N.82.9.9.0.23",
+            "Category": "Restaurant voucher handling service"
+          },
+          "N.82.9.9.0.24": {
+            "ID": 15260,
+            "SIC": "N.82.9.9.0.24",
+            "Category": "Stock control activities"
+          },
+          "N.82.9.9.0.25": {
+            "ID": 15261,
+            "SIC": "N.82.9.9.0.25",
+            "Category": "Vehicle licence issuing on a fee or contract basis"
+          },
+          "N.82.9.9.0.26": {
+            "ID": 15262,
+            "SIC": "N.82.9.9.0.26",
+            "Category": "Voucher issuing"
+          },
+          "N.82.9.9.0.27": {
+            "ID": 15263,
+            "SIC": "N.82.9.9.0.27",
+            "Category": "Voucher issuing and handling"
+          }
+        }
+      }
+    }
+  }
+}

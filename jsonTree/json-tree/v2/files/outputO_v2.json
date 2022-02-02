@@ -1,0 +1,897 @@
+{
+  "O": {
+    "ID": 1055,
+    "SIC": "O",
+    "Category": "PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY",
+    "O.84": {
+      "ID": 1056,
+      "SIC": "O.84",
+      "Category": "Public administration and defence; compulsory social security",
+      "O.84.1": {
+        "ID": 1057,
+        "SIC": "O.84.1",
+        "Category": "Administration of the State and the economic and social policy of the community",
+        "O.84.1.1": {
+          "ID": 1058,
+          "SIC": "O.84.1.1",
+          "Category": "General public administration activities",
+          "O.84.1.1.0.1": {
+            "ID": 15264,
+            "SIC": "O.84.1.1.0.1",
+            "Category": "Central government administration"
+          },
+          "O.84.1.1.0.2": {
+            "ID": 15265,
+            "SIC": "O.84.1.1.0.2",
+            "Category": "Customs administration"
+          },
+          "O.84.1.1.0.3": {
+            "ID": 15266,
+            "SIC": "O.84.1.1.0.3",
+            "Category": "Duty and tax collection"
+          },
+          "O.84.1.1.0.4": {
+            "ID": 15267,
+            "SIC": "O.84.1.1.0.4",
+            "Category": "Economic and social planning administration (public sector)"
+          },
+          "O.84.1.1.0.5": {
+            "ID": 15268,
+            "SIC": "O.84.1.1.0.5",
+            "Category": "Executive and legislative administration (public sector)"
+          },
+          "O.84.1.1.0.6": {
+            "ID": 15269,
+            "SIC": "O.84.1.1.0.6",
+            "Category": "Financial services (public sector)"
+          },
+          "O.84.1.1.0.7": {
+            "ID": 15270,
+            "SIC": "O.84.1.1.0.7",
+            "Category": "Fiscal services (public sector)"
+          },
+          "O.84.1.1.0.8": {
+            "ID": 15271,
+            "SIC": "O.84.1.1.0.8",
+            "Category": "Fundamental research administration (public sector)"
+          },
+          "O.84.1.1.0.9": {
+            "ID": 15272,
+            "SIC": "O.84.1.1.0.9",
+            "Category": "General personnel administration and operational services (public sector)"
+          },
+          "O.84.1.1.0.10": {
+            "ID": 15273,
+            "SIC": "O.84.1.1.0.10",
+            "Category": "General public administration activities"
+          },
+          "O.84.1.1.0.11": {
+            "ID": 15274,
+            "SIC": "O.84.1.1.0.11",
+            "Category": "Local government administration"
+          },
+          "O.84.1.1.0.12": {
+            "ID": 15275,
+            "SIC": "O.84.1.1.0.12",
+            "Category": "Public debt services administration"
+          },
+          "O.84.1.1.0.13": {
+            "ID": 15276,
+            "SIC": "O.84.1.1.0.13",
+            "Category": "Public fund services administration"
+          },
+          "O.84.1.1.0.14": {
+            "ID": 15277,
+            "SIC": "O.84.1.1.0.14",
+            "Category": "Statistical services (public sector)"
+          },
+          "O.84.1.1.0.15": {
+            "ID": 15278,
+            "SIC": "O.84.1.1.0.15",
+            "Category": "Tax violation investigation services"
+          },
+          "O.84.1.1.0.16": {
+            "ID": 15279,
+            "SIC": "O.84.1.1.0.16",
+            "Category": "Taxation schemes"
+          },
+          "O.84.1.1.0.17": {
+            "ID": 15280,
+            "SIC": "O.84.1.1.0.17",
+            "Category": "Trust territory programme administration (public sector)"
+          }
+        },
+        "O.84.1.2": {
+          "ID": 1059,
+          "SIC": "O.84.1.2",
+          "Category": "Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security",
+          "O.84.1.2.0.1": {
+            "ID": 15281,
+            "SIC": "O.84.1.2.0.1",
+            "Category": "Community amenity services administration (public sector)"
+          },
+          "O.84.1.2.0.2": {
+            "ID": 15282,
+            "SIC": "O.84.1.2.0.2",
+            "Category": "Cultural services administration (public sector)"
+          },
+          "O.84.1.2.0.3": {
+            "ID": 15283,
+            "SIC": "O.84.1.2.0.3",
+            "Category": "Dental service administration (public sector)"
+          },
+          "O.84.1.2.0.4": {
+            "ID": 15284,
+            "SIC": "O.84.1.2.0.4",
+            "Category": "Educational services administration (public sector)"
+          },
+          "O.84.1.2.0.5": {
+            "ID": 15285,
+            "SIC": "O.84.1.2.0.5",
+            "Category": "Environmental services administration (public sector)"
+          },
+          "O.84.1.2.0.6": {
+            "ID": 15286,
+            "SIC": "O.84.1.2.0.6",
+            "Category": "Gambling Commission"
+          },
+          "O.84.1.2.0.7": {
+            "ID": 15287,
+            "SIC": "O.84.1.2.0.7",
+            "Category": "Health care services administration (public sector)"
+          },
+          "O.84.1.2.0.8": {
+            "ID": 15288,
+            "SIC": "O.84.1.2.0.8",
+            "Category": "Housing services administration (public sector)"
+          },
+          "O.84.1.2.0.9": {
+            "ID": 15289,
+            "SIC": "O.84.1.2.0.9",
+            "Category": "Pollution standards, dissemination and information services (public sector)"
+          },
+          "O.84.1.2.0.10": {
+            "ID": 15290,
+            "SIC": "O.84.1.2.0.10",
+            "Category": "Public administration of education programmes"
+          },
+          "O.84.1.2.0.11": {
+            "ID": 15291,
+            "SIC": "O.84.1.2.0.11",
+            "Category": "Public administration of environment programmes"
+          },
+          "O.84.1.2.0.12": {
+            "ID": 15292,
+            "SIC": "O.84.1.2.0.12",
+            "Category": "Public administration of health programmes"
+          },
+          "O.84.1.2.0.13": {
+            "ID": 15293,
+            "SIC": "O.84.1.2.0.13",
+            "Category": "Public administration of housing programmes"
+          },
+          "O.84.1.2.0.14": {
+            "ID": 15294,
+            "SIC": "O.84.1.2.0.14",
+            "Category": "Public administration of recreation programmes"
+          },
+          "O.84.1.2.0.15": {
+            "ID": 15295,
+            "SIC": "O.84.1.2.0.15",
+            "Category": "Public administration of research and development policies"
+          },
+          "O.84.1.2.0.16": {
+            "ID": 15296,
+            "SIC": "O.84.1.2.0.16",
+            "Category": "Public administration of social services programmes"
+          },
+          "O.84.1.2.0.17": {
+            "ID": 15297,
+            "SIC": "O.84.1.2.0.17",
+            "Category": "Public administration of sport programmes"
+          },
+          "O.84.1.2.0.18": {
+            "ID": 15298,
+            "SIC": "O.84.1.2.0.18",
+            "Category": "Recreational services administration (public sector)"
+          },
+          "O.84.1.2.0.19": {
+            "ID": 15299,
+            "SIC": "O.84.1.2.0.19",
+            "Category": "Religious services administration (public sector)"
+          }
+        },
+        "O.84.1.3": {
+          "ID": 1060,
+          "SIC": "O.84.1.3",
+          "Category": "Regulation of and contribution to more efficient operation of businesses",
+          "O.84.1.3.0.1": {
+            "ID": 15300,
+            "SIC": "O.84.1.3.0.1",
+            "Category": "Agricultural services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.2": {
+            "ID": 15301,
+            "SIC": "O.84.1.3.0.2",
+            "Category": "Catering trade services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.3": {
+            "ID": 15302,
+            "SIC": "O.84.1.3.0.3",
+            "Category": "Commercial services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.4": {
+            "ID": 15303,
+            "SIC": "O.84.1.3.0.4",
+            "Category": "Communication services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.5": {
+            "ID": 15304,
+            "SIC": "O.84.1.3.0.5",
+            "Category": "Construction services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.6": {
+            "ID": 15305,
+            "SIC": "O.84.1.3.0.6",
+            "Category": "Distribution services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.7": {
+            "ID": 15306,
+            "SIC": "O.84.1.3.0.7",
+            "Category": "Economic services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.8": {
+            "ID": 15307,
+            "SIC": "O.84.1.3.0.8",
+            "Category": "Energy services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.9": {
+            "ID": 15308,
+            "SIC": "O.84.1.3.0.9",
+            "Category": "Fishing services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.10": {
+            "ID": 15309,
+            "SIC": "O.84.1.3.0.10",
+            "Category": "Forestry services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.11": {
+            "ID": 15310,
+            "SIC": "O.84.1.3.0.11",
+            "Category": "Fuel services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.12": {
+            "ID": 15311,
+            "SIC": "O.84.1.3.0.12",
+            "Category": "Hunting services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.13": {
+            "ID": 15312,
+            "SIC": "O.84.1.3.0.13",
+            "Category": "Labour affairs services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.14": {
+            "ID": 15313,
+            "SIC": "O.84.1.3.0.14",
+            "Category": "Land registry"
+          },
+          "O.84.1.3.0.15": {
+            "ID": 15314,
+            "SIC": "O.84.1.3.0.15",
+            "Category": "Manufacturing services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.16": {
+            "ID": 15315,
+            "SIC": "O.84.1.3.0.16",
+            "Category": "Mineral resource services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.17": {
+            "ID": 15316,
+            "SIC": "O.84.1.3.0.17",
+            "Category": "Mining services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.18": {
+            "ID": 15317,
+            "SIC": "O.84.1.3.0.18",
+            "Category": "Multipurpose development project services administration (public sector)"
+          },
+          "O.84.1.3.0.19": {
+            "ID": 15318,
+            "SIC": "O.84.1.3.0.19",
+            "Category": "Tourism services administration and regulation (public sector)"
+          },
+          "O.84.1.3.0.20": {
+            "ID": 15319,
+            "SIC": "O.84.1.3.0.20",
+            "Category": "Transport services administration and regulation (public sector)"
+          }
+        }
+      },
+      "O.84.2": {
+        "ID": 1061,
+        "SIC": "O.84.2",
+        "Category": "Provision of services to the community as a whole",
+        "O.84.2.1": {
+          "ID": 1062,
+          "SIC": "O.84.2.1",
+          "Category": "Foreign affairs",
+          "O.84.2.1.0.1": {
+            "ID": 15320,
+            "SIC": "O.84.2.1.0.1",
+            "Category": "Consular services abroad administration and operation (public sector)"
+          },
+          "O.84.2.1.0.2": {
+            "ID": 15321,
+            "SIC": "O.84.2.1.0.2",
+            "Category": "Economic aid missions accredited to foreign governments (public sector)"
+          },
+          "O.84.2.1.0.3": {
+            "ID": 15322,
+            "SIC": "O.84.2.1.0.3",
+            "Category": "Foreign economic aid services administration (public sector)"
+          },
+          "O.84.2.1.0.4": {
+            "ID": 15323,
+            "SIC": "O.84.2.1.0.4",
+            "Category": "Information and cultural services abroad administration and operation (public sector)"
+          },
+          "O.84.2.1.0.5": {
+            "ID": 15324,
+            "SIC": "O.84.2.1.0.5",
+            "Category": "International peace keeping forces contribution including assignment of manpower"
+          },
+          "O.84.2.1.0.6": {
+            "ID": 15325,
+            "SIC": "O.84.2.1.0.6",
+            "Category": "Military aid missions accredited to foreign governments (public sector)"
+          },
+          "O.84.2.1.0.7": {
+            "ID": 15326,
+            "SIC": "O.84.2.1.0.7",
+            "Category": "Non-military aid programmes to developing countries (public sector)"
+          },
+          "O.84.2.1.0.8": {
+            "ID": 15327,
+            "SIC": "O.84.2.1.0.8",
+            "Category": "Technical assistance and training programmes abroad (public sector)"
+          }
+        },
+        "O.84.2.2": {
+          "ID": 1063,
+          "SIC": "O.84.2.2",
+          "Category": "Defence activities",
+          "O.84.2.2.0.1": {
+            "ID": 15328,
+            "SIC": "O.84.2.2.0.1",
+            "Category": "Administration of defence-related research and development policies and related funds"
+          },
+          "O.84.2.2.0.2": {
+            "ID": 15329,
+            "SIC": "O.84.2.2.0.2",
+            "Category": "Administration supervision and operation of engineering, and other non-combat forces and commands"
+          },
+          "O.84.2.2.0.3": {
+            "ID": 15330,
+            "SIC": "O.84.2.2.0.3",
+            "Category": "Administration supervision and operation of intelligence and other non-combat forces and commands"
+          },
+          "O.84.2.2.0.4": {
+            "ID": 15331,
+            "SIC": "O.84.2.2.0.4",
+            "Category": "Administration supervision and operation of land, sea, air and space defence forces"
+          },
+          "O.84.2.2.0.5": {
+            "ID": 15332,
+            "SIC": "O.84.2.2.0.5",
+            "Category": "Administration supervision and operation of military defence affairs"
+          },
+          "O.84.2.2.0.6": {
+            "ID": 15333,
+            "SIC": "O.84.2.2.0.6",
+            "Category": "Administration supervision and operation of reserve/auxiliary forces of the defence establishment"
+          },
+          "O.84.2.2.0.7": {
+            "ID": 15334,
+            "SIC": "O.84.2.2.0.7",
+            "Category": "Administrative, operational and supervisory services related to civil defence"
+          },
+          "O.84.2.2.0.8": {
+            "ID": 15335,
+            "SIC": "O.84.2.2.0.8",
+            "Category": "Administrative, operational and supervisory services related to military defence"
+          },
+          "O.84.2.2.0.9": {
+            "ID": 15336,
+            "SIC": "O.84.2.2.0.9",
+            "Category": "Army establishment (civilian personnel)"
+          },
+          "O.84.2.2.0.10": {
+            "ID": 15337,
+            "SIC": "O.84.2.2.0.10",
+            "Category": "Army establishment (service personnel)"
+          },
+          "O.84.2.2.0.11": {
+            "ID": 15338,
+            "SIC": "O.84.2.2.0.11",
+            "Category": "Civil defence administration"
+          },
+          "O.84.2.2.0.12": {
+            "ID": 15339,
+            "SIC": "O.84.2.2.0.12",
+            "Category": "Defence activities"
+          },
+          "O.84.2.2.0.13": {
+            "ID": 15340,
+            "SIC": "O.84.2.2.0.13",
+            "Category": "Health activities for military personnel in the field"
+          },
+          "O.84.2.2.0.14": {
+            "ID": 15341,
+            "SIC": "O.84.2.2.0.14",
+            "Category": "Maritime search and rescue (military)"
+          },
+          "O.84.2.2.0.15": {
+            "ID": 15342,
+            "SIC": "O.84.2.2.0.15",
+            "Category": "Military defence administration"
+          },
+          "O.84.2.2.0.16": {
+            "ID": 15343,
+            "SIC": "O.84.2.2.0.16",
+            "Category": "Military logistics"
+          },
+          "O.84.2.2.0.17": {
+            "ID": 15344,
+            "SIC": "O.84.2.2.0.17",
+            "Category": "Military ports"
+          },
+          "O.84.2.2.0.18": {
+            "ID": 15345,
+            "SIC": "O.84.2.2.0.18",
+            "Category": "Ministry of Defence (civilian personnel)"
+          },
+          "O.84.2.2.0.19": {
+            "ID": 15346,
+            "SIC": "O.84.2.2.0.19",
+            "Category": "Ministry of Defence (forces personnel)"
+          },
+          "O.84.2.2.0.20": {
+            "ID": 15347,
+            "SIC": "O.84.2.2.0.20",
+            "Category": "Ministry of Defence Headquarters"
+          },
+          "O.84.2.2.0.21": {
+            "ID": 15348,
+            "SIC": "O.84.2.2.0.21",
+            "Category": "Pay and personnel agency (armed forces)"
+          },
+          "O.84.2.2.0.22": {
+            "ID": 15349,
+            "SIC": "O.84.2.2.0.22",
+            "Category": "Princess Mary"
+          },
+          "O.84.2.2.0.23": {
+            "ID": 15350,
+            "SIC": "O.84.2.2.0.23",
+            "Category": "Queen Alexandra"
+          },
+          "O.84.2.2.0.24": {
+            "ID": 15351,
+            "SIC": "O.84.2.2.0.24",
+            "Category": "Queen Alexandra"
+          },
+          "O.84.2.2.0.25": {
+            "ID": 15352,
+            "SIC": "O.84.2.2.0.25",
+            "Category": "Royal Air Force Establishments (civilian personnel)"
+          },
+          "O.84.2.2.0.26": {
+            "ID": 15353,
+            "SIC": "O.84.2.2.0.26",
+            "Category": "Royal Air Force Establishments (service personnel)"
+          },
+          "O.84.2.2.0.27": {
+            "ID": 15354,
+            "SIC": "O.84.2.2.0.27",
+            "Category": "Royal Marines"
+          },
+          "O.84.2.2.0.28": {
+            "ID": 15355,
+            "SIC": "O.84.2.2.0.28",
+            "Category": "Royal Navy establishments (civilian personnel)"
+          },
+          "O.84.2.2.0.29": {
+            "ID": 15356,
+            "SIC": "O.84.2.2.0.29",
+            "Category": "Royal Navy establishments (service personnel)"
+          },
+          "O.84.2.2.0.30": {
+            "ID": 15357,
+            "SIC": "O.84.2.2.0.30",
+            "Category": "Support for defence plans and exercises for civilians"
+          },
+          "O.84.2.2.0.31": {
+            "ID": 15358,
+            "SIC": "O.84.2.2.0.31",
+            "Category": "Territorial Army"
+          }
+        },
+        "O.84.2.3": {
+          "ID": 1064,
+          "SIC": "O.84.2.3",
+          "Category": "Justice and judicial activities",
+          "O.84.2.3.0.1": {
+            "ID": 15359,
+            "SIC": "O.84.2.3.0.1",
+            "Category": "Administration and operation of administrative civil and criminal law courts"
+          },
+          "O.84.2.3.0.2": {
+            "ID": 15360,
+            "SIC": "O.84.2.3.0.2",
+            "Category": "Appeal Committee of the House of Lords"
+          },
+          "O.84.2.3.0.3": {
+            "ID": 15361,
+            "SIC": "O.84.2.3.0.3",
+            "Category": "Arbitration of civil actions"
+          },
+          "O.84.2.3.0.4": {
+            "ID": 15362,
+            "SIC": "O.84.2.3.0.4",
+            "Category": "Companies court"
+          },
+          "O.84.2.3.0.5": {
+            "ID": 15363,
+            "SIC": "O.84.2.3.0.5",
+            "Category": "Coroners court"
+          },
+          "O.84.2.3.0.6": {
+            "ID": 15364,
+            "SIC": "O.84.2.3.0.6",
+            "Category": "Correctional services"
+          },
+          "O.84.2.3.0.7": {
+            "ID": 15365,
+            "SIC": "O.84.2.3.0.7",
+            "Category": "County court"
+          },
+          "O.84.2.3.0.8": {
+            "ID": 15366,
+            "SIC": "O.84.2.3.0.8",
+            "Category": "Court of appeal"
+          },
+          "O.84.2.3.0.9": {
+            "ID": 15367,
+            "SIC": "O.84.2.3.0.9",
+            "Category": "Court of protection"
+          },
+          "O.84.2.3.0.10": {
+            "ID": 15368,
+            "SIC": "O.84.2.3.0.10",
+            "Category": "Court of session (Scotland)"
+          },
+          "O.84.2.3.0.11": {
+            "ID": 15369,
+            "SIC": "O.84.2.3.0.11",
+            "Category": "Court of the Lord Lyon"
+          },
+          "O.84.2.3.0.12": {
+            "ID": 15370,
+            "SIC": "O.84.2.3.0.12",
+            "Category": "Crown court"
+          },
+          "O.84.2.3.0.13": {
+            "ID": 15371,
+            "SIC": "O.84.2.3.0.13",
+            "Category": "Crown prosecution service"
+          },
+          "O.84.2.3.0.14": {
+            "ID": 15372,
+            "SIC": "O.84.2.3.0.14",
+            "Category": "Detention centres"
+          },
+          "O.84.2.3.0.15": {
+            "ID": 15373,
+            "SIC": "O.84.2.3.0.15",
+            "Category": "High Court of Justice"
+          },
+          "O.84.2.3.0.16": {
+            "ID": 15374,
+            "SIC": "O.84.2.3.0.16",
+            "Category": "High court of Justice in Bankruptcy"
+          },
+          "O.84.2.3.0.17": {
+            "ID": 15375,
+            "SIC": "O.84.2.3.0.17",
+            "Category": "High Court of Justiciary (Scotland)"
+          },
+          "O.84.2.3.0.18": {
+            "ID": 15376,
+            "SIC": "O.84.2.3.0.18",
+            "Category": "Judge"
+          },
+          "O.84.2.3.0.19": {
+            "ID": 15377,
+            "SIC": "O.84.2.3.0.19",
+            "Category": "Judge advocates"
+          },
+          "O.84.2.3.0.20": {
+            "ID": 15378,
+            "SIC": "O.84.2.3.0.20",
+            "Category": "Justice of the Peace"
+          },
+          "O.84.2.3.0.21": {
+            "ID": 15379,
+            "SIC": "O.84.2.3.0.21",
+            "Category": "Local authority observation and assessment centres"
+          },
+          "O.84.2.3.0.22": {
+            "ID": 15380,
+            "SIC": "O.84.2.3.0.22",
+            "Category": "Magistrates' court"
+          },
+          "O.84.2.3.0.23": {
+            "ID": 15381,
+            "SIC": "O.84.2.3.0.23",
+            "Category": "Military tribunals administration and operation"
+          },
+          "O.84.2.3.0.24": {
+            "ID": 15382,
+            "SIC": "O.84.2.3.0.24",
+            "Category": "Official solicitor"
+          },
+          "O.84.2.3.0.25": {
+            "ID": 15383,
+            "SIC": "O.84.2.3.0.25",
+            "Category": "Pensions appeal tribunal"
+          },
+          "O.84.2.3.0.26": {
+            "ID": 15384,
+            "SIC": "O.84.2.3.0.26",
+            "Category": "Prison administration and operation"
+          },
+          "O.84.2.3.0.27": {
+            "ID": 15385,
+            "SIC": "O.84.2.3.0.27",
+            "Category": "Prisons (excluding naval and military)"
+          },
+          "O.84.2.3.0.28": {
+            "ID": 15386,
+            "SIC": "O.84.2.3.0.28",
+            "Category": "Probate registry"
+          },
+          "O.84.2.3.0.29": {
+            "ID": 15387,
+            "SIC": "O.84.2.3.0.29",
+            "Category": "Registrars Office (Courts of Justice)"
+          },
+          "O.84.2.3.0.30": {
+            "ID": 15388,
+            "SIC": "O.84.2.3.0.30",
+            "Category": "Rehabilitation services for prisoners"
+          },
+          "O.84.2.3.0.31": {
+            "ID": 15389,
+            "SIC": "O.84.2.3.0.31",
+            "Category": "Remand centres"
+          },
+          "O.84.2.3.0.32": {
+            "ID": 15390,
+            "SIC": "O.84.2.3.0.32",
+            "Category": "Sheriff's Court (Scotland)"
+          },
+          "O.84.2.3.0.33": {
+            "ID": 15391,
+            "SIC": "O.84.2.3.0.33",
+            "Category": "Stipendiary magistrates"
+          },
+          "O.84.2.3.0.34": {
+            "ID": 15392,
+            "SIC": "O.84.2.3.0.34",
+            "Category": "Supreme Courts of the United Kingdom"
+          },
+          "O.84.2.3.0.35": {
+            "ID": 15393,
+            "SIC": "O.84.2.3.0.35",
+            "Category": "Tribunals"
+          },
+          "O.84.2.3.0.36": {
+            "ID": 15394,
+            "SIC": "O.84.2.3.0.36",
+            "Category": "Young offender centres"
+          }
+        },
+        "O.84.2.4": {
+          "ID": 1065,
+          "SIC": "O.84.2.4",
+          "Category": "Public order and safety activities",
+          "O.84.2.4.0.1": {
+            "ID": 15395,
+            "SIC": "O.84.2.4.0.1",
+            "Category": "Administration and operation of regular and auxiliary police forces supported by public authorities"
+          },
+          "O.84.2.4.0.2": {
+            "ID": 15396,
+            "SIC": "O.84.2.4.0.2",
+            "Category": "Administration and operation of special police forces"
+          },
+          "O.84.2.4.0.3": {
+            "ID": 15397,
+            "SIC": "O.84.2.4.0.3",
+            "Category": "Alien registration administration and operation"
+          },
+          "O.84.2.4.0.4": {
+            "ID": 15398,
+            "SIC": "O.84.2.4.0.4",
+            "Category": "Border guard administration and operation"
+          },
+          "O.84.2.4.0.5": {
+            "ID": 15399,
+            "SIC": "O.84.2.4.0.5",
+            "Category": "Coast guards administration and operation"
+          },
+          "O.84.2.4.0.6": {
+            "ID": 15400,
+            "SIC": "O.84.2.4.0.6",
+            "Category": "Criminal investigation department"
+          },
+          "O.84.2.4.0.7": {
+            "ID": 15401,
+            "SIC": "O.84.2.4.0.7",
+            "Category": "Law and order administration and operation"
+          },
+          "O.84.2.4.0.8": {
+            "ID": 15402,
+            "SIC": "O.84.2.4.0.8",
+            "Category": "Local authority school crossing patrols"
+          },
+          "O.84.2.4.0.9": {
+            "ID": 15403,
+            "SIC": "O.84.2.4.0.9",
+            "Category": "Local authority traffic wardens"
+          },
+          "O.84.2.4.0.10": {
+            "ID": 15404,
+            "SIC": "O.84.2.4.0.10",
+            "Category": "Metropolitan Police Commissioners Office"
+          },
+          "O.84.2.4.0.11": {
+            "ID": 15405,
+            "SIC": "O.84.2.4.0.11",
+            "Category": "Police authorities"
+          },
+          "O.84.2.4.0.12": {
+            "ID": 15406,
+            "SIC": "O.84.2.4.0.12",
+            "Category": "Police records maintenance"
+          },
+          "O.84.2.4.0.13": {
+            "ID": 15407,
+            "SIC": "O.84.2.4.0.13",
+            "Category": "Port guards administration and operation"
+          },
+          "O.84.2.4.0.14": {
+            "ID": 15408,
+            "SIC": "O.84.2.4.0.14",
+            "Category": "Provision of supplies for domestic emergency use in case of peacetime disasters"
+          },
+          "O.84.2.4.0.15": {
+            "ID": 15409,
+            "SIC": "O.84.2.4.0.15",
+            "Category": "Public order and safety administration, regulation and operation"
+          },
+          "O.84.2.4.0.16": {
+            "ID": 15410,
+            "SIC": "O.84.2.4.0.16",
+            "Category": "Regional crime squad"
+          },
+          "O.84.2.4.0.17": {
+            "ID": 15411,
+            "SIC": "O.84.2.4.0.17",
+            "Category": "School crossing patrols"
+          },
+          "O.84.2.4.0.18": {
+            "ID": 15412,
+            "SIC": "O.84.2.4.0.18",
+            "Category": "Traffic regulation administration and operation"
+          },
+          "O.84.2.4.0.19": {
+            "ID": 15413,
+            "SIC": "O.84.2.4.0.19",
+            "Category": "Traffic wardens"
+          }
+        },
+        "O.84.2.5": {
+          "ID": 1066,
+          "SIC": "O.84.2.5",
+          "Category": "Fire service activities",
+          "O.84.2.5.0.1": {
+            "ID": 15414,
+            "SIC": "O.84.2.5.0.1",
+            "Category": "Auxiliary fire brigade services"
+          },
+          "O.84.2.5.0.2": {
+            "ID": 15415,
+            "SIC": "O.84.2.5.0.2",
+            "Category": "Fire authorities"
+          },
+          "O.84.2.5.0.3": {
+            "ID": 15416,
+            "SIC": "O.84.2.5.0.3",
+            "Category": "Fire brigades"
+          },
+          "O.84.2.5.0.4": {
+            "ID": 15417,
+            "SIC": "O.84.2.5.0.4",
+            "Category": "Fire fighting and fire prevention"
+          },
+          "O.84.2.5.0.5": {
+            "ID": 15418,
+            "SIC": "O.84.2.5.0.5",
+            "Category": "Fire service activities"
+          },
+          "O.84.2.5.0.6": {
+            "ID": 15419,
+            "SIC": "O.84.2.5.0.6",
+            "Category": "Local authority fire brigade services"
+          },
+          "O.84.2.5.0.7": {
+            "ID": 15420,
+            "SIC": "O.84.2.5.0.7",
+            "Category": "Marine fireboat services"
+          }
+        }
+      },
+      "O.84.3": {
+        "ID": 1067,
+        "SIC": "O.84.3",
+        "Category": "Compulsory social security activities",
+        "O.84.3.0": {
+          "ID": 1068,
+          "SIC": "O.84.3.0",
+          "Category": "Compulsory social security activities",
+          "O.84.3.0.0.1": {
+            "ID": 15421,
+            "SIC": "O.84.3.0.0.1",
+            "Category": "Compulsory social security administration concerning family and child benefits"
+          },
+          "O.84.3.0.0.2": {
+            "ID": 15422,
+            "SIC": "O.84.3.0.0.2",
+            "Category": "Compulsory social security administration concerning government employee pension schemes"
+          },
+          "O.84.3.0.0.3": {
+            "ID": 15423,
+            "SIC": "O.84.3.0.0.3",
+            "Category": "Compulsory social security administration concerning permanent loss of income due to disablement"
+          },
+          "O.84.3.0.0.4": {
+            "ID": 15424,
+            "SIC": "O.84.3.0.0.4",
+            "Category": "Compulsory social security administration concerning retirement pensions"
+          },
+          "O.84.3.0.0.5": {
+            "ID": 15425,
+            "SIC": "O.84.3.0.0.5",
+            "Category": "Compulsory social security administration concerning unemployment benefits"
+          },
+          "O.84.3.0.0.6": {
+            "ID": 15426,
+            "SIC": "O.84.3.0.0.6",
+            "Category": "Compulsory social security administration of sickness, maternity or temporary disablement benefits"
+          },
+          "O.84.3.0.0.7": {
+            "ID": 15427,
+            "SIC": "O.84.3.0.0.7",
+            "Category": "Funding and administration of government provided retirement pensions, "
+          },
+          "O.84.3.0.0.8": {
+            "ID": 15428,
+            "SIC": "O.84.3.0.0.8",
+            "Category": "Funding and administration of government provided sickness, work-accident and unemployment insurance"
+          }
+        }
+      }
+    }
+  }
+}

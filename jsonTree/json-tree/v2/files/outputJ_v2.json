@@ -1,0 +1,1467 @@
+{
+  "J": {
+    "ID": 792,
+    "SIC": "J",
+    "Category": "INFORMATION AND COMMUNICATION",
+    "J.58": {
+      "ID": 793,
+      "SIC": "J.58",
+      "Category": "Publishing activities",
+      "J.58.1": {
+        "ID": 794,
+        "SIC": "J.58.1",
+        "Category": "Publishing of books, periodicals and other publishing activities",
+        "J.58.1.1": {
+          "ID": 795,
+          "SIC": "J.58.1.1",
+          "Category": "Book publishing",
+          "J.58.1.1.0.1": {
+            "ID": 14032,
+            "SIC": "J.58.1.1.0.1",
+            "Category": "Architectural drawing publishing"
+          },
+          "J.58.1.1.0.2": {
+            "ID": 14033,
+            "SIC": "J.58.1.1.0.2",
+            "Category": "Atlas publishing"
+          },
+          "J.58.1.1.0.3": {
+            "ID": 14034,
+            "SIC": "J.58.1.1.0.3",
+            "Category": "Audio book publishing"
+          },
+          "J.58.1.1.0.4": {
+            "ID": 14035,
+            "SIC": "J.58.1.1.0.4",
+            "Category": "Book publishing"
+          },
+          "J.58.1.1.0.5": {
+            "ID": 14036,
+            "SIC": "J.58.1.1.0.5",
+            "Category": "Brochure publishing"
+          },
+          "J.58.1.1.0.6": {
+            "ID": 14037,
+            "SIC": "J.58.1.1.0.6",
+            "Category": "Chart publishing"
+          },
+          "J.58.1.1.0.7": {
+            "ID": 14038,
+            "SIC": "J.58.1.1.0.7",
+            "Category": "Dictionary publishing"
+          },
+          "J.58.1.1.0.8": {
+            "ID": 14039,
+            "SIC": "J.58.1.1.0.8",
+            "Category": "Electronic publishing of books"
+          },
+          "J.58.1.1.0.9": {
+            "ID": 14040,
+            "SIC": "J.58.1.1.0.9",
+            "Category": "Encyclopaedia publishing"
+          },
+          "J.58.1.1.0.10": {
+            "ID": 14041,
+            "SIC": "J.58.1.1.0.10",
+            "Category": "Engineering drawing publishing"
+          },
+          "J.58.1.1.0.11": {
+            "ID": 14042,
+            "SIC": "J.58.1.1.0.11",
+            "Category": "Geographical publishing"
+          },
+          "J.58.1.1.0.12": {
+            "ID": 14043,
+            "SIC": "J.58.1.1.0.12",
+            "Category": "Leaflet publishing"
+          },
+          "J.58.1.1.0.13": {
+            "ID": 14044,
+            "SIC": "J.58.1.1.0.13",
+            "Category": "Map and plan publishing"
+          },
+          "J.58.1.1.0.14": {
+            "ID": 14045,
+            "SIC": "J.58.1.1.0.14",
+            "Category": "On-line book publishing"
+          },
+          "J.58.1.1.0.15": {
+            "ID": 14046,
+            "SIC": "J.58.1.1.0.15",
+            "Category": "Pamphlet publishing"
+          },
+          "J.58.1.1.0.16": {
+            "ID": 14047,
+            "SIC": "J.58.1.1.0.16",
+            "Category": "Publishing on CD-ROM"
+          },
+          "J.58.1.1.0.17": {
+            "ID": 14048,
+            "SIC": "J.58.1.1.0.17",
+            "Category": "Religious tract publishing"
+          }
+        },
+        "J.58.1.2": {
+          "ID": 796,
+          "SIC": "J.58.1.2",
+          "Category": "Publishing of directories and mailing lists",
+          "J.58.1.2.0.1": {
+            "ID": 14049,
+            "SIC": "J.58.1.2.0.1",
+            "Category": "Directories and compilations (in print) publishing"
+          },
+          "J.58.1.2.0.2": {
+            "ID": 14050,
+            "SIC": "J.58.1.2.0.2",
+            "Category": "Mailing lists (in print) publishing"
+          },
+          "J.58.1.2.0.3": {
+            "ID": 14051,
+            "SIC": "J.58.1.2.0.3",
+            "Category": "On-line database publishing"
+          },
+          "J.58.1.2.0.4": {
+            "ID": 14052,
+            "SIC": "J.58.1.2.0.4",
+            "Category": "On-line directory publishing"
+          },
+          "J.58.1.2.0.5": {
+            "ID": 14053,
+            "SIC": "J.58.1.2.0.5",
+            "Category": "On-line mailing list publishing"
+          },
+          "J.58.1.2.0.6": {
+            "ID": 14054,
+            "SIC": "J.58.1.2.0.6",
+            "Category": "Telephone books (in print) publishing"
+          }
+        },
+        "J.58.1.3": {
+          "ID": 797,
+          "SIC": "J.58.1.3",
+          "Category": "Publishing of newspapers",
+          "J.58.1.3.0.1": {
+            "ID": 14055,
+            "SIC": "J.58.1.3.0.1",
+            "Category": "Advertising newspaper publishing"
+          },
+          "J.58.1.3.0.2": {
+            "ID": 14056,
+            "SIC": "J.58.1.3.0.2",
+            "Category": "Newspaper publishing"
+          },
+          "J.58.1.3.0.3": {
+            "ID": 14057,
+            "SIC": "J.58.1.3.0.3",
+            "Category": "On-line newspaper publishing"
+          }
+        },
+        "J.58.1.4": {
+          "ID": 798,
+          "SIC": "J.58.1.4",
+          "Category": "Publishing of journals and periodicals",
+          "J.58.1.4.1": {
+            "ID": 799,
+            "SIC": "J.58.1.4.1",
+            "Category": "Publishing of learned journals",
+            "J.58.1.4.1.1": {
+              "ID": 14058,
+              "SIC": "J.58.1.4.1.1",
+              "Category": "Learned journal publishing"
+            }
+          },
+          "J.58.1.4.2": {
+            "ID": 800,
+            "SIC": "J.58.1.4.2",
+            "Category": "Publishing of consumer, business and professional journals and periodicals",
+            "J.58.1.4.2.1": {
+              "ID": 14059,
+              "SIC": "J.58.1.4.2.1",
+              "Category": "Amusement guide periodical publishing"
+            },
+            "J.58.1.4.2.2": {
+              "ID": 14060,
+              "SIC": "J.58.1.4.2.2",
+              "Category": "Journal and periodical publishing"
+            },
+            "J.58.1.4.2.3": {
+              "ID": 14061,
+              "SIC": "J.58.1.4.2.3",
+              "Category": "Magazine publishing"
+            },
+            "J.58.1.4.2.4": {
+              "ID": 14062,
+              "SIC": "J.58.1.4.2.4",
+              "Category": "On-line journal (other than learned journals) and periodical publishing"
+            },
+            "J.58.1.4.2.5": {
+              "ID": 14063,
+              "SIC": "J.58.1.4.2.5",
+              "Category": "Periodical publishing"
+            },
+            "J.58.1.4.2.6": {
+              "ID": 14064,
+              "SIC": "J.58.1.4.2.6",
+              "Category": "Review publishing"
+            },
+            "J.58.1.4.2.7": {
+              "ID": 14065,
+              "SIC": "J.58.1.4.2.7",
+              "Category": "Trade journal publishing"
+            }
+          }
+        },
+        "J.58.1.9": {
+          "ID": 801,
+          "SIC": "J.58.1.9",
+          "Category": "Other publishing activities",
+          "J.58.1.9.0.1": {
+            "ID": 14066,
+            "SIC": "J.58.1.9.0.1",
+            "Category": "Advertising material publishing"
+          },
+          "J.58.1.9.0.2": {
+            "ID": 14067,
+            "SIC": "J.58.1.9.0.2",
+            "Category": "Art publishing"
+          },
+          "J.58.1.9.0.3": {
+            "ID": 14068,
+            "SIC": "J.58.1.9.0.3",
+            "Category": "Blogs (publishing)"
+          },
+          "J.58.1.9.0.4": {
+            "ID": 14069,
+            "SIC": "J.58.1.9.0.4",
+            "Category": "Catalogue publishing"
+          },
+          "J.58.1.9.0.5": {
+            "ID": 14070,
+            "SIC": "J.58.1.9.0.5",
+            "Category": "Forms publishing"
+          },
+          "J.58.1.9.0.6": {
+            "ID": 14071,
+            "SIC": "J.58.1.9.0.6",
+            "Category": "Greeting cards publishing"
+          },
+          "J.58.1.9.0.7": {
+            "ID": 14072,
+            "SIC": "J.58.1.9.0.7",
+            "Category": "Law publishing"
+          },
+          "J.58.1.9.0.8": {
+            "ID": 14073,
+            "SIC": "J.58.1.9.0.8",
+            "Category": "Letterpress publishing"
+          },
+          "J.58.1.9.0.9": {
+            "ID": 14074,
+            "SIC": "J.58.1.9.0.9",
+            "Category": "On-line advertising material publishing"
+          },
+          "J.58.1.9.0.10": {
+            "ID": 14075,
+            "SIC": "J.58.1.9.0.10",
+            "Category": "On-line catalogue publishing"
+          },
+          "J.58.1.9.0.11": {
+            "ID": 14076,
+            "SIC": "J.58.1.9.0.11",
+            "Category": "On-line forms publishing"
+          },
+          "J.58.1.9.0.12": {
+            "ID": 14077,
+            "SIC": "J.58.1.9.0.12",
+            "Category": "On-line greeting cards and postcards publishing"
+          },
+          "J.58.1.9.0.13": {
+            "ID": 14078,
+            "SIC": "J.58.1.9.0.13",
+            "Category": "On-line publishing n.e.c."
+          },
+          "J.58.1.9.0.14": {
+            "ID": 14079,
+            "SIC": "J.58.1.9.0.14",
+            "Category": "On-line publishing of posters and reproductions of works of art"
+          },
+          "J.58.1.9.0.15": {
+            "ID": 14080,
+            "SIC": "J.58.1.9.0.15",
+            "Category": "On-line publishing of statistics and other information"
+          },
+          "J.58.1.9.0.16": {
+            "ID": 14081,
+            "SIC": "J.58.1.9.0.16",
+            "Category": "On-line publishing photos and engravings"
+          },
+          "J.58.1.9.0.17": {
+            "ID": 14082,
+            "SIC": "J.58.1.9.0.17",
+            "Category": "Photo and engraving publishing"
+          },
+          "J.58.1.9.0.18": {
+            "ID": 14083,
+            "SIC": "J.58.1.9.0.18",
+            "Category": "Postcard publishing"
+          },
+          "J.58.1.9.0.19": {
+            "ID": 14084,
+            "SIC": "J.58.1.9.0.19",
+            "Category": "Poster publishing"
+          },
+          "J.58.1.9.0.20": {
+            "ID": 14085,
+            "SIC": "J.58.1.9.0.20",
+            "Category": "Printed matter publishing"
+          },
+          "J.58.1.9.0.21": {
+            "ID": 14086,
+            "SIC": "J.58.1.9.0.21",
+            "Category": "Publishers (other than of newspapers, books and periodicals) "
+          },
+          "J.58.1.9.0.22": {
+            "ID": 14087,
+            "SIC": "J.58.1.9.0.22",
+            "Category": "Publishing of stamps, banknotes, advertising material, catalogues and other printed matter n.e.c."
+          },
+          "J.58.1.9.0.23": {
+            "ID": 14088,
+            "SIC": "J.58.1.9.0.23",
+            "Category": "Reproduction of works of art publishing"
+          },
+          "J.58.1.9.0.24": {
+            "ID": 14089,
+            "SIC": "J.58.1.9.0.24",
+            "Category": "Timetable publishing"
+          }
+        }
+      },
+      "J.58.2": {
+        "ID": 802,
+        "SIC": "J.58.2",
+        "Category": "Software publishing",
+        "J.58.2.1": {
+          "ID": 803,
+          "SIC": "J.58.2.1",
+          "Category": "Publishing of computer games",
+          "J.58.2.1.0.1": {
+            "ID": 14090,
+            "SIC": "J.58.2.1.0.1",
+            "Category": "Computer games publishing"
+          },
+          "J.58.2.1.0.2": {
+            "ID": 14091,
+            "SIC": "J.58.2.1.0.2",
+            "Category": "On-line computer games publishing"
+          }
+        },
+        "J.58.2.9": {
+          "ID": 804,
+          "SIC": "J.58.2.9",
+          "Category": "Other software publishing",
+          "J.58.2.9.0.1": {
+            "ID": 14092,
+            "SIC": "J.58.2.9.0.1",
+            "Category": "Licensing for the right to reproduce, distribute and use computer software"
+          },
+          "J.58.2.9.0.2": {
+            "ID": 14093,
+            "SIC": "J.58.2.9.0.2",
+            "Category": "On-line software publishing (except computer games on-line publishing)"
+          },
+          "J.58.2.9.0.3": {
+            "ID": 14094,
+            "SIC": "J.58.2.9.0.3",
+            "Category": "Publishing of software for business"
+          },
+          "J.58.2.9.0.4": {
+            "ID": 14095,
+            "SIC": "J.58.2.9.0.4",
+            "Category": "Publishing of software for operating systems"
+          },
+          "J.58.2.9.0.5": {
+            "ID": 14096,
+            "SIC": "J.58.2.9.0.5",
+            "Category": "Ready-made software publishing (except computer games publishing)"
+          },
+          "J.58.2.9.0.6": {
+            "ID": 14097,
+            "SIC": "J.58.2.9.0.6",
+            "Category": "Software development and publishing"
+          },
+          "J.58.2.9.0.7": {
+            "ID": 14098,
+            "SIC": "J.58.2.9.0.7",
+            "Category": "Software (ready-made) publishing (except computer games publishing)"
+          }
+        }
+      }
+    },
+    "J.59": {
+      "ID": 805,
+      "SIC": "J.59",
+      "Category": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "J.59.1": {
+        "ID": 806,
+        "SIC": "J.59.1",
+        "Category": "Motion picture, video and television programme activities",
+        "J.59.1.1": {
+          "ID": 807,
+          "SIC": "J.59.1.1",
+          "Category": "Motion picture, video and television programme production activities",
+          "J.59.1.1.1": {
+            "ID": 808,
+            "SIC": "J.59.1.1.1",
+            "Category": "Motion picture production activities",
+            "J.59.1.1.1.1": {
+              "ID": 14099,
+              "SIC": "J.59.1.1.1.1",
+              "Category": "Advertising film production"
+            },
+            "J.59.1.1.1.2": {
+              "ID": 14100,
+              "SIC": "J.59.1.1.1.2",
+              "Category": "Animated film production"
+            },
+            "J.59.1.1.1.3": {
+              "ID": 14101,
+              "SIC": "J.59.1.1.1.3",
+              "Category": "Cartoon film production"
+            },
+            "J.59.1.1.1.4": {
+              "ID": 14102,
+              "SIC": "J.59.1.1.1.4",
+              "Category": "Film producer (own account)"
+            },
+            "J.59.1.1.1.5": {
+              "ID": 14103,
+              "SIC": "J.59.1.1.1.5",
+              "Category": "Film production for projection or broadcasting"
+            },
+            "J.59.1.1.1.6": {
+              "ID": 14104,
+              "SIC": "J.59.1.1.1.6",
+              "Category": "Film studios"
+            },
+            "J.59.1.1.1.7": {
+              "ID": 14105,
+              "SIC": "J.59.1.1.1.7",
+              "Category": "Motion picture production"
+            },
+            "J.59.1.1.1.8": {
+              "ID": 14106,
+              "SIC": "J.59.1.1.1.8",
+              "Category": "Training film production"
+            }
+          },
+          "J.59.1.1.2": {
+            "ID": 809,
+            "SIC": "J.59.1.1.2",
+            "Category": "Video production activities",
+            "J.59.1.1.2.1": {
+              "ID": 14107,
+              "SIC": "J.59.1.1.2.1",
+              "Category": "Advertising video production"
+            },
+            "J.59.1.1.2.2": {
+              "ID": 14108,
+              "SIC": "J.59.1.1.2.2",
+              "Category": "Animated video production"
+            },
+            "J.59.1.1.2.3": {
+              "ID": 14109,
+              "SIC": "J.59.1.1.2.3",
+              "Category": "Cartoon video production"
+            },
+            "J.59.1.1.2.4": {
+              "ID": 14110,
+              "SIC": "J.59.1.1.2.4",
+              "Category": "Training video production"
+            },
+            "J.59.1.1.2.5": {
+              "ID": 14111,
+              "SIC": "J.59.1.1.2.5",
+              "Category": "Video producer (own account)"
+            },
+            "J.59.1.1.2.6": {
+              "ID": 14112,
+              "SIC": "J.59.1.1.2.6",
+              "Category": "Video production"
+            },
+            "J.59.1.1.2.7": {
+              "ID": 14113,
+              "SIC": "J.59.1.1.2.7",
+              "Category": "Video studios"
+            }
+          },
+          "J.59.1.1.3": {
+            "ID": 810,
+            "SIC": "J.59.1.1.3",
+            "Category": "Television programme production activities",
+            "J.59.1.1.3.1": {
+              "ID": 14114,
+              "SIC": "J.59.1.1.3.1",
+              "Category": "Production of theatrical and non-theatrical television programmes"
+            },
+            "J.59.1.1.3.2": {
+              "ID": 14115,
+              "SIC": "J.59.1.1.3.2",
+              "Category": "Television programme production activities"
+            },
+            "J.59.1.1.3.3": {
+              "ID": 14116,
+              "SIC": "J.59.1.1.3.3",
+              "Category": "Television studio"
+            }
+          }
+        },
+        "J.59.1.2": {
+          "ID": 811,
+          "SIC": "J.59.1.2",
+          "Category": "Motion picture, video and television programme post-production activities",
+          "J.59.1.2.0.1": {
+            "ID": 14117,
+            "SIC": "J.59.1.2.0.1",
+            "Category": "Cinematographic film colouring, developing, printing or repairing"
+          },
+          "J.59.1.2.0.2": {
+            "ID": 14118,
+            "SIC": "J.59.1.2.0.2",
+            "Category": "Film cutting activities"
+          },
+          "J.59.1.2.0.3": {
+            "ID": 14119,
+            "SIC": "J.59.1.2.0.3",
+            "Category": "Film editing"
+          },
+          "J.59.1.2.0.4": {
+            "ID": 14120,
+            "SIC": "J.59.1.2.0.4",
+            "Category": "Film processing activities"
+          },
+          "J.59.1.2.0.5": {
+            "ID": 14121,
+            "SIC": "J.59.1.2.0.5",
+            "Category": "Film sound track dubbing and synchronisation"
+          },
+          "J.59.1.2.0.6": {
+            "ID": 14122,
+            "SIC": "J.59.1.2.0.6",
+            "Category": "Motion picture film laboratory activities"
+          },
+          "J.59.1.2.0.7": {
+            "ID": 14123,
+            "SIC": "J.59.1.2.0.7",
+            "Category": "Motion pictures post-production activities"
+          },
+          "J.59.1.2.0.8": {
+            "ID": 14124,
+            "SIC": "J.59.1.2.0.8",
+            "Category": "Photographic film processing activities (for the motion picture and television industries)"
+          },
+          "J.59.1.2.0.9": {
+            "ID": 14125,
+            "SIC": "J.59.1.2.0.9",
+            "Category": "Post production film activities"
+          },
+          "J.59.1.2.0.10": {
+            "ID": 14126,
+            "SIC": "J.59.1.2.0.10",
+            "Category": "Stock footage, film library activities"
+          },
+          "J.59.1.2.0.11": {
+            "ID": 14127,
+            "SIC": "J.59.1.2.0.11",
+            "Category": "Television post-production activities"
+          },
+          "J.59.1.2.0.12": {
+            "ID": 14128,
+            "SIC": "J.59.1.2.0.12",
+            "Category": "Video post-production activities"
+          }
+        },
+        "J.59.1.3": {
+          "ID": 812,
+          "SIC": "J.59.1.3",
+          "Category": "Motion picture, video and television programme distribution activities",
+          "J.59.1.3.1": {
+            "ID": 813,
+            "SIC": "J.59.1.3.1",
+            "Category": "Motion picture distribution activities",
+            "J.59.1.3.1.1": {
+              "ID": 14129,
+              "SIC": "J.59.1.3.1.1",
+              "Category": "Film broker"
+            },
+            "J.59.1.3.1.2": {
+              "ID": 14130,
+              "SIC": "J.59.1.3.1.2",
+              "Category": "Film distribution"
+            },
+            "J.59.1.3.1.3": {
+              "ID": 14131,
+              "SIC": "J.59.1.3.1.3",
+              "Category": "Film distribution rights acquisition"
+            },
+            "J.59.1.3.1.4": {
+              "ID": 14132,
+              "SIC": "J.59.1.3.1.4",
+              "Category": "Film hiring agency"
+            },
+            "J.59.1.3.1.5": {
+              "ID": 14133,
+              "SIC": "J.59.1.3.1.5",
+              "Category": "Film library"
+            },
+            "J.59.1.3.1.6": {
+              "ID": 14134,
+              "SIC": "J.59.1.3.1.6",
+              "Category": "Film rental"
+            },
+            "J.59.1.3.1.7": {
+              "ID": 14135,
+              "SIC": "J.59.1.3.1.7",
+              "Category": "Motion picture distribution activities"
+            },
+            "J.59.1.3.1.8": {
+              "ID": 14136,
+              "SIC": "J.59.1.3.1.8",
+              "Category": "Motion pictures distribution to other industries"
+            }
+          },
+          "J.59.1.3.2": {
+            "ID": 814,
+            "SIC": "J.59.1.3.2",
+            "Category": "Video distribution activities",
+            "J.59.1.3.2.1": {
+              "ID": 14137,
+              "SIC": "J.59.1.3.2.1",
+              "Category": "DVD distribution"
+            },
+            "J.59.1.3.2.2": {
+              "ID": 14138,
+              "SIC": "J.59.1.3.2.2",
+              "Category": "Video tape and dvd distribution rights acquisition"
+            },
+            "J.59.1.3.2.3": {
+              "ID": 14139,
+              "SIC": "J.59.1.3.2.3",
+              "Category": "Video tapes distribution to other industries"
+            }
+          },
+          "J.59.1.3.3": {
+            "ID": 815,
+            "SIC": "J.59.1.3.3",
+            "Category": "Television programme distribution activities",
+            "J.59.1.3.3.1": {
+              "ID": 14140,
+              "SIC": "J.59.1.3.3.1",
+              "Category": "Television distribution rights acquisition"
+            },
+            "J.59.1.3.3.2": {
+              "ID": 14141,
+              "SIC": "J.59.1.3.3.2",
+              "Category": "Television programme distribution activities"
+            }
+          }
+        },
+        "J.59.1.4": {
+          "ID": 816,
+          "SIC": "J.59.1.4",
+          "Category": "Motion picture projection activities",
+          "J.59.1.4.0.1": {
+            "ID": 14142,
+            "SIC": "J.59.1.4.0.1",
+            "Category": "Cine club"
+          },
+          "J.59.1.4.0.2": {
+            "ID": 14143,
+            "SIC": "J.59.1.4.0.2",
+            "Category": "Cinema"
+          },
+          "J.59.1.4.0.3": {
+            "ID": 14144,
+            "SIC": "J.59.1.4.0.3",
+            "Category": "Cinema club"
+          },
+          "J.59.1.4.0.4": {
+            "ID": 14145,
+            "SIC": "J.59.1.4.0.4",
+            "Category": "Motion picture projection"
+          },
+          "J.59.1.4.0.5": {
+            "ID": 14146,
+            "SIC": "J.59.1.4.0.5",
+            "Category": "Video tape projection"
+          }
+        }
+      },
+      "J.59.2": {
+        "ID": 817,
+        "SIC": "J.59.2",
+        "Category": "Sound recording and music publishing activities",
+        "J.59.2.0": {
+          "ID": 818,
+          "SIC": "J.59.2.0",
+          "Category": "Sound recording and music publishing activities",
+          "J.59.2.0.0.1": {
+            "ID": 14147,
+            "SIC": "J.59.2.0.0.1",
+            "Category": "Compact disc sound recording publishing"
+          },
+          "J.59.2.0.0.2": {
+            "ID": 14148,
+            "SIC": "J.59.2.0.0.2",
+            "Category": "Copyright acquisition and registration for musical compositions"
+          },
+          "J.59.2.0.0.3": {
+            "ID": 14149,
+            "SIC": "J.59.2.0.0.3",
+            "Category": "Gramophone record publishing"
+          },
+          "J.59.2.0.0.4": {
+            "ID": 14150,
+            "SIC": "J.59.2.0.0.4",
+            "Category": "Matrice for record production"
+          },
+          "J.59.2.0.0.5": {
+            "ID": 14151,
+            "SIC": "J.59.2.0.0.5",
+            "Category": "Music downloads (on-line publishing with provision of downloaded content)"
+          },
+          "J.59.2.0.0.6": {
+            "ID": 14152,
+            "SIC": "J.59.2.0.0.6",
+            "Category": "Music (printed) publishing"
+          },
+          "J.59.2.0.0.7": {
+            "ID": 14153,
+            "SIC": "J.59.2.0.0.7",
+            "Category": "Music tape publishing"
+          },
+          "J.59.2.0.0.8": {
+            "ID": 14154,
+            "SIC": "J.59.2.0.0.8",
+            "Category": "Publishing of music and sheet books"
+          },
+          "J.59.2.0.0.9": {
+            "ID": 14155,
+            "SIC": "J.59.2.0.0.9",
+            "Category": "Recording studio (radio)"
+          },
+          "J.59.2.0.0.10": {
+            "ID": 14156,
+            "SIC": "J.59.2.0.0.10",
+            "Category": "Sound recording publishing"
+          },
+          "J.59.2.0.0.11": {
+            "ID": 14157,
+            "SIC": "J.59.2.0.0.11",
+            "Category": "Sound recording studios"
+          },
+          "J.59.2.0.0.12": {
+            "ID": 14158,
+            "SIC": "J.59.2.0.0.12",
+            "Category": "Taped radio programming production"
+          }
+        }
+      }
+    },
+    "J.60": {
+      "ID": 819,
+      "SIC": "J.60",
+      "Category": "Programming and broadcasting activities",
+      "J.60.1": {
+        "ID": 820,
+        "SIC": "J.60.1",
+        "Category": "Radio broadcasting",
+        "J.60.1.0": {
+          "ID": 821,
+          "SIC": "J.60.1.0",
+          "Category": "Radio broadcasting",
+          "J.60.1.0.0.1": {
+            "ID": 14159,
+            "SIC": "J.60.1.0.0.1",
+            "Category": "Data broadcasting integrated with radio"
+          },
+          "J.60.1.0.0.2": {
+            "ID": 14160,
+            "SIC": "J.60.1.0.0.2",
+            "Category": "Internet radio broadcasting"
+          },
+          "J.60.1.0.0.3": {
+            "ID": 14161,
+            "SIC": "J.60.1.0.0.3",
+            "Category": "Local radio station (broadcasting)"
+          },
+          "J.60.1.0.0.4": {
+            "ID": 14162,
+            "SIC": "J.60.1.0.0.4",
+            "Category": "Radio broadcasting station"
+          },
+          "J.60.1.0.0.5": {
+            "ID": 14163,
+            "SIC": "J.60.1.0.0.5",
+            "Category": "Radio programme transmission"
+          },
+          "J.60.1.0.0.6": {
+            "ID": 14164,
+            "SIC": "J.60.1.0.0.6",
+            "Category": "Radio station (telecommunications)"
+          },
+          "J.60.1.0.0.7": {
+            "ID": 14165,
+            "SIC": "J.60.1.0.0.7",
+            "Category": "Radio studio"
+          },
+          "J.60.1.0.0.8": {
+            "ID": 14166,
+            "SIC": "J.60.1.0.0.8",
+            "Category": "Transmission of aural programming via over-the-air broadcasts, cable or satellite "
+          }
+        }
+      },
+      "J.60.2": {
+        "ID": 822,
+        "SIC": "J.60.2",
+        "Category": "Television programming and broadcasting activities",
+        "J.60.2.0": {
+          "ID": 823,
+          "SIC": "J.60.2.0",
+          "Category": "Television programming and broadcasting activities",
+          "J.60.2.0.0.1": {
+            "ID": 14167,
+            "SIC": "J.60.2.0.0.1",
+            "Category": "Broadcasting of live theatrical performances via the internet"
+          },
+          "J.60.2.0.0.2": {
+            "ID": 14168,
+            "SIC": "J.60.2.0.0.2",
+            "Category": "Data broadcasting integrated with television"
+          },
+          "J.60.2.0.0.3": {
+            "ID": 14169,
+            "SIC": "J.60.2.0.0.3",
+            "Category": "Image with sound internet broadcasting"
+          },
+          "J.60.2.0.0.4": {
+            "ID": 14170,
+            "SIC": "J.60.2.0.0.4",
+            "Category": "Recording studio (television)"
+          },
+          "J.60.2.0.0.5": {
+            "ID": 14171,
+            "SIC": "J.60.2.0.0.5",
+            "Category": "Television broadcasting station"
+          },
+          "J.60.2.0.0.6": {
+            "ID": 14172,
+            "SIC": "J.60.2.0.0.6",
+            "Category": "Television channel programme creation from purchased and/or self produced programme components"
+          },
+          "J.60.2.0.0.7": {
+            "ID": 14173,
+            "SIC": "J.60.2.0.0.7",
+            "Category": "Television programmes transmission"
+          },
+          "J.60.2.0.0.8": {
+            "ID": 14174,
+            "SIC": "J.60.2.0.0.8",
+            "Category": "Television relay service"
+          }
+        }
+      }
+    },
+    "J.61": {
+      "ID": 824,
+      "SIC": "J.61",
+      "Category": "Telecommunications",
+      "J.61.1": {
+        "ID": 825,
+        "SIC": "J.61.1",
+        "Category": "Wired telecommunications activities",
+        "J.61.1.0": {
+          "ID": 826,
+          "SIC": "J.61.1.0",
+          "Category": "Wired telecommunications activities",
+          "J.61.1.0.0.1": {
+            "ID": 14175,
+            "SIC": "J.61.1.0.0.1",
+            "Category": "Cable service"
+          },
+          "J.61.1.0.0.2": {
+            "ID": 14176,
+            "SIC": "J.61.1.0.0.2",
+            "Category": "Data network management and support services (wired telecommunications)"
+          },
+          "J.61.1.0.0.3": {
+            "ID": 14177,
+            "SIC": "J.61.1.0.0.3",
+            "Category": "Data transmission (via cables, broadcasting, relay or satellite)"
+          },
+          "J.61.1.0.0.4": {
+            "ID": 14178,
+            "SIC": "J.61.1.0.0.4",
+            "Category": "Dedicated business telephone network services (wired telecommunications)"
+          },
+          "J.61.1.0.0.5": {
+            "ID": 14179,
+            "SIC": "J.61.1.0.0.5",
+            "Category": "Electronic mail services (wired telecommunications)"
+          },
+          "J.61.1.0.0.6": {
+            "ID": 14180,
+            "SIC": "J.61.1.0.0.6",
+            "Category": "Image transmission via cables, broadcasting, relay or satellite"
+          },
+          "J.61.1.0.0.7": {
+            "ID": 14181,
+            "SIC": "J.61.1.0.0.7",
+            "Category": "Shared business telephone network services (wired telecommunications)"
+          },
+          "J.61.1.0.0.8": {
+            "ID": 14182,
+            "SIC": "J.61.1.0.0.8",
+            "Category": "Sound transmission via cables, broadcasting, relay or satellite"
+          },
+          "J.61.1.0.0.9": {
+            "ID": 14183,
+            "SIC": "J.61.1.0.0.9",
+            "Category": "Telecommunication network maintenance (wired telecommunications)"
+          },
+          "J.61.1.0.0.10": {
+            "ID": 14184,
+            "SIC": "J.61.1.0.0.10",
+            "Category": "Teleconferencing services (wired telecommunications)"
+          },
+          "J.61.1.0.0.11": {
+            "ID": 14185,
+            "SIC": "J.61.1.0.0.11",
+            "Category": "Telegram service"
+          },
+          "J.61.1.0.0.12": {
+            "ID": 14186,
+            "SIC": "J.61.1.0.0.12",
+            "Category": "Telegraph communication"
+          },
+          "J.61.1.0.0.13": {
+            "ID": 14187,
+            "SIC": "J.61.1.0.0.13",
+            "Category": "Telephone communication (wired telecommunications)"
+          },
+          "J.61.1.0.0.14": {
+            "ID": 14188,
+            "SIC": "J.61.1.0.0.14",
+            "Category": "Telephone exchange"
+          },
+          "J.61.1.0.0.15": {
+            "ID": 14189,
+            "SIC": "J.61.1.0.0.15",
+            "Category": "Telephone service operation of 0898 numbers"
+          },
+          "J.61.1.0.0.16": {
+            "ID": 14190,
+            "SIC": "J.61.1.0.0.16",
+            "Category": "Telephone service (wired telecommunications)"
+          },
+          "J.61.1.0.0.17": {
+            "ID": 14191,
+            "SIC": "J.61.1.0.0.17",
+            "Category": "Teletext and other electronic message and information services (wired telecommunications)"
+          },
+          "J.61.1.0.0.18": {
+            "ID": 14192,
+            "SIC": "J.61.1.0.0.18",
+            "Category": "Telex service (wired telecommunications)"
+          }
+        }
+      },
+      "J.61.2": {
+        "ID": 827,
+        "SIC": "J.61.2",
+        "Category": "Wireless telecommunications activities",
+        "J.61.2.0": {
+          "ID": 828,
+          "SIC": "J.61.2.0",
+          "Category": "Wireless telecommunications activities",
+          "J.61.2.0.0.1": {
+            "ID": 14193,
+            "SIC": "J.61.2.0.0.1",
+            "Category": "Cellular network operations"
+          },
+          "J.61.2.0.0.2": {
+            "ID": 14194,
+            "SIC": "J.61.2.0.0.2",
+            "Category": "Electronic bulletin board services (wireless telecommunications)"
+          },
+          "J.61.2.0.0.3": {
+            "ID": 14195,
+            "SIC": "J.61.2.0.0.3",
+            "Category": "Electronic message and information services (wireless telecommunications)"
+          },
+          "J.61.2.0.0.4": {
+            "ID": 14196,
+            "SIC": "J.61.2.0.0.4",
+            "Category": "Internet access providers (wireless telecommunications)"
+          },
+          "J.61.2.0.0.5": {
+            "ID": 14197,
+            "SIC": "J.61.2.0.0.5",
+            "Category": "Mobile telephone services"
+          },
+          "J.61.2.0.0.6": {
+            "ID": 14198,
+            "SIC": "J.61.2.0.0.6",
+            "Category": "Paging activities and maintenance"
+          },
+          "J.61.2.0.0.7": {
+            "ID": 14199,
+            "SIC": "J.61.2.0.0.7",
+            "Category": "Paging services"
+          },
+          "J.61.2.0.0.8": {
+            "ID": 14200,
+            "SIC": "J.61.2.0.0.8",
+            "Category": "Purchase of wireless access and network capacity"
+          },
+          "J.61.2.0.0.9": {
+            "ID": 14201,
+            "SIC": "J.61.2.0.0.9",
+            "Category": "Radio relay service"
+          },
+          "J.61.2.0.0.10": {
+            "ID": 14202,
+            "SIC": "J.61.2.0.0.10",
+            "Category": "Wireless telecommunications activities"
+          }
+        }
+      },
+      "J.61.3": {
+        "ID": 829,
+        "SIC": "J.61.3",
+        "Category": "Satellite telecommunications activities",
+        "J.61.3.0": {
+          "ID": 830,
+          "SIC": "J.61.3.0",
+          "Category": "Satellite telecommunications activities",
+          "J.61.3.0.0.1": {
+            "ID": 14203,
+            "SIC": "J.61.3.0.0.1",
+            "Category": "Satellite circuit rental services"
+          },
+          "J.61.3.0.0.2": {
+            "ID": 14204,
+            "SIC": "J.61.3.0.0.2",
+            "Category": "Telecommunications satellite relay station"
+          }
+        }
+      },
+      "J.61.9": {
+        "ID": 831,
+        "SIC": "J.61.9",
+        "Category": "Other telecommunications activities",
+        "J.61.9.0": {
+          "ID": 832,
+          "SIC": "J.61.9.0",
+          "Category": "Other telecommunications activities",
+          "J.61.9.0.0.1": {
+            "ID": 14205,
+            "SIC": "J.61.9.0.0.1",
+            "Category": "Communications telemetry"
+          },
+          "J.61.9.0.0.2": {
+            "ID": 14206,
+            "SIC": "J.61.9.0.0.2",
+            "Category": "Dial-up internet access provision"
+          },
+          "J.61.9.0.0.3": {
+            "ID": 14207,
+            "SIC": "J.61.9.0.0.3",
+            "Category": "Internet cafes"
+          },
+          "J.61.9.0.0.4": {
+            "ID": 14208,
+            "SIC": "J.61.9.0.0.4",
+            "Category": "Internet texting services"
+          },
+          "J.61.9.0.0.5": {
+            "ID": 14209,
+            "SIC": "J.61.9.0.0.5",
+            "Category": "Prepaid telephone cards for mobile phones"
+          },
+          "J.61.9.0.0.6": {
+            "ID": 14210,
+            "SIC": "J.61.9.0.0.6",
+            "Category": "Radar station operation"
+          },
+          "J.61.9.0.0.7": {
+            "ID": 14211,
+            "SIC": "J.61.9.0.0.7",
+            "Category": "Satellite terminal stations"
+          },
+          "J.61.9.0.0.8": {
+            "ID": 14212,
+            "SIC": "J.61.9.0.0.8",
+            "Category": "Satellite tracking"
+          },
+          "J.61.9.0.0.9": {
+            "ID": 14213,
+            "SIC": "J.61.9.0.0.9",
+            "Category": "Telecommunications resellers"
+          },
+          "J.61.9.0.0.10": {
+            "ID": 14214,
+            "SIC": "J.61.9.0.0.10",
+            "Category": "Telephone and internet access in public facilities"
+          },
+          "J.61.9.0.0.11": {
+            "ID": 14215,
+            "SIC": "J.61.9.0.0.11",
+            "Category": "Trade of internet access packages"
+          },
+          "J.61.9.0.0.12": {
+            "ID": 14216,
+            "SIC": "J.61.9.0.0.12",
+            "Category": "Trade of phone cards"
+          },
+          "J.61.9.0.0.13": {
+            "ID": 14217,
+            "SIC": "J.61.9.0.0.13",
+            "Category": "VOIP (voice over internet protocol) provision"
+          }
+        }
+      }
+    },
+    "J.62": {
+      "ID": 833,
+      "SIC": "J.62",
+      "Category": "Computer programming, consultancy and related activities",
+      "J.62.0": {
+        "ID": 834,
+        "SIC": "J.62.0",
+        "Category": "Computer programming, consultancy and related activities",
+        "J.62.0.1": {
+          "ID": 835,
+          "SIC": "J.62.0.1",
+          "Category": "Computer programming activities",
+          "J.62.0.1.1": {
+            "ID": 836,
+            "SIC": "J.62.0.1.1",
+            "Category": "Ready-made interactive leisure and entertainment software development",
+            "J.62.0.1.1.1": {
+              "ID": 14218,
+              "SIC": "J.62.0.1.1.1",
+              "Category": "Computer games design"
+            },
+            "J.62.0.1.1.2": {
+              "ID": 14219,
+              "SIC": "J.62.0.1.1.2",
+              "Category": "Designing of structure and content of an interactive leisure and entertainment software database"
+            },
+            "J.62.0.1.1.3": {
+              "ID": 14220,
+              "SIC": "J.62.0.1.1.3",
+              "Category": "Programming services for ready made leisure and entertainment software"
+            },
+            "J.62.0.1.1.4": {
+              "ID": 14221,
+              "SIC": "J.62.0.1.1.4",
+              "Category": "Ready-made interactive leisure and entertainment software development"
+            }
+          },
+          "J.62.0.1.2": {
+            "ID": 837,
+            "SIC": "J.62.0.1.2",
+            "Category": "Business and domestic software development",
+            "J.62.0.1.2.1": {
+              "ID": 14222,
+              "SIC": "J.62.0.1.2.1",
+              "Category": "Business and domestic software development"
+            },
+            "J.62.0.1.2.2": {
+              "ID": 14223,
+              "SIC": "J.62.0.1.2.2",
+              "Category": "Custom software development"
+            },
+            "J.62.0.1.2.3": {
+              "ID": 14224,
+              "SIC": "J.62.0.1.2.3",
+              "Category": "Database structure and content design"
+            },
+            "J.62.0.1.2.4": {
+              "ID": 14225,
+              "SIC": "J.62.0.1.2.4",
+              "Category": "Designing of structure and content of business and domestic software databases"
+            },
+            "J.62.0.1.2.5": {
+              "ID": 14226,
+              "SIC": "J.62.0.1.2.5",
+              "Category": "Made-to-order software"
+            },
+            "J.62.0.1.2.6": {
+              "ID": 14227,
+              "SIC": "J.62.0.1.2.6",
+              "Category": "Programming services for ready made business and domestic software"
+            },
+            "J.62.0.1.2.7": {
+              "ID": 14228,
+              "SIC": "J.62.0.1.2.7",
+              "Category": "Software house"
+            },
+            "J.62.0.1.2.8": {
+              "ID": 14229,
+              "SIC": "J.62.0.1.2.8",
+              "Category": "Software systems maintenance services"
+            },
+            "J.62.0.1.2.9": {
+              "ID": 14230,
+              "SIC": "J.62.0.1.2.9",
+              "Category": "System maintenance and support services"
+            },
+            "J.62.0.1.2.10": {
+              "ID": 14231,
+              "SIC": "J.62.0.1.2.10",
+              "Category": "Systems analysis (computer)"
+            },
+            "J.62.0.1.2.11": {
+              "ID": 14232,
+              "SIC": "J.62.0.1.2.11",
+              "Category": "Web page design"
+            }
+          }
+        },
+        "J.62.0.2": {
+          "ID": 838,
+          "SIC": "J.62.0.2",
+          "Category": "Computer consultancy activities",
+          "J.62.0.2.0.1": {
+            "ID": 14233,
+            "SIC": "J.62.0.2.0.1",
+            "Category": "Computer audit consultancy services"
+          },
+          "J.62.0.2.0.2": {
+            "ID": 14234,
+            "SIC": "J.62.0.2.0.2",
+            "Category": "Computer consultancy (software)"
+          },
+          "J.62.0.2.0.3": {
+            "ID": 14235,
+            "SIC": "J.62.0.2.0.3",
+            "Category": "Computer hardware acceptance testing services"
+          },
+          "J.62.0.2.0.4": {
+            "ID": 14236,
+            "SIC": "J.62.0.2.0.4",
+            "Category": "Computer site planning services"
+          },
+          "J.62.0.2.0.5": {
+            "ID": 14237,
+            "SIC": "J.62.0.2.0.5",
+            "Category": "Hardware consultancy"
+          },
+          "J.62.0.2.0.6": {
+            "ID": 14238,
+            "SIC": "J.62.0.2.0.6",
+            "Category": "Hardware installation services"
+          },
+          "J.62.0.2.0.7": {
+            "ID": 14239,
+            "SIC": "J.62.0.2.0.7",
+            "Category": "Information systems strategic review and planning services"
+          },
+          "J.62.0.2.0.8": {
+            "ID": 14240,
+            "SIC": "J.62.0.2.0.8",
+            "Category": "Information technology consultancy activities"
+          },
+          "J.62.0.2.0.9": {
+            "ID": 14241,
+            "SIC": "J.62.0.2.0.9",
+            "Category": "Software consultancy"
+          },
+          "J.62.0.2.0.10": {
+            "ID": 14242,
+            "SIC": "J.62.0.2.0.10",
+            "Category": "System software acceptance testing consultancy services"
+          },
+          "J.62.0.2.0.11": {
+            "ID": 14243,
+            "SIC": "J.62.0.2.0.11",
+            "Category": "Systems and technical consultancy services"
+          }
+        },
+        "J.62.0.3": {
+          "ID": 839,
+          "SIC": "J.62.0.3",
+          "Category": "Computer facilities management activities",
+          "J.62.0.3.0.1": {
+            "ID": 14244,
+            "SIC": "J.62.0.3.0.1",
+            "Category": "Computer facilities management activities"
+          },
+          "J.62.0.3.0.2": {
+            "ID": 14245,
+            "SIC": "J.62.0.3.0.2",
+            "Category": "Management and operation on a continuing basis of data processing facilities belonging to others"
+          }
+        },
+        "J.62.0.9": {
+          "ID": 840,
+          "SIC": "J.62.0.9",
+          "Category": "Other information technology and computer service activities",
+          "J.62.0.9.0.1": {
+            "ID": 14246,
+            "SIC": "J.62.0.9.0.1",
+            "Category": "Computer related activities (other)"
+          },
+          "J.62.0.9.0.2": {
+            "ID": 14247,
+            "SIC": "J.62.0.9.0.2",
+            "Category": "Data archiving and backup services"
+          },
+          "J.62.0.9.0.3": {
+            "ID": 14248,
+            "SIC": "J.62.0.9.0.3",
+            "Category": "Hardware disaster recovery services"
+          },
+          "J.62.0.9.0.4": {
+            "ID": 14249,
+            "SIC": "J.62.0.9.0.4",
+            "Category": "Installation of personal computers and peripheral equipment"
+          },
+          "J.62.0.9.0.5": {
+            "ID": 14250,
+            "SIC": "J.62.0.9.0.5",
+            "Category": "Software disaster recovery services"
+          },
+          "J.62.0.9.0.6": {
+            "ID": 14251,
+            "SIC": "J.62.0.9.0.6",
+            "Category": "Software installation services."
+          }
+        }
+      }
+    },
+    "J.63": {
+      "ID": 841,
+      "SIC": "J.63",
+      "Category": "Information service activities",
+      "J.63.1": {
+        "ID": 842,
+        "SIC": "J.63.1",
+        "Category": "Data processing, hosting and related activities; web portals",
+        "J.63.1.1": {
+          "ID": 843,
+          "SIC": "J.63.1.1",
+          "Category": "Data processing, hosting and related activities",
+          "J.63.1.1.0.1": {
+            "ID": 14252,
+            "SIC": "J.63.1.1.0.1",
+            "Category": "Batch processing"
+          },
+          "J.63.1.1.0.2": {
+            "ID": 14253,
+            "SIC": "J.63.1.1.0.2",
+            "Category": "Data conversion"
+          },
+          "J.63.1.1.0.3": {
+            "ID": 14254,
+            "SIC": "J.63.1.1.0.3",
+            "Category": "Data preparation services"
+          },
+          "J.63.1.1.0.4": {
+            "ID": 14255,
+            "SIC": "J.63.1.1.0.4",
+            "Category": "Data processing"
+          },
+          "J.63.1.1.0.5": {
+            "ID": 14256,
+            "SIC": "J.63.1.1.0.5",
+            "Category": "Data storage services"
+          },
+          "J.63.1.1.0.6": {
+            "ID": 14257,
+            "SIC": "J.63.1.1.0.6",
+            "Category": "Database running activities"
+          },
+          "J.63.1.1.0.7": {
+            "ID": 14258,
+            "SIC": "J.63.1.1.0.7",
+            "Category": "Tabulating service"
+          },
+          "J.63.1.1.0.8": {
+            "ID": 14259,
+            "SIC": "J.63.1.1.0.8",
+            "Category": "Time sharing services (computer)"
+          },
+          "J.63.1.1.0.9": {
+            "ID": 14260,
+            "SIC": "J.63.1.1.0.9",
+            "Category": "Web hosting"
+          }
+        },
+        "J.63.1.2": {
+          "ID": 844,
+          "SIC": "J.63.1.2",
+          "Category": "Web portals",
+          "J.63.1.2.0.1": {
+            "ID": 14261,
+            "SIC": "J.63.1.2.0.1",
+            "Category": "Web search portals"
+          }
+        }
+      },
+      "J.63.9": {
+        "ID": 845,
+        "SIC": "J.63.9",
+        "Category": "Other information service activities",
+        "J.63.9.1": {
+          "ID": 846,
+          "SIC": "J.63.9.1",
+          "Category": "News agency activities",
+          "J.63.9.1.0.1": {
+            "ID": 14262,
+            "SIC": "J.63.9.1.0.1",
+            "Category": "News agency activities"
+          },
+          "J.63.9.1.0.2": {
+            "ID": 14263,
+            "SIC": "J.63.9.1.0.2",
+            "Category": "Stock market reporting service"
+          }
+        },
+        "J.63.9.9": {
+          "ID": 847,
+          "SIC": "J.63.9.9",
+          "Category": "Other information service activities n.e.c.",
+          "J.63.9.9.0.1": {
+            "ID": 14264,
+            "SIC": "J.63.9.9.0.1",
+            "Category": "Information search services on a fee or contract basis"
+          },
+          "J.63.9.9.0.2": {
+            "ID": 14265,
+            "SIC": "J.63.9.9.0.2",
+            "Category": "News clipping service"
+          },
+          "J.63.9.9.0.3": {
+            "ID": 14266,
+            "SIC": "J.63.9.9.0.3",
+            "Category": "Press clipping service"
+          },
+          "J.63.9.9.0.4": {
+            "ID": 14267,
+            "SIC": "J.63.9.9.0.4",
+            "Category": "Press cutting agency"
+          },
+          "J.63.9.9.0.5": {
+            "ID": 14268,
+            "SIC": "J.63.9.9.0.5",
+            "Category": "Telephone based information services"
+          }
+        }
+      }
+    }
+  }
+}

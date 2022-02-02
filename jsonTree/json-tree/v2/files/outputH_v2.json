@@ -1,0 +1,2357 @@
+{
+  "H": {
+    "ID": 706,
+    "SIC": "H",
+    "Category": "TRANSPORTATION AND STORAGE",
+    "H.49": {
+      "ID": 707,
+      "SIC": "H.49",
+      "Category": "Land transport and transport via pipelines",
+      "H.49.1": {
+        "ID": 708,
+        "SIC": "H.49.1",
+        "Category": "Passenger rail transport, interurban",
+        "H.49.1.0": {
+          "ID": 709,
+          "SIC": "H.49.1.0",
+          "Category": "Passenger rail transport, interurban",
+          "H.49.1.0.0.1": {
+            "ID": 13480,
+            "SIC": "H.49.1.0.0.1",
+            "Category": "Passenger transport by inter-city rail services"
+          },
+          "H.49.1.0.0.2": {
+            "ID": 13481,
+            "SIC": "H.49.1.0.0.2",
+            "Category": "Passenger transport by inter-urban railways (other than inter-city services)"
+          },
+          "H.49.1.0.0.3": {
+            "ID": 13482,
+            "SIC": "H.49.1.0.0.3",
+            "Category": "Rail transport (inter-urban)"
+          },
+          "H.49.1.0.0.4": {
+            "ID": 13483,
+            "SIC": "H.49.1.0.0.4",
+            "Category": "Railway dining cars operated as an integrated operation of railway companies"
+          },
+          "H.49.1.0.0.5": {
+            "ID": 13484,
+            "SIC": "H.49.1.0.0.5",
+            "Category": "Railway sleeping cars operated as an integrated operation of railway companies"
+          }
+        }
+      },
+      "H.49.2": {
+        "ID": 710,
+        "SIC": "H.49.2",
+        "Category": "Freight rail transport",
+        "H.49.2.0": {
+          "ID": 711,
+          "SIC": "H.49.2.0",
+          "Category": "Freight rail transport",
+          "H.49.2.0.0.1": {
+            "ID": 13485,
+            "SIC": "H.49.2.0.0.1",
+            "Category": "Freight transport by inter-urban railways"
+          },
+          "H.49.2.0.0.2": {
+            "ID": 13486,
+            "SIC": "H.49.2.0.0.2",
+            "Category": "Freight transport on mainline rail networks"
+          },
+          "H.49.2.0.0.3": {
+            "ID": 13487,
+            "SIC": "H.49.2.0.0.3",
+            "Category": "Shortline freight railways"
+          }
+        }
+      },
+      "H.49.3": {
+        "ID": 712,
+        "SIC": "H.49.3",
+        "Category": "Other passenger land transport",
+        "H.49.3.1": {
+          "ID": 713,
+          "SIC": "H.49.3.1",
+          "Category": "Urban and suburban passenger land transport",
+          "H.49.3.1.1": {
+            "ID": 714,
+            "SIC": "H.49.3.1.1",
+            "Category": "Urban, suburban or metropolitan area passenger railway transportation by underground, metro and similar systems",
+            "H.49.3.1.1.1": {
+              "ID": 13488,
+              "SIC": "H.49.3.1.1.1",
+              "Category": "Elevated railways (scheduled passenger transport)"
+            },
+            "H.49.3.1.1.2": {
+              "ID": 13489,
+              "SIC": "H.49.3.1.1.2",
+              "Category": "Metropolitan area passenger railway transportation by underground, metro and similar systems"
+            },
+            "H.49.3.1.1.3": {
+              "ID": 13490,
+              "SIC": "H.49.3.1.1.3",
+              "Category": "Suburban area passenger railway transportation by underground, metro and similar systems"
+            },
+            "H.49.3.1.1.4": {
+              "ID": 13491,
+              "SIC": "H.49.3.1.1.4",
+              "Category": "Town-to-airport transport by rail"
+            },
+            "H.49.3.1.1.5": {
+              "ID": 13492,
+              "SIC": "H.49.3.1.1.5",
+              "Category": "Town-to-station transport by rail"
+            },
+            "H.49.3.1.1.6": {
+              "ID": 13493,
+              "SIC": "H.49.3.1.1.6",
+              "Category": "Underground railways (scheduled passenger transport)"
+            },
+            "H.49.3.1.1.7": {
+              "ID": 13494,
+              "SIC": "H.49.3.1.1.7",
+              "Category": "Urban area passenger railway transportation by underground, metro and similar systems"
+            }
+          },
+          "H.49.3.1.9": {
+            "ID": 715,
+            "SIC": "H.49.3.1.9",
+            "Category": "Urban, suburban or metropolitan area passenger land transport other than railway transportation by underground, metro and similar systems",
+            "H.49.3.1.9.1": {
+              "ID": 13495,
+              "SIC": "H.49.3.1.9.1",
+              "Category": "Aerial cable-ways operation"
+            },
+            "H.49.3.1.9.2": {
+              "ID": 13496,
+              "SIC": "H.49.3.1.9.2",
+              "Category": "Bus service"
+            },
+            "H.49.3.1.9.3": {
+              "ID": 13497,
+              "SIC": "H.49.3.1.9.3",
+              "Category": "Bus transport (other than inter-city services) (scheduled passenger transport)"
+            },
+            "H.49.3.1.9.4": {
+              "ID": 13498,
+              "SIC": "H.49.3.1.9.4",
+              "Category": "Funicular railway"
+            },
+            "H.49.3.1.9.5": {
+              "ID": 13499,
+              "SIC": "H.49.3.1.9.5",
+              "Category": "Local authority road passenger transport services"
+            },
+            "H.49.3.1.9.6": {
+              "ID": 13500,
+              "SIC": "H.49.3.1.9.6",
+              "Category": "Local authority transport department"
+            },
+            "H.49.3.1.9.7": {
+              "ID": 13501,
+              "SIC": "H.49.3.1.9.7",
+              "Category": "Metropolitan scheduled passenger land transport other than underground, metro and similar systems "
+            },
+            "H.49.3.1.9.8": {
+              "ID": 13502,
+              "SIC": "H.49.3.1.9.8",
+              "Category": "Motor bus scheduled passenger transport"
+            },
+            "H.49.3.1.9.9": {
+              "ID": 13503,
+              "SIC": "H.49.3.1.9.9",
+              "Category": "Municipal bus service"
+            },
+            "H.49.3.1.9.10": {
+              "ID": 13504,
+              "SIC": "H.49.3.1.9.10",
+              "Category": "Omnibus service"
+            },
+            "H.49.3.1.9.11": {
+              "ID": 13505,
+              "SIC": "H.49.3.1.9.11",
+              "Category": "Operation of aerial cableways as part of urban, suburban or metropolitan transit"
+            },
+            "H.49.3.1.9.12": {
+              "ID": 13506,
+              "SIC": "H.49.3.1.9.12",
+              "Category": "Operation of funicular railways as part of urban, suburban or metropolitan transit"
+            },
+            "H.49.3.1.9.13": {
+              "ID": 13507,
+              "SIC": "H.49.3.1.9.13",
+              "Category": "Passenger scheduled land transport (other than interurban railways or inter-city coach services)"
+            },
+            "H.49.3.1.9.14": {
+              "ID": 13508,
+              "SIC": "H.49.3.1.9.14",
+              "Category": "Public service vehicle operator"
+            },
+            "H.49.3.1.9.15": {
+              "ID": 13509,
+              "SIC": "H.49.3.1.9.15",
+              "Category": "Rack railway"
+            },
+            "H.49.3.1.9.16": {
+              "ID": 13510,
+              "SIC": "H.49.3.1.9.16",
+              "Category": "Street car (scheduled passenger transport)"
+            },
+            "H.49.3.1.9.17": {
+              "ID": 13511,
+              "SIC": "H.49.3.1.9.17",
+              "Category": "Suburban scheduled passenger land transport other than by underground, metro and similar systems"
+            },
+            "H.49.3.1.9.18": {
+              "ID": 13512,
+              "SIC": "H.49.3.1.9.18",
+              "Category": "Town-to-airport transport by bus"
+            },
+            "H.49.3.1.9.19": {
+              "ID": 13513,
+              "SIC": "H.49.3.1.9.19",
+              "Category": "Town-to-station transport by bus"
+            },
+            "H.49.3.1.9.20": {
+              "ID": 13514,
+              "SIC": "H.49.3.1.9.20",
+              "Category": "Tramway (scheduled passenger transport)"
+            },
+            "H.49.3.1.9.21": {
+              "ID": 13515,
+              "SIC": "H.49.3.1.9.21",
+              "Category": "Trolley bus (scheduled passenger transport)"
+            },
+            "H.49.3.1.9.22": {
+              "ID": 13516,
+              "SIC": "H.49.3.1.9.22",
+              "Category": "Urban area scheduled passenger land transport other than by underground, metro and similar systems "
+            }
+          }
+        },
+        "H.49.3.2": {
+          "ID": 716,
+          "SIC": "H.49.3.2",
+          "Category": "Taxi operation",
+          "H.49.3.2.0.1": {
+            "ID": 13517,
+            "SIC": "H.49.3.2.0.1",
+            "Category": "Cab hire"
+          },
+          "H.49.3.2.0.2": {
+            "ID": 13518,
+            "SIC": "H.49.3.2.0.2",
+            "Category": "Car rental with driver"
+          },
+          "H.49.3.2.0.3": {
+            "ID": 13519,
+            "SIC": "H.49.3.2.0.3",
+            "Category": "Chauffeur driven service"
+          },
+          "H.49.3.2.0.4": {
+            "ID": 13520,
+            "SIC": "H.49.3.2.0.4",
+            "Category": "Motorbike taxi service"
+          },
+          "H.49.3.2.0.5": {
+            "ID": 13521,
+            "SIC": "H.49.3.2.0.5",
+            "Category": "Private hire car with driver"
+          },
+          "H.49.3.2.0.6": {
+            "ID": 13522,
+            "SIC": "H.49.3.2.0.6",
+            "Category": "Taxi cab service"
+          },
+          "H.49.3.2.0.7": {
+            "ID": 13523,
+            "SIC": "H.49.3.2.0.7",
+            "Category": "Taxi radio services"
+          }
+        },
+        "H.49.3.9": {
+          "ID": 717,
+          "SIC": "H.49.3.9",
+          "Category": "Other passenger land transport n.e.c.",
+          "H.49.3.9.0.1": {
+            "ID": 13524,
+            "SIC": "H.49.3.9.0.1",
+            "Category": "Airline coach service (scheduled)"
+          },
+          "H.49.3.9.0.2": {
+            "ID": 13525,
+            "SIC": "H.49.3.9.0.2",
+            "Category": "Airport shuttles"
+          },
+          "H.49.3.9.0.3": {
+            "ID": 13526,
+            "SIC": "H.49.3.9.0.3",
+            "Category": "Animal drawn vehicle transport"
+          },
+          "H.49.3.9.0.4": {
+            "ID": 13527,
+            "SIC": "H.49.3.9.0.4",
+            "Category": "Buses operated for transport of employees"
+          },
+          "H.49.3.9.0.5": {
+            "ID": 13528,
+            "SIC": "H.49.3.9.0.5",
+            "Category": "Charters, excursions and other occasional coach services"
+          },
+          "H.49.3.9.0.6": {
+            "ID": 13529,
+            "SIC": "H.49.3.9.0.6",
+            "Category": "Coach hire with driver"
+          },
+          "H.49.3.9.0.7": {
+            "ID": 13530,
+            "SIC": "H.49.3.9.0.7",
+            "Category": "Coach services (non-scheduled)"
+          },
+          "H.49.3.9.0.8": {
+            "ID": 13531,
+            "SIC": "H.49.3.9.0.8",
+            "Category": "Cycle taxi"
+          },
+          "H.49.3.9.0.9": {
+            "ID": 13532,
+            "SIC": "H.49.3.9.0.9",
+            "Category": "Express coach service on scheduled routes"
+          },
+          "H.49.3.9.0.10": {
+            "ID": 13533,
+            "SIC": "H.49.3.9.0.10",
+            "Category": "Factory bus service"
+          },
+          "H.49.3.9.0.11": {
+            "ID": 13534,
+            "SIC": "H.49.3.9.0.11",
+            "Category": "Inter-city coach services on scheduled routes"
+          },
+          "H.49.3.9.0.12": {
+            "ID": 13535,
+            "SIC": "H.49.3.9.0.12",
+            "Category": "Motor coach service"
+          },
+          "H.49.3.9.0.13": {
+            "ID": 13536,
+            "SIC": "H.49.3.9.0.13",
+            "Category": "Motor coach with driver (private hire)"
+          },
+          "H.49.3.9.0.14": {
+            "ID": 13537,
+            "SIC": "H.49.3.9.0.14",
+            "Category": "Non-scheduled passenger transport n.e.c."
+          },
+          "H.49.3.9.0.15": {
+            "ID": 13538,
+            "SIC": "H.49.3.9.0.15",
+            "Category": "Operation of teleferics, funiculars "
+          },
+          "H.49.3.9.0.16": {
+            "ID": 13539,
+            "SIC": "H.49.3.9.0.16",
+            "Category": "Passenger transport by animal-drawn vehicles"
+          },
+          "H.49.3.9.0.17": {
+            "ID": 13540,
+            "SIC": "H.49.3.9.0.17",
+            "Category": "Passenger transport by man-drawn vehicles"
+          },
+          "H.49.3.9.0.18": {
+            "ID": 13541,
+            "SIC": "H.49.3.9.0.18",
+            "Category": "Scheduled long-distance bus services"
+          },
+          "H.49.3.9.0.19": {
+            "ID": 13542,
+            "SIC": "H.49.3.9.0.19",
+            "Category": "School bus service"
+          },
+          "H.49.3.9.0.20": {
+            "ID": 13543,
+            "SIC": "H.49.3.9.0.20",
+            "Category": "Sightseeing buses"
+          },
+          "H.49.3.9.0.21": {
+            "ID": 13544,
+            "SIC": "H.49.3.9.0.21",
+            "Category": "Ski and cable lifts operation"
+          },
+          "H.49.3.9.0.22": {
+            "ID": 13545,
+            "SIC": "H.49.3.9.0.22",
+            "Category": "Trishaw (cycle rickshaw) taxi service"
+          }
+        }
+      },
+      "H.49.4": {
+        "ID": 718,
+        "SIC": "H.49.4",
+        "Category": "Freight transport by road and removal services",
+        "H.49.4.1": {
+          "ID": 719,
+          "SIC": "H.49.4.1",
+          "Category": "Freight transport by road",
+          "H.49.4.1.0.1": {
+            "ID": 13546,
+            "SIC": "H.49.4.1.0.1",
+            "Category": "Bulk haulage in tanker trucks"
+          },
+          "H.49.4.1.0.2": {
+            "ID": 13547,
+            "SIC": "H.49.4.1.0.2",
+            "Category": "Bulk haulage milk collection at farms"
+          },
+          "H.49.4.1.0.3": {
+            "ID": 13548,
+            "SIC": "H.49.4.1.0.3",
+            "Category": "Bulk road haulage"
+          },
+          "H.49.4.1.0.4": {
+            "ID": 13549,
+            "SIC": "H.49.4.1.0.4",
+            "Category": "Car delivery service (by independent contractors)"
+          },
+          "H.49.4.1.0.5": {
+            "ID": 13550,
+            "SIC": "H.49.4.1.0.5",
+            "Category": "Car delivery service (by motor manufacturers)"
+          },
+          "H.49.4.1.0.6": {
+            "ID": 13551,
+            "SIC": "H.49.4.1.0.6",
+            "Category": "Carrier (for general hire or reward)"
+          },
+          "H.49.4.1.0.7": {
+            "ID": 13552,
+            "SIC": "H.49.4.1.0.7",
+            "Category": "Cartage contractor"
+          },
+          "H.49.4.1.0.8": {
+            "ID": 13553,
+            "SIC": "H.49.4.1.0.8",
+            "Category": "Commercial vehicle hire with driver"
+          },
+          "H.49.4.1.0.9": {
+            "ID": 13554,
+            "SIC": "H.49.4.1.0.9",
+            "Category": "Concrete haulage by a unit which is (not the manufacturer)"
+          },
+          "H.49.4.1.0.10": {
+            "ID": 13555,
+            "SIC": "H.49.4.1.0.10",
+            "Category": "Concrete mixer lorry rental, with operator"
+          },
+          "H.49.4.1.0.11": {
+            "ID": 13556,
+            "SIC": "H.49.4.1.0.11",
+            "Category": "Freight transport by animal-drawn vehicles"
+          },
+          "H.49.4.1.0.12": {
+            "ID": 13557,
+            "SIC": "H.49.4.1.0.12",
+            "Category": "Freight transport by man-drawn vehicles"
+          },
+          "H.49.4.1.0.13": {
+            "ID": 13558,
+            "SIC": "H.49.4.1.0.13",
+            "Category": "Freight transport operation by road"
+          },
+          "H.49.4.1.0.14": {
+            "ID": 13559,
+            "SIC": "H.49.4.1.0.14",
+            "Category": "Freight transportation within industrial units (fee or contract basis)"
+          },
+          "H.49.4.1.0.15": {
+            "ID": 13560,
+            "SIC": "H.49.4.1.0.15",
+            "Category": "Haulage in tanker trucks by road"
+          },
+          "H.49.4.1.0.16": {
+            "ID": 13561,
+            "SIC": "H.49.4.1.0.16",
+            "Category": "Haulage of automobiles by road"
+          },
+          "H.49.4.1.0.17": {
+            "ID": 13562,
+            "SIC": "H.49.4.1.0.17",
+            "Category": "Haulage of logs by road"
+          },
+          "H.49.4.1.0.18": {
+            "ID": 13563,
+            "SIC": "H.49.4.1.0.18",
+            "Category": "Heavy haulage by road"
+          },
+          "H.49.4.1.0.19": {
+            "ID": 13564,
+            "SIC": "H.49.4.1.0.19",
+            "Category": "Milk collection by tanker"
+          },
+          "H.49.4.1.0.20": {
+            "ID": 13565,
+            "SIC": "H.49.4.1.0.20",
+            "Category": "Motor vehicle collection"
+          },
+          "H.49.4.1.0.21": {
+            "ID": 13566,
+            "SIC": "H.49.4.1.0.21",
+            "Category": "Refrigerated haulage by road"
+          },
+          "H.49.4.1.0.22": {
+            "ID": 13567,
+            "SIC": "H.49.4.1.0.22",
+            "Category": "Road haulage contracting for general hire or reward"
+          },
+          "H.49.4.1.0.23": {
+            "ID": 13568,
+            "SIC": "H.49.4.1.0.23",
+            "Category": "Road haulage contractor"
+          },
+          "H.49.4.1.0.24": {
+            "ID": 13569,
+            "SIC": "H.49.4.1.0.24",
+            "Category": "Road transport of letters as freight (fee or contract basis)"
+          },
+          "H.49.4.1.0.25": {
+            "ID": 13570,
+            "SIC": "H.49.4.1.0.25",
+            "Category": "Stock haulage by road"
+          },
+          "H.49.4.1.0.26": {
+            "ID": 13571,
+            "SIC": "H.49.4.1.0.26",
+            "Category": "Transport of waste and waste materials"
+          },
+          "H.49.4.1.0.27": {
+            "ID": 13572,
+            "SIC": "H.49.4.1.0.27",
+            "Category": "Truck rental (with driver)"
+          }
+        },
+        "H.49.4.2": {
+          "ID": 720,
+          "SIC": "H.49.4.2",
+          "Category": "Removal services",
+          "H.49.4.2.0.1": {
+            "ID": 13573,
+            "SIC": "H.49.4.2.0.1",
+            "Category": "Furniture removal"
+          },
+          "H.49.4.2.0.2": {
+            "ID": 13574,
+            "SIC": "H.49.4.2.0.2",
+            "Category": "Removal by road transport."
+          },
+          "H.49.4.2.0.3": {
+            "ID": 13575,
+            "SIC": "H.49.4.2.0.3",
+            "Category": "Removal contractor"
+          }
+        }
+      },
+      "H.49.5": {
+        "ID": 721,
+        "SIC": "H.49.5",
+        "Category": "Transport via pipeline",
+        "H.49.5.0": {
+          "ID": 722,
+          "SIC": "H.49.5.0",
+          "Category": "Transport via pipeline",
+          "H.49.5.0.0.1": {
+            "ID": 13576,
+            "SIC": "H.49.5.0.0.1",
+            "Category": "Coal pumping station"
+          },
+          "H.49.5.0.0.2": {
+            "ID": 13577,
+            "SIC": "H.49.5.0.0.2",
+            "Category": "Gas transport via pipelines"
+          },
+          "H.49.5.0.0.3": {
+            "ID": 13578,
+            "SIC": "H.49.5.0.0.3",
+            "Category": "Liquids transport via pipelines"
+          },
+          "H.49.5.0.0.4": {
+            "ID": 13579,
+            "SIC": "H.49.5.0.0.4",
+            "Category": "Offshore natural gas pipeline operation"
+          },
+          "H.49.5.0.0.5": {
+            "ID": 13580,
+            "SIC": "H.49.5.0.0.5",
+            "Category": "Offshore oil pipeline operation"
+          },
+          "H.49.5.0.0.6": {
+            "ID": 13581,
+            "SIC": "H.49.5.0.0.6",
+            "Category": "Oil pipeline terminal operating (for petroleum)"
+          },
+          "H.49.5.0.0.7": {
+            "ID": 13582,
+            "SIC": "H.49.5.0.0.7",
+            "Category": "Pipeline operator"
+          },
+          "H.49.5.0.0.8": {
+            "ID": 13583,
+            "SIC": "H.49.5.0.0.8",
+            "Category": "Pump stations operation"
+          },
+          "H.49.5.0.0.9": {
+            "ID": 13584,
+            "SIC": "H.49.5.0.0.9",
+            "Category": "Slurry transport via pipelines"
+          },
+          "H.49.5.0.0.10": {
+            "ID": 13585,
+            "SIC": "H.49.5.0.0.10",
+            "Category": "Transport of gases slurry via pipelines"
+          },
+          "H.49.5.0.0.11": {
+            "ID": 13586,
+            "SIC": "H.49.5.0.0.11",
+            "Category": "Transport of water via pipelines"
+          },
+          "H.49.5.0.0.12": {
+            "ID": 13587,
+            "SIC": "H.49.5.0.0.12",
+            "Category": "Transport via pipeline"
+          }
+        }
+      }
+    },
+    "H.50": {
+      "ID": 723,
+      "SIC": "H.50",
+      "Category": "Water transport",
+      "H.50.1": {
+        "ID": 724,
+        "SIC": "H.50.1",
+        "Category": "Sea and coastal passenger water transport",
+        "H.50.1.0": {
+          "ID": 725,
+          "SIC": "H.50.1.0",
+          "Category": "Sea and coastal passenger water transport",
+          "H.50.1.0.0.1": {
+            "ID": 13588,
+            "SIC": "H.50.1.0.0.1",
+            "Category": "Boat rental for passenger conveyance with crew (except for inland waterway services)"
+          },
+          "H.50.1.0.0.2": {
+            "ID": 13589,
+            "SIC": "H.50.1.0.0.2",
+            "Category": "Coastal water transport for passengers"
+          },
+          "H.50.1.0.0.3": {
+            "ID": 13590,
+            "SIC": "H.50.1.0.0.3",
+            "Category": "Excursion, cruise or sightseeing boat operation (except for inland waterway service)"
+          },
+          "H.50.1.0.0.4": {
+            "ID": 13591,
+            "SIC": "H.50.1.0.0.4",
+            "Category": "Ferry transport of cars with driver"
+          },
+          "H.50.1.0.0.5": {
+            "ID": 13592,
+            "SIC": "H.50.1.0.0.5",
+            "Category": "Hovercraft operator between UK and international ports (passenger)"
+          },
+          "H.50.1.0.0.6": {
+            "ID": 13593,
+            "SIC": "H.50.1.0.0.6",
+            "Category": "Passenger ferry between UK and international ports"
+          },
+          "H.50.1.0.0.7": {
+            "ID": 13594,
+            "SIC": "H.50.1.0.0.7",
+            "Category": "Passenger ferry on domestic or coastal routes"
+          },
+          "H.50.1.0.0.8": {
+            "ID": 13595,
+            "SIC": "H.50.1.0.0.8",
+            "Category": "Passenger shipping service (sea and coastal)"
+          },
+          "H.50.1.0.0.9": {
+            "ID": 13596,
+            "SIC": "H.50.1.0.0.9",
+            "Category": "Pleasure boat rental with crew (e.g. For fishing cruises) (except for inland waterway service)"
+          },
+          "H.50.1.0.0.10": {
+            "ID": 13597,
+            "SIC": "H.50.1.0.0.10",
+            "Category": "Sea ferry (passenger)"
+          },
+          "H.50.1.0.0.11": {
+            "ID": 13598,
+            "SIC": "H.50.1.0.0.11",
+            "Category": "Transport of passengers over seas and coastal waters"
+          },
+          "H.50.1.0.0.12": {
+            "ID": 13599,
+            "SIC": "H.50.1.0.0.12",
+            "Category": "Transport of passengers over water (except for inland waterway service)"
+          },
+          "H.50.1.0.0.13": {
+            "ID": 13600,
+            "SIC": "H.50.1.0.0.13",
+            "Category": "Water taxis operation (except for inland waterway service)"
+          }
+        }
+      },
+      "H.50.2": {
+        "ID": 726,
+        "SIC": "H.50.2",
+        "Category": "Sea and coastal freight water transport",
+        "H.50.2.0": {
+          "ID": 727,
+          "SIC": "H.50.2.0",
+          "Category": "Sea and coastal freight water transport",
+          "H.50.2.0.0.1": {
+            "ID": 13601,
+            "SIC": "H.50.2.0.0.1",
+            "Category": "Anchor handling services"
+          },
+          "H.50.2.0.0.2": {
+            "ID": 13602,
+            "SIC": "H.50.2.0.0.2",
+            "Category": "Barge transport (except for inland waterway) freight service"
+          },
+          "H.50.2.0.0.3": {
+            "ID": 13603,
+            "SIC": "H.50.2.0.0.3",
+            "Category": "Boat rental for transport of freight with crew (except for inland waterway service)"
+          },
+          "H.50.2.0.0.4": {
+            "ID": 13604,
+            "SIC": "H.50.2.0.0.4",
+            "Category": "Coastal water transport (freight)"
+          },
+          "H.50.2.0.0.5": {
+            "ID": 13605,
+            "SIC": "H.50.2.0.0.5",
+            "Category": "Ferry transport of cars without driver"
+          },
+          "H.50.2.0.0.6": {
+            "ID": 13606,
+            "SIC": "H.50.2.0.0.6",
+            "Category": "Freight ferry (domestic or coastal)"
+          },
+          "H.50.2.0.0.7": {
+            "ID": 13607,
+            "SIC": "H.50.2.0.0.7",
+            "Category": "Freight ferry (sea going)"
+          },
+          "H.50.2.0.0.8": {
+            "ID": 13608,
+            "SIC": "H.50.2.0.0.8",
+            "Category": "Freight shipping service (except for inland waterway service)"
+          },
+          "H.50.2.0.0.9": {
+            "ID": 13609,
+            "SIC": "H.50.2.0.0.9",
+            "Category": "Freight shipping service (sea and coastal)"
+          },
+          "H.50.2.0.0.10": {
+            "ID": 13610,
+            "SIC": "H.50.2.0.0.10",
+            "Category": "Heavy lift vessel services"
+          },
+          "H.50.2.0.0.11": {
+            "ID": 13611,
+            "SIC": "H.50.2.0.0.11",
+            "Category": "Launch barge services"
+          },
+          "H.50.2.0.0.12": {
+            "ID": 13612,
+            "SIC": "H.50.2.0.0.12",
+            "Category": "Marine tow out services"
+          },
+          "H.50.2.0.0.13": {
+            "ID": 13613,
+            "SIC": "H.50.2.0.0.13",
+            "Category": "Oil-rig transportation by towing or pushing"
+          },
+          "H.50.2.0.0.14": {
+            "ID": 13614,
+            "SIC": "H.50.2.0.0.14",
+            "Category": "Rental of vessels with crew for coastal freight water transport"
+          },
+          "H.50.2.0.0.15": {
+            "ID": 13615,
+            "SIC": "H.50.2.0.0.15",
+            "Category": "Rental of vessels with crew for sea freight water transport"
+          },
+          "H.50.2.0.0.16": {
+            "ID": 13616,
+            "SIC": "H.50.2.0.0.16",
+            "Category": "Royal Fleet Auxiliary"
+          },
+          "H.50.2.0.0.17": {
+            "ID": 13617,
+            "SIC": "H.50.2.0.0.17",
+            "Category": "Standby vessel services"
+          },
+          "H.50.2.0.0.18": {
+            "ID": 13618,
+            "SIC": "H.50.2.0.0.18",
+            "Category": "Transport by towing or pushing of barges (except inland waterway)"
+          },
+          "H.50.2.0.0.19": {
+            "ID": 13619,
+            "SIC": "H.50.2.0.0.19",
+            "Category": "Transport of freight over seas and coastal waters (whether scheduled or not)"
+          },
+          "H.50.2.0.0.20": {
+            "ID": 13620,
+            "SIC": "H.50.2.0.0.20",
+            "Category": "Waterborne freight transport (except for inland waterway service)"
+          }
+        }
+      },
+      "H.50.3": {
+        "ID": 728,
+        "SIC": "H.50.3",
+        "Category": "Inland passenger water transport",
+        "H.50.3.0": {
+          "ID": 729,
+          "SIC": "H.50.3.0",
+          "Category": "Inland passenger water transport",
+          "H.50.3.0.0.1": {
+            "ID": 13621,
+            "SIC": "H.50.3.0.0.1",
+            "Category": "Barge lessee or owner (passenger) (inland waterway service)"
+          },
+          "H.50.3.0.0.2": {
+            "ID": 13622,
+            "SIC": "H.50.3.0.0.2",
+            "Category": "Boat rental for passenger conveyance with crew (inland waterway service)"
+          },
+          "H.50.3.0.0.3": {
+            "ID": 13623,
+            "SIC": "H.50.3.0.0.3",
+            "Category": "Canal carrier (passenger)"
+          },
+          "H.50.3.0.0.4": {
+            "ID": 13624,
+            "SIC": "H.50.3.0.0.4",
+            "Category": "Excursion, cruise or sightseeing boats operation (inland waterway service)"
+          },
+          "H.50.3.0.0.5": {
+            "ID": 13625,
+            "SIC": "H.50.3.0.0.5",
+            "Category": "Ferry transport for passengers (inland waterway service)"
+          },
+          "H.50.3.0.0.6": {
+            "ID": 13626,
+            "SIC": "H.50.3.0.0.6",
+            "Category": "Inland water transport (passenger)"
+          },
+          "H.50.3.0.0.7": {
+            "ID": 13627,
+            "SIC": "H.50.3.0.0.7",
+            "Category": "Lake steamer service"
+          },
+          "H.50.3.0.0.8": {
+            "ID": 13628,
+            "SIC": "H.50.3.0.0.8",
+            "Category": "Local authority passenger ferry services on rivers, canals and lakes"
+          },
+          "H.50.3.0.0.9": {
+            "ID": 13629,
+            "SIC": "H.50.3.0.0.9",
+            "Category": "Passenger ferry (river or estuary)"
+          },
+          "H.50.3.0.0.10": {
+            "ID": 13630,
+            "SIC": "H.50.3.0.0.10",
+            "Category": "Passenger ferry transport (inland waterway)"
+          },
+          "H.50.3.0.0.11": {
+            "ID": 13631,
+            "SIC": "H.50.3.0.0.11",
+            "Category": "Rental of pleasure boats with crew for inland water transport"
+          },
+          "H.50.3.0.0.12": {
+            "ID": 13632,
+            "SIC": "H.50.3.0.0.12",
+            "Category": "Transport of passengers over water (inland waterway service)"
+          },
+          "H.50.3.0.0.13": {
+            "ID": 13633,
+            "SIC": "H.50.3.0.0.13",
+            "Category": "Transport of passengers via canals"
+          },
+          "H.50.3.0.0.14": {
+            "ID": 13634,
+            "SIC": "H.50.3.0.0.14",
+            "Category": "Transport of passengers via inside harbours"
+          },
+          "H.50.3.0.0.15": {
+            "ID": 13635,
+            "SIC": "H.50.3.0.0.15",
+            "Category": "Transport of passengers via lakes"
+          },
+          "H.50.3.0.0.16": {
+            "ID": 13636,
+            "SIC": "H.50.3.0.0.16",
+            "Category": "Transport of passengers via ports"
+          },
+          "H.50.3.0.0.17": {
+            "ID": 13637,
+            "SIC": "H.50.3.0.0.17",
+            "Category": "Transport of passengers via rivers"
+          },
+          "H.50.3.0.0.18": {
+            "ID": 13638,
+            "SIC": "H.50.3.0.0.18",
+            "Category": "Water taxis operation (inland waterway service)"
+          }
+        }
+      },
+      "H.50.4": {
+        "ID": 730,
+        "SIC": "H.50.4",
+        "Category": "Inland freight water transport",
+        "H.50.4.0": {
+          "ID": 731,
+          "SIC": "H.50.4.0",
+          "Category": "Inland freight water transport",
+          "H.50.4.0.0.1": {
+            "ID": 13639,
+            "SIC": "H.50.4.0.0.1",
+            "Category": "Barge lessee or owner (freight)"
+          },
+          "H.50.4.0.0.2": {
+            "ID": 13640,
+            "SIC": "H.50.4.0.0.2",
+            "Category": "Boat rental for transport of freight with crew (inland waterway service)"
+          },
+          "H.50.4.0.0.3": {
+            "ID": 13641,
+            "SIC": "H.50.4.0.0.3",
+            "Category": "Canal carrier (freight)"
+          },
+          "H.50.4.0.0.4": {
+            "ID": 13642,
+            "SIC": "H.50.4.0.0.4",
+            "Category": "Freight ferry (river or estuary)"
+          },
+          "H.50.4.0.0.5": {
+            "ID": 13643,
+            "SIC": "H.50.4.0.0.5",
+            "Category": "Freight ferry transport (inland waterway service)"
+          },
+          "H.50.4.0.0.6": {
+            "ID": 13644,
+            "SIC": "H.50.4.0.0.6",
+            "Category": "Freight vessel rental with crew (inland waterway service)"
+          },
+          "H.50.4.0.0.7": {
+            "ID": 13645,
+            "SIC": "H.50.4.0.0.7",
+            "Category": "Inland water transport (freight)"
+          },
+          "H.50.4.0.0.8": {
+            "ID": 13646,
+            "SIC": "H.50.4.0.0.8",
+            "Category": "Local authority freight ferry services on rivers, canals and lakes"
+          },
+          "H.50.4.0.0.9": {
+            "ID": 13647,
+            "SIC": "H.50.4.0.0.9",
+            "Category": "Transport of freight via canals"
+          },
+          "H.50.4.0.0.10": {
+            "ID": 13648,
+            "SIC": "H.50.4.0.0.10",
+            "Category": "Transport of freight via lakes"
+          },
+          "H.50.4.0.0.11": {
+            "ID": 13649,
+            "SIC": "H.50.4.0.0.11",
+            "Category": "Transport of freight via ports"
+          },
+          "H.50.4.0.0.12": {
+            "ID": 13650,
+            "SIC": "H.50.4.0.0.12",
+            "Category": "Transport of freight via rivers"
+          },
+          "H.50.4.0.0.13": {
+            "ID": 13651,
+            "SIC": "H.50.4.0.0.13",
+            "Category": "Water transport of freight inside harbours and docks"
+          }
+        }
+      }
+    },
+    "H.51": {
+      "ID": 732,
+      "SIC": "H.51",
+      "Category": "Air transport",
+      "H.51.1": {
+        "ID": 733,
+        "SIC": "H.51.1",
+        "Category": "Passenger air transport",
+        "H.51.1.0": {
+          "ID": 734,
+          "SIC": "H.51.1.0",
+          "Category": "Passenger air transport",
+          "H.51.1.0.1": {
+            "ID": 735,
+            "SIC": "H.51.1.0.1",
+            "Category": "Scheduled passenger air transport",
+            "H.51.1.0.1.1": {
+              "ID": 13652,
+              "SIC": "H.51.1.0.1.1",
+              "Category": "Air-transport equipment renting with operator, for scheduled passenger transportation"
+            },
+            "H.51.1.0.1.2": {
+              "ID": 13653,
+              "SIC": "H.51.1.0.1.2",
+              "Category": "Passenger air transport over regular routes"
+            },
+            "H.51.1.0.1.3": {
+              "ID": 13654,
+              "SIC": "H.51.1.0.1.3",
+              "Category": "Passenger air transport (scheduled)"
+            }
+          },
+          "H.51.1.0.2": {
+            "ID": 736,
+            "SIC": "H.51.1.0.2",
+            "Category": "Non-scheduled passenger air transport",
+            "H.51.1.0.2.1": {
+              "ID": 13655,
+              "SIC": "H.51.1.0.2.1",
+              "Category": "Air charter service (passenger)"
+            },
+            "H.51.1.0.2.2": {
+              "ID": 13656,
+              "SIC": "H.51.1.0.2.2",
+              "Category": "Air taxi service"
+            },
+            "H.51.1.0.2.3": {
+              "ID": 13657,
+              "SIC": "H.51.1.0.2.3",
+              "Category": "Air transport of passengers by aero clubs for instruction or pleasure"
+            },
+            "H.51.1.0.2.4": {
+              "ID": 13658,
+              "SIC": "H.51.1.0.2.4",
+              "Category": "Charter flights (passenger)"
+            },
+            "H.51.1.0.2.5": {
+              "ID": 13659,
+              "SIC": "H.51.1.0.2.5",
+              "Category": "Helicopter passenger services (non-scheduled)"
+            },
+            "H.51.1.0.2.6": {
+              "ID": 13660,
+              "SIC": "H.51.1.0.2.6",
+              "Category": "Non-scheduled air transport of passengers"
+            },
+            "H.51.1.0.2.7": {
+              "ID": 13661,
+              "SIC": "H.51.1.0.2.7",
+              "Category": "Passenger air transport (non-scheduled)"
+            },
+            "H.51.1.0.2.8": {
+              "ID": 13662,
+              "SIC": "H.51.1.0.2.8",
+              "Category": "Passenger aircraft rental services with crew (non-scheduled)"
+            },
+            "H.51.1.0.2.9": {
+              "ID": 13663,
+              "SIC": "H.51.1.0.2.9",
+              "Category": "Regular charter flights for passengers"
+            },
+            "H.51.1.0.2.10": {
+              "ID": 13664,
+              "SIC": "H.51.1.0.2.10",
+              "Category": "Scenic and sightseeing flights"
+            }
+          }
+        }
+      },
+      "H.51.2": {
+        "ID": 737,
+        "SIC": "H.51.2",
+        "Category": "Freight air transport and space transport",
+        "H.51.2.1": {
+          "ID": 738,
+          "SIC": "H.51.2.1",
+          "Category": "Freight air transport",
+          "H.51.2.1.0.1": {
+            "ID": 13665,
+            "SIC": "H.51.2.1.0.1",
+            "Category": "Air charter service (freight)"
+          },
+          "H.51.2.1.0.2": {
+            "ID": 13666,
+            "SIC": "H.51.2.1.0.2",
+            "Category": "Air transport of freight over regular routes"
+          },
+          "H.51.2.1.0.3": {
+            "ID": 13667,
+            "SIC": "H.51.2.1.0.3",
+            "Category": "Charter flights (freight)"
+          },
+          "H.51.2.1.0.4": {
+            "ID": 13668,
+            "SIC": "H.51.2.1.0.4",
+            "Category": "Freight air transport (non-scheduled)"
+          },
+          "H.51.2.1.0.5": {
+            "ID": 13669,
+            "SIC": "H.51.2.1.0.5",
+            "Category": "Freight air transport (scheduled)"
+          },
+          "H.51.2.1.0.6": {
+            "ID": 13670,
+            "SIC": "H.51.2.1.0.6",
+            "Category": "Freight aircraft rental services with crew (non-scheduled)"
+          },
+          "H.51.2.1.0.7": {
+            "ID": 13671,
+            "SIC": "H.51.2.1.0.7",
+            "Category": "Helicopter freight services (non-scheduled)"
+          }
+        },
+        "H.51.2.2": {
+          "ID": 739,
+          "SIC": "H.51.2.2",
+          "Category": "Space transport",
+          "H.51.2.2.0.1": {
+            "ID": 13672,
+            "SIC": "H.51.2.2.0.1",
+            "Category": "Satellite launching"
+          },
+          "H.51.2.2.0.2": {
+            "ID": 13673,
+            "SIC": "H.51.2.2.0.2",
+            "Category": "Space transport"
+          },
+          "H.51.2.2.0.3": {
+            "ID": 13674,
+            "SIC": "H.51.2.2.0.3",
+            "Category": "Space transport of freight"
+          },
+          "H.51.2.2.0.4": {
+            "ID": 13675,
+            "SIC": "H.51.2.2.0.4",
+            "Category": "Space transport of passengers"
+          },
+          "H.51.2.2.0.5": {
+            "ID": 13676,
+            "SIC": "H.51.2.2.0.5",
+            "Category": "Space vehicle launching"
+          }
+        }
+      }
+    },
+    "H.52": {
+      "ID": 740,
+      "SIC": "H.52",
+      "Category": "Warehousing and support activities for transportation",
+      "H.52.1": {
+        "ID": 741,
+        "SIC": "H.52.1",
+        "Category": "Warehousing and storage",
+        "H.52.1.0": {
+          "ID": 742,
+          "SIC": "H.52.1.0",
+          "Category": "Warehousing and storage",
+          "H.52.1.0.1": {
+            "ID": 743,
+            "SIC": "H.52.1.0.1",
+            "Category": "Operation of warehousing and storage facilities for water transport activities of division 50",
+            "H.52.1.0.1.1": {
+              "ID": 13677,
+              "SIC": "H.52.1.0.1.1",
+              "Category": "Blast freezing for water transport activities"
+            },
+            "H.52.1.0.1.2": {
+              "ID": 13678,
+              "SIC": "H.52.1.0.1.2",
+              "Category": "Bonded store, vault or warehouse for water transport activities"
+            },
+            "H.52.1.0.1.3": {
+              "ID": 13679,
+              "SIC": "H.52.1.0.1.3",
+              "Category": "Bulk liquid and gases storage services for water transport activities"
+            },
+            "H.52.1.0.1.4": {
+              "ID": 13680,
+              "SIC": "H.52.1.0.1.4",
+              "Category": "Coal stockyard for water transport activities"
+            },
+            "H.52.1.0.1.5": {
+              "ID": 13681,
+              "SIC": "H.52.1.0.1.5",
+              "Category": "Cold store for water transport activities"
+            },
+            "H.52.1.0.1.6": {
+              "ID": 13682,
+              "SIC": "H.52.1.0.1.6",
+              "Category": "Cotton warehouse for water transport activities"
+            },
+            "H.52.1.0.1.7": {
+              "ID": 13683,
+              "SIC": "H.52.1.0.1.7",
+              "Category": "Film bonded warehouse for water transport activities"
+            },
+            "H.52.1.0.1.8": {
+              "ID": 13684,
+              "SIC": "H.52.1.0.1.8",
+              "Category": "Frozen and refrigerated goods storage services, for water transport activities"
+            },
+            "H.52.1.0.1.9": {
+              "ID": 13685,
+              "SIC": "H.52.1.0.1.9",
+              "Category": "Furniture repository for water transport activities"
+            },
+            "H.52.1.0.1.10": {
+              "ID": 13686,
+              "SIC": "H.52.1.0.1.10",
+              "Category": "Grain silos operation for water transport activities"
+            },
+            "H.52.1.0.1.11": {
+              "ID": 13687,
+              "SIC": "H.52.1.0.1.11",
+              "Category": "Grain warehouse for water transport activities"
+            },
+            "H.52.1.0.1.12": {
+              "ID": 13688,
+              "SIC": "H.52.1.0.1.12",
+              "Category": "Granary for water transport activities"
+            },
+            "H.52.1.0.1.13": {
+              "ID": 13689,
+              "SIC": "H.52.1.0.1.13",
+              "Category": "Refrigerated warehouses operation for water transport activities"
+            },
+            "H.52.1.0.1.14": {
+              "ID": 13690,
+              "SIC": "H.52.1.0.1.14",
+              "Category": "Repository for water transport activities"
+            },
+            "H.52.1.0.1.15": {
+              "ID": 13691,
+              "SIC": "H.52.1.0.1.15",
+              "Category": "Storage facilities n.e.c. for water transport activities"
+            },
+            "H.52.1.0.1.16": {
+              "ID": 13692,
+              "SIC": "H.52.1.0.1.16",
+              "Category": "Storage of goods in foreign trade zones for water transport activities"
+            },
+            "H.52.1.0.1.17": {
+              "ID": 13693,
+              "SIC": "H.52.1.0.1.17",
+              "Category": "Storage tanks operation for water transport activities"
+            },
+            "H.52.1.0.1.18": {
+              "ID": 13694,
+              "SIC": "H.52.1.0.1.18",
+              "Category": "Tea warehouse for water transport activities"
+            },
+            "H.52.1.0.1.19": {
+              "ID": 13695,
+              "SIC": "H.52.1.0.1.19",
+              "Category": "Warehouse (general) operation for water transport activities"
+            },
+            "H.52.1.0.1.20": {
+              "ID": 13696,
+              "SIC": "H.52.1.0.1.20",
+              "Category": "Wool warehouse for water transport activities"
+            }
+          },
+          "H.52.1.0.2": {
+            "ID": 744,
+            "SIC": "H.52.1.0.2",
+            "Category": "Operation of warehousing and storage facilities for air transport activities of division 51",
+            "H.52.1.0.2.1": {
+              "ID": 13697,
+              "SIC": "H.52.1.0.2.1",
+              "Category": "Blast freezing for air transport activities"
+            },
+            "H.52.1.0.2.2": {
+              "ID": 13698,
+              "SIC": "H.52.1.0.2.2",
+              "Category": "Bonded store, vault or warehouse for air transport activities"
+            },
+            "H.52.1.0.2.3": {
+              "ID": 13699,
+              "SIC": "H.52.1.0.2.3",
+              "Category": "Bulk liquid and gases storage services for air transport activities"
+            },
+            "H.52.1.0.2.4": {
+              "ID": 13700,
+              "SIC": "H.52.1.0.2.4",
+              "Category": "Cold store for air transport activities"
+            },
+            "H.52.1.0.2.5": {
+              "ID": 13701,
+              "SIC": "H.52.1.0.2.5",
+              "Category": "Cotton warehouse for air transport activities"
+            },
+            "H.52.1.0.2.6": {
+              "ID": 13702,
+              "SIC": "H.52.1.0.2.6",
+              "Category": "Film bonded warehouse for air transport activities"
+            },
+            "H.52.1.0.2.7": {
+              "ID": 13703,
+              "SIC": "H.52.1.0.2.7",
+              "Category": "Frozen and refrigerated goods storage services, for air transport activities"
+            },
+            "H.52.1.0.2.8": {
+              "ID": 13704,
+              "SIC": "H.52.1.0.2.8",
+              "Category": "Furniture repository for air transport activities"
+            },
+            "H.52.1.0.2.9": {
+              "ID": 13705,
+              "SIC": "H.52.1.0.2.9",
+              "Category": "General merchandise warehouses for air transport activities"
+            },
+            "H.52.1.0.2.10": {
+              "ID": 13706,
+              "SIC": "H.52.1.0.2.10",
+              "Category": "Grain silos operation for air transport activities"
+            },
+            "H.52.1.0.2.11": {
+              "ID": 13707,
+              "SIC": "H.52.1.0.2.11",
+              "Category": "Grain warehouse for air transport activities"
+            },
+            "H.52.1.0.2.12": {
+              "ID": 13708,
+              "SIC": "H.52.1.0.2.12",
+              "Category": "Granary for air transport activities"
+            },
+            "H.52.1.0.2.13": {
+              "ID": 13709,
+              "SIC": "H.52.1.0.2.13",
+              "Category": "Refrigerated warehouses operation for air transport activities"
+            },
+            "H.52.1.0.2.14": {
+              "ID": 13710,
+              "SIC": "H.52.1.0.2.14",
+              "Category": "Storage facilities n.e.c. for air transport activities"
+            },
+            "H.52.1.0.2.15": {
+              "ID": 13711,
+              "SIC": "H.52.1.0.2.15",
+              "Category": "Storage of goods in foreign trade zones for air transport activities"
+            },
+            "H.52.1.0.2.16": {
+              "ID": 13712,
+              "SIC": "H.52.1.0.2.16",
+              "Category": "Storage tanks operation for air transport activities"
+            },
+            "H.52.1.0.2.17": {
+              "ID": 13713,
+              "SIC": "H.52.1.0.2.17",
+              "Category": "Tea warehouse for air transport activities"
+            },
+            "H.52.1.0.2.18": {
+              "ID": 13714,
+              "SIC": "H.52.1.0.2.18",
+              "Category": "Warehouse (general) operation for air transport activities"
+            },
+            "H.52.1.0.2.19": {
+              "ID": 13715,
+              "SIC": "H.52.1.0.2.19",
+              "Category": "Wool warehouse for air transport activities"
+            }
+          },
+          "H.52.1.0.3": {
+            "ID": 745,
+            "SIC": "H.52.1.0.3",
+            "Category": "Operation of warehousing and storage facilities for land transport activities of division 49",
+            "H.52.1.0.3.1": {
+              "ID": 13716,
+              "SIC": "H.52.1.0.3.1",
+              "Category": "Blast freezing for land transport activities"
+            },
+            "H.52.1.0.3.2": {
+              "ID": 13717,
+              "SIC": "H.52.1.0.3.2",
+              "Category": "Bonded store, vault or warehouse for land transport activities"
+            },
+            "H.52.1.0.3.3": {
+              "ID": 13718,
+              "SIC": "H.52.1.0.3.3",
+              "Category": "Bulk liquid and gases storage services for land transport activities"
+            },
+            "H.52.1.0.3.4": {
+              "ID": 13719,
+              "SIC": "H.52.1.0.3.4",
+              "Category": "Coal stockyard for land transport activities"
+            },
+            "H.52.1.0.3.5": {
+              "ID": 13720,
+              "SIC": "H.52.1.0.3.5",
+              "Category": "Cold store for land transport activities"
+            },
+            "H.52.1.0.3.6": {
+              "ID": 13721,
+              "SIC": "H.52.1.0.3.6",
+              "Category": "Cotton warehouse for land transport activities"
+            },
+            "H.52.1.0.3.7": {
+              "ID": 13722,
+              "SIC": "H.52.1.0.3.7",
+              "Category": "Digitalisation and document storage"
+            },
+            "H.52.1.0.3.8": {
+              "ID": 13723,
+              "SIC": "H.52.1.0.3.8",
+              "Category": "Film bonded warehouse for land transport activities"
+            },
+            "H.52.1.0.3.9": {
+              "ID": 13724,
+              "SIC": "H.52.1.0.3.9",
+              "Category": "Frozen and refrigerated goods storage services, for land transport activities"
+            },
+            "H.52.1.0.3.10": {
+              "ID": 13725,
+              "SIC": "H.52.1.0.3.10",
+              "Category": "Furniture repository for land transport activities"
+            },
+            "H.52.1.0.3.11": {
+              "ID": 13726,
+              "SIC": "H.52.1.0.3.11",
+              "Category": "Grain silos operation for land transport activities"
+            },
+            "H.52.1.0.3.12": {
+              "ID": 13727,
+              "SIC": "H.52.1.0.3.12",
+              "Category": "Grain warehouse for land transport activities"
+            },
+            "H.52.1.0.3.13": {
+              "ID": 13728,
+              "SIC": "H.52.1.0.3.13",
+              "Category": "Granary for land transport activities"
+            },
+            "H.52.1.0.3.14": {
+              "ID": 13729,
+              "SIC": "H.52.1.0.3.14",
+              "Category": "Refrigerated warehouses operation for land transport activities"
+            },
+            "H.52.1.0.3.15": {
+              "ID": 13730,
+              "SIC": "H.52.1.0.3.15",
+              "Category": "Safe deposit company"
+            },
+            "H.52.1.0.3.16": {
+              "ID": 13731,
+              "SIC": "H.52.1.0.3.16",
+              "Category": "Storage facilities n.e.c. for land transport activities"
+            },
+            "H.52.1.0.3.17": {
+              "ID": 13732,
+              "SIC": "H.52.1.0.3.17",
+              "Category": "Storage of goods in foreign trade zones for land transport activities"
+            },
+            "H.52.1.0.3.18": {
+              "ID": 13733,
+              "SIC": "H.52.1.0.3.18",
+              "Category": "Storage tanks operation for land transport activities"
+            },
+            "H.52.1.0.3.19": {
+              "ID": 13734,
+              "SIC": "H.52.1.0.3.19",
+              "Category": "Tea warehouse for land transport activities"
+            },
+            "H.52.1.0.3.20": {
+              "ID": 13735,
+              "SIC": "H.52.1.0.3.20",
+              "Category": "Warehouse (general) operation for land transport activities"
+            },
+            "H.52.1.0.3.21": {
+              "ID": 13736,
+              "SIC": "H.52.1.0.3.21",
+              "Category": "Wool warehouse for land transport activities"
+            }
+          }
+        }
+      },
+      "H.52.2": {
+        "ID": 746,
+        "SIC": "H.52.2",
+        "Category": "Support activities for transportation",
+        "H.52.2.1": {
+          "ID": 747,
+          "SIC": "H.52.2.1",
+          "Category": "Service activities incidental to land transportation",
+          "H.52.2.1.1": {
+            "ID": 748,
+            "SIC": "H.52.2.1.1",
+            "Category": "Operation of rail freight terminals",
+            "H.52.2.1.1.1": {
+              "ID": 13737,
+              "SIC": "H.52.2.1.1.1",
+              "Category": "Rail freight terminals operation"
+            }
+          },
+          "H.52.2.1.2": {
+            "ID": 749,
+            "SIC": "H.52.2.1.2",
+            "Category": "Operation of rail passenger facilities at railway stations",
+            "H.52.2.1.2.1": {
+              "ID": 13738,
+              "SIC": "H.52.2.1.2.1",
+              "Category": "Operation of rail passenger facilities at railway stations"
+            }
+          },
+          "H.52.2.1.3": {
+            "ID": 750,
+            "SIC": "H.52.2.1.3",
+            "Category": "Operation of bus and coach passenger facilities at bus and coach stations",
+            "H.52.2.1.3.1": {
+              "ID": 13739,
+              "SIC": "H.52.2.1.3.1",
+              "Category": "Bus and coach passenger facilities at bus and coach stations"
+            }
+          },
+          "H.52.2.1.9": {
+            "ID": 751,
+            "SIC": "H.52.2.1.9",
+            "Category": "Other service activities incidental to land transportation, n.e.c. (not including operation of rail freight terminals, passenger facilities at railway stations or passenger facilities at bus and coach stations)",
+            "H.52.2.1.9.1": {
+              "ID": 13740,
+              "SIC": "H.52.2.1.9.1",
+              "Category": "Automobile association road patrols"
+            },
+            "H.52.2.1.9.2": {
+              "ID": 13741,
+              "SIC": "H.52.2.1.9.2",
+              "Category": "Bicycle parking operations"
+            },
+            "H.52.2.1.9.3": {
+              "ID": 13742,
+              "SIC": "H.52.2.1.9.3",
+              "Category": "Bridge operation"
+            },
+            "H.52.2.1.9.4": {
+              "ID": 13743,
+              "SIC": "H.52.2.1.9.4",
+              "Category": "Bus station operation"
+            },
+            "H.52.2.1.9.5": {
+              "ID": 13744,
+              "SIC": "H.52.2.1.9.5",
+              "Category": "Car park"
+            },
+            "H.52.2.1.9.6": {
+              "ID": 13745,
+              "SIC": "H.52.2.1.9.6",
+              "Category": "Caravan winter storage"
+            },
+            "H.52.2.1.9.7": {
+              "ID": 13746,
+              "SIC": "H.52.2.1.9.7",
+              "Category": "Clamping and towing away of vehicles"
+            },
+            "H.52.2.1.9.8": {
+              "ID": 13747,
+              "SIC": "H.52.2.1.9.8",
+              "Category": "Commercial vehicle park"
+            },
+            "H.52.2.1.9.9": {
+              "ID": 13748,
+              "SIC": "H.52.2.1.9.9",
+              "Category": "Garage (parking)"
+            },
+            "H.52.2.1.9.10": {
+              "ID": 13749,
+              "SIC": "H.52.2.1.9.10",
+              "Category": "Gas liquefaction for land transportation purposes"
+            },
+            "H.52.2.1.9.11": {
+              "ID": 13750,
+              "SIC": "H.52.2.1.9.11",
+              "Category": "Goods handling station operation"
+            },
+            "H.52.2.1.9.12": {
+              "ID": 13751,
+              "SIC": "H.52.2.1.9.12",
+              "Category": "Health and safety activities for railway maintenance work"
+            },
+            "H.52.2.1.9.13": {
+              "ID": 13752,
+              "SIC": "H.52.2.1.9.13",
+              "Category": "Lessee of tolls"
+            },
+            "H.52.2.1.9.14": {
+              "ID": 13753,
+              "SIC": "H.52.2.1.9.14",
+              "Category": "Local authority car parks"
+            },
+            "H.52.2.1.9.15": {
+              "ID": 13754,
+              "SIC": "H.52.2.1.9.15",
+              "Category": "Motive power depot (railway)"
+            },
+            "H.52.2.1.9.16": {
+              "ID": 13755,
+              "SIC": "H.52.2.1.9.16",
+              "Category": "Motorists' organisation (road patrol)"
+            },
+            "H.52.2.1.9.17": {
+              "ID": 13756,
+              "SIC": "H.52.2.1.9.17",
+              "Category": "Motorway maintenance unit"
+            },
+            "H.52.2.1.9.18": {
+              "ID": 13757,
+              "SIC": "H.52.2.1.9.18",
+              "Category": "Parking lot operation"
+            },
+            "H.52.2.1.9.19": {
+              "ID": 13758,
+              "SIC": "H.52.2.1.9.19",
+              "Category": "Parking meter services"
+            },
+            "H.52.2.1.9.20": {
+              "ID": 13759,
+              "SIC": "H.52.2.1.9.20",
+              "Category": "Railway running shed"
+            },
+            "H.52.2.1.9.21": {
+              "ID": 13760,
+              "SIC": "H.52.2.1.9.21",
+              "Category": "Railway station operation"
+            },
+            "H.52.2.1.9.22": {
+              "ID": 13761,
+              "SIC": "H.52.2.1.9.22",
+              "Category": "Repair and maintenance of rolling stock (minor)"
+            },
+            "H.52.2.1.9.23": {
+              "ID": 13762,
+              "SIC": "H.52.2.1.9.23",
+              "Category": "Roads operation"
+            },
+            "H.52.2.1.9.24": {
+              "ID": 13763,
+              "SIC": "H.52.2.1.9.24",
+              "Category": "Roadside assistance for motor vehicles"
+            },
+            "H.52.2.1.9.25": {
+              "ID": 13764,
+              "SIC": "H.52.2.1.9.25",
+              "Category": "Royal Automobile Club road patrols"
+            },
+            "H.52.2.1.9.26": {
+              "ID": 13765,
+              "SIC": "H.52.2.1.9.26",
+              "Category": "Switching and shunting"
+            },
+            "H.52.2.1.9.27": {
+              "ID": 13766,
+              "SIC": "H.52.2.1.9.27",
+              "Category": "Switching and shunting on railways"
+            },
+            "H.52.2.1.9.28": {
+              "ID": 13767,
+              "SIC": "H.52.2.1.9.28",
+              "Category": "Toll bridge, road or tunnel"
+            },
+            "H.52.2.1.9.29": {
+              "ID": 13768,
+              "SIC": "H.52.2.1.9.29",
+              "Category": "Towing and road side assistance"
+            },
+            "H.52.2.1.9.30": {
+              "ID": 13769,
+              "SIC": "H.52.2.1.9.30",
+              "Category": "Towing away of vehicles"
+            },
+            "H.52.2.1.9.31": {
+              "ID": 13770,
+              "SIC": "H.52.2.1.9.31",
+              "Category": "Tunnels operation"
+            },
+            "H.52.2.1.9.32": {
+              "ID": 13771,
+              "SIC": "H.52.2.1.9.32",
+              "Category": "Weighbridge services"
+            }
+          }
+        },
+        "H.52.2.2": {
+          "ID": 752,
+          "SIC": "H.52.2.2",
+          "Category": "Service activities incidental to water transportation",
+          "H.52.2.2.0.1": {
+            "ID": 13772,
+            "SIC": "H.52.2.2.0.1",
+            "Category": "Berthing activities"
+          },
+          "H.52.2.2.0.2": {
+            "ID": 13773,
+            "SIC": "H.52.2.2.0.2",
+            "Category": "Bunkering services"
+          },
+          "H.52.2.2.0.3": {
+            "ID": 13774,
+            "SIC": "H.52.2.2.0.3",
+            "Category": "Canal maintenance"
+          },
+          "H.52.2.2.0.4": {
+            "ID": 13775,
+            "SIC": "H.52.2.2.0.4",
+            "Category": "Canal operation"
+          },
+          "H.52.2.2.0.5": {
+            "ID": 13776,
+            "SIC": "H.52.2.2.0.5",
+            "Category": "Cargo superintendent"
+          },
+          "H.52.2.2.0.6": {
+            "ID": 13777,
+            "SIC": "H.52.2.2.0.6",
+            "Category": "Cargo terminal"
+          },
+          "H.52.2.2.0.7": {
+            "ID": 13778,
+            "SIC": "H.52.2.2.0.7",
+            "Category": "Diving contracting (non leisure)"
+          },
+          "H.52.2.2.0.8": {
+            "ID": 13779,
+            "SIC": "H.52.2.2.0.8",
+            "Category": "Dock authority"
+          },
+          "H.52.2.2.0.9": {
+            "ID": 13780,
+            "SIC": "H.52.2.2.0.9",
+            "Category": "Floating bridge company"
+          },
+          "H.52.2.2.0.10": {
+            "ID": 13781,
+            "SIC": "H.52.2.2.0.10",
+            "Category": "Gas liquefaction for water transportation purposes"
+          },
+          "H.52.2.2.0.11": {
+            "ID": 13782,
+            "SIC": "H.52.2.2.0.11",
+            "Category": "Harbour authority"
+          },
+          "H.52.2.2.0.12": {
+            "ID": 13783,
+            "SIC": "H.52.2.2.0.12",
+            "Category": "Harbour operation"
+          },
+          "H.52.2.2.0.13": {
+            "ID": 13784,
+            "SIC": "H.52.2.2.0.13",
+            "Category": "Health and safety activities for waterway maintenance work"
+          },
+          "H.52.2.2.0.14": {
+            "ID": 13785,
+            "SIC": "H.52.2.2.0.14",
+            "Category": "Ice breaking services"
+          },
+          "H.52.2.2.0.15": {
+            "ID": 13786,
+            "SIC": "H.52.2.2.0.15",
+            "Category": "Landing stage"
+          },
+          "H.52.2.2.0.16": {
+            "ID": 13787,
+            "SIC": "H.52.2.2.0.16",
+            "Category": "Lighter lessee or owner"
+          },
+          "H.52.2.2.0.17": {
+            "ID": 13788,
+            "SIC": "H.52.2.2.0.17",
+            "Category": "Lighterage activities"
+          },
+          "H.52.2.2.0.18": {
+            "ID": 13789,
+            "SIC": "H.52.2.2.0.18",
+            "Category": "Lighthouse activities"
+          },
+          "H.52.2.2.0.19": {
+            "ID": 13790,
+            "SIC": "H.52.2.2.0.19",
+            "Category": "Lighthouse Authority"
+          },
+          "H.52.2.2.0.20": {
+            "ID": 13791,
+            "SIC": "H.52.2.2.0.20",
+            "Category": "Lightship"
+          },
+          "H.52.2.2.0.21": {
+            "ID": 13792,
+            "SIC": "H.52.2.2.0.21",
+            "Category": "Local authority canal services"
+          },
+          "H.52.2.2.0.22": {
+            "ID": 13793,
+            "SIC": "H.52.2.2.0.22",
+            "Category": "Local authority docks and harbours"
+          },
+          "H.52.2.2.0.23": {
+            "ID": 13794,
+            "SIC": "H.52.2.2.0.23",
+            "Category": "Local authority lighthouse service"
+          },
+          "H.52.2.2.0.24": {
+            "ID": 13795,
+            "SIC": "H.52.2.2.0.24",
+            "Category": "Marine cargo lighterage"
+          },
+          "H.52.2.2.0.25": {
+            "ID": 13796,
+            "SIC": "H.52.2.2.0.25",
+            "Category": "Marine cargo superintendent"
+          },
+          "H.52.2.2.0.26": {
+            "ID": 13797,
+            "SIC": "H.52.2.2.0.26",
+            "Category": "Marine salvage"
+          },
+          "H.52.2.2.0.27": {
+            "ID": 13798,
+            "SIC": "H.52.2.2.0.27",
+            "Category": "Navigation activities"
+          },
+          "H.52.2.2.0.28": {
+            "ID": 13799,
+            "SIC": "H.52.2.2.0.28",
+            "Category": "Offshore positioning services"
+          },
+          "H.52.2.2.0.29": {
+            "ID": 13800,
+            "SIC": "H.52.2.2.0.29",
+            "Category": "Passenger terminal services"
+          },
+          "H.52.2.2.0.30": {
+            "ID": 13801,
+            "SIC": "H.52.2.2.0.30",
+            "Category": "Pier operation (not amusement)"
+          },
+          "H.52.2.2.0.31": {
+            "ID": 13802,
+            "SIC": "H.52.2.2.0.31",
+            "Category": "Pier owner or authority (not amusement)"
+          },
+          "H.52.2.2.0.32": {
+            "ID": 13803,
+            "SIC": "H.52.2.2.0.32",
+            "Category": "Pilotage activities"
+          },
+          "H.52.2.2.0.33": {
+            "ID": 13804,
+            "SIC": "H.52.2.2.0.33",
+            "Category": "Port Authority"
+          },
+          "H.52.2.2.0.34": {
+            "ID": 13805,
+            "SIC": "H.52.2.2.0.34",
+            "Category": "Port of London Authority"
+          },
+          "H.52.2.2.0.35": {
+            "ID": 13806,
+            "SIC": "H.52.2.2.0.35",
+            "Category": "Salvage activities supporting water transport activities"
+          },
+          "H.52.2.2.0.36": {
+            "ID": 13807,
+            "SIC": "H.52.2.2.0.36",
+            "Category": "Shore base (sea transport)"
+          },
+          "H.52.2.2.0.37": {
+            "ID": 13808,
+            "SIC": "H.52.2.2.0.37",
+            "Category": "Terminal facilities operation (water transport)"
+          },
+          "H.52.2.2.0.38": {
+            "ID": 13809,
+            "SIC": "H.52.2.2.0.38",
+            "Category": "Towing services for distressed freight vessels in inland waters"
+          },
+          "H.52.2.2.0.39": {
+            "ID": 13810,
+            "SIC": "H.52.2.2.0.39",
+            "Category": "Towing services for distressed freight vessels on sea and coastal waters"
+          },
+          "H.52.2.2.0.40": {
+            "ID": 13811,
+            "SIC": "H.52.2.2.0.40",
+            "Category": "Towing services for distressed passenger vessels in inland waters"
+          },
+          "H.52.2.2.0.41": {
+            "ID": 13812,
+            "SIC": "H.52.2.2.0.41",
+            "Category": "Towing services for distressed passenger vessels on sea and coastal waters"
+          },
+          "H.52.2.2.0.42": {
+            "ID": 13813,
+            "SIC": "H.52.2.2.0.42",
+            "Category": "Trinity House"
+          },
+          "H.52.2.2.0.43": {
+            "ID": 13814,
+            "SIC": "H.52.2.2.0.43",
+            "Category": "Tug boat service for inland waterways"
+          },
+          "H.52.2.2.0.44": {
+            "ID": 13815,
+            "SIC": "H.52.2.2.0.44",
+            "Category": "Tug boat service for offshore installations"
+          },
+          "H.52.2.2.0.45": {
+            "ID": 13816,
+            "SIC": "H.52.2.2.0.45",
+            "Category": "Tug boat service for sea barge or off-shore well"
+          },
+          "H.52.2.2.0.46": {
+            "ID": 13817,
+            "SIC": "H.52.2.2.0.46",
+            "Category": "Tug boat service for sea barges on domestic coastal routes"
+          },
+          "H.52.2.2.0.47": {
+            "ID": 13818,
+            "SIC": "H.52.2.2.0.47",
+            "Category": "Tug lessee or owner for inland waterways service"
+          },
+          "H.52.2.2.0.48": {
+            "ID": 13819,
+            "SIC": "H.52.2.2.0.48",
+            "Category": "Tug owner or lessee for in port service or salvage"
+          },
+          "H.52.2.2.0.49": {
+            "ID": 13820,
+            "SIC": "H.52.2.2.0.49",
+            "Category": "Vessel laying up and storage services"
+          },
+          "H.52.2.2.0.50": {
+            "ID": 13821,
+            "SIC": "H.52.2.2.0.50",
+            "Category": "Vessel registration services"
+          },
+          "H.52.2.2.0.51": {
+            "ID": 13822,
+            "SIC": "H.52.2.2.0.51",
+            "Category": "Water transport (supporting activities)"
+          },
+          "H.52.2.2.0.52": {
+            "ID": 13823,
+            "SIC": "H.52.2.2.0.52",
+            "Category": "Waterway locks operation"
+          },
+          "H.52.2.2.0.53": {
+            "ID": 13824,
+            "SIC": "H.52.2.2.0.53",
+            "Category": "Wharfinger"
+          },
+          "H.52.2.2.0.54": {
+            "ID": 13825,
+            "SIC": "H.52.2.2.0.54",
+            "Category": "Wreck raising"
+          }
+        },
+        "H.52.2.3": {
+          "ID": 753,
+          "SIC": "H.52.2.3",
+          "Category": "Service activities incidental to air transportation",
+          "H.52.2.3.0.1": {
+            "ID": 13826,
+            "SIC": "H.52.2.3.0.1",
+            "Category": "Aerodrome"
+          },
+          "H.52.2.3.0.2": {
+            "ID": 13827,
+            "SIC": "H.52.2.3.0.2",
+            "Category": "Air terminal operated by airline"
+          },
+          "H.52.2.3.0.3": {
+            "ID": 13828,
+            "SIC": "H.52.2.3.0.3",
+            "Category": "Air traffic control activities"
+          },
+          "H.52.2.3.0.4": {
+            "ID": 13829,
+            "SIC": "H.52.2.3.0.4",
+            "Category": "Air traffic control centre"
+          },
+          "H.52.2.3.0.5": {
+            "ID": 13830,
+            "SIC": "H.52.2.3.0.5",
+            "Category": "Air transport supporting activities"
+          },
+          "H.52.2.3.0.6": {
+            "ID": 13831,
+            "SIC": "H.52.2.3.0.6",
+            "Category": "Aircraft refuelling services"
+          },
+          "H.52.2.3.0.7": {
+            "ID": 13832,
+            "SIC": "H.52.2.3.0.7",
+            "Category": "Airfield ground service activities"
+          },
+          "H.52.2.3.0.8": {
+            "ID": 13833,
+            "SIC": "H.52.2.3.0.8",
+            "Category": "Airport activities"
+          },
+          "H.52.2.3.0.9": {
+            "ID": 13834,
+            "SIC": "H.52.2.3.0.9",
+            "Category": "Airport fire fighting and fire-prevention services"
+          },
+          "H.52.2.3.0.10": {
+            "ID": 13835,
+            "SIC": "H.52.2.3.0.10",
+            "Category": "Airway terminals operation"
+          },
+          "H.52.2.3.0.11": {
+            "ID": 13836,
+            "SIC": "H.52.2.3.0.11",
+            "Category": "Communication centre (civil air)"
+          },
+          "H.52.2.3.0.12": {
+            "ID": 13837,
+            "SIC": "H.52.2.3.0.12",
+            "Category": "Health and safety activities for airfield maintenance work"
+          },
+          "H.52.2.3.0.13": {
+            "ID": 13838,
+            "SIC": "H.52.2.3.0.13",
+            "Category": "Local authority municipal airport"
+          },
+          "H.52.2.3.0.14": {
+            "ID": 13839,
+            "SIC": "H.52.2.3.0.14",
+            "Category": "Service activities incidental to air transportation"
+          },
+          "H.52.2.3.0.15": {
+            "ID": 13840,
+            "SIC": "H.52.2.3.0.15",
+            "Category": "Service activities incidental to space transportation"
+          },
+          "H.52.2.3.0.16": {
+            "ID": 13841,
+            "SIC": "H.52.2.3.0.16",
+            "Category": "Terminal facilities operation (air transport)"
+          }
+        },
+        "H.52.2.4": {
+          "ID": 754,
+          "SIC": "H.52.2.4",
+          "Category": "Cargo handling",
+          "H.52.2.4.1": {
+            "ID": 755,
+            "SIC": "H.52.2.4.1",
+            "Category": "Cargo handling for water transport activities of division 50",
+            "H.52.2.4.1.1": {
+              "ID": 13842,
+              "SIC": "H.52.2.4.1.1",
+              "Category": "Cargo handling for water transport activities"
+            },
+            "H.52.2.4.1.2": {
+              "ID": 13843,
+              "SIC": "H.52.2.4.1.2",
+              "Category": "Container handling services for water transport activities"
+            },
+            "H.52.2.4.1.3": {
+              "ID": 13844,
+              "SIC": "H.52.2.4.1.3",
+              "Category": "Loading and unloading of goods travelling via water transport"
+            },
+            "H.52.2.4.1.4": {
+              "ID": 13845,
+              "SIC": "H.52.2.4.1.4",
+              "Category": "Loading and unloading of passengers' luggage travelling via water transport"
+            },
+            "H.52.2.4.1.5": {
+              "ID": 13846,
+              "SIC": "H.52.2.4.1.5",
+              "Category": "Stevedoring"
+            }
+          },
+          "H.52.2.4.2": {
+            "ID": 756,
+            "SIC": "H.52.2.4.2",
+            "Category": "Cargo handling for air transport activities of division 51",
+            "H.52.2.4.2.1": {
+              "ID": 13847,
+              "SIC": "H.52.2.4.2.1",
+              "Category": "Air passenger baggage handling services"
+            },
+            "H.52.2.4.2.2": {
+              "ID": 13848,
+              "SIC": "H.52.2.4.2.2",
+              "Category": "Cargo handling for air transport activities"
+            },
+            "H.52.2.4.2.3": {
+              "ID": 13849,
+              "SIC": "H.52.2.4.2.3",
+              "Category": "Loading and unloading of goods travelling via air transport"
+            },
+            "H.52.2.4.2.4": {
+              "ID": 13850,
+              "SIC": "H.52.2.4.2.4",
+              "Category": "Loading and unloading of passengers' luggage travelling via air transport"
+            }
+          },
+          "H.52.2.4.3": {
+            "ID": 757,
+            "SIC": "H.52.2.4.3",
+            "Category": "Cargo handling for land transport activities of division 49",
+            "H.52.2.4.3.1": {
+              "ID": 13851,
+              "SIC": "H.52.2.4.3.1",
+              "Category": "Cargo handling for land transport activities"
+            },
+            "H.52.2.4.3.2": {
+              "ID": 13852,
+              "SIC": "H.52.2.4.3.2",
+              "Category": "Loading and unloading of freight railway cars"
+            },
+            "H.52.2.4.3.3": {
+              "ID": 13853,
+              "SIC": "H.52.2.4.3.3",
+              "Category": "Loading and unloading of goods travelling via rail transportation"
+            },
+            "H.52.2.4.3.4": {
+              "ID": 13854,
+              "SIC": "H.52.2.4.3.4",
+              "Category": "Loading and unloading passengers' luggage travelling via rail transportation"
+            }
+          }
+        },
+        "H.52.2.9": {
+          "ID": 758,
+          "SIC": "H.52.2.9",
+          "Category": "Other transportation support activities",
+          "H.52.2.9.0.1": {
+            "ID": 13855,
+            "SIC": "H.52.2.9.0.1",
+            "Category": "Air cargo agents activities"
+          },
+          "H.52.2.9.0.2": {
+            "ID": 13856,
+            "SIC": "H.52.2.9.0.2",
+            "Category": "Air freight agent or broker"
+          },
+          "H.52.2.9.0.3": {
+            "ID": 13857,
+            "SIC": "H.52.2.9.0.3",
+            "Category": "Customs clearance agents activities"
+          },
+          "H.52.2.9.0.4": {
+            "ID": 13858,
+            "SIC": "H.52.2.9.0.4",
+            "Category": "Export packer"
+          },
+          "H.52.2.9.0.5": {
+            "ID": 13859,
+            "SIC": "H.52.2.9.0.5",
+            "Category": "Forwarding agents"
+          },
+          "H.52.2.9.0.6": {
+            "ID": 13860,
+            "SIC": "H.52.2.9.0.6",
+            "Category": "Freight broker"
+          },
+          "H.52.2.9.0.7": {
+            "ID": 13861,
+            "SIC": "H.52.2.9.0.7",
+            "Category": "Freight contractor"
+          },
+          "H.52.2.9.0.8": {
+            "ID": 13862,
+            "SIC": "H.52.2.9.0.8",
+            "Category": "Freight forwarding"
+          },
+          "H.52.2.9.0.9": {
+            "ID": 13863,
+            "SIC": "H.52.2.9.0.9",
+            "Category": "Goods agent (not transport authority)"
+          },
+          "H.52.2.9.0.10": {
+            "ID": 13864,
+            "SIC": "H.52.2.9.0.10",
+            "Category": "Goods handling operations"
+          },
+          "H.52.2.9.0.11": {
+            "ID": 13865,
+            "SIC": "H.52.2.9.0.11",
+            "Category": "Maritime agent"
+          },
+          "H.52.2.9.0.12": {
+            "ID": 13866,
+            "SIC": "H.52.2.9.0.12",
+            "Category": "Packer and shipper"
+          },
+          "H.52.2.9.0.13": {
+            "ID": 13867,
+            "SIC": "H.52.2.9.0.13",
+            "Category": "Packing service incidental to transport"
+          },
+          "H.52.2.9.0.14": {
+            "ID": 13868,
+            "SIC": "H.52.2.9.0.14",
+            "Category": "Railway agent (not transport authority)"
+          },
+          "H.52.2.9.0.15": {
+            "ID": 13869,
+            "SIC": "H.52.2.9.0.15",
+            "Category": "Sea freight forwarder activities"
+          },
+          "H.52.2.9.0.16": {
+            "ID": 13870,
+            "SIC": "H.52.2.9.0.16",
+            "Category": "Shipping agent or broker"
+          },
+          "H.52.2.9.0.17": {
+            "ID": 13871,
+            "SIC": "H.52.2.9.0.17",
+            "Category": "Textile packing incidental to transport"
+          },
+          "H.52.2.9.0.18": {
+            "ID": 13872,
+            "SIC": "H.52.2.9.0.18",
+            "Category": "Transport documents issue and procurement"
+          },
+          "H.52.2.9.0.19": {
+            "ID": 13873,
+            "SIC": "H.52.2.9.0.19",
+            "Category": "Transport operations arranging or carrying out by air"
+          },
+          "H.52.2.9.0.20": {
+            "ID": 13874,
+            "SIC": "H.52.2.9.0.20",
+            "Category": "Transport operations arranging or carrying out by road"
+          },
+          "H.52.2.9.0.21": {
+            "ID": 13875,
+            "SIC": "H.52.2.9.0.21",
+            "Category": "Transport operations arranging or carrying out by sea"
+          }
+        }
+      }
+    },
+    "H.53": {
+      "ID": 759,
+      "SIC": "H.53",
+      "Category": "Postal and courier activities",
+      "H.53.1": {
+        "ID": 760,
+        "SIC": "H.53.1",
+        "Category": "Postal activities under universal service obligation",
+        "H.53.1.0": {
+          "ID": 761,
+          "SIC": "H.53.1.0",
+          "Category": "Postal activities under universal service obligation",
+          "H.53.1.0.0.1": {
+            "ID": 13876,
+            "SIC": "H.53.1.0.0.1",
+            "Category": "Mail distribution and delivery"
+          },
+          "H.53.1.0.0.2": {
+            "ID": 13877,
+            "SIC": "H.53.1.0.0.2",
+            "Category": "Parcels, distribution and delivery of. by the post office"
+          },
+          "H.53.1.0.0.3": {
+            "ID": 13878,
+            "SIC": "H.53.1.0.0.3",
+            "Category": "Postal sorting office"
+          },
+          "H.53.1.0.0.4": {
+            "ID": 13879,
+            "SIC": "H.53.1.0.0.4",
+            "Category": "Poste restante"
+          },
+          "H.53.1.0.0.5": {
+            "ID": 13880,
+            "SIC": "H.53.1.0.0.5",
+            "Category": "Sub post office (principally devoted to post office business)"
+          }
+        }
+      },
+      "H.53.2": {
+        "ID": 762,
+        "SIC": "H.53.2",
+        "Category": "Other postal and courier activities",
+        "H.53.2.0": {
+          "ID": 763,
+          "SIC": "H.53.2.0",
+          "Category": "Other postal and courier activities",
+          "H.53.2.0.1": {
+            "ID": 764,
+            "SIC": "H.53.2.0.1",
+            "Category": "Licensed Carriers",
+            "H.53.2.0.1.1": {
+              "ID": 13881,
+              "SIC": "H.53.2.0.1.1",
+              "Category": "Courier activities (other than national post activities) licensed"
+            },
+            "H.53.2.0.1.2": {
+              "ID": 13882,
+              "SIC": "H.53.2.0.1.2",
+              "Category": "Licensed carriers"
+            },
+            "H.53.2.0.1.3": {
+              "ID": 13883,
+              "SIC": "H.53.2.0.1.3",
+              "Category": "Messenger licensed"
+            },
+            "H.53.2.0.1.4": {
+              "ID": 13884,
+              "SIC": "H.53.2.0.1.4",
+              "Category": "Messenger service licensed"
+            },
+            "H.53.2.0.1.5": {
+              "ID": 13885,
+              "SIC": "H.53.2.0.1.5",
+              "Category": "Parcels delivery service (not post office) licensed"
+            }
+          },
+          "H.53.2.0.2": {
+            "ID": 765,
+            "SIC": "H.53.2.0.2",
+            "Category": "Unlicensed Carriers",
+            "H.53.2.0.2.1": {
+              "ID": 13886,
+              "SIC": "H.53.2.0.2.1",
+              "Category": "Courier activities (other than national post activities) unlicensed"
+            },
+            "H.53.2.0.2.2": {
+              "ID": 13887,
+              "SIC": "H.53.2.0.2.2",
+              "Category": "Messenger service unlicensed"
+            },
+            "H.53.2.0.2.3": {
+              "ID": 13888,
+              "SIC": "H.53.2.0.2.3",
+              "Category": "Messenger unlicensed"
+            },
+            "H.53.2.0.2.4": {
+              "ID": 13889,
+              "SIC": "H.53.2.0.2.4",
+              "Category": "Parcels delivery service (not post office) unlicensed"
+            },
+            "H.53.2.0.2.5": {
+              "ID": 13890,
+              "SIC": "H.53.2.0.2.5",
+              "Category": "Unlicensed carriers"
+            }
+          }
+        }
+      }
+    }
+  }
+}
