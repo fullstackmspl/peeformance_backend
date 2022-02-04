@@ -27,7 +27,7 @@ async function verifyAuthToken(token) {
 
 async function checkDomainAlreadyExists(domain) {
     let par = '%' + domain;
-    let sql = 'SELECT count(*) as value FROM Users WHERE eMail like N?';
+    let sql = 'SELECT count(*) as value FROM users WHERE eMail like N?';
 
     var result = await fetch(sql, par);
     let existedRows = result[0].value;
@@ -71,6 +71,17 @@ async function authorizeUser(email) {
 
 // Added the region id
 async function getUserInfo(userId) {
+    const sql = 'select ID, eMail, Name, Surname, StudyKey, Salt, IV, Status, Authorised, Verified, AccountType, RegionID, OrganisationID, peer_group_id from users where ID=?';
+    const result = await fetch(sql, userId);
+    const { ID, Surname, ...userInfo } = result[0];
+
+    userInfo["Company"] = {
+        id: ID,
+        name: Surname
+    }
+    return userInfo;
+}
+/*async function getUserInfo(userId) {
     const sql = 'select u.ID, u.eMail, u.Name, u.Surname, u.StudyKey, u.Salt, ' +
         'u.IV, u.Status, u.Authorised, u.Verified, u.AccountType, u.RegionID, u.OrganisationID, ' +
         'u.Peer_Group_ID,  org.Name as org_name from Users u ' +
@@ -84,7 +95,7 @@ async function getUserInfo(userId) {
         name: org_name
     }
     return userInfo;
-}
+}*/
 
 // we have added region id here
 async function getUserSubscriptions(userId) {

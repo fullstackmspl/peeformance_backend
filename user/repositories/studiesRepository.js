@@ -12,16 +12,16 @@ const fetch = (sql, par) => {
 };
 
 async function getStudiesByPeerGroupId(peerGroupId) {
-    const sql = 'select std.*, st.StudyType as Type, c.Category, pc.Category as ParentCategory  from Studies std inner join StudyTypes st ' +
-        'on st.ID=std.TypeId left join Categories c on c.ID=std.PeerGroupID ' +
-        'left join Categories pc on pc.SIC=c.ParentSIC ' +
+    const sql = 'select std.*, st.StudyType as Type, c.Category, pc.Category as ParentCategory from studies std inner join studytypes st ' +
+        'on st.ID=std.TypeId left join categories c on c.ID=std.PeerGroupID ' +
+        'left join categories pc on pc.SIC=c.ParentSIC ' +
         'where std.PeerGroupID =?'
     var result = await fetch(sql, peerGroupId);
     return result;
 }
 
 async function getStudyInfoById(studyId) {
-    const sql = 'select * from Studies where ID =?';
+    const sql = 'select * from studies where ID =?';
     let result = await fetch(sql, studyId);
     return result[0];
 }
@@ -52,10 +52,10 @@ async function getDataPoints(userId, studyID) {
         "  usd.Value as Value,\n" +
         "  IFNULL(asd.Value, 0) as Average\n" +
         "FROM\n" +
-        "  Subscriptions s\n" +
-        "  LEFT JOIN UserStudyData usd on s.StudyId = usd.StudyId\n" +
+        "  subscriptions s\n" +
+        "  LEFT JOIN userstudydata usd on s.StudyId = usd.StudyId\n" +
         "  and s.UserID = usd.UserID\n" +
-        "  Left JOIN AvgStudyData asd on usd.StudyId = asd.StudyId\n" +
+        "  Left JOIN avgstudydata asd on usd.StudyId = asd.StudyId\n" +
         "  and usd.`Date` = asd.`Date`\n" +
         "WHERE\n" +
         "  usd.UserId = ?\n" +
@@ -78,9 +78,9 @@ async function getDataPoints(userId, studyID) {
 // This is what we will use for active and que
 async function getDataPointsByRegion(PeerGroupID, RegionID) {
     let sql = 'select std.*, st.StudyType as Type, c.Category, pc.Category ' +
-        'as ParentCategory  from Studies std inner join StudyTypes st ' +
-        'on st.ID=std.TypeId left join Categories c on c.ID=std.PeerGroupID ' +
-        'left join Categories pc on pc.SIC=c.ParentSIC ' +
+        'as ParentCategory from studies std inner join studytypes st ' +
+        'on st.ID=std.TypeId left join categories c on c.ID=std.PeerGroupID ' +
+        'left join categories pc on pc.SIC=c.ParentSIC ' +
         'where std.PeerGroupID = ? AND std.RegionID = ?'
 
     let result = await fetch(sql, [PeerGroupID, RegionID]);
@@ -89,7 +89,7 @@ async function getDataPointsByRegion(PeerGroupID, RegionID) {
 
 
 async function addDataPoint(studyData) {
-    let sqlResult = sqlCreator.createInsert(studyData, "UserStudyData");
+    let sqlResult = sqlCreator.createInsert(studyData, "userstudydata");
     let res = await fetch(sqlResult.sql, sqlResult.values);
 }
 

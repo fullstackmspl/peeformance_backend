@@ -10,7 +10,7 @@ const fetch = (sql, par) => {
 };
 
 async function checkActivationInProgres(email) {
-	const sql = 'SELECT count(*) as value FROM tmp_users WHERE eMail COLLATE UTF8_GENERAL_CI =?';
+	const sql = 'SELECT count(*) as value FROM users WHERE eMail COLLATE UTF8_GENERAL_CI =?';
 	const result = await fetch(sql, email);
 	const existedRows = result[0].value;
 	return existedRows > 0;
@@ -19,8 +19,8 @@ async function checkActivationInProgres(email) {
 async function addUser(userData) {
 	const sql =
 		'INSERT INTO ' +
-		'users (eMail, Name, Surname, Password, StudyKey, Salt, IV) ' +
-		'VALUES (?,?,?,?,?,?,?)';
+		'users (eMail, Name, Surname, Password, StudyKey, Salt, IV, AuthorizationToken, AuthorizationTokenExpiration) ' +
+		'VALUES (?,?,?,?,?,?,?,?,?)';
 	//await fetch(sql, Object.values(userData));
 	let myresult = db.query(
 		sql,
@@ -32,40 +32,49 @@ async function addUser(userData) {
 			userData.studyKey_encryptedHex,
 			userData.salt_toHex,
 			userData.init_vector_toHex,
+			//userData.userstatus,
+			//userData.question1,
+			//userData.answer1,
+			//userData.question2,
+			//userData.answer2,
+			//userData.type,
+			//userData.organisationID,
+			userData.Token,
+			userData.Expiration,
 		]);
-	console.log(myresult);
+	//console.log(myresult);
 }
 
 async function getTokenInfo(token) {
-	const sql = 'SELECT * FROM tmp_users WHERE Token=?';
+	const sql = 'SELECT * FROM users WHERE AuthorizationToken=?';
 	const result = await fetch(sql, token);
 
 	return result;
 }
 
 async function verifyToken(token) {
-	const sql = 'SELECT eMail, Expiration FROM tmp_users WHERE Token=?';
+	const sql = 'SELECT eMail, AuthorizationTokenExpiration FROM users WHERE AuthorizationToken=?';
 	const result = await fetch(sql, token);
 
 	return result;
 }
 
 async function getUser(email) {
-	const sql = 'SELECT * FROM tmp_users WHERE eMail=?';
+	const sql = 'SELECT * FROM users WHERE eMail=?';
 	const result = await fetch(sql, email);
 
 	return result;
 }
 
 async function updateUser(token, expiration, email) {
-	const sql = 'UPDATE tmp_users SET Token=?, Expiration=? WHERE eMail=?';
+	const sql = 'UPDATE users SET AuthorizationToken=?, AuthorizationTokenExpiration=? WHERE eMail=?';
 	const result = await fetch(sql, [token, expiration, email]);
 
 	return result;
 }
 
 async function deleteUser(id) {
-	const sql = 'DELETE FROM tmp_users WHERE ID=?';
+	const sql = 'DELETE FROM users WHERE ID=?';
 	const result = await fetch(sql, id);
 
 	return result;

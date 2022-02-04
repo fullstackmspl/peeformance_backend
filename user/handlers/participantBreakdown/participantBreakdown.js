@@ -9,7 +9,7 @@ exports.getRange = (req, res) => {
         "+ ((MAX(Value) - MIN(Value)) /4) as Div1, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /2) as Div2,  MIN(Value) + " +
         "(3 * (MAX(Value) - MIN(Value)) /4) as Div3, MAX(Value) " +
-        "AS MAX FROM `Peerformance`.`TempStudyData` WHERE Date = '2021-01-01' AND studyid = 2;";
+        "AS MAX FROM `peerformance`.`tempstudydata` WHERE Date = '2021-01-01' AND studyid = 2;";
 
     db.query(query, function (error, results, fields) {
         if (error) {
@@ -17,7 +17,7 @@ exports.getRange = (req, res) => {
         }
 
         // pass the returned results here
-        return res.json({range: results});
+        return res.json({ range: results });
     });
 }
 
@@ -36,10 +36,10 @@ async function participantRange(studyID, userId) {
         "((MAX(Value) - MIN(Value)) /4) as Div1, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /2) as Div2,  MIN(Value) + " +
         "(3 * (MAX(Value) - MIN(Value)) /4) as Div3, MAX(Value) " +
-        "AS MAX FROM `Peerformance`.`TempStudyData` " +
+        "AS MAX FROM `peerformance`.`tempstudydata` " +
         "WHERE Date = DATE_SUB(get_month_start(get_current_interval_start_date()), INTERVAL 1 MONTH) AND studyid = ?"
 
-    const breakdownResult = await fetch(breakdownQuery, [studyID,userId]);
+    const breakdownResult = await fetch(breakdownQuery, [studyID, userId]);
     let range1 = breakdownResult[0].Min;
     let range2 = breakdownResult[0].Div1;
     let range3 = breakdownResult[0].Div2;
@@ -53,8 +53,8 @@ async function participantRange(studyID, userId) {
         "                                      WHEN TSD.Value >= " + range4 + " AND TSD.Value <= " + range5 + " THEN 'Range4'\n" +
         "             ELSE 'Other'\n" +
         "        END AS 'Range'\n" +
-        "FROM Subscriptions Subs\n" +
-        "LEFT JOIN TempStudyData TSD ON Subs.StudyID = TSD.StudyID\n" +
+        "FROM subscriptions Subs\n" +
+        "LEFT JOIN tempstudydata TSD ON Subs.StudyID = TSD.StudyID\n" +
         "WHERE TSD.StudyID = ?" +
         "  AND Subs.Active = 1" +
         "  AND Subs.UserID = ?" +
@@ -67,14 +67,14 @@ async function participantRange(studyID, userId) {
         "               else 'other'\n" +
         "          END), TSD.ReachID;"
 
-    const result = await fetch(query2, [studyID,userId]);
-    return {breakdownResult: breakdownResult, result: result};
+    const result = await fetch(query2, [studyID, userId]);
+    return { breakdownResult: breakdownResult, result: result };
 }
 
 
 exports.participantBreakdownData = async (req, res) => {
-    let {userId} = req.user;
-    let {studyID} = req.params;
+    let { userId } = req.user;
+    let { studyID } = req.params;
     let data = await participantRange(studyID, userId);
     return res.json(data);
 }

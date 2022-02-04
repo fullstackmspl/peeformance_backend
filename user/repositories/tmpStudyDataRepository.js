@@ -1,6 +1,6 @@
 const db = require('./../db');
 const sqlCreator = require('./sqlCreator');
-const table = 'TempStudyData';
+const table = 'tempstudydata';
 
 const fetch = (sql, par) => {
 	return new Promise((resolve, reject) => {
@@ -12,11 +12,11 @@ const fetch = (sql, par) => {
 };
 
 async function Add(tempStudyData) {
-    let sqlResult = sqlCreator.createInsert(tempStudyData, table);
-    await fetch(sqlResult.sql, sqlResult.values);
+	let sqlResult = sqlCreator.createInsert(tempStudyData, table);
+	await fetch(sqlResult.sql, sqlResult.values);
 }
 
 module.exports = {
-    Add
+	Add
 }
 

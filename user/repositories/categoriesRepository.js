@@ -1,6 +1,6 @@
 const sqlCreator = require('./sqlCreator');
 const db = require('./../db');
-const table = 'Categories';
+const table = 'categories';
 
 const fetch = (sql, par) => {
 	return new Promise((resolve, reject) => {
@@ -12,11 +12,11 @@ const fetch = (sql, par) => {
 };
 
 exports.exists = async (data) => {
-    let sqlResult = sqlCreator.count(data, table);
-	
+	let sqlResult = sqlCreator.count(data, table);
+
 	let result = await fetch(sqlResult.sql, sqlResult.values);
-    
-    let existedRows = result[0].value;
+
+	let existedRows = result[0].value;
 	return existedRows > 0;
 
 }

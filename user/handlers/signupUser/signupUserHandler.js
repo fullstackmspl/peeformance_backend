@@ -40,7 +40,18 @@ async function handle(userData) {
 	const studyKey_encryptedHex = hashResult.studyKey_encryptedHex;
 	const salt_toHex = hashResult.salt_toHex;
 	const init_vector_toHex = hashResult.init_vector_toHex;
-	//const tokenData = tokenFactory.create();
+	const tokenData = tokenFactory.create();
+	// --------These values will be hard coded   --------
+
+	// Todo: change this:
+	let userstatus = 1;
+	let question1 = 1;
+	let answer1 = 'We should change this';
+	let question2 = 1;
+	let answer2 = 'We should change this';
+	let type = 3;
+	let organisationID = 1;
+
 	const dataToInsert = userFactory.createTemporary(
 		userData.email,
 		userData.firstName,
@@ -48,9 +59,17 @@ async function handle(userData) {
 		password,
 		studyKey_encryptedHex,
 		salt_toHex,
-		init_vector_toHex
+		init_vector_toHex,
+		userstatus,
+		question1,
+		answer1,
+		question2,
+		answer2,
+		type,
+		organisationID,
+		tokenData.Token,
+		tokenData.Expiration
 	);
-
 	try {
 		await temporaryUserRepository.addUser(dataToInsert);
 	} catch (error) {
