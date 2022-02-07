@@ -31,7 +31,7 @@ const fetch = (sql, par) => {
 };
 
 async function participantRange(studyID, userId) {
-
+    console.log(studyID);
     const breakdownQuery = "SELECT MIN(Value) AS Min, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /4) as Div1, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /2) as Div2,  MIN(Value) + " +
@@ -72,11 +72,12 @@ async function participantRange(studyID, userId) {
 }
 
 
-exports.participantBreakdownData = async (req, res) => {
-    let { userId } = req.user;
+exports.participantBreakdownData = async (req) => {
+    let { userId } = req.user.userId;
     let { studyID } = req.params;
     let data = await participantRange(studyID, userId);
-    return res.json(data);
+    //return res.json(data);
+    return data;
 }
 
 
