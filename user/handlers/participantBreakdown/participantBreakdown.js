@@ -31,15 +31,16 @@ const fetch = (sql, par) => {
 };
 
 async function participantRange(studyID, userId) {
-    console.log(studyID);
+    //console.log(studyID);
     const breakdownQuery = "SELECT MIN(Value) AS Min, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /4) as Div1, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /2) as Div2,  MIN(Value) + " +
         "(3 * (MAX(Value) - MIN(Value)) /4) as Div3, MAX(Value) " +
-        "AS MAX FROM `peerformance`.`tempstudydata` " +
+        "AS MAX FROM `tempstudydata` " +
         "WHERE Date = DATE_SUB(get_month_start(get_current_interval_start_date()), INTERVAL 1 MONTH) AND studyid = ?"
 
-    const breakdownResult = await fetch(breakdownQuery, [studyID, userId]);
+    //const breakdownResult = await fetch(breakdownQuery, [studyID, userId]);
+    const breakdownResult = await fetch(breakdownQuery, studyID);
     let range1 = breakdownResult[0].Min;
     let range2 = breakdownResult[0].Div1;
     let range3 = breakdownResult[0].Div2;
