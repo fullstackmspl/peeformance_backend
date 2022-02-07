@@ -1,6 +1,6 @@
 const db = require('./../db');
 const sqlCreator = require('./sqlCreator');
-const table = 'Studies';
+const table = 'studies';
 
 const fetch = (sql, par) => {
     return new Promise((resolve, reject) => {

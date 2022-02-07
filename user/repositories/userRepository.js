@@ -44,7 +44,7 @@ async function checkExistedUserByEmail(email) {
 async function addUser(userData) {
     const sql =
         'INSERT INTO ' +
-        'Users (eMail, Name, Surname, Password, ' +
+        'users (eMail, Name, Surname, Password, ' +
         'StudyKey, Salt, IV, Status, Authorised, ' +
         'Verified, SecurityQuestion1, SecurityAnswer1, ' +
         'SecurityQuestion2, SecurityAnswer2, AccountType, ' +
