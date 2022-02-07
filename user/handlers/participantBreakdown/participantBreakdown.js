@@ -37,7 +37,7 @@ async function participantRange(studyID, userId) {
         "((MAX(Value) - MIN(Value)) /2) as Div2,  MIN(Value) + " +
         "(3 * (MAX(Value) - MIN(Value)) /4) as Div3, MAX(Value) " +
         "AS MAX FROM `tempstudydata` " +
-        "WHERE Date = DATE_SUB(get_month_start(get_current_interval_start_date()), INTERVAL 1 MONTH) AND studyid = ?"
+        "WHERE Date = DATE_SUB(get_month_start(get_current_interval_start_date()), INTERVAL 1 MONTH) AND StudyID = ?"
 
     //const breakdownResult = await fetch(breakdownQuery, [studyID, userId]);
     const breakdownResult = await fetch(breakdownQuery, studyID);
@@ -67,7 +67,6 @@ async function participantRange(studyID, userId) {
         "                                      WHEN TSD.Value >= " + range4 + " AND TSD.Value <= " + range5 + " THEN 'Range4'\n" +
         "               else 'other'\n" +
         "          END), TSD.ReachID;"
-
     const result = await fetch(query2, [studyID, userId]);
     return { breakdownResult: breakdownResult, result: result };
 }
@@ -77,8 +76,8 @@ exports.participantBreakdownData = async (req) => {
     let { userId } = req.user.userId;
     let { studyID } = req.params;
     let data = await participantRange(studyID, userId);
-    //return res.json(data);
-    return data;
+    return res.json(data);
+    //return data;
 }
 
 
