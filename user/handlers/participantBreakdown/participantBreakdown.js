@@ -56,9 +56,9 @@ async function participantRange(studyID, userId) {
         " END AS 'Range'" +
         " FROM subscriptions Subs" +
         " LEFT JOIN tempstudydata TSD ON Subs.StudyID = TSD.StudyID" +
-        " WHERE TSD.StudyID = ?" +
+        " WHERE TSD.StudyID = " + studyID + "" +
         " AND Subs.Active = 1" +
-        " AND Subs.UserID = ?" +
+        " AND Subs.UserID = " + userId + "" +
         " AND TSD.`Date` = DATE_SUB(get_month_start(get_current_interval_start_date()), INTERVAL 1 MONTH)" +
         " AND get_current_interval_start_date() BETWEEN Subs.Activated AND Subs.ValidUntil" +
         " GROUP BY (CASE WHEN TSD.Value >= " + range1 + " AND TSD.Value < " + range2 + " THEN 'Range1'" +
