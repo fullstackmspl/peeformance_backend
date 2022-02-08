@@ -72,12 +72,12 @@ async function participantRange(studyID, userId) {
 }
 
 
-exports.participantBreakdownData = async (req) => {
+exports.participantBreakdownData = async (req, res) => {
     let { userId } = req.user.userId;
     let { studyID } = req.params;
     let data = await participantRange(studyID, userId);
-    //return res.json(data);
-    return data;
+    return res.json(data);
+    //return data;
 }
 
 
