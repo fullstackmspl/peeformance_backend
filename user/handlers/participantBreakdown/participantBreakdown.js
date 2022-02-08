@@ -47,7 +47,7 @@ async function participantRange(studyID, userId) {
     let range4 = breakdownResult[0].Div3;
     let range5 = breakdownResult[0].MAX
 
-    let query2 = "SELECT COUNT(*) AS Count, TSD.ReachID," +
+    /*let query2 = "SELECT COUNT(*) AS Count, TSD.ReachID," +
         " CASE WHEN TSD.Value >=" + range1 + " AND TSD.Value < " + range2 + " THEN 'Range1'" +
         " WHEN TSD.Value >= " + range2 + " AND TSD.Value < " + range3 + " THEN 'Range2'" +
         " WHEN TSD.Value >= " + range3 + " AND TSD.Value < " + range4 + " THEN 'Range3'" +
@@ -66,8 +66,9 @@ async function participantRange(studyID, userId) {
         " WHEN TSD.Value >= " + range3 + " AND TSD.Value < " + range4 + " THEN 'Range3'" +
         " WHEN TSD.Value >= " + range4 + " AND TSD.Value <= " + range5 + " THEN 'Range4'" +
         " else 'other'" +
-        " END), TSD.ReachID;"
-    const result = await fetch(query2, [studyID, userId]);
+        " END), TSD.ReachID;"*/
+    let query2 = "SELECT COUNT(*) AS Count, TSD.ReachID, CASE WHEN TSD.Value >=" + range1 + " AND TSD.Value < " + range2 + " THEN 'Range1' WHEN TSD.Value >= " + range2 + " AND TSD.Value < " + range3 + " THEN 'Range2' WHEN TSD.Value >= " + range3 + " AND TSD.Value < " + range4 + " THEN 'Range3' WHEN TSD.Value >= " + range4 + " AND TSD.Value <= " + range5 + " THEN 'Range4' ELSE 'Other' END AS 'Range' FROM subscriptions Subs LEFT JOIN tempstudydata TSD ON Subs.StudyID = TSD.StudyID WHERE TSD.StudyID = " + studyID + " AND Subs.Active = 1 AND Subs.UserID = " + userId + " AND TSD.`Date` = DATE_SUB(get_month_start(get_current_interval_start_date()), INTERVAL 1 MONTH) AND get_current_interval_start_date() BETWEEN Subs.Activated AND Subs.ValidUntil GROUP BY (CASE WHEN TSD.Value >= " + range1 + " AND TSD.Value < " + range2 + " THEN 'Range1' WHEN TSD.Value >= " + range2 + " AND TSD.Value < " + range3 + " THEN 'Range2' WHEN TSD.Value >= " + range3 + " AND TSD.Value < " + range4 + " THEN 'Range3' WHEN TSD.Value >= " + range4 + " AND TSD.Value <= " + range5 + " THEN 'Range4' else 'other' END), TSD.ReachID;";
+    const result = await fetch(query2);
     return { breakdownResult: breakdownResult, result: result };
 }
 
