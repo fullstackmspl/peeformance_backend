@@ -31,7 +31,7 @@ const fetch = (sql, par) => {
 };
 
 async function participantRange(studyID, userId) {
-    //console.log(studyID);
+    console.log(userId);
     const breakdownQuery = "SELECT MIN(Value) AS Min, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /4) as Div1, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /2) as Div2,  MIN(Value) + " +
@@ -45,7 +45,7 @@ async function participantRange(studyID, userId) {
     let range2 = breakdownResult[0].Div1;
     let range3 = breakdownResult[0].Div2;
     let range4 = breakdownResult[0].Div3;
-    let range5 = breakdownResult[0].MAX
+    let range5 = breakdownResult[0].MAX;
 
     /*let query2 = "SELECT COUNT(*) AS Count, TSD.ReachID," +
         " CASE WHEN TSD.Value >=" + range1 + " AND TSD.Value < " + range2 + " THEN 'Range1'" +
@@ -74,7 +74,7 @@ async function participantRange(studyID, userId) {
 
 
 exports.participantBreakdownData = async (req, res) => {
-    let { userId } = req.user.userId;
+    let { userId } = req.user;
     let { studyID } = req.params;
     let data = await participantRange(studyID, userId);
     return res.json(data);
