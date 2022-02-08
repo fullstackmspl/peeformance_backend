@@ -48,25 +48,25 @@ async function participantRange(studyID, userId) {
     let range5 = breakdownResult[0].MAX
 
     let query2 = "SELECT COUNT(*) AS Count, TSD.ReachID," +
-        "                       CASE WHEN TSD.Value >=" + range1 + " AND TSD.Value < " + range2 + " THEN 'Range1'\n" +
-        "             WHEN TSD.Value >= " + range2 + " AND TSD.Value < " + range3 + " THEN 'Range2'\n" +
-        "             WHEN TSD.Value >= " + range3 + " AND TSD.Value < " + range4 + " THEN 'Range3'\n" +
-        "                                      WHEN TSD.Value >= " + range4 + " AND TSD.Value <= " + range5 + " THEN 'Range4'\n" +
-        "             ELSE 'Other'\n" +
-        "        END AS 'Range'\n" +
-        "FROM subscriptions Subs\n" +
-        "LEFT JOIN tempstudydata TSD ON Subs.StudyID = TSD.StudyID\n" +
-        "WHERE TSD.StudyID = ?" +
-        "  AND Subs.Active = 1" +
-        "  AND Subs.UserID = ?" +
-        "  AND TSD.`Date` = DATE_SUB(get_month_start(get_current_interval_start_date()), INTERVAL 1 MONTH)\n" +
-        "  AND get_current_interval_start_date() BETWEEN Subs.Activated AND Subs.ValidUntil\n" +
-        "GROUP BY (CASE WHEN TSD.Value >= " + range1 + " AND TSD.Value < " + range2 + " THEN 'Range1'\n" +
-        "              WHEN TSD.Value >= " + range2 + " AND TSD.Value < " + range3 + " THEN 'Range2'\n" +
-        "             WHEN TSD.Value >= " + range3 + " AND TSD.Value < " + range4 + " THEN 'Range3'\n" +
-        "                                      WHEN TSD.Value >= " + range4 + " AND TSD.Value <= " + range5 + " THEN 'Range4'\n" +
-        "               else 'other'\n" +
-        "          END), TSD.ReachID;"
+        " CASE WHEN TSD.Value >=" + range1 + " AND TSD.Value < " + range2 + " THEN 'Range1'" +
+        " WHEN TSD.Value >= " + range2 + " AND TSD.Value < " + range3 + " THEN 'Range2'" +
+        " WHEN TSD.Value >= " + range3 + " AND TSD.Value < " + range4 + " THEN 'Range3'" +
+        " WHEN TSD.Value >= " + range4 + " AND TSD.Value <= " + range5 + " THEN 'Range4'" +
+        " ELSE 'Other'" +
+        " END AS 'Range'" +
+        " FROM subscriptions Subs" +
+        " LEFT JOIN tempstudydata TSD ON Subs.StudyID = TSD.StudyID" +
+        " WHERE TSD.StudyID = ?" +
+        " AND Subs.Active = 1" +
+        " AND Subs.UserID = ?" +
+        " AND TSD.`Date` = DATE_SUB(get_month_start(get_current_interval_start_date()), INTERVAL 1 MONTH)" +
+        " AND get_current_interval_start_date() BETWEEN Subs.Activated AND Subs.ValidUntil" +
+        " GROUP BY (CASE WHEN TSD.Value >= " + range1 + " AND TSD.Value < " + range2 + " THEN 'Range1'" +
+        " WHEN TSD.Value >= " + range2 + " AND TSD.Value < " + range3 + " THEN 'Range2'" +
+        " WHEN TSD.Value >= " + range3 + " AND TSD.Value < " + range4 + " THEN 'Range3'" +
+        " WHEN TSD.Value >= " + range4 + " AND TSD.Value <= " + range5 + " THEN 'Range4'" +
+        " else 'other'" +
+        " END), TSD.ReachID;"
     const result = await fetch(query2, [studyID, userId]);
     return { breakdownResult: breakdownResult, result: result };
 }
