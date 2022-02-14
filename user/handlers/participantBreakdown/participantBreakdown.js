@@ -9,7 +9,7 @@ exports.getRange = (req, res) => {
         "+ ((MAX(Value) - MIN(Value)) /4) as Div1, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /2) as Div2,  MIN(Value) + " +
         "(3 * (MAX(Value) - MIN(Value)) /4) as Div3, MAX(Value) " +
-        "AS MAX FROM `peerformance`.`tempstudydata` WHERE Date = '2021-01-01' AND studyid = 2;";
+        "AS MAX FROM `tempstudydata` WHERE Date = '2021-01-01' AND studyid = 2;";
 
     db.query(query, function (error, results, fields) {
         if (error) {
@@ -31,7 +31,7 @@ const fetch = (sql, par) => {
 };
 
 async function participantRange(studyID, userId) {
-    console.log(userId);
+    //console.log(userId);
     const breakdownQuery = "SELECT MIN(Value) AS Min, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /4) as Div1, MIN(Value) + " +
         "((MAX(Value) - MIN(Value)) /2) as Div2,  MIN(Value) + " +

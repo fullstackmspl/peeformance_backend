@@ -5,7 +5,7 @@ exports.submitStudy = (req, res) => {
 	const studyData = req.body.studyData;
 
 	// register user
-	const submittedData = 'INSERT INTO StudyData (submittedData) VALUES (?)';
+	const submittedData = 'INSERT INTO tempstudydata (submittedData) VALUES (?)';
 	db.query(submittedData, [studyData], (error, results) => {
 		if (error) {
 			console.log('An error occurred ->', error);
@@ -22,7 +22,7 @@ exports.submitStudy = (req, res) => {
 
 exports.getStudy = (req, res) => {
 	// register user
-	const getData = 'SELECT * FROM StudyData LIMIT 1';
+	const getData = 'SELECT * FROM tempstudydata LIMIT 1';
 
 	db.query(getData, (error, data, results) => {
 		if (error) {
@@ -41,7 +41,7 @@ exports.studyGroups = (req, res) => {
 	const timeFormat = 'YYYY-MM-DDTHH:mm:ss';
 	let clientTime = req.query.time;
 
-	const categoriesJSONQuery = 'SELECT * FROM Settings ORDER BY Id DESC LIMIT 1;';
+	const categoriesJSONQuery = 'SELECT * FROM settings ORDER BY ID DESC LIMIT 1;';
 
 	db.query(categoriesJSONQuery, (error, data) => {
 		if (error) {
